@@ -1,8 +1,122 @@
 [
   {
-    "title": "Sample title",
-    "image": "https://the7eagles.com/wp-content/uploads/2024/05/What-is-an-Image-URL_.webp",
-    "description": "Sample description",
-    "datetimestamp": "2026-01-23T03:14:35.000Z"
+    "title": "The Quantum Race Accelerates: New Breakthrough in Qubit Stability",
+    "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "description": "Researchers at MIT have discovered a novel material matrix capable of sustaining quantum coherence at room temperature, potentially leapfrogging current cryogenic requirements.",
+    "datetimestamp": "2026-04-27T08:14:35.000Z"
+  },
+  {
+    "title": "OpenAI Announces Next-Gen Architecture Replacing Transformers",
+    "image": "https://images.unsplash.com/photo-1678326759902-61019ccbe340?w=800&q=80",
+    "description": "Moving beyond the constraints of attention mechanisms, the newly unveiled 'Fluid' architecture demonstrates a 40x improvement in contextual retention over standard LLMs.",
+    "datetimestamp": "2026-04-26T16:22:11.000Z"
+  },
+  {
+    "title": "Silicon Valley's Return to Garage Startups",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=80",
+    "description": "Rejecting mega-rounds and bloated scaling, a new wave of founders is building highly profitable, minimalist tech companies from their basements.",
+    "datetimestamp": "2026-04-25T11:05:00.000Z"
+  },
+  {
+    "title": "Apple Prepares to Unveil AR Glasses Successor",
+    "image": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=800&q=80",
+    "description": "Leaked schematics suggest a radical shift in form factor, abandoning the ski-goggle design for ultra-lightweight titanium frames powered by the M6 chip.",
+    "datetimestamp": "2026-04-24T09:44:22.000Z"
+  },
+  {
+    "title": "The Rise of Local AI: Why Developers are Leaving the Cloud",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+    "description": "With Apple Silicon and snapdragon chips bridging the compute gap, developers are running LLMs locally, reducing latency and securing user data.",
+    "datetimestamp": "2026-04-24T14:12:00.000Z"
+  },
+  {
+    "title": "Crypto Markets Stabilize After Regulatory Clarity",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=800&q=80",
+    "description": "Following the new SEC framework passed yesterday, institutional investors poured $4B into Bitcoin and Ethereum ETFs.",
+    "datetimestamp": "2026-04-23T10:10:10.000Z"
+  },
+  {
+    "title": "SpaceX Starship Successfully Docks with ISS",
+    "image": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?w=800&q=80",
+    "description": "In a historic rendezvous, the massive Starship vehicle delivered 50 tons of cargo to the International Space Station, proving the viability of super-heavy lift.",
+    "datetimestamp": "2026-04-22T04:20:00.000Z"
+  },
+  {
+    "title": "Why Rust has Conquered the Linux Kernel",
+    "image": "https://images.unsplash.com/photo-1607799279861-4dddf8b60ddb?w=800&q=80",
+    "description": "Memory safety issues dropped by 45% in the latest Linux release, validating the controversial decision to rapidly expand Rust support.",
+    "datetimestamp": "2026-04-21T08:30:00.000Z"
+  },
+  {
+    "title": "The End of the Smartphone Era?",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&q=80",
+    "description": "Global smartphone shipments have seen a five-year decline. Can neural interfaces replace the ubiquitous glass slab?",
+    "datetimestamp": "2026-04-20T12:00:00.000Z"
+  },
+  {
+    "title": "Tesla Unleashes Optimus Gen 3 into Factories",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+    "description": "The humanoid robot is now performing complex assembly tasks. Elon Musk claims it operates at 1.5x human speed.",
+    "datetimestamp": "2026-04-19T09:15:30.000Z"
+  },
+  {
+    "title": "Cybersecurity Firmware Flaw Exposes Millions of IoT Devices",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+    "description": "A zero-day exploit found in popular smart home base stations has prompted emergency firmware updates worldwide.",
+    "datetimestamp": "2026-04-18T16:45:00.000Z"
+  },
+  {
+    "title": "Web3 Gaming Finally Finds its AAA Blockbuster",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&q=80",
+    "description": "'Ethereal Conquest' shatters player records, proving that blockchain integration can work when gameplay comes first.",
+    "datetimestamp": "2026-04-18T11:20:00.000Z"
+  },
+  {
+    "title": "Google DeepMind Solves Another Biology Grand Challenge",
+    "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800&q=80",
+    "description": "Following AlphaFold's success, the new AlphaCell model accurately simulates entire cellular metabolisms.",
+    "datetimestamp": "2026-04-17T09:00:00.000Z"
+  },
+  {
+    "title": "The Rediscovery of the Command Line",
+    "image": "https://images.unsplash.com/photo-1629654297299-c8506221eca9?w=800&q=80",
+    "description": "A surprising demographic of Gen Z developers is abandoning glossy IDEs for highly customized terminal environments.",
+    "datetimestamp": "2026-04-16T15:30:10.000Z"
+  },
+  {
+    "title": "Drones Take Over Final-Mile Delivery in Europe",
+    "image": "https://images.unsplash.com/photo-1527377667822-6b95ef9351de?w=800&q=80",
+    "description": "Regulatory approval in the EU has cleared the skies for autonomous octocopters, changing urban logistics overnight.",
+    "datetimestamp": "2026-04-15T12:00:00.000Z"
+  },
+  {
+    "title": "Netflix Pioneers Interactive VR Cinema",
+    "image": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?w=800&q=80",
+    "description": "The streaming giant's new format allows viewers to exist within the scene alongside actors, offering 6DOF mobility.",
+    "datetimestamp": "2026-04-14T08:00:00.000Z"
+  },
+  {
+    "title": "Synthetic Data Overtakes Real Data in AI Training",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "description": "As the internet runs out of fresh human text, 80% of new foundation models are trained on AI-generated data.",
+    "datetimestamp": "2026-04-13T10:45:00.000Z"
+  },
+  {
+    "title": "The Great Semiconductor Diversification",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    "description": "Fabs in Arizona and Ohio finally come online, shifting the global balance of silicon manufacturing.",
+    "datetimestamp": "2026-04-12T14:20:00.000Z"
+  },
+  {
+    "title": "Autonomous Farming Tends the Midwest",
+    "image": "https://images.unsplash.com/photo-1586771107445-d3afef1a4773?w=800&q=80",
+    "description": "Solar-powered robots coordinate via local meshes to weed, plant, and harvest without human intervention or pesticides.",
+    "datetimestamp": "2026-04-11T13:00:00.000Z"
+  },
+  {
+    "title": "Quantum Cryptography Networks Go Live in Tokyo",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800&q=80",
+    "description": "Financial institutions are the first to adopt the new unhackable QKD infrastructure launched by NTT.",
+    "datetimestamp": "2026-04-10T09:00:00.000Z"
   }
 ]
