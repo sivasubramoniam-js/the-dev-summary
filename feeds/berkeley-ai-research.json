@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Gradient-based Planning for World Models at Longer Horizons",
+    "link": "http://bair.berkeley.edu/blog/2026/04/20/grasp/",
+    "description": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n\n\nGRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel across time, (2) adding stoc",
+    "image": "https://bair.berkeley.edu/static/blog/grasp/ballnav_demo.gif",
+    "datetimestamp": "2026-04-20T09:00:00",
+    "source": "Berkeley AI Research",
+    "category": "AI"
+  },
+  {
+    "title": "Identifying Interactions at Scale for LLMs",
+    "link": "http://bair.berkeley.edu/blog/2026/03/13/spex/",
+    "description": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!--  -->\n\n\n\n\n\nUnderstanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research aims to make the decision-mak",
+    "image": "https://bair.berkeley.edu/static/blog/spex/image1.png",
+    "datetimestamp": "2026-03-13T09:00:00",
+    "source": "Berkeley AI Research",
+    "category": "AI"
+  },
+  {
+    "title": "Information-Driven Design of Imaging Systems",
+    "link": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/",
+    "description": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how well measurements distinguish objec",
+    "image": "https://bair.berkeley.edu/static/blog/information-driven-imaging/info_estimation_overview.png",
+    "datetimestamp": "2026-01-10T09:00:00",
+    "source": "Berkeley AI Research",
+    "category": "AI"
+  },
+  {
+    "title": "RL without TD learning",
+    "link": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/",
+    "description": "\n\n\n\n\n\n\n\n\n\n\n\n\nIn this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal difference (TD) learning (which has scalabil",
+    "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png",
+    "datetimestamp": "2025-11-01T09:00:00",
+    "source": "Berkeley AI Research",
+    "category": "AI"
+  },
+  {
+    "title": "What exactly does word2vec learn?",
+    "link": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/",
+    "description": "\n\n\n\n\n\n\n\n\n\n\n\n\nWhat exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec is a well-known precursor to modern l",
+    "image": "https://bair.berkeley.edu/static/blog/qwem-word2vec-theory/fig1.c8u1a3E7_Z23iPso.webp",
+    "datetimestamp": "2025-09-01T09:00:00",
+    "source": "Berkeley AI Research",
+    "category": "AI"
+  },
+  {
+    "title": "Whole-Body Conditioned Egocentric Video Prediction",
+    "link": "http://bair.berkeley.edu/blog/2025/07/01/peva/",
+    "description": "\n\n\n\n\n  &times;\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show that, given the first fr",
+    "image": "https://bair.berkeley.edu/static/blog/peva/teaserv3_web.png",
+    "datetimestamp": "2025-07-01T09:00:00",
+    "source": "Berkeley AI Research",
+    "category": "AI"
+  },
+  {
+    "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
+    "link": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/",
+    "description": "\n\n\n\n\n\n\n\n\n\n\n\n\nRecent advances in Large Language Models (LLMs) enable exciting LLM-integrated applications. However, as LLMs have improved, so have the attacks against them. Prompt injection attack is listed as the #1 threat by OWASP to LLM-integrated ",
+    "image": "https://bair.berkeley.edu/static/blog/defending-injection/Picture2.png",
+    "datetimestamp": "2025-04-11T10:00:00",
+    "source": "Berkeley AI Research",
+    "category": "AI"
+  },
+  {
+    "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
+    "link": "http://bair.berkeley.edu/blog/2025/04/08/plaid/",
+    "description": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models.\n\n\nThe awarding of the 2024 Nobel Prize to AlphaFold2 marks an importa",
+    "image": "https://bair.berkeley.edu/static/blog/plaid/image1.jpg",
+    "datetimestamp": "2025-04-08T10:30:00",
+    "source": "Berkeley AI Research",
+    "category": "AI"
+  },
+  {
+    "title": "Scaling Up Reinforcement Learning for Traffic Smoothing: A 100-AV Highway Deployment",
+    "link": "http://bair.berkeley.edu/blog/2025/03/25/rl-av-smoothing/",
+    "description": "\n\n\n\n\n\n\n\n\n\n\n\n\nTraining Diffusion Models with Reinforcement Learning\n\n\n    \n\n\n\n    We deployed 100 reinforcement learning (RL)-controlled cars into rush-hour highway traffic to smooth congestion and reduce fuel consumption for everyone. Our goal is to ",
+    "image": "https://bair.berkeley.edu/static/blog/rl_av_smoothing/highway_wave.gif",
+    "datetimestamp": "2025-03-25T09:00:00",
+    "source": "Berkeley AI Research",
+    "category": "AI"
+  },
+  {
+    "title": "Virtual Personas for Language Models via an Anthology of Backstories",
+    "link": "http://bair.berkeley.edu/blog/2024/11/12/virutal-persona-llm/",
+    "description": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- \n  \n  \nWe introduce Anthology, a method for conditioning LLMs to representative, consistent, and diverse virtual personas by generating and utilizing naturalistic backstories with rich details of individual values and experience.",
+    "image": "/blog/assets/virtual_personas/header.png",
+    "datetimestamp": "2024-11-12T09:00:00",
+    "source": "Berkeley AI Research",
+    "category": "AI"
+  }
+]

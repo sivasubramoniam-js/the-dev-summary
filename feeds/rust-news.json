@@ -1,0 +1,200 @@
+[
+  {
+    "title": "KEIBIDROP: Secure File Transfer!",
+    "link": "https://dev.to/mfc_keibisoft/keibidrop-secure-file-transfer-132n",
+    "description": "KEIBIDROP encrypted file transfer and shared filesystem between two devices\n\nhttps://keibidrop.com\n\nKeibiDrop connects two devices directly and lets them share files over an encrypted channel. It works over the internet or a local network.\n\nTwo modes",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T15:30:09",
+    "source": "Rust News",
+    "category": "Backend"
+  },
+  {
+    "title": "Step-by-Step Guide: Learn Rust 1.91 and Go 1.24 for Backend Engineering Roles",
+    "link": "https://dev.to/johal/step-by-step-guide-learn-rust-191-and-go-124-for-backend-engineering-roles-1e3g",
+    "description": "",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T14:44:54",
+    "source": "Rust News",
+    "category": "Backend"
+  },
+  {
+    "title": "Why your build tool has amnesia \u2014 and how we fixed it with a persistent graph and CAS",
+    "link": "https://dev.to/khaledmsalem/why-your-build-tool-has-amnesia-and-how-we-fixed-it-with-a-persistent-graph-and-cas-1p75",
+    "description": "Every few years, the frontend community rallies around a faster build tool.\nGrunt gave way to Webpack. Webpack gave way to Parcel, then Rollup, then Vite. Each one measurably faster. Each one celebrated. And yet, there's a problem none of them ever t",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3dck1va8jitekg3bz1ux.png",
+    "datetimestamp": "2026-04-27T14:39:43",
+    "source": "Rust News",
+    "category": "Backend"
+  },
+  {
+    "title": "Why I built a High-Performance Vector Database in Rust (and why it\u2019s now Open Source)",
+    "link": "https://dev.to/rafael_ferres_0904f2af810/why-i-built-a-high-performance-vector-database-in-rust-and-why-its-now-open-source-24ac",
+    "description": "\n  \n  \n  Introduction\n\n\nBuilding a database from scratch is often called \"reinventing the wheel.\" But sometimes, the wheels available don't fit the car you're building. \n\nI\u2019ve been working on FerresDB (https://www.ferres.io/) for the past few months.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T14:34:39",
+    "source": "Rust News",
+    "category": "Backend"
+  },
+  {
+    "title": "Step-by-Step Guide: Build a Rust 1.91 Microservice with Actix-Web 4.0 and PostgreSQL 19",
+    "link": "https://dev.to/johal/step-by-step-guide-build-a-rust-191-microservice-with-actix-web-40-and-postgresql-19-571c",
+    "description": "",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T14:26:36",
+    "source": "Rust News",
+    "category": "Backend"
+  },
+  {
+    "title": "I'm 18 and I built a Layer 1 blockchain from scratch in Rust",
+    "link": "https://dev.to/0xdevc/im-18-and-i-built-a-layer-1-blockchain-from-scratch-in-rust-2e6n",
+    "description": "I'm 18 and I'm building NOVAI, an AI-native Layer 1 blockchain written from scratch in Rust. This week I went open source and shipped a full set of developer docs. Here's everything that landed.\n\n\n\n\n\n  \n  \n  The project\n\n\nNOVAI is a Layer 1 blockchai",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T13:42:36",
+    "source": "Rust News",
+    "category": "Backend"
+  },
+  {
+    "title": "I'm 18 and I built a Layer 1 blockchain from scratch in Rust",
+    "link": "https://dev.to/txdesk/im-18-and-i-built-a-layer-1-blockchain-from-scratch-in-rust-1f8a",
+    "description": "\n  \n  \n  The project\n\n\nNOVAI is a Layer 1 blockchain where AI entities are protocol primitives, not smart contracts. Most \"AI blockchains\" bolt AI onto an existing VM through oracle calls or contract wrappers. NOVAI does it differently. AI entities e",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T13:40:40",
+    "source": "Rust News",
+    "category": "Backend"
+  },
+  {
+    "title": "Watching a Folder in Rust with notify-rs \u2014 Hot Folder for PDF Automation",
+    "link": "https://dev.to/hiyoyok/watching-a-folder-in-rust-with-notify-rs-hot-folder-for-pdf-automation-2ao",
+    "description": "All tests run on an 8-year-old MacBook Air.\n\nDrop a PDF into a folder. By the time you look at your screen, it's already been processed.\n\nThat's the Hot Folder feature \u2014 and it's powered by notify, a cross-platform file system watcher for Rust.\n\n\n\n\n\n",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T13:25:07",
+    "source": "Rust News",
+    "category": "Backend"
+  },
+  {
+    "title": "Web Developer Travis McCracken on Scaling Down: Backend Minimalism",
+    "link": "https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-scaling-down-backend-minimalism-24p5",
+    "description": "Exploring Backend Development with Rust and Go: Insights from Web Developer Travis McCracken\n\nHello, fellow tech enthusiasts! I'm Web Developer Travis McCracken, and today I want to dive into the exciting world of backend development, specifically fo",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T13:14:36",
+    "source": "Rust News",
+    "category": "Backend"
+  },
+  {
+    "title": "Const Generics: How We Cut 85% of Our Code and Got Faster",
+    "link": "https://dev.to/speed_engineer/const-generics-how-we-cut-85-of-our-code-and-got-faster-1oam",
+    "description": "The day we discovered we\u2019d been doing arrays wrong for three years \n\n\n\n\n\n  \n  \n  Const Generics: How We Cut 85% of Our Code and Got Faster\n\n\n\n  \n  \n  The day we discovered we\u2019d been doing arrays wrong for three years\n\n\n Const generics bring compile-t",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsb7sfnauum2dyuzij1n7.png",
+    "datetimestamp": "2026-04-27T13:00:00",
+    "source": "Rust News",
+    "category": "Backend"
+  },
+  {
+    "title": "OptimaOS: A Rust Kernel That Boots on Real x86_64 Hardware",
+    "link": "https://dev.to/antony_developerrbs/optimaos-a-rust-kernel-that-boots-on-real-x8664-hardware-786",
+    "description": "\n  \n  \n  The Problem: Fragmentation Through Forking\n\n\nAndroid is a Linux fork. Embedded distros are forks with custom patches per SoC. AI stacks run on separate codebases. Each fork means a separate security audit, a separate team, and its own accumu",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T08:52:26",
+    "source": "Rust News",
+    "category": "Backend"
+  },
+  {
+    "title": "Blindsight, STRIX, and the Engineering Problem of a Swarm Without a Central Brain",
+    "link": "https://dev.to/ruslan_manov/blindsight-strix-and-the-engineering-problem-of-a-swarm-without-a-central-brain-7jd",
+    "description": "Most autonomy diagrams lie in the same way.\n\nThey put one box in the middle and make everything point to it.\n\nPlanner. Controller. Agent. Brain.\n\nThat box is comforting. It gives the system a protagonist. Sensors report to it. Modules serve it. Logs ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T08:38:26",
+    "source": "Rust News",
+    "category": "Backend"
+  },
+  {
+    "title": "Renaming 200 PDFs by Their Content \u2014 Without an LLM",
+    "link": "https://dev.to/hiyoyok/renaming-200-pdfs-by-their-content-without-an-llm-4a9h",
+    "description": "All tests run on an 8-year-old MacBook Air.\n\n\"scan_20260101_0042.pdf\" tells you nothing.\n\nSmart Rename reads the first page of each PDF and generates a meaningful filename. No API call, no LLM, no internet. Just heuristics and pattern matching in Rus",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:24:08",
+    "source": "Rust News",
+    "category": "Backend"
+  },
+  {
+    "title": "[Rust Guide] 10.4. Trait Pt.2 - Traits as Parameters and Return Types, Trait Bounds",
+    "link": "https://dev.to/someb1oody/rust-guide-104-trait-pt2-traits-as-parameters-and-return-types-trait-bounds-280a",
+    "description": "If you find this helpful, please like, bookmark, and follow. To keep learning along, follow this series.\n\nBy the way, writing this article took even longer than writing the ownership chapter. Traits are truly a concept that is hard to understand.\n\n\n ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T00:35:22",
+    "source": "Rust News",
+    "category": "Backend"
+  },
+  {
+    "title": "[Rust Guide] 10.3. Trait Pt.1 - Trait Definitions, Bounds, and Implementation",
+    "link": "https://dev.to/someb1oody/rust-guide-103-trait-pt1-trait-definitions-bounds-and-implementation-3ilk",
+    "description": "If you find this helpful, please like, bookmark, and follow. To keep learning along, follow this series.\n\n\n  \n  \n  10.3.1 What Is a Trait\n\n\nTrait means feature or characteristic. Traits are used to describe to the Rust compiler what capabilities a ty",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T00:28:42",
+    "source": "Rust News",
+    "category": "Backend"
+  },
+  {
+    "title": "[Rust Guide] 10.2. Generics",
+    "link": "https://dev.to/someb1oody/rust-guide-102-generics-21ia",
+    "description": "If you find this helpful, please like, bookmark, and follow. To keep learning along, follow this series.\n\n\n  \n  \n  10.2.1 What Are Generics\n\n\nThe main purpose of generics is to improve code reusability. They are suitable for handling repeated-code pr",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T00:04:31",
+    "source": "Rust News",
+    "category": "Backend"
+  },
+  {
+    "title": "[Rust Guide] 10.1. Extract Function to Eliminate Repeated Code",
+    "link": "https://dev.to/someb1oody/rust-guide-101-extract-function-to-eliminate-repeated-code-1nap",
+    "description": "If you find this helpful, please like, bookmark, and follow. To keep learning along, follow this series.\n\n\n  \n  \n  10.1.1 Repeated Code\n\n\nLet\u2019s look at an example:\n\n\n\nfn main(){  \n    let number_list = vec![1,2,3,4,5];  \n    let mut largest = number_",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T00:01:39",
+    "source": "Rust News",
+    "category": "Backend"
+  },
+  {
+    "title": "The Bug That Cost Me Three Weeks: Why Your SL/TP Logic Is Probably Wrong",
+    "link": "https://dev.to/stanco23/the-bug-that-cost-me-three-weeks-why-your-sltp-logic-is-probably-wrong-30eb",
+    "description": "This is the story of a production bug I fixed, turned into a book. It's also why most algorithmic traders fail.\n\nEvery algorithmic trader thinks they understand stop-loss and take-profit (SL/TP). Most are wrong. Not subtly wrong \u2014 catastrophically wr",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-26T22:36:41",
+    "source": "Rust News",
+    "category": "Backend"
+  },
+  {
+    "title": "Know coroutines doesn't mean you know concurrency, read this to know how to understand it.",
+    "link": "https://dev.to/jairojr-software-engineer/know-coroutines-doesnt-mean-you-know-concurrency-read-this-to-know-how-to-understand-it-420p",
+    "description": "\n  \n  \n  Hello, I\u2019m Jairo \ud83d\udc4b\n\n\nThe dev.to writer you love the most.\n(Ok\u2026 maybe not yet \ud83d\ude05 but let me believe that for a second.)\nFirst of all, thank you for taking the time to read this.\nI hope you learn something new \u2014 or at least enjoy the journey.\n\n",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-26T21:46:03",
+    "source": "Rust News",
+    "category": "Backend"
+  },
+  {
+    "title": "How to Monitor Node.js Processes in Production",
+    "link": "https://dev.to/empellio/how-to-monitor-nodejs-processes-in-production-3oa1",
+    "description": "When your Node.js app crashes at 3am, there are two scenarios: you find out when a user complains, or your monitoring finds out first and restarts the process before anyone notices.\n\nThis guide covers the monitoring stack that matters \u2014 from basic pr",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-26T20:06:52",
+    "source": "Rust News",
+    "category": "Backend"
+  },
+  {
+    "title": "Why there\u2019s no proper SQL Server ORM in Rust (so I started building one)",
+    "link": "https://dev.to/ezar147/why-theres-no-proper-sql-server-orm-in-rust-so-i-started-building-one-2c3o",
+    "description": "I ran into an interesting problem while exploring Rust for backend development.\n\nComing from a .NET background, I'm used to working with Entity Framework and code-first workflows. But when I tried to build an application in Rust using SQL Server\u2026 I r",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-26T19:11:53",
+    "source": "Rust News",
+    "category": "Backend"
+  },
+  {
+    "title": "Building in public, week 6: PDF support is live \u2014 but I had to sacrifice content for it",
+    "link": "https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-6-pdf-support-is-live-but-i-had-to-sacrifice-content-for-it-2ch3",
+    "description": "\nTL;DR: I shipped PDF \u2192 image conversion this week. The cost? Three days redesigning the converter UI, and falling behind on community content. Solo dev tradeoffs are real.\n\n\nConvertify is a free image converter I'm building solo: Rust + Axum + libvi",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-26T17:53:18",
+    "source": "Rust News",
+    "category": "Backend"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Cloud Cost Optimization: Principles that still matter",
+    "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/",
+    "description": "Discover how cloud cost optimization adapts in the age of AI, with best practices for managing spend, improving efficiency, and maximizing value.\nThe post Cloud Cost Optimization: Principles that still matter appeared first on Microsoft Azure Blog.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-15T16:00:00",
+    "source": "Azure Blog",
+    "category": "Cloud"
+  },
+  {
+    "title": "Optimize object storage costs automatically with smart tier\u2014now generally available",
+    "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
+    "description": "By continuously\u00a0optimizing\u00a0data placement, smart\u00a0tier ensures\u00a0your storage costs are aligned with actual usage.\nThe post Optimize object storage costs automatically with smart tier\u2014now generally available appeared first on Microsoft Azure Blog.",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/04/image-1.webp",
+    "datetimestamp": "2026-04-14T15:00:00",
+    "source": "Azure Blog",
+    "category": "Cloud"
+  },
+  {
+    "title": "Microsoft named a Leader in The Forrester Wave\u2122 for Sovereign Cloud Platforms",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
+    "description": "Microsoft is named a Leader in The Forrester Wave\u2122 for Sovereign Cloud Platforms, recognizing Microsoft Sovereign Cloud leadership in evolving sovereignty needs.\nThe post Microsoft named a Leader in The Forrester Wave\u2122 for Sovereign Cloud Platforms a",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/04/Image_Sovereign-Cloud-Platforms-Q2-2026-772x1024.webp",
+    "datetimestamp": "2026-04-09T19:00:00",
+    "source": "Azure Blog",
+    "category": "Cloud"
+  },
+  {
+    "title": "How Drasi used GitHub Copilot to find documentation bugs",
+    "link": "https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/",
+    "description": "How Microsoft uses AI agents and Drasi to keep open\u2011source documentation accurate and working.\nThe post How Drasi used GitHub Copilot to find documentation bugs appeared first on Microsoft Azure Blog.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-09T15:05:00",
+    "source": "Azure Blog",
+    "category": "Cloud"
+  },
+  {
+    "title": "Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value",
+    "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/",
+    "description": "Get practical strategies and best practices to help you plan, design, and manage AI investments for sustainable value and efficiency.\nThe post Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value appeared",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-08T16:00:00",
+    "source": "Azure Blog",
+    "category": "Cloud"
+  },
+  {
+    "title": "Azure IaaS: Keep critical applications running with built-in resiliency at scale",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
+    "description": "Azure IaaS provides foundational capabilities across compute, storage, and networking to help organizations stay resilient.\nThe post Azure IaaS: Keep critical applications running with built-in resiliency at scale appeared first on Microsoft Azure Bl",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/04/BRK148-Architect-Resilient-Apps-Breakout-1024x576.webp",
+    "datetimestamp": "2026-04-01T16:00:00",
+    "source": "Azure Blog",
+    "category": "Cloud"
+  },
+  {
+    "title": "Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters",
+    "link": "https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/",
+    "description": "Explore how Microsoft and Armada bring sovereign AI to the edge with Azure Local, enabling secure, resilient workloads in disconnected and regulated environments.\nThe post Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/03/Armada-Body-Final-1920-x-1080-1024x576.webp",
+    "datetimestamp": "2026-03-31T16:00:00",
+    "source": "Azure Blog",
+    "category": "Cloud"
+  },
+  {
+    "title": "Navigating digital sovereignty at the frontier of transformation",
+    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/",
+    "description": "Digital sovereignty has become a practical leadership discipline grounded in risk management, continuity planning, and long-term accountability.\nThe post Navigating digital sovereignty at the frontier of transformation appeared first on Microsoft Azu",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-03-30T21:27:39",
+    "source": "Azure Blog",
+    "category": "Cloud"
+  },
+  {
+    "title": "Microsoft named a Leader in 2026 Gartner\u00ae Magic Quadrant\u2122 for Integration Platform as a Service",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2026-gartner-magic-quadrant-for-integration-platform-as-a-service/",
+    "description": "Read why Microsoft was named a Leader for integration services in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Integration Platform as a Service.\nThe post Microsoft named a Leader in 2026 Gartner\u00ae Magic Quadrant\u2122 for Integration Platform as a Service appear",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/03/Figure1.jpg",
+    "datetimestamp": "2026-03-30T16:00:00",
+    "source": "Azure Blog",
+    "category": "Cloud"
+  },
+  {
+    "title": "AI for nuclear energy: Powering an intelligent, resilient future",
+    "link": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/",
+    "description": "To break the infrastructure bottleneck and shift the industry from ambition to delivery, Microsoft is announcing an AI for nuclear collaboration with NVIDIA, to provide end-to-end tools that streamline permitting, accelerate design, and optimize oper",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-03-25T15:00:00",
+    "source": "Azure Blog",
+    "category": "Cloud"
+  }
+]

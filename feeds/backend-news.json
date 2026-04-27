@@ -1,0 +1,218 @@
+[
+  {
+    "title": "Observability vs Monitoring",
+    "link": "https://dev.to/chisomchima/observability-vs-monitoring-2joj",
+    "description": "Here is a situation that has probably happened to you at some point.\n\nA user submits a support ticket saying the app is \"slow.\" You check your dashboards. CPU looks fine. Memory looks fine. Error rate is zero. Everything is green. But the user is rig",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T14:59:20",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "Why Most Web Applications Fail at Scale (And How to Build Systems That Actually Work)",
+    "link": "https://dev.to/terexdevs/why-most-web-applications-fail-at-scale-and-how-to-build-systems-that-actually-work-541e",
+    "description": "Most web applications don\u2019t fail at the beginning.\n\nThey fail when they start growing.\n\nMore users.\nMore data.\nMore requests.\n\nAnd suddenly, everything slows down, breaks, or becomes difficult to manage.\n\nThe problem is not design.\n\nIt\u2019s not frontend",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T14:31:52",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "How I Used the Observer Pattern to Watch Directories in Java (And Prevent Race Conditions)",
+    "link": "https://dev.to/keenchris/how-i-used-the-observer-pattern-to-watch-directories-in-java-and-prevent-race-conditions-4j85",
+    "description": "If you've ever needed to react to file system changes in Java \u2014 a config file updating, an upload folder receiving a new file, a hot-reload mechanism \u2014 you've probably reached for Java's WatchService. It's clean. It's built-in. And it hides a subtle ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T14:22:46",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "Why ERP integrations silently fail in production (and how I fixed it in Go)",
+    "link": "https://dev.to/girlsjustwannahavecode/why-erp-integrations-silently-fail-in-production-and-how-i-fixed-it-in-go-1gd4",
+    "description": "Most integration systems don\u2019t break immediately. They fail silently over time by corrupting your data.\n\nI learned this the hard way while building ERP integrations between retailers and suppliers. That retailer exchanged data with its suppliers: inv",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T14:00:00",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "Internals of Docker 27's New BuildKit Backend and How It Compares to Podman 5.3",
+    "link": "https://dev.to/johal/internals-of-docker-27s-new-buildkit-backend-and-how-it-compares-to-podman-53-2ik1",
+    "description": "",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T13:50:11",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "Managing Background Tasks in FastAPI: From Basic to Production-Ready Beyond Fire and Forget",
+    "link": "https://dev.to/richard_quaicoe_2398278be/managing-background-tasks-in-fastapi-from-basic-to-production-ready-beyond-fire-and-forget-ddm",
+    "description": "Handling Background Tasks in FastAPI: From Basic to Production-Ready\nWhen you build a web API, some work should not happen inside the request/response cycle. Sending a welcome email after signup, generating a PDF report, processing a webhook payload,",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fku5b4mnk6zd4t9f90dpg.png",
+    "datetimestamp": "2026-04-27T13:44:16",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "Internals of Docker 27's New BuildKit Backend and How It Compares to Podman 5.3",
+    "link": "https://dev.to/johal/internals-of-docker-27s-new-buildkit-backend-and-how-it-compares-to-podman-53-2kgh",
+    "description": "",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T13:44:13",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "Smart Throttling: ISP & Carrier-Aware Rate Limiting",
+    "link": "https://dev.to/beefedai/smart-throttling-isp-carrier-aware-rate-limiting-4pon",
+    "description": "\nMapping ISP &amp; Carrier Policies to Real\u2011World Limits\nDesigning a Distributed, ISP\u2011Aware Throttling Service\nAlgorithms That Actually Work: token bucket, leaky bucket, and Adaptive Backoff\nHandling Warmup and Peaks: IP Warmup, Peak Events, and Smok",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T13:18:46",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "What Actually Breaks When You Connect AI to Real Enterprise Data",
+    "link": "https://dev.to/dhruvi_21/what-actually-breaks-when-you-connect-ai-to-real-enterprise-data-55ba",
+    "description": "Connecting AI to real enterprise data sounds straightforward.\n\nGive it access to your systems.\nLet it read data.\nLet it take actions.\n\nIn reality, this is where things start breaking.\n\nNot because the AI is wrong.\nBecause the data and systems underne",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T13:15:43",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "Web Developer Travis McCracken on Scaling Down: Backend Minimalism",
+    "link": "https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-scaling-down-backend-minimalism-24p5",
+    "description": "Exploring Backend Development with Rust and Go: Insights from Web Developer Travis McCracken\n\nHello, fellow tech enthusiasts! I'm Web Developer Travis McCracken, and today I want to dive into the exciting world of backend development, specifically fo",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T13:14:36",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "What Is MCP (Model Context Protocol) and Why It Needs a Gateway in Production \u2014 A Practical Guide for AI Engineers",
+    "link": "https://dev.to/hadil/what-is-mcp-model-context-protocol-and-why-it-needs-a-gateway-in-production-a-practical-guide-3f05",
+    "description": "It always starts with \u201cjust one integration\u201d.\n\nYou want your AI agent to send a message to Slack. So you wire it up. A bit of custom code, some API calls, done.\n\nThen someone asks for GitHub access. Then Jira. Then your internal database. Then Notion",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fep4azmemkwyqzuqu9kux.png",
+    "datetimestamp": "2026-04-27T13:07:03",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "I tried 5 Content Management Systems - Which One is Best?",
+    "link": "https://dev.to/ai-tech/i-tried-5-content-management-systems-which-one-is-best-48d0",
+    "description": "5 Content Management Systems\nA little while ago, we decided to add a blog to our website. So the question was, which CMS to choose? We tested a bunch of options and I want to share with you how we made the decision.\n\nWordpress\nImage description\n\nA he",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T12:50:25",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "Laravel\u2019de Neden Kod \u0130\u00e7inde env() Kullan\u0131lmamal\u0131?",
+    "link": "https://dev.to/baris/laravelde-neden-kod-icinde-env-kullanilmamali-7oh",
+    "description": "Laravel projelerinde s\u0131k g\u00f6rd\u00fc\u011f\u00fcm\u00fcz bir kullan\u0131m var:\n\n\n\n$apiKey = env('SMS_API_KEY');\n\n\n\n\n\n\nveya\n\n\n\nif (env('PAYMENT_PROVIDER') === 'iyzico') {\n    // ...\n}\n\n\n\n\n\n\nLocal ortamda bu kod \u00e7o\u011fu zaman \u00e7al\u0131\u015f\u0131r. Bu y\u00fczden ilk bak\u0131\u015fta yanl\u0131\u015f gibi g\u00f6r\u00fcnmez. A",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T12:34:09",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "Redis\u7f13\u5b58\u4e09\u8fde\u51fb\uff1a\u51fb\u7a7f\u3001\u96ea\u5d29\u3001\u7a7f\u900f\u5168\u89e3\u6790\uff01",
+    "link": "https://dev.to/port_smith_378e5d029689f4/redishuan-cun-san-lian-ji-ji-chuan-xue-beng-chuan-tou-quan-jie-xi--1kc",
+    "description": "Redis\u7f13\u5b58\u4e09\u8fde\u51fb\uff1a\u51fb\u7a7f\u3001\u96ea\u5d29\u3001\u7a7f\u900f\uff0c\u4e00\u6b21\u8bb2\u900f\uff01\n\n\u53cc\u5341\u4e00\u5927\u4fc3\u96f6\u70b9\uff0c\u4f60\u624b\u901f\u62c9\u6ee1\u62a2\u9650\u91cf\u795e\u5238\u2014\u2014\u7ed3\u679c\u9875\u9762\u5361\u6b7b\u3001\u5237\u65b0\u5931\u8d25\u3001\u201c\u7cfb\u7edf\u7e41\u5fd9\u201d\u5f39\u7a97\u53cd\u590d\u5237\u5c4f\u3002\u540e\u53f0\u53ef\u80fd\u6b63\u88ab\u4e09\u80a1\u529b\u91cf\u8f6e\u756a\u66b4\u51fb\uff1a\u6709\u4eba\u7528\u811a\u672c\u72c2\u5237\u6839\u672c\u4e0d\u5b58\u5728\u7684\u7528\u6237ID\uff08\u7a7f\u900f\uff09\uff1b\u7206\u6b3e\u5546\u54c1\u8be6\u60c5\u9875\u5728\u7f13\u5b58\u8fc7\u671f\u90a3\u4e00\u6beb\u79d2\uff0c\u88ab\u4e0a\u4e07\u8bf7\u6c42\u540c\u65f6\u201c\u51ff\u7a7f\u201d\uff08\u51fb\u7a7f\uff09\uff1b\u800c\u6574\u4e2a\u5546\u54c1\u5e93\u7684\u7f13\u5b58Key\u53c8\u6070\u5de7\u5728\u6574\u70b9\u96c6\u4f53\u5931\u6548\uff08\u96ea\u5d29\uff09\u3002\u8fd9\u4e09\u8005\u4e0d\u662f\u7384\u5b66\u9ed1\u8bdd\uff0c\u800c\u662f\u771f\u5b9e\u53ef\u590d\u73b0\u3001\u53ef\u5b9a\u4f4d\u3001\u53ef\u9632\u5fa1\u7684\u5178\u578b\u6545\u969c\u94fe\u3002\n\n\n\n\n\n  \n  \n  \u4e00\u3001\u7f13\u5b58\u7a7f\u900f\uff1a\u67e5\u4e0d\u5230\uff0c\u8fd8\u62fc\u547d\u67e5\n\n\n\u5b9a\u4e49\uff1a\u67e5\u8be2\u538b\u6839\u4e0d\u5b58\u5728\u7684\u6570\u636e\uff08\u6bd4\u5982u",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T11:50:43",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "MySQL \u7684 MVCC\uff1a\u770b\u4e0d\u89c1\u7684\u201c\u65f6\u95f4\u673a\u5668\u201d\u600e\u4e48\u5e2e\u4f60\u8eb2\u8fc7\u810f\u8bfb\u548c\u5e7b\u8bfb\uff1f",
+    "link": "https://dev.to/port_smith_378e5d029689f4/mysql-de-mvcckan-bu-jian-de-shi-jian-ji-qi-zen-yao-bang-ni-duo-guo-zang-du-he-huan-du--3gn5",
+    "description": "MySQL \u7684 MVCC\uff1a\u90a3\u53f0\u4f60\u4ece\u6ca1\u542f\u52a8\u8fc7\uff0c\u5374\u4e00\u76f4\u5728\u4e3a\u4f60\u5012\u5e26\u7684\u201c\u65f6\u95f4\u673a\u5668\u201d\n\n\u4f60\u6709\u6ca1\u6709\u5728\u56fe\u4e66\u9986\u501f\u8fc7\u4e00\u672c\u300a\u6570\u636e\u5e93\u539f\u7406\u300b\uff1f\u7ffb\u5f00\u65f6\u76ee\u5f55\u8fd8\u662f\u65e7\u7248\uff0c\u800c\u7ba1\u7406\u5458\u5176\u5b9e\u5728\u4f60\u501f\u8d70\u540e\u6084\u6084\u4e0a\u67b6\u4e86\u4fee\u8ba2\u7248\u2014\u2014\u4f46\u4f60\u5b8c\u5168\u4e0d\u53d7\u5f71\u54cd\u3002\u53c8\u6216\u8005\uff0c\u591a\u4eba\u534f\u540c\u7f16\u8f91\u4e00\u4efd\u6587\u6863\uff0c\u6bcf\u4eba\u6253\u5f00\u65f6\u770b\u5230\u7684\u90fd\u662f\u81ea\u5df1\u90a3\u4e00\u523b\u7684\u5feb\u7167\uff0c\u4e92\u4e0d\u5e72\u6270\u3002\u8fd9\u5e76\u975e\u9b54\u6cd5\uff0c\u800c\u662f MySQL InnoDB \u5f15\u64ce\u4e2d MVCC\uff08\u591a\u7248\u672c\u5e76\u53d1\u63a7\u5236\uff09\u5728 quietly work\uff1a\u4e00\u53f0\u65e0\u9700\u4f60\u70b9\u5f00\u3001\u4e0d\u7528\u4f60\u8bbe\u7f6e\u3001\u5374\u59cb\u7ec8\u4e3a\u4f60\u7cbe\u51c6\u56de\u6eaf\u6570\u636e\u72b6\u6001\u7684\u201c\u9690\u5f62\u65f6\u95f4\u673a\u5668\u201d\u3002\n\n\u4e00\u3001\u5feb\u7167\u3001\u7248\u672c\u94fe\u4e0e ReadView\uff1a",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T11:50:35",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "PHP\u2019de Global Function Resolution: strlen() mi, \\strlen() mi?",
+    "link": "https://dev.to/baris/phpde-global-function-resolution-strlen-mi-strlen-mi-4faj",
+    "description": "PHP\u2019de bazen \u015f\u00f6yle kodlar g\u00f6r\u00fcr\u00fcz:\n\n\n\nstrlen($name);\n\n\n\n\n\n\nBaz\u0131 projelerde ise ayn\u0131 fonksiyon \u015f\u00f6yle yaz\u0131l\u0131r:\n\n\n\n\\strlen($name);\n\n\n\n\n\n\n\u0130lk bak\u0131\u015fta gereksiz bir detay gibi g\u00f6r\u00fcnebilir. Sonu\u00e7ta ikisi de string uzunlu\u011fu hesapl\u0131yor, de\u011fil mi?\n\nEvet, \u00e7o\u011fu ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T10:53:55",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "Your memory leak might be standard Python behavior",
+    "link": "https://dev.to/sondar4/your-memory-leak-might-be-standard-python-behavior-484o",
+    "description": "TL;DR: If your garbage collector shows nothing wrong but memory keeps growing, you might not have a leak at all, you might have memory fragmentation. It happens because glibc creates separate memory arenas per thread, and a handful of live objects ca",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T09:38:57",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "Redis Persistence (RDB vs AOF)",
+    "link": "https://dev.to/godofgeeks/redis-persistence-rdb-vs-aof-3lk6",
+    "description": "\n  \n  \n  Redis Persistence: Saving Your Precious Data Like a Squirrel Hoards Nuts\n\n\nHey there, fellow tech enthusiasts! Ever felt that nagging worry in the back of your mind: \"What if my Redis instance suddenly goes poof, and all that valuable data I",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T09:12:09",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "Lessons from building a social events platform - Team Up | Expo & Convex",
+    "link": "https://dev.to/thanksboss/lessons-from-building-a-social-events-platform-team-up-expo-convex-4228",
+    "description": "\n  \n  \n  Introduction\n\n\nI finished a mobile app I've been working on for more than 6 months. I put a lot of time, care, and even money into it. And I definitely learned more than I ever did working for hire. So with the release of it, I decided to sh",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbnol4d4nc1ackzu6u2mf.png",
+    "datetimestamp": "2026-04-27T09:00:00",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "\ud83d\udc31 Stop Using `env()` in Runtime Code",
+    "link": "https://dev.to/antoniosthanasisgit/stop-using-env-in-runtime-code-58hd",
+    "description": "\n  \n  \n  The Symptoms \ud83d\ude3f\n\n\n\nJobs fail randomly\nAPI calls return 401 Unauthorized\n\n\n\n\n  \n  \n  The \"Solution\" \ud83d\udd04\n\n\nphp artisan config:clear\n\nThen restart workers to pick up fresh environment values.\n\nIt works temporarily. Then fails again.\n\n\n\n\n\n  \n  \n  T",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T08:36:36",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "Building Real-Time Chat That Doesn\u2019t Break at Scale (and Actually Uses AI Properly)",
+    "link": "https://dev.to/smartguy666/building-real-time-chat-that-doesnt-break-at-scale-and-actually-uses-ai-properly-3pd8",
+    "description": "Building Real-Time Chat That Doesn\u2019t Break at Scale (and Actually Uses AI Properly)\n\nMost teams underestimate chat. When you try to go past the demo, complexity rears its ugly head pretty quickly. You\u2019re no longer just rendering messages.\u2028You\u2019re deal",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T07:52:10",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "Stripe payment succeeded\u2026 but the user has no access (why this happens)",
+    "link": "https://dev.to/thelastciroandrea/stripe-payment-succeeded-but-the-user-has-no-access-why-this-happens-glm",
+    "description": "A user completes a payment.\n\nStripe says: successful.\n\nBut your app says: no access.\n\nIf you're building a SaaS, this is one of the most frustrating bugs you can hit.\n\n\n\n\n\n  \n  \n  The problem\n\n\nThis happens more often than you'd think.\n\nBecause payme",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7hac3q90h37g2zsaix2h.png",
+    "datetimestamp": "2026-04-27T07:14:03",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "Microservices: A Practical Crash Course for Engineers Who Actually Ship",
+    "link": "https://dev.to/mominali/microservices-a-practical-crash-course-for-engineers-who-actually-ship-4fao",
+    "description": "\n  \n  \n  Microservices: A Practical Crash Course for Engineers Who Actually Ship\n\n\nMicroservices have become one of the most discussed architectural patterns in modern software development. But beyond the buzzwords, what do they actually mean for eng",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T06:55:29",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "A Laravel API starter kit is only good if it can survive breaking changes later",
+    "link": "https://dev.to/saqueib/a-laravel-api-starter-kit-is-only-good-if-it-can-survive-breaking-changes-later-1o4i",
+    "description": "Starter kits are good at making the first 30 days feel easy. They scaffold auth, resources, tests, and routing so a Laravel API can ship before the team gets lost in bikeshedding.\n\nThen month six arrives.\n\nA mobile app depends on response fields you ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T06:31:34",
+    "source": "Backend News",
+    "category": "Backend"
+  }
+]

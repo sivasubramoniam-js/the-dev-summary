@@ -1,0 +1,137 @@
+[
+  {
+    "title": "Why Coding Agents Will Break Your CI/CD Pipeline (and How To Fix It)",
+    "link": "https://dev.to/signadot/why-coding-agents-will-break-your-cicd-pipeline-and-how-to-fix-it-1gbh",
+    "description": "Read this article on Signadot.\n\nEvery engineering leader I speak with lately is quietly asking the exact same question. The conversation has shifted entirely. We are no longer debating how to adopt AI coding assistants or whether they write good boil",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbc1n3kadgnswhi9n6o2b.png",
+    "datetimestamp": "2026-04-27T15:05:45",
+    "source": "Testing",
+    "category": "Testing"
+  },
+  {
+    "title": "Test Datadog API endpoints without an API key",
+    "link": "https://dev.to/fetchsandbox/test-datadog-api-endpoints-without-an-api-key-2b9m",
+    "description": "You need an API key and an application key before you can make a single call. That's two keys, two permissions scopes, and a paid account.\n\nDatadog's API is well-documented. The endpoints are clean, the response shapes are consistent, and the SDKs co",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T13:56:55",
+    "source": "Testing",
+    "category": "Testing"
+  },
+  {
+    "title": "Skills for eval-driven agent optimization",
+    "link": "https://dev.to/vivkr/skills-for-eval-driven-agent-optimization-2gg3",
+    "description": "OptimizeSpec helps you make your agent better in a measured way, even if you have never built an eval suite or optimization loop before.\n\nYou start with a plain-language goal, such as \"make support-triage answers more complete.\"\n\nOptimizeSpec guides ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T13:02:44",
+    "source": "Testing",
+    "category": "Testing"
+  },
+  {
+    "title": "Staff Augmentation vs Outsourcing: Which Model Fits?",
+    "link": "https://dev.to/techiehustler_8759b7f9825/staff-augmentation-vs-outsourcing-which-model-fits-55ep",
+    "description": "Serving teams across North America, South America, Asia-Pacific, and Australia.\n\nA side-by-side comparison of staff augmentation and outsourcing models to help teams choose the right delivery structure.\n\n\n  \n  \n  Practical checklist\n\n\n\nClarify outcom",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T10:30:07",
+    "source": "Testing",
+    "category": "Testing"
+  },
+  {
+    "title": "A practical C# performance testing tool workflow with LoadStrike",
+    "link": "https://dev.to/techiehustler_8759b7f9825/a-practical-c-performance-testing-tool-workflow-with-loadstrike-adb",
+    "description": "Serving teams across the UK, Europe, and Africa.\n\nSee how Meticulis uses a C# performance testing tool with LoadStrike to keep scenarios, thresholds, and reports close to .NET delivery workflows.\n\n\n  \n  \n  Practical checklist\n\n\n\nWhy Meticulis selects",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T09:24:15",
+    "source": "Testing",
+    "category": "Testing"
+  },
+  {
+    "title": "I built an LLM eval rig in a weekend. Most of it was wrong.",
+    "link": "https://dev.to/curriculo_ats/i-built-an-llm-eval-rig-in-a-weekend-most-of-it-was-wrong-6ee",
+    "description": "We ship an AI hiring agent that screens candidates, drafts outreach, and books interviews for recruiting teams. When it screws up, recruiters lose hours and good candidates fall out of the funnel. That's enough motivation to take evals seriously.\n\nI ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T09:02:38",
+    "source": "Testing",
+    "category": "Testing"
+  },
+  {
+    "title": "XSLT validator online: catch errors before running your transform",
+    "link": "https://dev.to/alexandrev/xslt-validator-online-catch-errors-before-running-your-transform-21n7",
+    "description": "A broken XSLT stylesheet can fail in several ways: a syntax error stops the processor immediately, a namespace mismatch silently produces empty output, or an undefined variable causes a runtime error that only appears with specific inputs. Catching t",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T09:00:02",
+    "source": "Testing",
+    "category": "Testing"
+  },
+  {
+    "title": "Cursor wrote 14 tests for my feature. Here's what it couldn't see.",
+    "link": "https://dev.to/muggleai/cursor-wrote-14-tests-for-my-feature-heres-what-it-couldnt-see-4mke",
+    "description": "Updated April 2026\n\nLast week I let Cursor generate the test suite for a checkout feature I'd just shipped. It wrote 14 AI-generated tests in about 30 seconds. I was genuinely impressed.\n\nThen I read them.\n\nTwelve of the 14 covered the happy path. So",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T08:15:24",
+    "source": "Testing",
+    "category": "Testing"
+  },
+  {
+    "title": "Delta-QA vs Chromatic: Testing Full Pages vs Testing Components",
+    "link": "https://dev.to/delta-qa/delta-qa-vs-chromatic-testing-full-pages-vs-testing-components-5hee",
+    "description": "\n  \n  \n  Comparison: Delta-QA or Chromatic, Testing Full Pages or Components?\n\n\nChromatic is the reference tool for visual testing of UI components via Storybook. Delta-QA tests complete web pages with real user journeys. These aren't direct competit",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T08:00:52",
+    "source": "Testing",
+    "category": "Testing"
+  },
+  {
+    "title": "How Flash USDT Software Supports Better Learning in Crypto Environments",
+    "link": "https://dev.to/james_hatwrick_ca888ff705/how-flash-usdt-software-supports-better-learning-in-crypto-environments-43e",
+    "description": "Table of Contents\nWhy Learning Matters More in Crypto Environments\nUnderstanding the Flow of Transactions\nLearning Through Practical Observation\nThe Importance of a Practice Environment\nTraining Tools That Support Learning\nFeatures That Improve Under",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyctgx9vf5wbx3ki88kbh.jpg",
+    "datetimestamp": "2026-04-27T06:48:02",
+    "source": "Testing",
+    "category": "Testing"
+  },
+  {
+    "title": "I built self-healing Selenium locators in Java \u2014 here's how it works",
+    "link": "https://dev.to/mohammad_saddamhossain_9/i-built-self-healing-selenium-locators-in-java-heres-how-it-works-21me",
+    "description": "\n  \n  \n  The problem every Selenium team hits\n\n\nYour test suite was green last week. Today it's failing on 12 tests. The error is always the same:\n\n\n\norg.openqa.selenium.TimeoutException: Expected condition failed:\nwaiting for visibility of element l",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxwg2ac5xlphraign16qh.png",
+    "datetimestamp": "2026-04-27T04:26:34",
+    "source": "Testing",
+    "category": "Testing"
+  },
+  {
+    "title": "Accessibility Testing: Best Practices",
+    "link": "https://dev.to/vitalyskadorva/accessibility-testing-best-practices-3li9",
+    "description": "Accessibility testing requires more than an automated scanner. A scanner catches roughly 30-50% of WCAG issues. The rest requires manual testing with a keyboard, a screen reader, and a process that covers every state of the application.\n\nThis guide i",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdw0k6mybfh833uwtp8pg.png",
+    "datetimestamp": "2026-04-27T03:08:19",
+    "source": "Testing",
+    "category": "Testing"
+  },
+  {
+    "title": "Designing Supplier Scorecards and KPIs for Continuous Improvement",
+    "link": "https://dev.to/beefedai/designing-supplier-scorecards-and-kpis-for-continuous-improvement-2l2m",
+    "description": "\nWhich KPIs Actually Drive Supplier Accountability\nHow to Design a Scorecard That Prompts Action (not paperwork)\nWhere the Data Should Come From, How Often, and What Targets Look Like\nHow Reviews, Escalations, and Rewards Change Supplier Behavior\nA P",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T01:18:40",
+    "source": "Testing",
+    "category": "Testing"
+  },
+  {
+    "title": "Fake Data Generator API \u2014 5\ubd84 \uc548\uc5d0 \ud504\ub85c\uc81d\ud2b8\uc5d0 \ud1b5\ud569\ud558\uae30",
+    "link": "https://dev.to/lazymac2x/fake-data-generator-api-5bun-ane-peurojegteue-tonghabhagi-6b8",
+    "description": "\n  \n  \n  Fake Data Generator API \u2014 5\ubd84 \uc548\uc5d0 \ud504\ub85c\uc81d\ud2b8\uc5d0 \ud1b5\ud569\ud558\uae30\n\n\n\nQA, \ub370\ubaa8, \ud504\ub85c\ud1a0\ud0c0\uc785, \ubd80\ud558 \ud14c\uc2a4\ud2b8\n\n\n\ud504\ub85c\uc81d\ud2b8\uc5d0 fake data generator \uae30\ub2a5\uc774 \ud544\uc694\ud55c\ub370 \uc9c1\uc811 \uad6c\ud604\ud558\uae30\uc5d4 \uc2dc\uac04\uc774 \uc544\uae4c\uc6b4\uac00\uc694?\nREST API \ud55c \uc904\uc774\uba74 \ub429\ub2c8\ub2e4.\n\n  \n  \n  Quick Start\n\n\n\n\n# \uc989\uc2dc \ud14c\uc2a4\ud2b8 (API \ud0a4 \ubd88\ud544\uc694)\ncurl https://api.lazy-mac.com/fake-data/\n\n\n\n\n\n  \n ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T00:31:00",
+    "source": "Testing",
+    "category": "Testing"
+  },
+  {
+    "title": "One Extra JSON Key: How a Harmless Profile Endpoint Became an ATO Candidate",
+    "link": "https://dev.to/shemkar/one-extra-json-key-how-a-harmless-profile-endpoint-became-an-ato-candidate-57ni",
+    "description": "\n\nThe harmless profile endpoint that taught me how real bugs work\n\nEarly in my bug bounty journey, I found a bug that looked simple from the outside, but it changed the way I think about web security.\n\nAt that time, I didn\u2019t know how to write strong ",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcx1jnarwp8hv2m98caqr.png",
+    "datetimestamp": "2026-04-26T21:04:52",
+    "source": "Testing",
+    "category": "Testing"
+  }
+]

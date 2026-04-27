@@ -1,0 +1,182 @@
+[
+  {
+    "title": "JavaScript SpeechSynthesis API",
+    "link": "https://davidwalsh.name/speechsynthesis-api",
+    "description": "As the web continues to be the medium for all users, standards bodies need to continue to provide new APIs to enrich user experience and accessibility. One underused API for unsighted users is speechSynthesis, an API to programmatically direct the br",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "datetimestamp": "2025-11-20T00:39:07",
+    "source": "David Walsh Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "Fix \u201cThis video format is not supported\u201d on YouTube TV",
+    "link": "https://davidwalsh.name/fix-this-video-format-is-not-supported-on-youtube-tv",
+    "description": "Setting up a new computer is bliss &#8212; no old, unused apps and the machine performs much better than the previous. Unfortunately, you may encounter new problems based on the new hardware. One such issue I encountered with my new MacBook was a &#8",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "datetimestamp": "2025-11-17T23:47:34",
+    "source": "David Walsh Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "Easy way to upload, transform and deliver files and images (Sponsored)",
+    "link": "https://davidwalsh.name/easy-way-to-upload-transform-and-deliver-files-and-images",
+    "description": "Managing media is a really difficult task if you try to do all of it yourself, especially if the media comes from other sources. The file can be submitted in any state and size, but what if you need something really specific? You can code it all your",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "datetimestamp": "2025-03-24T22:58:30",
+    "source": "David Walsh Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "How to Download a YouTube Video or Channel",
+    "link": "https://davidwalsh.name/download-youtube-mp3",
+    "description": "The ability to download media on the internet almost feels like a lost art. When I was in my teens, piracy of mp3s, movies, and just about everything else via torrents and apps like Kazaa, LimeWire, Napster, etc. was in full swing. These days sites u",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "datetimestamp": "2024-09-04T04:42:36",
+    "source": "David Walsh Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "How to Add a Header to a curl Request",
+    "link": "https://davidwalsh.name/curl-add-header",
+    "description": "curl is one of those great utilities that&#8217;s been around seemingly forever and has endless use cases. These days I find myself using curl to batch download files and test APIs. Sometimes my testing leads me to using different HTTP headers in my ",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "datetimestamp": "2024-08-03T16:51:46",
+    "source": "David Walsh Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "Case Insensitive CSS Attribute Selector",
+    "link": "https://davidwalsh.name/css-attribute-case",
+    "description": "CSS selectors never cease to amaze me in how powerful they can be in matching complex patterns. Most of that flexibility is in parent/child/sibling relationships, very seldomly in value matching. Consider my surprise when I learned that CSS allows ma",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "datetimestamp": "2024-06-19T11:31:27",
+    "source": "David Walsh Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "How to Set Date Time from Mac Command Line",
+    "link": "https://davidwalsh.name/mac-set-date",
+    "description": "Working on a web extension that ships to an app store and isn&#8217;t immediately modifiable, like a website, can be difficult. Since you cannot immediately deploy updates, you sometimes need to bake in hardcoded date-based logic. Testing future date",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "datetimestamp": "2024-06-17T12:01:38",
+    "source": "David Walsh Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "How to Retrieve WiFi Password on Windows",
+    "link": "https://davidwalsh.name/retrieve-wifi-password-windows",
+    "description": "Remembering the WiFi password when on a guest network is never easy. Even worse is when it&#8217;s no longer posted and someone else is asking you for it. Luckily there&#8217;s a built in Windows command to recover the password of a given WiFi networ",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "datetimestamp": "2024-05-13T10:45:29",
+    "source": "David Walsh Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "How to Fix: Windows WASD Keys Reversed with Arrow Keys",
+    "link": "https://davidwalsh.name/fix-wasd-keys",
+    "description": "This past weekend I had the opportunity to be what every father wants, if only for a moment: the &#8220;cool dad&#8221;. My wife was out of town and my youngest son wanted to play PUBG. I caved in, taught him the basic FPS key binds, and he was havin",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "datetimestamp": "2024-05-02T01:55:27",
+    "source": "David Walsh Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "HTML popover Attribute",
+    "link": "https://davidwalsh.name/html-popover-attribute",
+    "description": "Modals have been an important part of websites for two decades. Stacking contents and using fetch to accomplish tasks are a great way to improve UX on both desktop and mobile. Unfortunately most developers don&#8217;t know that the HTML and JavaScrip",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "datetimestamp": "2024-04-15T11:19:02",
+    "source": "David Walsh Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "Get Started in AI and NFTs with the Limewire API (Sponsored)",
+    "link": "https://davidwalsh.name/get-started-in-ai-and-nfts-with-the-limewire-api",
+    "description": "AI media creation has expanded to incredible video art and a host of other important improvements, and LimeWire is leading the way in creating an awesome interface for the average user to become an AI artist. Limewire has just released its Developer ",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "datetimestamp": "2024-03-25T21:50:46",
+    "source": "David Walsh Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "I\u2019m So Old:  Web Edition",
+    "link": "https://davidwalsh.name/im-so-old-1",
+    "description": "Time can be a funny thing. I still remember discovering HTML, CSS, and JavaScript coding. I still remember my first college programming course. I still remember my first day at my first coding job, then my first day at my second coding job, and then ",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "datetimestamp": "2024-03-18T13:00:20",
+    "source": "David Walsh Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "Detect Caps Lock with JavaScript",
+    "link": "https://davidwalsh.name/detect-caps-lock",
+    "description": "Anyone is capable of having their caps lock key on at any given time without realizing so. Users can easily spot unwanted caps lock when typing in most inputs, but when using a password input, the problem isn&#8217;t so obvious. That leads to the use",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "datetimestamp": "2024-02-06T10:33:10",
+    "source": "David Walsh Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "How to Override width and height HTML attributes with CSS",
+    "link": "https://davidwalsh.name/css-override-width-height",
+    "description": "One of the HTML elements that frequently comes into collision with CSS is the img element. As we learned in Request Metrics&#8217; Fixing Cumulative Layout Shift Problems on DavidWalshBlog article, providing image dimensions within the image tag will",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "datetimestamp": "2024-02-05T11:28:01",
+    "source": "David Walsh Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "Fixing Cumulative Layout Shift Problems on DavidWalshBlog",
+    "link": "https://davidwalsh.name/fixing-cumulative-layout-shift-problems-on-davidwalshblog",
+    "description": "Over 50 thousand developers visit DavidWalshBlog every month from around the world to learn JavaScript tricks and fix problems in their code. Unfortunately, some of them have a slow experience on the site. David tracks the performance of his Core Web",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "datetimestamp": "2024-01-24T11:56:41",
+    "source": "David Walsh Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "Date.now()",
+    "link": "https://davidwalsh.name/date-now",
+    "description": "Ask any software engineer and they&#8217;ll tell you that coding date logic can be a nightmare. Developers need to consider timezones, weird date defaults, and platform-specific date formats. The easiest way to work with dates is to reduce the date t",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "datetimestamp": "2024-01-17T12:06:16",
+    "source": "David Walsh Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "Extract a Number from a String with JavaScript",
+    "link": "https://davidwalsh.name/javascript-extract-string",
+    "description": "User input from HTML form fields is generally provided to JavaScript as a string. We&#8217;ve lived with that fact for decades but sometimes developers need to extract numbers from that string. There are multiple ways to get those numbers but let&#82",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "datetimestamp": "2024-01-16T11:48:41",
+    "source": "David Walsh Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "Thoughts on Streaming Services: 2024 Edition",
+    "link": "https://davidwalsh.name/streaming-2024",
+    "description": "Streaming services have revolutionized content delivery, sending linear media companies into a panic as they watch traditional cable services decay. &#8220;Cutting the cord&#8221; is a common practice these days, but the streaming landscape isn&#8217",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "datetimestamp": "2024-01-15T11:08:32",
+    "source": "David Walsh Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "AutoGrow Textareas with CSS",
+    "link": "https://davidwalsh.name/autogrow-textareas",
+    "description": "As the demands of the web change and developers experiment with different user experiences, the need for more native language improvements expands. Our presentation layer, CSS, has done incredibly well in improving capabilities, even if sometimes too",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "datetimestamp": "2023-12-18T11:55:51",
+    "source": "David Walsh Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "How to Play Grand Poo World 3",
+    "link": "https://davidwalsh.name/play-grand-poo-world-3",
+    "description": "The underground world of creating and streaming Super Mario World-based ROM hacks continues to gain popularity. This popularity is a tribute to the creativity of gamers and the quality of the original 30 year old video game&#8217;s mechanics. Over th",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "datetimestamp": "2023-11-28T00:35:41",
+    "source": "David Walsh Blog",
+    "category": "Frontend"
+  }
+]

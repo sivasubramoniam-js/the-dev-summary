@@ -1,0 +1,191 @@
+[
+  {
+    "title": "The \u201cBug-Free\u201d Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
+    "link": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
+    "description": "AI tools are eliminating the need to \u201cbug\u201d colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impa",
+    "image": "https://files.smashing.media/articles/bug-free-workforce/1-ai-driven-efficiency-weaken-team-cohesion.jpg",
+    "datetimestamp": "2026-04-27T10:00:00",
+    "source": "Smashing Magazine",
+    "category": "Design"
+  },
+  {
+    "title": "The UX Designer\u2019s Nightmare: When \u201cProduction-Ready\u201d Becomes A Design Deliverable",
+    "link": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
+    "description": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what\u2019s gained, what\u2019s lost, and why designers need to remain the guardians of the user ex",
+    "image": "https://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/1-figma.jpg",
+    "datetimestamp": "2026-04-22T10:00:00",
+    "source": "Smashing Magazine",
+    "category": "Design"
+  },
+  {
+    "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
+    "link": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/",
+    "description": "Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session manage",
+    "image": "https://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/1-timeout-pattern-fail-accessibility.png",
+    "datetimestamp": "2026-04-20T13:00:00",
+    "source": "Smashing Magazine",
+    "category": "Design"
+  },
+  {
+    "title": "How To Improve UX In Legacy Systems",
+    "link": "https://smashingmagazine.com/2026/04/legacy-systems/",
+    "description": "Practical guidelines for driving UX impact in organizations with legacy systems and broken processes. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.",
+    "image": "https://files.smashing.media/articles/how-improve-ux-legacy-systems/1-cash-register.jpg",
+    "datetimestamp": "2026-04-10T13:00:00",
+    "source": "Smashing Magazine",
+    "category": "Design"
+  },
+  {
+    "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
+    "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
+    "description": "Designing for agentic AI requires attention to both the system\u2019s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the ri",
+    "image": "https://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/1-decision-node-structure.png",
+    "datetimestamp": "2026-04-07T10:00:00",
+    "source": "Smashing Magazine",
+    "category": "Design"
+  },
+  {
+    "title": "A Practical Guide To Design Principles",
+    "link": "https://smashingmagazine.com/2026/04/practical-guide-design-principles/",
+    "description": "Design principles with references, examples, and methods for quick look-up. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
+    "image": "https://files.smashing.media/articles/stop-endless-debates-design-principles/1-principles-good-design.jpg",
+    "datetimestamp": "2026-04-01T10:00:00",
+    "source": "Smashing Magazine",
+    "category": "Design"
+  },
+  {
+    "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
+    "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
+    "description": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you\u2019re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring \u2014 and maybe spark some ne",
+    "image": "https://files.smashing.media/articles/desktop-wallpaper-calendars-april-2026/apr-26-april-blooms-preview-opt.png",
+    "datetimestamp": "2026-03-31T11:00:00",
+    "source": "Smashing Magazine",
+    "category": "Design"
+  },
+  {
+    "title": "The Site-Search Paradox: Why The Big Box Always Wins",
+    "link": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
+    "description": "Success in modern UX isn\u2019t about having the most content. It\u2019s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single pa",
+    "image": "https://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/1-keyword-semantic-search.jpg",
+    "datetimestamp": "2026-03-26T10:00:00",
+    "source": "Smashing Magazine",
+    "category": "Design"
+  },
+  {
+    "title": "Testing Font Scaling For Accessibility With Figma Variables",
+    "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
+    "description": "Accessibility works best when it blends into everyday design workflows. The goal isn\u2019t a big transformation, but simple work processes that fit naturally into a team\u2019s routine. With Figma variables, testing font size increases becomes part of the des",
+    "image": "https://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/01-assistive-technologies.png",
+    "datetimestamp": "2026-03-24T13:00:00",
+    "source": "Smashing Magazine",
+    "category": "Design"
+  },
+  {
+    "title": "Modal vs. Separate Page: UX Decision Tree",
+    "link": "https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/",
+    "description": "How to choose between modals and pages, when to avoid modals, and how to determine the right level of interruption or navigation. Brought to you by Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.",
+    "image": "https://files.smashing.media/articles/modal-separate-page-ux-decision-tree/2-modal-nonmodal-lightbox-nonlightbox-dialog-boxes.jpg",
+    "datetimestamp": "2026-03-19T15:00:00",
+    "source": "Smashing Magazine",
+    "category": "Design"
+  },
+  {
+    "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
+    "link": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
+    "description": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn\u2019s Superman manage emotional shifts and translating ",
+    "image": "https://files.smashing.media/articles/anime-marvel-dc-designing-digital-products-emotion-flow/1-dan-da-dan.jpg",
+    "datetimestamp": "2026-03-17T10:00:00",
+    "source": "Smashing Magazine",
+    "category": "Design"
+  },
+  {
+    "title": "Moving From Moment.js To The JS Temporal API",
+    "link": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
+    "description": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attard",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-03-13T13:00:00",
+    "source": "Smashing Magazine",
+    "category": "Design"
+  },
+  {
+    "title": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI",
+    "link": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
+    "description": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the do",
+    "image": "https://files.smashing.media/articles/beyond-border-radius-css-corner-shape-property-ui/1-product-cards-corner-badges.png",
+    "datetimestamp": "2026-03-12T10:00:00",
+    "source": "Smashing Magazine",
+    "category": "Design"
+  },
+  {
+    "title": "Building Dynamic Forms In React And Next.js",
+    "link": "https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/",
+    "description": "Some forms stay UI, while others quietly become rule engines. Here\u2019s why these two different approaches exist and how to choose between them.",
+    "image": "https://files.smashing.media/articles/building-dynamic-forms-react-next-js/1-dynamic-form.png",
+    "datetimestamp": "2026-03-10T13:00:00",
+    "source": "Smashing Magazine",
+    "category": "Design"
+  },
+  {
+    "title": "Persuasive Design: Ten Years Later",
+    "link": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
+    "description": "Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention \u2013 only to see results plateau or slip into shallow gamification. Anders Toxboe updates persuasive design f",
+    "image": "https://files.smashing.media/articles/persuasive-design-ten-years-later/1-behavioral-design.png",
+    "datetimestamp": "2026-03-09T11:00:00",
+    "source": "Smashing Magazine",
+    "category": "Design"
+  },
+  {
+    "title": "Human Strategy In An AI-Accelerated Workflow",
+    "link": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
+    "description": "UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has never been only about creating interfaces. It\u2019s about",
+    "image": "https://files.smashing.media/articles/human-strategy-ai-accelerated-workflow/1-mckinseys-report-generative-ai.png",
+    "datetimestamp": "2026-03-06T08:00:00",
+    "source": "Smashing Magazine",
+    "category": "Design"
+  },
+  {
+    "title": "Now Shipping: Accessible UX Research, A New Smashing Book By Michele Williams",
+    "link": "https://smashingmagazine.com/2026/03/accessible-ux-research-release/",
+    "description": "Our newest Smashing Book, \u201cAccessible UX Research\u201d by Michele Williams, is finally shipping worldwide \u2014 and we couldn\u2019t be happier! This book is about research, but you\u2019ll also learn about assistive technology, different types of disability, and how ",
+    "image": "https://files.smashing.media/articles/accessible-ux-research-release/accessible-ux-research-coffee.png",
+    "datetimestamp": "2026-03-03T15:00:00",
+    "source": "Smashing Magazine",
+    "category": "Design"
+  },
+  {
+    "title": "Getting Started With The Popover API",
+    "link": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
+    "description": "What happens if you rebuild a single tooltip using the browser\u2019s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard inte",
+    "image": "https://files.smashing.media/articles/getting-started-popover-api/1-popover-api.png",
+    "datetimestamp": "2026-03-02T10:00:00",
+    "source": "Smashing Magazine",
+    "category": "Design"
+  },
+  {
+    "title": "Fresh Energy In March (2026 Wallpapers Edition)",
+    "link": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
+    "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring \u2014 and, ",
+    "image": "https://files.smashing.media/articles/desktop-wallpaper-calendars-march-2026/mar-26-timid-blossom-preview-opt.png",
+    "datetimestamp": "2026-02-28T09:00:00",
+    "source": "Smashing Magazine",
+    "category": "Design"
+  },
+  {
+    "title": "Say Cheese! Meet SmashingConf Amsterdam \ud83c\uddf3\ud83c\uddf1",
+    "link": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
+    "description": "Meet our brand new conference for designers and UI engineers who love the web. That\u2019s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Path\u00e9 Tuschinski, on April 13&ndash;16, 2026.",
+    "image": "https://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue.png",
+    "datetimestamp": "2026-02-26T11:00:00",
+    "source": "Smashing Magazine",
+    "category": "Design"
+  },
+  {
+    "title": "A Designer\u2019s Guide To Eco-Friendly Interfaces",
+    "link": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
+    "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of \u201cunlimited pixels\u201d and reframes performance as responsibility. In 2026, truly sophisticated design is defined not ",
+    "image": "https://files.smashing.media/articles/designer-guide-eco-friendly-interfaces/1-dark-mode-light-mode.jpg",
+    "datetimestamp": "2026-02-23T10:00:00",
+    "source": "Smashing Magazine",
+    "category": "Design"
+  }
+]

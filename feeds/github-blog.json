@@ -1,0 +1,101 @@
+[
+  {
+    "title": "GitHub Copilot is moving to usage-based billing",
+    "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+    "description": "Starting June 1, your Copilot usage will consume GitHub AI Credits.\nThe post GitHub Copilot is moving to usage-based billing appeared first on The GitHub Blog.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T15:58:22",
+    "source": "GitHub Blog",
+    "category": "GitHub Projects"
+  },
+  {
+    "title": "Changes to GitHub Copilot Individual plans",
+    "link": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+    "description": "We're making these changes to ensure a reliable and predictable experience for existing customers.\nThe post Changes to GitHub Copilot Individual plans appeared first on The GitHub Blog.",
+    "image": "https://github.blog/wp-content/uploads/2026/04/Screenshot-2026-04-20-at-2.05.12-PM.png?resize=1024%2C898",
+    "datetimestamp": "2026-04-20T18:15:28",
+    "source": "GitHub Blog",
+    "category": "GitHub Projects"
+  },
+  {
+    "title": "Highlights from Git 2.54",
+    "link": "https://github.blog/open-source/git/highlights-from-git-2-54/",
+    "description": "The open source Git project just released Git 2.54. Here is GitHub\u2019s look at some of the most interesting features and changes introduced since last time.\nThe post Highlights from Git 2.54 appeared first on The GitHub Blog.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-20T16:43:57",
+    "source": "GitHub Blog",
+    "category": "GitHub Projects"
+  },
+  {
+    "title": "Building an emoji list generator with the GitHub Copilot CLI",
+    "link": "https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/",
+    "description": "See how we created an emoji list generator during the Rubber Duck Thursday stream.\nThe post Building an emoji list generator with the GitHub Copilot CLI appeared first on The GitHub Blog.",
+    "image": "https://github.blog/wp-content/uploads/2026/04/list.png?resize=1869%2C1944",
+    "datetimestamp": "2026-04-17T18:00:00",
+    "source": "GitHub Blog",
+    "category": "GitHub Projects"
+  },
+  {
+    "title": "Bringing more transparency to GitHub\u2019s status page",
+    "link": "https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/",
+    "description": "Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform.\nThe post Bringing more transparency to GitHub\u2019s status page appeared first on The GitHub Blog.",
+    "image": "https://github.blog/wp-content/uploads/2026/04/image-6.png?resize=2084%2C1756",
+    "datetimestamp": "2026-04-17T16:00:00",
+    "source": "GitHub Blog",
+    "category": "GitHub Projects"
+  },
+  {
+    "title": "How GitHub uses eBPF to improve deployment safety",
+    "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
+    "description": "Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. \nThe post How GitHub uses eBPF to improve deployment safety appeared first on The GitHub Blog.",
+    "image": "https://github.blog/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-6.36.24-PM.png?resize=1433%2C194",
+    "datetimestamp": "2026-04-16T16:00:00",
+    "source": "GitHub Blog",
+    "category": "GitHub Projects"
+  },
+  {
+    "title": "Build a personal organization command center with GitHub Copilot CLI",
+    "link": "https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/",
+    "description": "Learn about the productivity tool one GitHub engineer built, and how AI supported the development process.\nThe post Build a personal organization command center with GitHub Copilot CLI appeared first on The GitHub Blog.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-15T17:00:00",
+    "source": "GitHub Blog",
+    "category": "GitHub Projects"
+  },
+  {
+    "title": "Developer policy update: Intermediary liability, copyright, and transparency",
+    "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/",
+    "description": "We\u2019re sharing recent policy updates that developers should know about, updating our Transparency Center with the full year of 2025 data, and looking to what\u2019s ahead.\nThe post Developer policy update: Intermediary liability, copyright, and transparenc",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-15T15:00:00",
+    "source": "GitHub Blog",
+    "category": "GitHub Projects"
+  },
+  {
+    "title": "Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game",
+    "link": "https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/",
+    "description": "Learn to find and exploit real-world agentic AI vulnerabilities through five progressive challenges in this free, open source game that over 10,000 developers have already used to sharpen their security skills.\nThe post Hack the AI agent: Build agent",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-14T18:17:59",
+    "source": "GitHub Blog",
+    "category": "GitHub Projects"
+  },
+  {
+    "title": "How exposed is your code? Find out in minutes\u2014for free",
+    "link": "https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/",
+    "description": "The new Code Security Risk Assessment gives you a one-click view of vulnerabilities across your organization, at no cost.\nThe post How exposed is your code? Find out in minutes\u2014for free appeared first on The GitHub Blog.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-14T15:00:00",
+    "source": "GitHub Blog",
+    "category": "GitHub Projects"
+  },
+  {
+    "title": "GitHub for Beginners: Getting started with GitHub Pages",
+    "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/",
+    "description": "Learn how to create a free website for any repository on GitHub Pages.\nThe post GitHub for Beginners: Getting started with GitHub Pages appeared first on The GitHub Blog.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-13T15:00:00",
+    "source": "GitHub Blog",
+    "category": "GitHub Projects"
+  }
+]

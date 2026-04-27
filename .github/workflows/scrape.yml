@@ -1,0 +1,33 @@
+name: Tech News Engine
+
+on:
+  schedule:
+    - cron: '0 */4 * * *' # Every 4 hours
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Run Scraper
+        run: python scraper.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "sivasubramoniam-js"
+          git config --global user.email "122598293+sivasubramoniam-js@users.noreply.github.com"
+          git add news.json feeds/*.json tech_news.db backup.sql
+          git commit -m "Sync: 120+ feeds and database [skip ci]" || echo "No changes"
+          git push

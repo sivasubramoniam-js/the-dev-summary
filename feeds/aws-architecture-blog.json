@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Modernizing KYC with AWS serverless solutions and agentic AI for financial services",
+    "link": "https://aws.amazon.com/blogs/architecture/modernizing-kyc-with-aws-serverless-solutions-and-agentic-ai-for-financial-services/",
+    "description": "This post extends IBM's approach to real-time KYC validation using generative AI, as previously discussed in the post IBM Digital KYC on AWS uses Generative AI to transform Client Onboarding and KYC Operations. It transforms compliance operations thr",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/04/10/ARCHBLOG-1317-1.png",
+    "datetimestamp": "2026-04-23T13:20:43",
+    "source": "AWS Architecture Blog",
+    "category": "System Design"
+  },
+  {
+    "title": "PACIFIC enables multi-tenant, sovereign product carbon footprint exchange on the Catena-X data space using AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/pacific-enables-multi-tenant-sovereign-product-carbon-footprint-exchange-on-the-catena-x-data-space-using-aws/",
+    "description": "This post explores how PACIFIC enables multi-tenant, sovereign PCF exchange on the Catena-X data space using Amazon Elastic Container Service (Amazon ECS) on AWS Fargate, Amazon Cognito, and AWS Identity and Access Management (IAM) to deliver measura",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/04/15/ARCHBLOG-1358-1.png",
+    "datetimestamp": "2026-04-22T15:33:54",
+    "source": "AWS Architecture Blog",
+    "category": "System Design"
+  },
+  {
+    "title": "Real-time analytics: Oldcastle integrates Infor with Amazon Aurora and Amazon Quick Sight",
+    "link": "https://aws.amazon.com/blogs/architecture/real-time-analytics-oldcastle-integrates-infor-with-amazon-aurora-and-amazon-quick-sight/",
+    "description": "This post explores how Oldcastle used AWS services to transform their analytics and AI capabilities by integrating Infor ERP with Amazon Aurora and Amazon Quick Sight. We discuss how they overcame the limitations of traditional cloud ERP reporting to",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/06/archblog-12911.png",
+    "datetimestamp": "2026-04-21T16:37:12",
+    "source": "AWS Architecture Blog",
+    "category": "System Design"
+  },
+  {
+    "title": "Build a multi-tenant configuration system with tagged storage patterns",
+    "link": "https://aws.amazon.com/blogs/architecture/build-a-multi-tenant-configuration-system-with-tagged-storage-patterns/",
+    "description": "In this post, we demonstrate how you can build a scalable, multi-tenant configuration service using the tagged storage pattern, an architectural approach that uses key prefixes (like tenant_config_ or param_config_) to automatically route configurati",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/04/03/ARCHBLOG-1417-image-11.png",
+    "datetimestamp": "2026-04-08T20:00:04",
+    "source": "AWS Architecture Blog",
+    "category": "System Design"
+  },
+  {
+    "title": "Unlock efficient model deployment: Simplified Inference Operator setup on Amazon SageMaker HyperPod",
+    "link": "https://aws.amazon.com/blogs/architecture/unlock-efficient-model-deployment-simplified-inference-operator-setup-on-amazon-sagemaker-hyperpod/",
+    "description": "In this post, we walk through the new installation experience, demonstrate three deployment methods (console, CLI, and Terraform), and show how features like multi-instance-type deployment and native node affinity give you fine-grained control over i",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/03/31/ARCHBLOG-1389-1.png",
+    "datetimestamp": "2026-04-06T21:14:13",
+    "source": "AWS Architecture Blog",
+    "category": "System Design"
+  },
+  {
+    "title": "Automate safety monitoring with computer vision and generative AI",
+    "link": "https://aws.amazon.com/blogs/architecture/automate-safety-monitoring-with-computer-vision-and-generative-ai/",
+    "description": "This post describes a solution that uses fixed camera networks to monitor operational environments in near real-time, detecting potential safety hazards while capturing object floor projections and their relationships to floor markings. While we illu",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/03/27/ML-ARCHBLOG-1344-image-1.png",
+    "datetimestamp": "2026-04-01T18:59:02",
+    "source": "AWS Architecture Blog",
+    "category": "System Design"
+  },
+  {
+    "title": "Streamlining access to powerful disaster recovery capabilities of AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/streamlining-access-to-powerful-disaster-recovery-capabilities-of-aws/",
+    "description": "In this blog post, we take a building blocks approach. Starting with the tools like AWS Backup to protect your data, we then add protection for Amazon Elastic Compute Cloud (Amazon EC2) compute using AWS Elastic Disaster Recovery (AWS DRS). Finally, ",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/03/25/ARCHBLOG-1174-image-1.png",
+    "datetimestamp": "2026-03-31T18:00:38",
+    "source": "AWS Architecture Blog",
+    "category": "System Design"
+  },
+  {
+    "title": "How Aigen transformed agricultural robotics for sustainable farming with Amazon SageMaker AI",
+    "link": "https://aws.amazon.com/blogs/architecture/how-aigen-transformed-agricultural-robotics-for-sustainable-farming-with-amazon-sagemaker-ai/",
+    "description": "In this post, you will learn how Aigen modernized its machine learning (ML) pipeline with Amazon SageMaker AI to overcome industry-wide agricultural robotics challenges and scale sustainable farming. This post focuses on the strategies and architectu",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/03/23/ARCHBLOG-1379-image-1.jpeg",
+    "datetimestamp": "2026-03-30T15:36:36",
+    "source": "AWS Architecture Blog",
+    "category": "System Design"
+  },
+  {
+    "title": "Architecting for agentic AI development on AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/architecting-for-agentic-ai-development-on-aws/",
+    "description": "In this post, we demonstrate how to architect AWS systems that enable AI agents to iterate rapidly through design patterns for both system architecture and code base structure. We first examine the architectural problems that limit agentic developmen",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/03/17/ARCHBLOG-1295-1-1.jpeg",
+    "datetimestamp": "2026-03-26T17:29:57",
+    "source": "AWS Architecture Blog",
+    "category": "System Design"
+  },
+  {
+    "title": "How Generali Malaysia optimizes operations with Amazon EKS",
+    "link": "https://aws.amazon.com/blogs/architecture/how-generali-malaysia-optimizes-operations-with-amazon-eks/",
+    "description": "In this post, we look at how Generali is using Amazon EKS Auto Mode and its integration with other AWS services to enhance performance while reducing operational overhead, optimizing costs, and enhancing security.",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/02/11/ARCHBLOG-1269-2.png",
+    "datetimestamp": "2026-03-23T22:51:02",
+    "source": "AWS Architecture Blog",
+    "category": "System Design"
+  },
+  {
+    "title": "AI-powered event response for Amazon EKS",
+    "link": "https://aws.amazon.com/blogs/architecture/ai-powered-event-response-for-amazon-eks/",
+    "description": "In this post, you'll learn how AWS DevOps Agent integrates with your existing observability stack to provide intelligent, automated responses to system events.",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/03/11/DevOps-Agent.png",
+    "datetimestamp": "2026-03-18T18:23:37",
+    "source": "AWS Architecture Blog",
+    "category": "System Design"
+  },
+  {
+    "title": "The Hidden Price Tag: Uncovering Hidden Costs in Cloud Architectures with the AWS Well-Architected Framework",
+    "link": "https://aws.amazon.com/blogs/architecture/the-hidden-price-tag-uncovering-hidden-costs-in-cloud-architectures-with-the-aws-well-architected-framework/",
+    "description": "In this post, we discuss how following the AWS Cloud Adoption Framework (AWS CAF) and AWS Well-Architected Framework can help reduce these risks through proper implementation of AWS guidance and best practices while taking into consideration the prac",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-03-03T16:08:00",
+    "source": "AWS Architecture Blog",
+    "category": "System Design"
+  },
+  {
+    "title": "Digital Transformation at Santander: How Platform Engineering is Revolutionizing Cloud Infrastructure",
+    "link": "https://aws.amazon.com/blogs/architecture/digital-transformation-at-santander-how-platform-engineering-is-revolutionizing-cloud-infrastructure/",
+    "description": "Santander faced a significant technical challenge in managing an infrastructure that processes billions of daily transactions across more than 200 critical systems. The solution emerged through an innovative platform engineering initiative called Cat",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/01/26/ARCHBLOG-12991.png",
+    "datetimestamp": "2026-02-26T17:54:12",
+    "source": "AWS Architecture Blog",
+    "category": "System Design"
+  },
+  {
+    "title": "6,000 AWS accounts, three people, one platform: Lessons learned",
+    "link": "https://aws.amazon.com/blogs/architecture/6000-aws-accounts-three-people-one-platform-lessons-learned/",
+    "description": "This post describes why ProGlove chose a account-per-tenant approach for our serverless SaaS architecture and how it changes the operational model. It covers the challenges you need to anticipate around automation, observability and cost. We will als",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/02/17/ARCHBLOG-1310-1.png",
+    "datetimestamp": "2026-02-25T19:47:07",
+    "source": "AWS Architecture Blog",
+    "category": "System Design"
+  },
+  {
+    "title": "How Convera built fine-grained API authorization with Amazon Verified Permissions",
+    "link": "https://aws.amazon.com/blogs/architecture/how-convera-built-fine-grained-api-authorization-with-amazon-verified-permissions/",
+    "description": "In this post, we share how Convera used Amazon Verified Permissions to build a fine-grained authorization model for their API platform.",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/02/02/image-archblog-11401.png",
+    "datetimestamp": "2026-02-05T21:21:54",
+    "source": "AWS Architecture Blog",
+    "category": "System Design"
+  },
+  {
+    "title": "Mastering millisecond latency and millions of events: The event-driven architecture behind the Amazon Key Suite",
+    "link": "https://aws.amazon.com/blogs/architecture/mastering-millisecond-latency-and-millions-of-events-the-event-driven-architecture-behind-the-amazon-key-suite/",
+    "description": "In this post, we explore how the Amazon Key team used Amazon EventBridge to modernize their architecture, transforming a tightly coupled monolithic system into a resilient, event-driven solution.&nbsp;We explore the technical challenges we faced, our",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/02/03/HLD-1.png",
+    "datetimestamp": "2026-02-04T15:53:39",
+    "source": "AWS Architecture Blog",
+    "category": "System Design"
+  },
+  {
+    "title": "Sovereign failover \u2013 Design for digital sovereignty using the AWS European Sovereign Cloud",
+    "link": "https://aws.amazon.com/blogs/architecture/sovereign-failover-design-for-digital-sovereignty-using-the-aws-european-sovereign-cloud/",
+    "description": "This post explores the architectural patterns, challenges, and best practices for building cross-partition failover, covering network connectivity, authentication, and governance. By understanding these constraints, you can design resilient cloud-nat",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/01/29/l-archblog-1320-1-1024x482.jpeg",
+    "datetimestamp": "2026-01-30T19:09:35",
+    "source": "AWS Architecture Blog",
+    "category": "System Design"
+  },
+  {
+    "title": "How Artera enhances prostate cancer diagnostics using AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/how-artera-enhances-prostate-cancer-diagnostics-using-aws/",
+    "description": "In this post, we explore how Artera used Amazon Web Services (AWS) to develop and scale their AI-powered prostate cancer test, accelerating time to results and enabling personalized treatment recommendations for patients.",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/01/16/ARCH-13411.png",
+    "datetimestamp": "2026-01-29T17:06:57",
+    "source": "AWS Architecture Blog",
+    "category": "System Design"
+  },
+  {
+    "title": "How Salesforce migrated from Cluster Autoscaler to Karpenter across their fleet of 1,000 EKS clusters",
+    "link": "https://aws.amazon.com/blogs/architecture/how-salesforce-migrated-from-cluster-autoscaler-to-karpenter-across-their-fleet-of-1000-eks-clusters/",
+    "description": "This blog post examines how Salesforce, operating one of the world's largest Kubernetes deployments, successfully migrated from Cluster Autoscaler to Karpenter across their fleet of 1,000 plus Amazon Elastic Kubernetes Service (Amazon EKS) clusters.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-01-12T20:03:32",
+    "source": "AWS Architecture Blog",
+    "category": "System Design"
+  },
+  {
+    "title": "Architecting conversational observability for cloud applications",
+    "link": "https://aws.amazon.com/blogs/architecture/architecting-conversational-observability-for-cloud-applications/",
+    "description": "In this post, we walk through building a generative AI\u2013powered troubleshooting assistant for Kubernetes. The goal is to give engineers a faster, self-service way to diagnose and resolve cluster issues, cut down Mean Time to Recovery (MTTR), and reduc",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2025/10/06/arch1266-img1.png",
+    "datetimestamp": "2025-12-11T15:59:39",
+    "source": "AWS Architecture Blog",
+    "category": "System Design"
+  }
+]

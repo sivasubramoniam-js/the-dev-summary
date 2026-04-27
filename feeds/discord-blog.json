@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Measure Less to Learn More: Using Fewer, Higher-quality Metrics to Capture What Matters",
+    "link": "https://discord.com/blog/measure-less-to-learn-more-using-fewer-higher-quality-metrics-to-capture-what-matters",
+    "description": "Too many experiment metrics can make meaningful changes harder to detect. Learn how Discord used simulations and Principal Component Analysis to maximize signal and reduce noise.",
+    "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/6806ad72843df60c11e54f23_image4.png",
+    "datetimestamp": "2026-04-24T00:00:00",
+    "source": "Discord Blog",
+    "category": "Engineering"
+  },
+  {
+    "title": "Making Discord on Desktop Look Just Right: Display Settings to Ease the Eyes",
+    "link": "https://discord.com/blog/making-discord-on-desktop-look-just-right-display-settings-to-ease-the-eyes",
+    "description": "Learn all sorts of toggles, options, and features on Discord\u2019s desktop app to help you view media at your pace, lower the strength of colors across the app, and make app content easier to see.",
+    "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/6853360f59d0d7fd18e594a6_image6.png",
+    "datetimestamp": "2026-04-16T00:00:00",
+    "source": "Discord Blog",
+    "category": "Engineering"
+  },
+  {
+    "title": "Discord Patch Notes: April 6, 2026",
+    "link": "https://discord.com/blog/discord-patch-notes-april-6-2026",
+    "description": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+    "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/683a385e31ae16bd173ee8d9_image2.png",
+    "datetimestamp": "2026-04-06T00:00:00",
+    "source": "Discord Blog",
+    "category": "Engineering"
+  },
+  {
+    "title": "MULTIPLAYER SEQUEL TO ACCLAIMED AAAA GAME \u201cTHE LAST MEADOW\u201d ANNOUNCED: PLAYABLE NOW",
+    "link": "https://discord.com/blog/last-meadow-online-announcement",
+    "description": "Band together with Discordians from across the world in Last Meadow Online, the world\u2019s first DBMMIRPG. Available to play until April 7, 2026.",
+    "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/69cc591b3990198abf5e3617_DIS26_WEBBANNER.png",
+    "datetimestamp": "2026-04-01T00:00:00",
+    "source": "Discord Blog",
+    "category": "Engineering"
+  },
+  {
+    "title": "How Multi-Factor Authentication Helps Keep Your Discord Account Safe",
+    "link": "https://discord.com/blog/keeping-discord-safe-and-sound",
+    "description": "A Discord account is more than just your username and avatar. That\u2019s why it\u2019s important to help keep your account safe and secure by using Multi-Factor Authentication, SMS Backup Authentication & QR Code Login. Learn how to keep your account more sec",
+    "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/61f2eb202125983477455f6e_Discord-2FA-Blog-Header.png",
+    "datetimestamp": "2026-03-27T00:00:00",
+    "source": "Discord Blog",
+    "category": "Engineering"
+  },
+  {
+    "title": "Discord Update: March 24, 2026 Changelog",
+    "link": "https://discord.com/blog/discord-update-march-24-2026-changelog",
+    "description": "Here's the Discord Changelog from March 24, 2026, so you can stay informed on what\u2019s new in recent app updates!",
+    "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/65e0d5d41a1beac596a12aaa_March%20Changelog%20Headers.png",
+    "datetimestamp": "2026-03-24T00:00:00",
+    "source": "Discord Blog",
+    "category": "Engineering"
+  },
+  {
+    "title": "How ROOST is Advancing Online Safety",
+    "link": "https://discord.com/blog/how-roost-is-advancing-online-safety",
+    "description": "The threat landscape online has shifted dramatically. Many online platforms are left to reinvent safety tools from scratch. That\u2019s the gap ROOST was built to close \u2014 and it\u2019s why open-sourcing battle-tested tools like Osprey matters so much.",
+    "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/68090f03d6cb868fab0af03c_2024_10_DiscordBlog_CompanyAnnoucements-1.png",
+    "datetimestamp": "2026-03-16T00:00:00",
+    "source": "Discord Blog",
+    "category": "Engineering"
+  },
+  {
+    "title": "You\u2019re Now Discord Official: Developers, Claim Your Game and Verify Your Server",
+    "link": "https://discord.com/blog/claim-your-game",
+    "description": "Developers can now claim and customize their game\u2019s profiles on Discord. Curate your game\u2019s presence on the platform to help people discover more about your game, and get your server verified in the process! Read on to see how it works.",
+    "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/69b0462c05e2cfb5433031ce_game-claiming-blog-1800x720.png",
+    "datetimestamp": "2026-03-12T00:00:00",
+    "source": "Discord Blog",
+    "category": "Engineering"
+  },
+  {
+    "title": "Building on the Social Layer of Games: What\u2019s New from GDC 2026",
+    "link": "https://discord.com/blog/building-on-the-social-layer-of-games-whats-new-from-gdc-2026",
+    "description": "At GDC 2026, Discord gives developers more ways to close the gap between connection and play.",
+    "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/69ab2ba75deb42d5757ebfe2_MarvelRivals-AccLinking-hero-BLOG-March-1800x720.png",
+    "datetimestamp": "2026-03-09T00:00:00",
+    "source": "Discord Blog",
+    "category": "Engineering"
+  },
+  {
+    "title": "Discord Patch Notes: March 6, 2026",
+    "link": "https://discord.com/blog/discord-patch-notes-march-6-2026",
+    "description": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+    "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/683a385e31ae16bd173ee8d9_image2.png",
+    "datetimestamp": "2026-03-06T00:00:00",
+    "source": "Discord Blog",
+    "category": "Engineering"
+  },
+  {
+    "title": "Tracing Discord's Elixir Systems (Without Melting Everything)",
+    "link": "https://discord.com/blog/tracing-discords-elixir-systems-without-melting-everything",
+    "description": "Join Senior Software Engineer Nick Krichevsky as he explains how Discord added distributed tracing to Elixir's message passing and optimized it to handle millions of concurrent users.",
+    "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/69a86c2c6af0e7ddd8398c2f_2024_10_DiscordBlog_Safety-2.png",
+    "datetimestamp": "2026-03-04T00:00:00",
+    "source": "Discord Blog",
+    "category": "Engineering"
+  },
+  {
+    "title": "Getting Global Age Assurance Right: What We Got Wrong and What's Changing",
+    "link": "https://discord.com/blog/getting-global-age-assurance-right-what-we-got-wrong-and-whats-changing",
+    "description": "Discord's CTO addresses community concerns about age assurance: no mass ID collection, new vendor transparency commitments, and a delayed global launch until second half of 2026.",
+    "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/67d0c4e0932bb59c7f6271e5_2024_10_DiscordBlog_UsingDiscord-1.png",
+    "datetimestamp": "2026-02-24T00:00:00",
+    "source": "Discord Blog",
+    "category": "Engineering"
+  },
+  {
+    "title": "Osprey: Open Sourcing our Rule Engine",
+    "link": "https://discord.com/blog/osprey-open-sourcing-our-rule-engine",
+    "description": "Discord uses Osprey to quickly detect and remove new types of harm from putting our customers at risk. Now we\u2019re open-sourcing this tool so others can do the same.",
+    "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/68c465a0050ca83bcc5934ef_image2.png",
+    "datetimestamp": "2026-02-19T00:00:00",
+    "source": "Discord Blog",
+    "category": "Engineering"
+  },
+  {
+    "title": "How to Change Your Theme to Bring Your Vibe to Discord",
+    "link": "https://discord.com/blog/bring-your-vibe-to-discord-with-new-themes-in-nitro",
+    "description": "Add a splash of personality and make Discord pop by changing Discord\u2019s color scheme! Learn how to adjust the look of Discord on both desktop and mobile.",
+    "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/64121f8765e921a28f9a2b54_Discord%20HQ%20-%202.png",
+    "datetimestamp": "2026-02-19T00:00:00",
+    "source": "Discord Blog",
+    "category": "Engineering"
+  },
+  {
+    "title": "Discord Patch Notes: February 4, 2026",
+    "link": "https://discord.com/blog/discord-patch-notes-february-4-2026",
+    "description": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+    "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/683a385e31ae16bd173ee8d9_image2.png",
+    "datetimestamp": "2026-02-04T00:00:00",
+    "source": "Discord Blog",
+    "category": "Engineering"
+  },
+  {
+    "title": "How to Customize Your Discord Profile",
+    "link": "https://discord.com/blog/how-to-customize-your-discord-profile",
+    "description": "Make your first impression count with a profile that represents you how YOU want to be seen. Learn how to edit and customize your profile to have it rep you the right way.",
+    "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/681939dfe8fd42947e36366d_2024_10_DiscordBlog_Educational-4.png",
+    "datetimestamp": "2026-02-02T00:00:00",
+    "source": "Discord Blog",
+    "category": "Engineering"
+  },
+  {
+    "title": "How to Make and Use Custom Emoji on Discord",
+    "link": "https://discord.com/blog/beginners-guide-to-custom-emojis",
+    "description": "Emojis on Discord are special \u2014 you can make a little picture out of almost any symbol, in-joke, or bizarre late-night inspiration.",
+    "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/63603f76620d3470d9bd3f1f_2022_EmojiSurvey_HEADER_2%20(1).png",
+    "datetimestamp": "2025-12-12T00:00:00",
+    "source": "Discord Blog",
+    "category": "Engineering"
+  },
+  {
+    "title": "Discord Patch Notes: December 8, 2025",
+    "link": "https://discord.com/blog/discord-patch-notes-december-8-2025",
+    "description": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+    "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/683a385e31ae16bd173ee8d9_image2.png",
+    "datetimestamp": "2025-12-08T00:00:00",
+    "source": "Discord Blog",
+    "category": "Engineering"
+  },
+  {
+    "title": "Gift Ideas for the Dedicated Discord User in Your Life",
+    "link": "https://discord.com/blog/gift-ideas-for-the-discord-user",
+    "description": "We\u2019ve got plenty of gift ideas, from those who game through the night, to those who decorate their profile just right \u2014 let\u2019s dig in!",
+    "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/69370de739d6d3c5ec3739da_NitroHoliday_BlogHeader_Final_V2%20(1).png",
+    "datetimestamp": "2025-12-08T00:00:00",
+    "source": "Discord Blog",
+    "category": "Engineering"
+  },
+  {
+    "title": "Your Discord Checkpoint is Rolling Out! Celebrate What You Did in 2025",
+    "link": "https://discord.com/blog/checkpoint-2025-discord-year-in-review",
+    "description": "How many messages did you send? How long did you hang out in voice? Who\u2019d you talk with the most? Stop by your end-of-year Checkpoint, a recap of the stuff YOU did on Discord throughout the year!",
+    "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/692f703325021d1d0a33f1eb_BlogBanner_1800x720%20(1).png",
+    "datetimestamp": "2025-12-04T00:00:00",
+    "source": "Discord Blog",
+    "category": "Engineering"
+  }
+]

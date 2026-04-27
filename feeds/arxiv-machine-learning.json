@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Focus Session: Hardware and Software Techniques for Accelerating Multimodal Foundation Models",
+    "link": "https://arxiv.org/abs/2604.21952",
+    "description": "arXiv:2604.21952v1 Announce Type: new \nAbstract: This work presents a multi-layered methodology for efficiently accelerating multimodal foundation models (MFMs). It combines hardware and software co-design of transformer blocks with an optimization p",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Machine Learning",
+    "category": "Research"
+  },
+  {
+    "title": "Performance Anomaly Detection in Athletics: A Benchmarking System with Visual Analytics",
+    "link": "https://arxiv.org/abs/2604.21953",
+    "description": "arXiv:2604.21953v1 Announce Type: new \nAbstract: Anti-doping programs rely on biological testing to detect performance-enhancing drugs, but such testing costs over $800 per sample and is limited by short detection windows for many prohibited substanc",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Machine Learning",
+    "category": "Research"
+  },
+  {
+    "title": "Conditional anomaly detection using soft harmonic functions: An application to clinical alerting",
+    "link": "https://arxiv.org/abs/2604.21956",
+    "description": "arXiv:2604.21956v1 Announce Type: new \nAbstract: Timely detection of concerning events is an important problem in clinical practice. In this paper, we consider the problem of conditional anomaly detection that aims to identify data instances with an ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Machine Learning",
+    "category": "Research"
+  },
+  {
+    "title": "Multi-Task Optimization over Networks of Tasks",
+    "link": "https://arxiv.org/abs/2604.21991",
+    "description": "arXiv:2604.21991v1 Announce Type: new \nAbstract: Multi-task optimization is a powerful approach for solving a large number of tasks in parallel. However, existing algorithms face distinct limitations: Population-based methods scale poorly and remain ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Machine Learning",
+    "category": "Research"
+  },
+  {
+    "title": "When Quotes Crumble: Detecting Transient Mechanical Liquidity Erosion in Limit Order Books",
+    "link": "https://arxiv.org/abs/2604.21993",
+    "description": "arXiv:2604.21993v1 Announce Type: new \nAbstract: We study the detection of transient liquidity erosion (\"crumbling quotes\") in electronic limit order books, where observable quote deterioration may reflect either mechanical liquidity withdrawal or in",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Machine Learning",
+    "category": "Research"
+  },
+  {
+    "title": "Universal Transformers Need Memory: Depth-State Trade-offs in Adaptive Recursive Reasoning",
+    "link": "https://arxiv.org/abs/2604.21999",
+    "description": "arXiv:2604.21999v1 Announce Type: new \nAbstract: We study learned memory tokens as computational scratchpad for a single-block Universal Transformer (UT) with Adaptive Computation Time (ACT) on Sudoku-Extreme, a combinatorial reasoning benchmark. We ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Machine Learning",
+    "category": "Research"
+  },
+  {
+    "title": "Mochi: Aligning Pre-training and Inference for Efficient Graph Foundation Models via Meta-Learning",
+    "link": "https://arxiv.org/abs/2604.22031",
+    "description": "arXiv:2604.22031v1 Announce Type: new \nAbstract: We propose Mochi, a Graph Foundation Model that addresses task unification and training efficiency by adopting a meta-learning based training framework. Prior models pre-train with reconstruction-based",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Machine Learning",
+    "category": "Research"
+  },
+  {
+    "title": "Kernel Contracts: A Specification Language for ML Kernel Correctness Across Heterogeneous Silicon",
+    "link": "https://arxiv.org/abs/2604.22032",
+    "description": "arXiv:2604.22032v1 Announce Type: new \nAbstract: Every ML kernel ships with an implicit contract about what it computes. People rarely write the contract down. When two kernels disagree -- when a matmul on AMD produces a different gradient than the s",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Machine Learning",
+    "category": "Research"
+  },
+  {
+    "title": "LTBs-KAN: Linear-Time B-splines Kolmogorov-Arnold Networks",
+    "link": "https://arxiv.org/abs/2604.22034",
+    "description": "arXiv:2604.22034v1 Announce Type: new \nAbstract: Kolmogorov-Arnold Networks (KANs) are a recent neural network architecture offering an alternative to Multilayer Perceptrons (MLPs) with improved explainability and expressibility. However, KANs are si",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Machine Learning",
+    "category": "Research"
+  },
+  {
+    "title": "LayerBoost: Layer-Aware Attention Reduction for Efficient LLMs",
+    "link": "https://arxiv.org/abs/2604.22050",
+    "description": "arXiv:2604.22050v1 Announce Type: new \nAbstract: Transformers are mostly relying on softmax attention, which introduces quadratic complexity with respect to sequence length and remains a major bottleneck for efficient inference. Prior work on linear ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Machine Learning",
+    "category": "Research"
+  },
+  {
+    "title": "Learning Coverage- and Power-Optimal Transmitter Placement from Building Maps: A Comparative Study of Direct and Indirect Neural Approaches",
+    "link": "https://arxiv.org/abs/2604.22056",
+    "description": "arXiv:2604.22056v1 Announce Type: new \nAbstract: Optimal wireless transmitter placement is a central task in radio-network planning, yet exhaustive search becomes prohibitively expensive at scale. This paper studies the single-transmitter setting und",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Machine Learning",
+    "category": "Research"
+  },
+  {
+    "title": "Reliability Auditing for Downstream LLM tasks in Psychiatry: LLM-Generated Hospitalization Risk Scores",
+    "link": "https://arxiv.org/abs/2604.22063",
+    "description": "arXiv:2604.22063v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly utilized in clinical reasoning and risk assessment. However, their interpretive reliability in critical and indeterminate domains such as psychiatry remain",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Machine Learning",
+    "category": "Research"
+  },
+  {
+    "title": "PrivUn: Unveiling Latent Ripple Effects and Shallow Forgetting in Privacy Unlearning",
+    "link": "https://arxiv.org/abs/2604.22076",
+    "description": "arXiv:2604.22076v1 Announce Type: new \nAbstract: Large language models (LLMs) often memorize private information during training, raising serious privacy concerns. While machine unlearning has emerged as a promising solution, its true effectiveness a",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Machine Learning",
+    "category": "Research"
+  },
+  {
+    "title": "Insect-inspired modular architectures as inductive biases for reinforcement learning",
+    "link": "https://arxiv.org/abs/2604.22081",
+    "description": "arXiv:2604.22081v1 Announce Type: new \nAbstract: Most reinforcement-learning (RL) controllers used in continuous control are architecturally centralized: observations are compressed into a single latent state from which both value estimates and actio",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Machine Learning",
+    "category": "Research"
+  },
+  {
+    "title": "Removing Sandbagging in LLMs by Training with Weak Supervision",
+    "link": "https://arxiv.org/abs/2604.22082",
+    "description": "arXiv:2604.22082v1 Announce Type: new \nAbstract: As AI systems begin to automate complex tasks, supervision increasingly relies on weaker models or limited human oversight that cannot fully verify output quality. A model more capable than its supervi",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Machine Learning",
+    "category": "Research"
+  },
+  {
+    "title": "Generating Synthetic Malware Samples Using Generative AI",
+    "link": "https://arxiv.org/abs/2604.22084",
+    "description": "arXiv:2604.22084v1 Announce Type: new \nAbstract: Malware attacks have a significant negative impact on organizations of varied scales in the field of cybersecurity. Recently, malware researchers have increasingly turned to machine learning techniques",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Machine Learning",
+    "category": "Research"
+  },
+  {
+    "title": "Assessing the impact of dimensionality reduction on clustering performance -- a systematic study",
+    "link": "https://arxiv.org/abs/2604.22099",
+    "description": "arXiv:2604.22099v1 Announce Type: new \nAbstract: Dimensionality reduction is a critical preprocessing step for clustering high-dimensional data, yet comprehensive evaluation of its impact across diverse methods and data types remains limited. In this",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Machine Learning",
+    "category": "Research"
+  },
+  {
+    "title": "Do Not Imitate, Reinforce: Iterative Classification via Belief Refinement",
+    "link": "https://arxiv.org/abs/2604.22110",
+    "description": "arXiv:2604.22110v1 Announce Type: new \nAbstract: Standard supervised classification trains models to imitate the exact labels provided by a perfect oracle. This imitation happens in a single pass, restricting the model to a fixed compute budget even ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Machine Learning",
+    "category": "Research"
+  },
+  {
+    "title": "PermaFrost-Attack: Stealth Pretraining Seeding(SPS) for planting Logic Landmines During LLM Training",
+    "link": "https://arxiv.org/abs/2604.22117",
+    "description": "arXiv:2604.22117v1 Announce Type: new \nAbstract: Aligned large language models(LLMs) remain vulnerable to adversarial manipulation, and their dependence on web-scale pretraining creates a subtle but serious attack surface. We study Stealth Pretrainin",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Machine Learning",
+    "category": "Research"
+  },
+  {
+    "title": "Reliable Self-Harm Risk Screening via Adaptive Multi-Agent LLM Systems",
+    "link": "https://arxiv.org/abs/2604.22154",
+    "description": "arXiv:2604.22154v1 Announce Type: new \nAbstract: Emerging AI systems in behavioral health and psychiatry use multi-step or multi-agent LLM pipelines for tasks like assessing self-harm risk and screening for depression. However, common evaluation appr",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Machine Learning",
+    "category": "Research"
+  }
+]

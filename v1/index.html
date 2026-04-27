@@ -502,7 +502,13 @@
     <header class="masthead">
         <div class="masthead-meta">
             <span id="dateDisplay"></span>
-            <span id="google_translate_element"></span>
+            <div style="display: flex; gap: 15px; align-items: center;">
+                <select id="feedFilter" onchange="handleFilterChange(this.value)"
+                    style="padding: 5px 10px; font-family: var(--font-mono); font-size: 0.8rem; border: 1px solid var(--border-color); background: var(--bg-page); outline: none; cursor: pointer; max-width: 300px;">
+                    <option value="news.json">All Headlines (Top 250)</option>
+                </select>
+                <span id="google_translate_element"></span>
+            </div>
         </div>
         <h1>The Daily Tech</h1>
         <p>Curated signals from the noise of the digital age.</p>
@@ -643,42 +649,21 @@
                     return matchedVoice;
                 };
 
-                let testUtterance = new SpeechSynthesisUtterance("test");
-                const hasNativeVoice = configureUtterance(testUtterance);
+                // Standardize utterance delivery directly to the OS Speech Synthesis engine.
+                // Modern browsers seamlessly map missing phonetic engines organically.
 
-                if (hasNativeVoice) {
-                    console.log("Native OS voice found. Using SpeechSynthesis API.", hasNativeVoice.name);
-                    let utterance = new SpeechSynthesisUtterance(title);
-                    configureUtterance(utterance);
-                    window.speechSynthesis.speak(utterance);
+                let utterance = new SpeechSynthesisUtterance(title);
+                configureUtterance(utterance);
+                window.speechSynthesis.speak(utterance);
 
-                    // add a pause of 1.25 second and speak the description
-                    utterance.onend = function (e) {
-                        let descUtterance = new SpeechSynthesisUtterance(description);
-                        configureUtterance(descUtterance);
-                        setTimeout(() => {
-                            window.speechSynthesis.speak(descUtterance);
-                        }, 1250);
-                    };
-                } else {
-                    console.log("No native OS voice found for this language. Falling back to Google Cloud Audio API.");
-                    // Fallback to Google's remote audio TTS stream if OS lacks the language pack
-                    const playRemoteAudio = (textChunk, targetLang, callback) => {
-                        if (!textChunk) return callback ? callback() : null;
-                        const url = `https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=${targetLang}&q=${encodeURIComponent(textChunk)}`;
-                        window.currentRemoteAudio = new Audio(url);
-                        window.currentRemoteAudio.playbackRate = 1.25; // Ensure normal playback speed
-                        window.currentRemoteAudio.onended = () => { if (callback) callback(); };
-                        window.currentRemoteAudio.onerror = () => { console.error('Remote TTS fallback failed.'); if (callback) callback(); };
-                        window.currentRemoteAudio.play();
-                    }
-
-                    playRemoteAudio(title, lang, () => {
-                        setTimeout(() => {
-                            playRemoteAudio(description, lang);
-                        }, 750);
-                    });
-                }
+                // Add a pause before speaking the description
+                utterance.onend = function (e) {
+                    let descUtterance = new SpeechSynthesisUtterance(description);
+                    configureUtterance(descUtterance);
+                    setTimeout(() => {
+                        window.speechSynthesis.speak(descUtterance);
+                    }, 1250);
+                };
             } else {
                 alert("Text-to-speech is not supported in this browser.");
             }
@@ -787,11 +772,69 @@
         document.getElementById('dateDisplay').textContent = new Date().toLocaleDateString('en-US', options);
 
         // Fetch and render news
-        const JSON_URL = 'https://raw.githubusercontent.com/sivasubramoniam-js/daily-tech-news/main/news.json';
+        const BASE_RAW_URL = 'https://raw.githubusercontent.com/sivasubramoniam-js/daily-tech-news/main/';
+        let currentFeedUrl = BASE_RAW_URL + 'news.json';
 
-        async function fetchNews() {
+        async function fetchFeedsList() {
             try {
-                const response = await fetch(JSON_URL);
+                const response = await fetch(BASE_RAW_URL + 'feeds.json');
+                const feeds = await response.json();
+
+                const select = document.getElementById('feedFilter');
+
+                // Add AssemblyAI as it's custom scraped
+                if (!feeds.some(f => f.feedname === 'AssemblyAI')) {
+                    feeds.push({ feedname: 'AssemblyAI', category: 'AI' });
+                }
+
+                const categories = {};
+                feeds.forEach(feed => {
+                    const cat = feed.category || 'General';
+                    if (!categories[cat]) categories[cat] = [];
+                    categories[cat].push(feed);
+                });
+
+                for (const [category, items] of Object.entries(categories).sort()) {
+                    const optgroup = document.createElement('optgroup');
+                    optgroup.label = `--- ${category} ---`;
+
+                    items.sort((a, b) => a.feedname.localeCompare(b.feedname)).forEach(item => {
+                        // Python slugify logic replica
+                        let slug = item.feedname.toLowerCase()
+                            .replace(/[^\w\s-]/g, '')
+                            .replace(/[-\s]+/g, '-')
+                            .replace(/^-+|-+$/g, '');
+
+                        // Prevent duplicates
+                        if (!Array.from(select.options).some(opt => opt.value === `feeds/${slug}.json`)) {
+                            const option = document.createElement('option');
+                            option.value = `feeds/${slug}.json`;
+                            option.textContent = item.feedname;
+                            optgroup.appendChild(option);
+                        }
+                    });
+                    select.appendChild(optgroup);
+                }
+            } catch (err) {
+                console.error("Failed to load feed list", err);
+            }
+        }
+
+        function handleFilterChange(value) {
+            document.getElementById('news-feed').innerHTML = '<div class="loading-text">Fetching dispatches...</div>';
+            document.getElementById('marqueeText').textContent = '';
+
+            if (value === 'news.json') {
+                currentFeedUrl = BASE_RAW_URL + 'news.json';
+            } else {
+                currentFeedUrl = BASE_RAW_URL + value; // e.g. feeds/assemblyai.json
+            }
+            fetchNews(currentFeedUrl);
+        }
+
+        async function fetchNews(url = currentFeedUrl) {
+            try {
+                const response = await fetch(url);
                 if (!response.ok) throw new Error('Network response was not ok');
                 const data = await response.json();
 
@@ -864,6 +907,7 @@
         }
 
         // Initialize
+        fetchFeedsList();
         fetchNews();
     </script>
 

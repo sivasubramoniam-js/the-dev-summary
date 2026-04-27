@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Math Takes Two: A test for emergent mathematical reasoning in communication",
+    "link": "https://arxiv.org/abs/2604.21935",
+    "description": "arXiv:2604.21935v1 Announce Type: new \nAbstract: Although language models demonstrate remarkable proficiency on mathematical benchmarks, it remains unclear whether this reflects true mathematical reasoning or statistical pattern matching over learnin",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Artificial Intelligence",
+    "category": "Research"
+  },
+  {
+    "title": "An Artifact-based Agent Framework for Adaptive and Reproducible Medical Image Processing",
+    "link": "https://arxiv.org/abs/2604.21936",
+    "description": "arXiv:2604.21936v1 Announce Type: new \nAbstract: Medical imaging research is increasingly shifting from controlled benchmark evaluation toward real-world clinical deployment. In such settings, applying analytical methods extends beyond model design t",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Artificial Intelligence",
+    "category": "Research"
+  },
+  {
+    "title": "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization",
+    "link": "https://arxiv.org/abs/2604.21937",
+    "description": "arXiv:2604.21937v1 Announce Type: new \nAbstract: Computational drug discovery, particularly the complex workflows of drug molecule screening and optimization, requires orchestrating dozens of specialized tools in multi-step workflows, yet current AI ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Artificial Intelligence",
+    "category": "Research"
+  },
+  {
+    "title": "Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results",
+    "link": "https://arxiv.org/abs/2604.21965",
+    "description": "arXiv:2604.21965v1 Announce Type: new \nAbstract: Recent work has used LLM agents to reproduce empirical social science results with access to both the data and code. We broaden this scope by asking: Can they reproduce results given only a paper's met",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Artificial Intelligence",
+    "category": "Research"
+  },
+  {
+    "title": "Rethinking Publication: A Certification Framework for AI-Enabled Research",
+    "link": "https://arxiv.org/abs/2604.22026",
+    "description": "arXiv:2604.22026v1 Announce Type: new \nAbstract: AI research pipelines now produce a growing share of publishable academic output, including work that meets existing peer-review standards for quality and novelty. Yet the publication system was built ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Artificial Intelligence",
+    "category": "Research"
+  },
+  {
+    "title": "Sound Agentic Science Requires Adversarial Experiments",
+    "link": "https://arxiv.org/abs/2604.22080",
+    "description": "arXiv:2604.22080v1 Announce Type: new \nAbstract: LLM-based agents are rapidly being adopted for scientific data analysis, automating tasks once limited by human time and expertise. This capability is often framed as an acceleration of discovery, but ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Artificial Intelligence",
+    "category": "Research"
+  },
+  {
+    "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
+    "link": "https://arxiv.org/abs/2604.22085",
+    "description": "arXiv:2604.22085v1 Announce Type: new \nAbstract: The transition from stateless language model inference to persistent, multi session autonomous agents has revealed memory to be a primary architectural bottleneck in the deployment of production grade ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Artificial Intelligence",
+    "category": "Research"
+  },
+  {
+    "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
+    "link": "https://arxiv.org/abs/2604.22119",
+    "description": "arXiv:2604.22119v1 Announce Type: new \nAbstract: As reasoning capacity and deployment scope grow in tandem, large language models (LLMs) gain the capacity to engage in behaviors that serve their own objectives, a class of risks we term Emergent Strat",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Artificial Intelligence",
+    "category": "Research"
+  },
+  {
+    "title": "When Does LLM Self-Correction Help? A Control-Theoretic Markov Diagnostic and Verify-First Intervention",
+    "link": "https://arxiv.org/abs/2604.22273",
+    "description": "arXiv:2604.22273v1 Announce Type: new \nAbstract: Iterative self-correction is widely used in agentic LLM systems, but when repeated refinement helps versus hurts remains unclear. We frame self-correction as a cybernetic feedback loop in which the sam",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Artificial Intelligence",
+    "category": "Research"
+  },
+  {
+    "title": "Introducing Background Temperature to Characterise Hidden Randomness in Large Language Models",
+    "link": "https://arxiv.org/abs/2604.22411",
+    "description": "arXiv:2604.22411v1 Announce Type: new \nAbstract: Even when decoding with temperature $T=0$, large language models (LLMs) can produce divergent outputs for identical inputs. Recent work by Thinking Machines Lab highlights implementation-level sources ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Artificial Intelligence",
+    "category": "Research"
+  },
+  {
+    "title": "CognitiveTwin: Robust Multi-Modal Digital Twins for Predicting Cognitive Decline in Alzheimer's Disease",
+    "link": "https://arxiv.org/abs/2604.22428",
+    "description": "arXiv:2604.22428v1 Announce Type: new \nAbstract: Predicting individual cognitive decline in Alzheimer's disease (AD) is difficult due to the heterogeneity of disease progression. Reliable clinical tools require not only high accuracy but also fairnes",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Artificial Intelligence",
+    "category": "Research"
+  },
+  {
+    "title": "AgentSearchBench: A Benchmark for AI Agent Search in the Wild",
+    "link": "https://arxiv.org/abs/2604.22436",
+    "description": "arXiv:2604.22436v1 Announce Type: new \nAbstract: The rapid growth of AI agent ecosystems is transforming how complex tasks are delegated and executed, creating a new challenge of identifying suitable agents for a given task. Unlike traditional tools,",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Artificial Intelligence",
+    "category": "Research"
+  },
+  {
+    "title": "From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company",
+    "link": "https://arxiv.org/abs/2604.22446",
+    "description": "arXiv:2604.22446v1 Announce Type: new \nAbstract: Individual agent capabilities have advanced rapidly through modular skills and tool integrations, yet multi-agent systems remain constrained by fixed team structures, tightly coupled coordination logic",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Artificial Intelligence",
+    "category": "Research"
+  },
+  {
+    "title": "Superminds Test: Actively Evaluating Collective Intelligence of Agent Society via Probing Agents",
+    "link": "https://arxiv.org/abs/2604.22452",
+    "description": "arXiv:2604.22452v1 Announce Type: new \nAbstract: Collective intelligence refers to the ability of a group to achieve outcomes beyond what any individual member can accomplish alone. As large language model agents scale to populations of millions, a k",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Artificial Intelligence",
+    "category": "Research"
+  },
+  {
+    "title": "On the Hybrid Nature of ABPMS Process Frames and its Implications on Automated Process Discovery",
+    "link": "https://arxiv.org/abs/2604.22455",
+    "description": "arXiv:2604.22455v1 Announce Type: new \nAbstract: A core component of any AI-Augmented Business Process Management System (ABPMS) is the process frame, which gives the system process-awareness and defines the boundaries in which the system must operat",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Artificial Intelligence",
+    "category": "Research"
+  },
+  {
+    "title": "QuantClaw: Precision Where It Matters for OpenClaw",
+    "link": "https://arxiv.org/abs/2604.22577",
+    "description": "arXiv:2604.22577v1 Announce Type: new \nAbstract: Autonomous agent systems such as OpenClaw introduce significant efficiency challenges due to long-context inputs and multi-turn reasoning. This results in prohibitively high computational and monetary ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Artificial Intelligence",
+    "category": "Research"
+  },
+  {
+    "title": "Rethinking Math Reasoning Evaluation: A Robust LLM-as-a-Judge Framework Beyond Symbolic Rigidity",
+    "link": "https://arxiv.org/abs/2604.22597",
+    "description": "arXiv:2604.22597v1 Announce Type: new \nAbstract: Recent advancements in large language models have led to significant improvements across various tasks, including mathematical reasoning, which is used to assess models' intelligence in logical reasoni",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Artificial Intelligence",
+    "category": "Research"
+  },
+  {
+    "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+    "link": "https://arxiv.org/abs/2604.22748",
+    "description": "arXiv:2604.22748v1 Announce Type: new \nAbstract: As AI systems move from generating text to accomplishing goals through sustained interaction, the ability to model environment dynamics becomes a central bottleneck. Agents that manipulate objects, nav",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Artificial Intelligence",
+    "category": "Research"
+  },
+  {
+    "title": "Large Language Models Are Bad Dice Players: LLMs Struggle to Generate Random Numbers from Statistical Distributions",
+    "link": "https://arxiv.org/abs/2601.05414",
+    "description": "arXiv:2601.05414v3 Announce Type: cross \nAbstract: As large language models (LLMs) transition from chat interfaces to integral components of stochastic pipelines and systems approaching general intelligence, the ability to faithfully sample from spec",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Artificial Intelligence",
+    "category": "Research"
+  },
+  {
+    "title": "The Biggest Risk of Embodied AI is Governance Lag",
+    "link": "https://arxiv.org/abs/2604.21938",
+    "description": "arXiv:2604.21938v1 Announce Type: cross \nAbstract: Embodied AI is widely discussed as a job-displacement problem. The deeper risk, however, is governance lag: the inability of public institutions to keep pace with how fast the technology spreads thro",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "ArXiv: Artificial Intelligence",
+    "category": "Research"
+  }
+]

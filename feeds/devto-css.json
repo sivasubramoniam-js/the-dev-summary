@@ -1,0 +1,110 @@
+[
+  {
+    "title": "HTML5 Color and Range Input: Fix Ugly Forms Now",
+    "link": "https://dev.to/drivecoding/html5-color-and-range-input-fix-ugly-forms-now-450",
+    "description": "\n  \n  \n  TL;DR\n\n\nMost beginners never touch &lt;input type=\"color\"&gt; or &lt;input type=\"range\"&gt; and end up with broken forms where users type things like #BLUE-BUT-DARKER. These two HTML5 inputs fix that instantly. There is one live-preview tric",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T11:26:05",
+    "source": "Dev.to CSS",
+    "category": "Frontend"
+  },
+  {
+    "title": "Infinite CSS Animations: Creating Seamless SVG Loops",
+    "link": "https://dev.to/harijn72/infinite-css-animations-creating-seamless-svg-loops-558k",
+    "description": "\nThis article is part of a series on CSS + SVG animations \u2014 the zero-JavaScript motion stack.\n\n\n\n\n\n\n  \n  \n  Introduction\n\n\nModern browsers have a powerful, underappreciated animation system built right in: SVG + CSS keyframes. No runtime, no bundler ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T11:08:28",
+    "source": "Dev.to CSS",
+    "category": "Frontend"
+  },
+  {
+    "title": "Deep Dive: CSS Styling Capabilities You May Have O\u2026",
+    "link": "https://dev.to/norviktech/deep-dive-css-styling-capabilities-you-may-have-o-3lmg",
+    "description": "\nOriginally published at norvik.tech\n\n\n\n  \n  \n  Introduction\n\n\nExplore advanced CSS styling techniques that enhance browser elements. A technical analysis for developers and decision-makers.\n\n\n  \n  \n  Understanding Advanced CSS Capabilities\n\n\nCSS has",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T10:07:01",
+    "source": "Dev.to CSS",
+    "category": "Frontend"
+  },
+  {
+    "title": "Dynamic OG Images in Next.js Without @vercel/og (1,200 630)",
+    "link": "https://dev.to/accreditly/dynamic-og-images-in-nextjs-without-vercelog-1200x630-30ic",
+    "description": "I had a perfectly reasonable OG image template. Flexbox layout, custom font, a gradient background, a small CSS grid for a two-column footer with the author name and publish date. Worked in the browser. Looked great in Figma. Then I moved it into\u00a0nex",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzaiox25iklnsaaoix4ia.png",
+    "datetimestamp": "2026-04-27T08:42:29",
+    "source": "Dev.to CSS",
+    "category": "Frontend"
+  },
+  {
+    "title": "Responsive Web Design: Complete Guide for 2026",
+    "link": "https://dev.to/imran_khan_a3cc224344dbcf/responsive-web-design-complete-guide-for-2026-13e9",
+    "description": "\n  \n  \n  Responsive Design in 2026: Beyond Media Queries\n\n\nResponsive web design has evolved significantly since Ethan Marcotte coined the term in 2010. The core principle \u2014 designs that adapt to any viewport size \u2014 remains, but the tools have expand",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T06:36:04",
+    "source": "Dev.to CSS",
+    "category": "Frontend"
+  },
+  {
+    "title": "Tailwind CSS vs CSS Modules: Which to Choose in 2026",
+    "link": "https://dev.to/imran_khan_a3cc224344dbcf/tailwind-css-vs-css-modules-which-to-choose-in-2026-34m7",
+    "description": "\n  \n  \n  The CSS Architecture Decision That Shapes Your Entire Project\n\n\nThe choice between Tailwind CSS and CSS Modules is one of the most debated technical decisions in React development in 2026. Both are production-proven, both have large ecosyste",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T06:18:53",
+    "source": "Dev.to CSS",
+    "category": "Frontend"
+  },
+  {
+    "title": "Tailwind CSS Landing Page: Complete Guide + Free Templates (2026)",
+    "link": "https://dev.to/imran_khan_a3cc224344dbcf/tailwind-css-landing-page-complete-guide-free-templates-2026-4nnn",
+    "description": "\n  \n  \n  Why Tailwind CSS for Landing Pages in 2026\n\n\nTailwind CSS has become the dominant CSS framework for landing page development in 2026 for reasons that go beyond developer preference. The utility-first approach eliminates the naming problem th",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:38:16",
+    "source": "Dev.to CSS",
+    "category": "Frontend"
+  },
+  {
+    "title": "CSS Navbar: 7 Stunning Navigation Bar Designs with Code (2026)",
+    "link": "https://dev.to/imran_khan_a3cc224344dbcf/css-navbar-7-stunning-navigation-bar-designs-with-code-2026-3b4c",
+    "description": "\n  \n  \n  Why Navigation Bar Design Matters for Conversion\n\n\nThe navigation bar is the most persistently visible element on any website. While the hero section is seen once as the user arrives, the navbar accompanies the user through every scroll, eve",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:06:38",
+    "source": "Dev.to CSS",
+    "category": "Frontend"
+  },
+  {
+    "title": "Micro Animation CSS: Complete Guide + Examples (2026)",
+    "link": "https://dev.to/imran_khan_a3cc224344dbcf/micro-animation-css-complete-guide-examples-2026-398b",
+    "description": "\n  \n  \n  Why Micro Animations Are Now Baseline Quality in 2026\n\n\nMicro animations have completed their transition from premium polish to expected baseline quality. In 2026, a website without micro animations reads the same way a website without hover",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T03:57:30",
+    "source": "Dev.to CSS",
+    "category": "Frontend"
+  },
+  {
+    "title": "CSS Pricing Table: 5 Beautiful Designs with Free Code (2026)",
+    "link": "https://dev.to/imran_khan_a3cc224344dbcf/css-pricing-table-5-beautiful-designs-with-free-code-2026-1l15",
+    "description": "\n  \n  \n  Why Your Pricing Table Design Directly Impacts Revenue\n\n\nThe pricing table is the highest-stakes component on any SaaS landing page. It is the point at which a visitor transitions from evaluating your product to deciding whether to pay for i",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T03:57:26",
+    "source": "Dev.to CSS",
+    "category": "Frontend"
+  },
+  {
+    "title": "Dark Mode Website Template: Ultimate Guide 2026",
+    "link": "https://dev.to/imran_khan_a3cc224344dbcf/dark-mode-website-template-ultimate-guide-2026-mb9",
+    "description": "80%+ of developers use dark mode as their default in 2026. Here's how to design and build it correctly.\n\n\n  \n  \n  The Color System\n\n\nNever use pure black #000000. Use near-blacks:\n\n\n\n:root {\n  --bg-base:      #050505;  /* Deepest background */\n  --bg",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T01:15:03",
+    "source": "Dev.to CSS",
+    "category": "Frontend"
+  },
+  {
+    "title": "Glassmorphism UI Template: Complete Guide + Free Downloads 2026",
+    "link": "https://dev.to/imran_khan_a3cc224344dbcf/glassmorphism-ui-template-complete-guide-free-downloads-2026-5c80",
+    "description": "Glassmorphism is now an established design pattern. Here's the complete CSS recipe and how to use it effectively in 2026.\n\n\n  \n  \n  The Core CSS Recipe\n\n\n\n\n\n.glass-card {\n  background: rgba(255, 255, 255, 0.07);\n  backdrop-filter: blur(12px);\n  -webk",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T01:12:02",
+    "source": "Dev.to CSS",
+    "category": "Frontend"
+  }
+]

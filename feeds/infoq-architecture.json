@@ -1,0 +1,146 @@
+[
+  {
+    "title": "QCon San Francisco 2026: 12 Tracks Announced",
+    "link": "https://www.infoq.com/news/2026/04/qconsf-2026-tracks-announced/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design-news",
+    "description": "The 12 tracks for QCon San Francisco 2026 (November 16-20) are now live. Four tracks cover AI in production. The other eight cover the rest of what senior engineering still demands: distributed systems, architecture teardowns, resilience, platform in",
+    "image": "https://res.infoq.com/news/2026/04/qconsf-2026-tracks-announced/en/headerimage/generatedHeaderImage-1777290052491.jpg",
+    "datetimestamp": "2026-04-27T15:30:00",
+    "source": "InfoQ Architecture",
+    "category": "System Design"
+  },
+  {
+    "title": "Uber Migrates 75,000+ Test Classes from Junit 4 to Junit 5 Using Automated Code Transformation",
+    "link": "https://www.infoq.com/news/2026/04/uber-junit4-junit5-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design-news",
+    "description": "Uber engineers migrated over 75,000 test classes from JUnit 4 to JUnit 5 using automated code transformation with OpenRewrite and internal orchestration. By enabling the JUnit Platform for dual execution with Bazel and validating changes through CI, ",
+    "image": "https://res.infoq.com/news/2026/04/uber-junit4-junit5-migration/en/headerimage/generatedHeaderImage-1776546803798.jpg",
+    "datetimestamp": "2026-04-27T14:07:00",
+    "source": "InfoQ Architecture",
+    "category": "System Design"
+  },
+  {
+    "title": "Spring News Roundup: First Release Candidates of Boot, Security, Integration, Modulith, AMQP",
+    "link": "https://www.infoq.com/news/2026/04/spring-news-roundup-apr20-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design-news",
+    "description": "There was a flurry of activity in the Spring ecosystem during the week of April 20th, 2026, highlighting the first release candidates of: Spring Boot, Spring Security, Spring Integration, Spring Modulith, Spring AMQP, Spring for Apache Kafka and Spri",
+    "image": "https://res.infoq.com/news/2026/04/spring-news-roundup-apr20-2026/en/headerimage/java-istock-image-01-1777241266425.jpg",
+    "datetimestamp": "2026-04-27T02:30:00",
+    "source": "InfoQ Architecture",
+    "category": "System Design"
+  },
+  {
+    "title": "AWS Ends WorkMail and Moves App Runner to Maintenance Mode",
+    "link": "https://www.infoq.com/news/2026/04/aws-deprecates-workmail-apprunne/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design-news",
+    "description": "AWS has recently announced that WorkMail will be discontinued and that App Runner will stop accepting new customers and move into maintenance mode. Several other less popular services and features are also entering maintenance or sunset phases, trigg",
+    "image": "https://res.infoq.com/news/2026/04/aws-deprecates-workmail-apprunne/en/headerimage/generatedHeaderImage-1777096878479.jpg",
+    "datetimestamp": "2026-04-26T06:53:00",
+    "source": "InfoQ Architecture",
+    "category": "System Design"
+  },
+  {
+    "title": "Cloudflare Optimizes Edge Stack for High-Core CPUs instead of Large Cache",
+    "link": "https://www.infoq.com/news/2026/04/cache-parallelism-cloudflare/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design-news",
+    "description": "Cloudflare recently introduced its Gen 13 servers, marking a shift in how its network handles traffic. Instead of relying on large CPU caches for speed, the company redesigned its software to leverage many more processor cores working in parallel in ",
+    "image": "https://res.infoq.com/news/2026/04/cache-parallelism-cloudflare/en/headerimage/generatedHeaderImage-1775160711037.jpg",
+    "datetimestamp": "2026-04-25T06:06:00",
+    "source": "InfoQ Architecture",
+    "category": "System Design"
+  },
+  {
+    "title": "HashiCorp Vault 2.0 Marks Shift to IBM Lifecycle with New Identity Federation",
+    "link": "https://www.infoq.com/news/2026/04/vault-2-0-ibm-identity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design-news",
+    "description": "HashiCorp has released Vault 2.0, moving to the IBM versioning and support model following its acquisition. The update introduces Workload Identity Federation for secret syncing without static credentials, SCIM 2.0 provisioning, and performance gains",
+    "image": "https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg",
+    "datetimestamp": "2026-04-24T07:00:00",
+    "source": "InfoQ Architecture",
+    "category": "System Design"
+  },
+  {
+    "title": "Dropbox Collaborates with GitHub to Reduce Monorepo Size from 87GB to 20GB",
+    "link": "https://www.infoq.com/news/2026/04/dropbox-reduces-git-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design-news",
+    "description": "Dropbox reduced its backend monorepo from 87GB to 20GB by optimizing Git delta compression in collaboration with GitHub. The changes improved clone times, CI performance, and developer velocity, highlighting how repository storage inefficiencies can ",
+    "image": "https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg",
+    "datetimestamp": "2026-04-22T14:14:00",
+    "source": "InfoQ Architecture",
+    "category": "System Design"
+  },
+  {
+    "title": "Cloudflare Sandboxes Reach General Availability, Giving AI Agents Persistent Isolated Environments",
+    "link": "https://www.infoq.com/news/2026/04/cloudflare-sandboxes-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design-news",
+    "description": "Cloudflare has released Sandboxes and Containers into general availability, providing persistent isolated Linux environments for AI agent workloads. New capabilities include secure credential injection via egress proxy, PTY terminal support, persiste",
+    "image": "https://res.infoq.com/news/2026/04/cloudflare-sandboxes-ga/en/headerimage/generatedHeaderImage-1776749566952.jpg",
+    "datetimestamp": "2026-04-22T10:00:00",
+    "source": "InfoQ Architecture",
+    "category": "System Design"
+  },
+  {
+    "title": "Cloudflare Outlines MCP Architecture as Enterprises Confront Security and Governance Risks",
+    "link": "https://www.infoq.com/news/2026/04/cloudflare-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design-news",
+    "description": "Cloudflare has outlined a reference architecture for scaling Model Context Protocol (MCP) deployments across the enterprise, positioning centralized governance, remote server infrastructure, and cost controls as key requirements for production-ready ",
+    "image": "https://res.infoq.com/news/2026/04/cloudflare-mcp/en/headerimage/generatedHeaderImage-1776718451687.jpg",
+    "datetimestamp": "2026-04-22T07:38:00",
+    "source": "InfoQ Architecture",
+    "category": "System Design"
+  },
+  {
+    "title": "Anthropic Introduces Managed Agents to Simplify AI Agent Deployment",
+    "link": "https://www.infoq.com/news/2026/04/anthropic-managed-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design-news",
+    "description": "Anthropic introduces Managed Agents on Claude, a managed execution layer for agent-based workflows. It separates agent logic from runtime concerns like orchestration, sandboxing, state management, and credentials. The system supports long-running mul",
+    "image": "https://res.infoq.com/news/2026/04/anthropic-managed-agents/en/headerimage/generatedHeaderImage-1776566447284.jpg",
+    "datetimestamp": "2026-04-21T14:36:00",
+    "source": "InfoQ Architecture",
+    "category": "System Design"
+  },
+  {
+    "title": "Slack Rebuilds Notification System, Reports 5X Increase in Settings Engagement",
+    "link": "https://www.infoq.com/news/2026/04/slack-new-notification-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design-news",
+    "description": "Slack has rebuilt its notification system with a unified architecture that separates activity from delivery, improving consistency across platforms. The redesign simplifies preferences, preserves legacy settings through transformation, and resulted i",
+    "image": "https://res.infoq.com/news/2026/04/slack-new-notification-system/en/headerimage/generatedHeaderImage-1776312499019.jpg",
+    "datetimestamp": "2026-04-21T14:05:00",
+    "source": "InfoQ Architecture",
+    "category": "System Design"
+  },
+  {
+    "title": "Cloudflare Introduces Project Think: a Durable Runtime for AI Agents",
+    "link": "https://www.infoq.com/news/2026/04/cloudflare-project-think/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design-news",
+    "description": "Cloudflare's Project Think introduces a new framework for AI agents, shifting from stateless orchestration to a durable actor-based infrastructure. It features a kernel-like runtime enabling agents to manage memory and run code securely. Innovations ",
+    "image": "https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg",
+    "datetimestamp": "2026-04-21T02:34:00",
+    "source": "InfoQ Architecture",
+    "category": "System Design"
+  },
+  {
+    "title": "Designing Memory for AI Agents: inside Linkedin\u2019s Cognitive Memory Agent",
+    "link": "https://www.infoq.com/news/2026/04/linkedin-cognitive-memory-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design-news",
+    "description": "LinkedIn introduces Cognitive Memory Agent (CMA),  generative AI infrastructure layer enabling stateful, context-aware systems. It provides persistent memory across episodic, semantic, and procedural layers, supporting multi-agent coordination, retri",
+    "image": "https://res.infoq.com/news/2026/04/linkedin-cognitive-memory-agent/en/headerimage/memorylayer-1776233312896.jpeg",
+    "datetimestamp": "2026-04-20T14:59:00",
+    "source": "InfoQ Architecture",
+    "category": "System Design"
+  },
+  {
+    "title": "Java News Roundup: OpenJDK JEPs, Jakarta EE 12, Spring Framework, Micrometer, Camel, JBang",
+    "link": "https://www.infoq.com/news/2026/04/java-news-roundup-apr13-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design-news",
+    "description": "This week's Java roundup for April 13th, 2026, features news highlighting: new OpenJDK JEPs; point releases of Apache Grails, Apache Camel and JBang; maintenances of Spring Framework that include resolutions to CVEs; first release candidates of Sprin",
+    "image": "https://res.infoq.com/news/2026/04/java-news-roundup-apr13-2026/en/headerimage/java-news-roundup-image-1776605902940.jpg",
+    "datetimestamp": "2026-04-20T02:30:00",
+    "source": "InfoQ Architecture",
+    "category": "System Design"
+  },
+  {
+    "title": "Meta Reports 4x Higher Bug Detection with Just-in-Time Testing",
+    "link": "https://www.infoq.com/news/2026/04/meta-jit-testing-ai-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design-news",
+    "description": "Meta introduces Just-in-Time (JiT) testing, a dynamic approach that generates tests during code review instead of relying on static test suites. The system improves bug detection by ~4x in AI-assisted development using LLMs, mutation testing, and int",
+    "image": "https://res.infoq.com/news/2026/04/meta-jit-testing-ai-detection/en/headerimage/generatedHeaderImage-1776178648278.jpg",
+    "datetimestamp": "2026-04-17T14:49:00",
+    "source": "InfoQ Architecture",
+    "category": "System Design"
+  },
+  {
+    "title": "AWS Launches Agent Registry in Preview to Govern AI Agent Sprawl across Enterprises",
+    "link": "https://www.infoq.com/news/2026/04/aws-agent-registry-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design-news",
+    "description": "AWS released Agent Registry in preview as part of Amazon Bedrock AgentCore, providing a centralized catalog for discovering, governing, and reusing AI agents, tools, and MCP servers across organizations. The registry indexes agents regardless of wher",
+    "image": "https://res.infoq.com/news/2026/04/aws-agent-registry-preview/en/headerimage/generatedHeaderImage-1776064171956.jpg",
+    "datetimestamp": "2026-04-17T06:54:00",
+    "source": "InfoQ Architecture",
+    "category": "System Design"
+  }
+]

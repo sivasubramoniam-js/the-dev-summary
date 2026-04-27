@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Managing context in long-run agentic applications",
+    "link": "https://slack.engineering/managing-context-in-long-run-agentic-applications/",
+    "description": "Excerpt In complex, long-running agentic systems, maintaining alignment and coherent reasoning between agents requires careful design. In this second article of our series, we explore these challenges and the mechanisms we built to keep teams of agen",
+    "image": "https://slack.engineering/wp-content/uploads/sites/7/2026/03/pydantic_ai_agentic_loop.png?w=842",
+    "datetimestamp": "2026-04-13T17:17:16",
+    "source": "Slack Engineering",
+    "category": "Engineering"
+  },
+  {
+    "title": "From Custom to Open: Scalable Network Probing and HTTP/3 Readiness with Prometheus",
+    "link": "https://slack.engineering/from-custom-to-open-scalable-network-probing-and-http-3-readiness-with-prometheus/",
+    "description": "The Problem: Legacy Tooling and Its Limitations Currently, Slack utilizes a hybrid approach to network measurement, incorporating both internal (such as traffic between AWS Availability Zones) and external (monitoring traffic from the public internet",
+    "image": "https://slack.engineering/wp-content/uploads/sites/7/2026/03/quic-diagram.png?w=512",
+    "datetimestamp": "2026-03-31T17:00:39",
+    "source": "Slack Engineering",
+    "category": "Engineering"
+  },
+  {
+    "title": "How Slack Rebuilt Notifications \ud83d\udce3",
+    "link": "https://slack.engineering/how-slack-rebuilt-notifications/",
+    "description": "Introduction \ud83d\udd14\u00a0 At Slack, notifications are how teams stay in the loop, but they can also become overwhelming when not designed with intention. Our goal was to make staying informed feel effortless. We set out to rebuild one of Slack\u2019s most complicat",
+    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f514.png",
+    "datetimestamp": "2026-03-19T19:00:54",
+    "source": "Slack Engineering",
+    "category": "Engineering"
+  },
+  {
+    "title": "Streamlining Security Investigations with Agents",
+    "link": "https://slack.engineering/streamlining-security-investigations-with-agents/",
+    "description": "Slack\u2019s Security Engineering team is responsible for protecting Slack\u2019s core infrastructure and services. Our security event ingestion pipeline handles billions of events per day from a diverse array of data sources. Reviewing alerts produced by our ",
+    "image": "https://slack.engineering/wp-content/uploads/sites/7/2025/11/investigation_round_simple_vertical_ad2b54.png?w=1020",
+    "datetimestamp": "2025-12-01T16:00:42",
+    "source": "Slack Engineering",
+    "category": "Engineering"
+  },
+  {
+    "title": "Android VPAT journey",
+    "link": "https://slack.engineering/android-vpat-journey/",
+    "description": "Background A Voluntary Product Accessibility Template (VPAT) is a document that outlines how well a product aligns with accessibility (a11y) standards. Its primary purpose is to inform customers about a product&#8217;s a11y features, enabling them to",
+    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+    "datetimestamp": "2025-11-19T18:00:39",
+    "source": "Slack Engineering",
+    "category": "Engineering"
+  },
+  {
+    "title": "Build better software to build software better",
+    "link": "https://slack.engineering/build-better-software-to-build-software-better/",
+    "description": "We manage the build pipeline that delivers Quip and Slack Canvas\u2019s backend. A year ago, we were chasing exciting ideas to help engineers ship better code, faster. But we had one huge problem: builds took 60 minutes. With a build that slow, the whole ",
+    "image": "https://slack.engineering/wp-content/uploads/sites/7/2025/10/DevXP-Council-Presentation6-e1759869480617.png",
+    "datetimestamp": "2025-11-06T16:00:47",
+    "source": "Slack Engineering",
+    "category": "Engineering"
+  },
+  {
+    "title": "Advancing Our Chef Infrastructure: Safety Without Disruption",
+    "link": "https://slack.engineering/advancing-our-chef-infrastructure-safety-without-disruption/",
+    "description": "Last year, I wrote a blog post titled Advancing Our Chef Infrastructure, where we explored the evolution of our Chef infrastructure over the years. We talked about the shift from a single Chef stack to a multi-stack model, and the challenges that cam",
+    "image": "https://slack.engineering/wp-content/uploads/sites/7/2025/10/env_flow.png?w=438",
+    "datetimestamp": "2025-10-23T18:17:56",
+    "source": "Slack Engineering",
+    "category": "Engineering"
+  },
+  {
+    "title": "Deploy Safety: Reducing customer impact from change",
+    "link": "https://slack.engineering/deploy-safety/",
+    "description": "It\u2019s mid 2023 and we\u2019ve identified some opportunities to improve our reliability. Fast forward to January 2025. Customer impact hours are reduced from the peak by 90% and continuing to trend downward. We\u2019re a year and half into the Deploy Safety Prog",
+    "image": "https://slack.engineering/wp-content/uploads/sites/7/2025/05/Screenshot-2025-04-29-at-4.30.19\u202fpm.png?w=640",
+    "datetimestamp": "2025-10-07T16:33:12",
+    "source": "Slack Engineering",
+    "category": "Engineering"
+  }
+]

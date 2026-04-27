@@ -1,0 +1,592 @@
+[
+    {
+        "feedname": "Machine Learning Mastery",
+        "feedurl": "https://machinelearningmastery.com/blog/feed/",
+        "category": "AI"
+    },
+    {
+        "feedname": "OpenAI Blog",
+        "feedurl": "https://openai.com/news/rss.xml",
+        "category": "AI"
+    },
+    {
+        "feedname": "Google AI Blog",
+        "feedurl": "https://blog.google/technology/ai/rss/",
+        "category": "AI"
+    },
+    {
+        "feedname": "Anthropic News",
+        "feedurl": "https://www.anthropic.com/news.rss",
+        "category": "AI"
+    },
+    {
+        "feedname": "Hugging Face Blog",
+        "feedurl": "https://huggingface.co/blog/feed.xml",
+        "category": "AI"
+    },
+    {
+        "feedname": "Berkeley AI Research",
+        "feedurl": "https://bair.berkeley.edu/blog/feed.xml",
+        "category": "AI"
+    },
+    {
+        "feedname": "Alibaba Cloud / Qwen",
+        "feedurl": "https://www.alibabacloud.com/blog/rss",
+        "category": "AI"
+    },
+    {
+        "feedname": "DeepSeek Blog",
+        "feedurl": "https://blog.deepseek.com/rss.xml",
+        "category": "AI"
+    },
+    {
+        "feedname": "Mistral AI",
+        "feedurl": "https://mistral.ai/news/index.xml",
+        "category": "AI"
+    },
+    {
+        "feedname": "LangChain Blog",
+        "feedurl": "https://blog.langchain.dev/rss/",
+        "category": "AI"
+    },
+    {
+        "feedname": "LlamaIndex Blog",
+        "feedurl": "https://www.llamaindex.ai/blog/rss.xml",
+        "category": "AI"
+    },
+    {
+        "feedname": "Perplexity Blog",
+        "feedurl": "https://blog.perplexity.ai/rss.xml",
+        "category": "AI"
+    },
+    {
+        "feedname": "AssemblyAI",
+        "feedurl": "https://www.assemblyai.com/blog/rss/",
+        "category": "AI"
+    },
+    {
+        "feedname": "Stability AI",
+        "feedurl": "https://stability.ai/news?format=rss",
+        "category": "AI"
+    },
+    {
+        "feedname": "Road to VR",
+        "feedurl": "https://www.roadtovr.com/feed/",
+        "category": "AR/VR"
+    },
+    {
+        "feedname": "Meta Quest Blog",
+        "feedurl": "https://www.meta.com/blog/quest/rss/",
+        "category": "AR/VR"
+    },
+    {
+        "feedname": "UploadVR",
+        "feedurl": "https://www.uploadvr.com/rss/",
+        "category": "AR/VR"
+    },
+    {
+        "feedname": "Backend News",
+        "feedurl": "https://dev.to/feed/tag/backend",
+        "category": "Backend"
+    },
+    {
+        "feedname": "Python News",
+        "feedurl": "https://dev.to/feed/tag/python",
+        "category": "Backend"
+    },
+    {
+        "feedname": "Golang News",
+        "feedurl": "https://dev.to/feed/tag/go",
+        "category": "Backend"
+    },
+    {
+        "feedname": "Rust News",
+        "feedurl": "https://dev.to/feed/tag/rust",
+        "category": "Backend"
+    },
+    {
+        "feedname": "Node.js News",
+        "feedurl": "https://dev.to/feed/tag/node",
+        "category": "Backend"
+    },
+    {
+        "feedname": "Java News",
+        "feedurl": "https://dev.to/feed/tag/java",
+        "category": "Backend"
+    },
+    {
+        "feedname": "Node.js Blog",
+        "feedurl": "https://nodejs.org/en/feed/blog.xml",
+        "category": "Backend"
+    },
+    {
+        "feedname": "Supabase Blog",
+        "feedurl": "https://supabase.com/blog/rss.xml",
+        "category": "Backend"
+    },
+    {
+        "feedname": "Drizzle ORM Blog",
+        "feedurl": "https://orm.drizzle.team/blog/rss.xml",
+        "category": "Backend"
+    },
+    {
+        "feedname": "Prisma Blog",
+        "feedurl": "https://www.prisma.io/blog/rss.xml",
+        "category": "Backend"
+    },
+    {
+        "feedname": "AWS News",
+        "feedurl": "https://aws.amazon.com/blogs/aws/feed/",
+        "category": "Cloud"
+    },
+    {
+        "feedname": "Azure Blog",
+        "feedurl": "https://azure.microsoft.com/en-us/blog/feed/",
+        "category": "Cloud"
+    },
+    {
+        "feedname": "Google Cloud Blog",
+        "feedurl": "https://blog.google/products/google-cloud/rss/",
+        "category": "Cloud"
+    },
+    {
+        "feedname": "Docker Blog",
+        "feedurl": "https://www.docker.com/blog/feed/",
+        "category": "Cloud"
+    },
+    {
+        "feedname": "Kubernetes Blog",
+        "feedurl": "https://kubernetes.io/feed.xml",
+        "category": "Cloud"
+    },
+    {
+        "feedname": "The Hacker News",
+        "feedurl": "https://thehackernews.com/feeds/posts/default",
+        "category": "Cybersecurity"
+    },
+    {
+        "feedname": "CISA Alerts",
+        "feedurl": "https://www.cisa.gov/cybersecurity-alerts.xml",
+        "category": "Cybersecurity"
+    },
+    {
+        "feedname": "Krebs on Security",
+        "feedurl": "https://krebsonsecurity.com/feed/",
+        "category": "Cybersecurity"
+    },
+    {
+        "feedname": "SANS ISC Diary",
+        "feedurl": "https://isc.sans.edu/rssfeed.xml",
+        "category": "Cybersecurity"
+    },
+    {
+        "feedname": "Wired Security",
+        "feedurl": "https://www.wired.com/category/security/feed",
+        "category": "Cybersecurity"
+    },
+    {
+        "feedname": "Threatpost",
+        "feedurl": "https://threatpost.com/feed/",
+        "category": "Cybersecurity"
+    },
+    {
+        "feedname": "Google Project Zero",
+        "feedurl": "https://googleprojectzero.blogspot.com/feeds/posts/default",
+        "category": "Cybersecurity"
+    },
+    {
+        "feedname": "Database News",
+        "feedurl": "https://dev.to/feed/tag/database",
+        "category": "Database"
+    },
+    {
+        "feedname": "MongoDB Blog",
+        "feedurl": "https://www.mongodb.com/blog/rss",
+        "category": "Database"
+    },
+    {
+        "feedname": "PostgreSQL News",
+        "feedurl": "https://www.postgresql.org/news.rss",
+        "category": "Database"
+    },
+    {
+        "feedname": "Redis Blog",
+        "feedurl": "https://redis.com/blog/rss",
+        "category": "Database"
+    },
+    {
+        "feedname": "PlanetScale Blog",
+        "feedurl": "https://planetscale.com/blog/rss.xml",
+        "category": "Database"
+    },
+    {
+        "feedname": "Smashing Magazine",
+        "feedurl": "https://www.smashingmagazine.com/feed/",
+        "category": "Design"
+    },
+    {
+        "feedname": "Figma Blog",
+        "feedurl": "https://www.figma.com/blog/feed/",
+        "category": "Design"
+    },
+    {
+        "feedname": "Canva Newsroom",
+        "feedurl": "https://www.canva.com/newsroom/news/feed/",
+        "category": "Design"
+    },
+    {
+        "feedname": "Design Milk",
+        "feedurl": "https://design-milk.com/feed/",
+        "category": "Design"
+    },
+    {
+        "feedname": "Nielsen Norman Group (UX)",
+        "feedurl": "https://www.nngroup.com/articles/rss/",
+        "category": "Design"
+    },
+    {
+        "feedname": "UX Collective",
+        "feedurl": "https://uxdesign.cc/feed",
+        "category": "Design"
+    },
+    {
+        "feedname": "Designer News",
+        "feedurl": "https://www.designernews.co/?format=rss",
+        "category": "Design"
+    },
+    {
+        "feedname": "Linear (Updates)",
+        "feedurl": "https://linear.app/now/rss.xml",
+        "category": "Dev Tools"
+    },
+    {
+        "feedname": "Vercel Blog",
+        "feedurl": "https://vercel.com/blog/feed",
+        "category": "Dev Tools"
+    },
+    {
+        "feedname": "Railway Blog",
+        "feedurl": "https://blog.railway.app/rss.xml",
+        "category": "Dev Tools"
+    },
+    {
+        "feedname": "Google SRE Blog",
+        "feedurl": "https://cloud.google.com/blog/products/devops-sre/rss",
+        "category": "DevOps"
+    },
+    {
+        "feedname": "PagerDuty Blog",
+        "feedurl": "https://www.pagerduty.com/blog/feed/",
+        "category": "DevOps"
+    },
+    {
+        "feedname": "Datadog Engineering",
+        "feedurl": "https://www.datadoghq.com/blog/index.xml",
+        "category": "DevOps"
+    },
+    {
+        "feedname": "Netflix TechBlog",
+        "feedurl": "https://netflixtechblog.com/feed",
+        "category": "Engineering"
+    },
+    {
+        "feedname": "Meta Engineering",
+        "feedurl": "https://engineering.fb.com/feed/",
+        "category": "Engineering"
+    },
+    {
+        "feedname": "Uber Engineering",
+        "feedurl": "https://www.uber.com/blog/engineering/rss/",
+        "category": "Engineering"
+    },
+    {
+        "feedname": "Cloudflare Blog",
+        "feedurl": "https://blog.cloudflare.com/rss/",
+        "category": "Engineering"
+    },
+    {
+        "feedname": "Slack Engineering",
+        "feedurl": "https://slack.engineering/feed/",
+        "category": "Engineering"
+    },
+    {
+        "feedname": "Airbnb Tech Blog",
+        "feedurl": "https://airbnb.tech/feed",
+        "category": "Engineering"
+    },
+    {
+        "feedname": "Spotify Engineering",
+        "feedurl": "https://spotify.engineering/feed/",
+        "category": "Engineering"
+    },
+    {
+        "feedname": "Pinterest Engineering",
+        "feedurl": "https://medium.com/feed/@Pinterest_Engine",
+        "category": "Engineering"
+    },
+    {
+        "feedname": "LinkedIn Engineering",
+        "feedurl": "https://engineering.linkedin.com/blog.rss",
+        "category": "Engineering"
+    },
+    {
+        "feedname": "Dropbox Tech Blog",
+        "feedurl": "https://dropbox.tech/feed",
+        "category": "Engineering"
+    },
+    {
+        "feedname": "Discord Blog",
+        "feedurl": "https://discord.com/blog/rss.xml",
+        "category": "Engineering"
+    },
+    {
+        "feedname": "Canva Engineering",
+        "feedurl": "https://canva.dev/blog/engineering/rss.xml",
+        "category": "Engineering"
+    },
+    {
+        "feedname": "Dev.to Frontend",
+        "feedurl": "https://dev.to/feed/tag/frontend",
+        "category": "Frontend"
+    },
+    {
+        "feedname": "Dev.to React",
+        "feedurl": "https://dev.to/feed/tag/react",
+        "category": "Frontend"
+    },
+    {
+        "feedname": "Dev.to CSS",
+        "feedurl": "https://dev.to/feed/tag/css",
+        "category": "Frontend"
+    },
+    {
+        "feedname": "JavaScript Weekly",
+        "feedurl": "https://javascriptweekly.com/rss/25xldlji",
+        "category": "Frontend"
+    },
+    {
+        "feedname": "CSS-Tricks",
+        "feedurl": "https://css-tricks.com/feed/",
+        "category": "Frontend"
+    },
+    {
+        "feedname": "Frontend Focus",
+        "feedurl": "https://frontendfoc.us/rss",
+        "category": "Frontend"
+    },
+    {
+        "feedname": "David Walsh Blog",
+        "feedurl": "https://davidwalsh.name/feed",
+        "category": "Frontend"
+    },
+    {
+        "feedname": "React Blog",
+        "feedurl": "https://react.dev/rss.xml",
+        "category": "Frontend"
+    },
+    {
+        "feedname": "Hacker News",
+        "feedurl": "https://news.ycombinator.com/rss",
+        "category": "General Tech"
+    },
+    {
+        "feedname": "The Register",
+        "feedurl": "https://www.theregister.com/headlines.rss",
+        "category": "General Tech"
+    },
+    {
+        "feedname": "Ars Technica",
+        "feedurl": "https://feeds.arstechnica.com/arstechnica/index",
+        "category": "General Tech"
+    },
+    {
+        "feedname": "GitHub Blog",
+        "feedurl": "https://github.blog/feed/",
+        "category": "GitHub Projects"
+    },
+    {
+        "feedname": "GitHub Engineering",
+        "feedurl": "https://github.blog/category/engineering/feed/",
+        "category": "GitHub Projects"
+    },
+    {
+        "feedname": "Google Developers",
+        "feedurl": "https://developers.googleblog.com/feeds/posts/default",
+        "category": "Google"
+    },
+    {
+        "feedname": "Chrome for Developers",
+        "feedurl": "https://developer.chrome.com/feeds/blog.xml",
+        "category": "Google"
+    },
+    {
+        "feedname": "Metaverse",
+        "feedurl": "https://dev.to/feed/tag/metaverse",
+        "category": "Metaverse"
+    },
+    {
+        "feedname": "Android Developers",
+        "feedurl": "https://android-developers.googleblog.com/feeds/posts/default",
+        "category": "Mobile"
+    },
+    {
+        "feedname": "Swift by Sundell",
+        "feedurl": "https://www.swiftbysundell.com/rss",
+        "category": "Mobile"
+    },
+    {
+        "feedname": "iOS Dev Weekly",
+        "feedurl": "https://iosdevweekly.com/issues.rss",
+        "category": "Mobile"
+    },
+    {
+        "feedname": "Apple Developer News",
+        "feedurl": "https://developer.apple.com/news/rss/news.rss",
+        "category": "Mobile"
+    },
+    {
+        "feedname": "Flutter Blog",
+        "feedurl": "https://medium.com/feed/flutter",
+        "category": "Mobile"
+    },
+    {
+        "feedname": "Android Police",
+        "feedurl": "https://www.androidpolice.com/feed/",
+        "category": "Mobile"
+    },
+    {
+        "feedname": "9to5Mac",
+        "feedurl": "https://9to5mac.com/feed/",
+        "category": "Mobile"
+    },
+    {
+        "feedname": "Changelog",
+        "feedurl": "https://changelog.com/master/feed",
+        "category": "Open Source"
+    },
+    {
+        "feedname": "Google Open Source",
+        "feedurl": "https://opensource.googleblog.com/feeds/posts/default",
+        "category": "Open Source"
+    },
+    {
+        "feedname": "Notion Blog",
+        "feedurl": "https://www.notion.so/blog/rss.xml",
+        "category": "Productivity"
+    },
+    {
+        "feedname": "Obsidian Blog",
+        "feedurl": "https://obsidian.md/blog/rss.xml",
+        "category": "Productivity"
+    },
+    {
+        "feedname": "IBM Quantum",
+        "feedurl": "https://www.ibm.com/quantum/blog/rss",
+        "category": "Quantum"
+    },
+    {
+        "feedname": "D-Wave News",
+        "feedurl": "https://www.dwavequantum.com/rss.xml",
+        "category": "Quantum"
+    },
+    {
+        "feedname": "ArXiv: Artificial Intelligence",
+        "feedurl": "http://export.arxiv.org/rss/cs.AI",
+        "category": "Research"
+    },
+    {
+        "feedname": "ArXiv: Computer Vision",
+        "feedurl": "http://export.arxiv.org/rss/cs.CV",
+        "category": "Research"
+    },
+    {
+        "feedname": "ArXiv: Computation and Language",
+        "feedurl": "http://export.arxiv.org/rss/cs.CL",
+        "category": "Research"
+    },
+    {
+        "feedname": "ArXiv: Machine Learning",
+        "feedurl": "http://export.arxiv.org/rss/cs.LG",
+        "category": "Research"
+    },
+    {
+        "feedname": "Papers with Code",
+        "feedurl": "https://paperswithcode.com/rss/",
+        "category": "Research"
+    },
+    {
+        "feedname": "DeepMind Research",
+        "feedurl": "https://deepmind.google/blog/rss.xml",
+        "category": "Research"
+    },
+    {
+        "feedname": "TechCrunch Startups",
+        "feedurl": "https://techcrunch.com/category/startups/feed/",
+        "category": "Startup"
+    },
+    {
+        "feedname": "Y Combinator Blog",
+        "feedurl": "https://blog.ycombinator.com/feed/",
+        "category": "Startup"
+    },
+    {
+        "feedname": "VentureBeat AI",
+        "feedurl": "https://venturebeat.com/category/ai/feed/",
+        "category": "Startup"
+    },
+    {
+        "feedname": "ByteByteGo (Alex Xu)",
+        "feedurl": "https://blog.bytebytego.com/feed",
+        "category": "System Design"
+    },
+    {
+        "feedname": "High Scalability",
+        "feedurl": "http://feeds.feedburner.com/HighScalability",
+        "category": "System Design"
+    },
+    {
+        "feedname": "InfoQ Architecture",
+        "feedurl": "https://feed.infoq.com/architecture-design/news/",
+        "category": "System Design"
+    },
+    {
+        "feedname": "AWS Architecture Blog",
+        "feedurl": "https://aws.amazon.com/blogs/architecture/feed/",
+        "category": "System Design"
+    },
+    {
+        "feedname": "Microservices.io",
+        "feedurl": "https://microservices.io/feed.xml",
+        "category": "System Design"
+    },
+    {
+        "feedname": "DZone Architecture",
+        "feedurl": "https://dzone.com/feeds/rss/architecture.rss",
+        "category": "System Design"
+    },
+    {
+        "feedname": "Testing",
+        "feedurl": "https://dev.to/feed/tag/testing",
+        "category": "Testing"
+    },
+    {
+        "feedname": "Ethereum Foundation",
+        "feedurl": "https://blog.ethereum.org/feed.xml",
+        "category": "Web3"
+    },
+    {
+        "feedname": "Solana Blog",
+        "feedurl": "https://solana.com/blog/rss.xml",
+        "category": "Web3"
+    },
+    {
+        "feedname": "Polygon Technology",
+        "feedurl": "https://blog.polygon.technology/rss/",
+        "category": "Web3"
+    },
+    {
+        "feedname": "Chainlink Blog",
+        "feedurl": "https://blog.chain.link/rss.xml",
+        "category": "Web3"
+    }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "title": "TypeScript Migrations in Prisma Next",
+    "link": "https://www.prisma.io/blog/typescript-migrations-in-prisma-next",
+    "description": "In Prisma Next, migrations are TypeScript files you can read, edit, and re-run with confidence. Every step is verified before it runs and again after, and every failure points directly at the operation that caused it.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T00:00:00",
+    "source": "Prisma Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "MongoDB Without Compromise",
+    "link": "https://www.prisma.io/blog/mongodb-without-compromise",
+    "description": "Prisma Next brings a MongoDB-native experience to TypeScript with type-safe queries, real migrations, polymorphic models, embedded collections, and typed aggregation pipelines.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-13T00:00:00",
+    "source": "Prisma Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Announcing Query Insights For Prisma Postgres",
+    "link": "https://www.prisma.io/blog/announcing-query-insights-for-prisma-postgres",
+    "description": "Query Insights gives you built-in visibility into how your database queries behave in production. It is included in Prisma Postgres and works out of the box without any setup.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-09T00:00:00",
+    "source": "Prisma Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Agentic Engineering: How Prisma Builds with AI",
+    "link": "https://www.prisma.io/blog/how-prisma-build-with-agentic-ai",
+    "description": "In three months, Prisma fundamentally changed how it builds software by rethinking the relationship between engineers and AI agents. Here's what we learned building Prisma Next with agentic engineering.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-03-30T00:00:00",
+    "source": "Prisma Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Rethinking Database Migrations",
+    "link": "https://www.prisma.io/blog/rethinking-database-migrations",
+    "description": "Database migrations are brittle and they break when you're most vulnerable; when you're deploying to production. Prisma Next migrations make them explicit, verifiable and safe to retry.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-03-27T00:00:00",
+    "source": "Prisma Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Sunsetting Prisma Optimize",
+    "link": "https://www.prisma.io/blog/sunsetting-prisma-optimize",
+    "description": "Prisma Optimize is being sunset as we move query observability directly into Prisma Postgres through Query Insights.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-03-23T00:00:00",
+    "source": "Prisma Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Prisma Next Roadmap",
+    "link": "https://www.prisma.io/blog/prisma-next-roadmap",
+    "description": "Have you been wondering when you can start using Prisma Next in your app? Take a look at our roadmap to find out.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-03-20T00:00:00",
+    "source": "Prisma Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Rebuilding the Prisma Docs: A New Framework, Design, and Structure",
+    "link": "https://www.prisma.io/blog/rebuilding-the-prisma-docs",
+    "description": "Learn how the Prisma team rebuilt their docs from scratch using Fumadocs, improved search with Mixedbread, and launched without disrupting day-to-day work.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-03-09T00:00:00",
+    "source": "Prisma Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "The Next Evolution of Prisma ORM",
+    "link": "https://www.prisma.io/blog/the-next-evolution-of-prisma-orm",
+    "description": "A look at Prisma Next, a ground-up rethink of Prisma that improves queries, extensibility, migrations, and AI-friendly workflows while keeping Prisma\u2019s schema-first approach.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-03-04T00:00:00",
+    "source": "Prisma Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Prisma ORM v7.4: Query Caching & Performance Boost",
+    "link": "https://www.prisma.io/blog/prisma-orm-v7-4-query-caching-partial-indexes-and-major-performance-improvements",
+    "description": "Prisma ORM v7.4 introduces query caching, partial indexes, and BigInt precision fixes\u2014delivering significant performance improvements under load.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-02-19T00:00:00",
+    "source": "Prisma Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Prisma 7 Explained: Performance, Architecture, and AMA Answers",
+    "link": "https://www.prisma.io/blog/prisma-7-ama-clearing-up-the-why-behind-the-changes",
+    "description": "Prisma 7 introduces major architectural changes. We answer community AMA questions on performance, database support, the new client generator, and what\u2019s next.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-02-13T00:00:00",
+    "source": "Prisma Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Prisma ORM 7.3.0: Faster Query Compilation, Safer BigInt JSON, Better Adapters",
+    "link": "https://www.prisma.io/blog/prisma-orm-7-3-0",
+    "description": "Prisma ORM 7.3.0 adds a new compilerBuild option (fast or small), speeds up raw queries by bypassing compilation, improves MSSQL and better-sqlite3 stability, reverts mapped enum behavior, and preserves BigInt precision in relationJoins JSON aggregat",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-01-21T00:00:00",
+    "source": "Prisma Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Prisma ORM 7.2.0 Released: CLI Improvements, Bug Fixes & Better Configs",
+    "link": "https://www.prisma.io/blog/announcing-prisma-orm-7-2-0",
+    "description": "Prisma ORM 7.2.0 is out with key improvements: the return of the --url flag, smarter prisma init configs for Node and Bun, better CLI errors, and fixes for @db.Money. Upgrade today.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-12-17T00:00:00",
+    "source": "Prisma Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Understanding Prisma 7 Performance Benchmarks",
+    "link": "https://www.prisma.io/blog/prisma-7-performance-benchmarks",
+    "description": "We reviewed community benchmarks comparing Prisma 6 and Prisma 7. Here\u2019s what they measure, where regressions exist, and how we\u2019re fixing them.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-12-16T00:00:00",
+    "source": "Prisma Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Prisma 7 Release: Rust-Free, Faster, and More Compatible",
+    "link": "https://www.prisma.io/blog/announcing-prisma-orm-7-0-0",
+    "description": "Prisma ORM 7 delivers major performance gains, a Rust-free client, and a streamlined developer experience, plus deeper Prisma Postgres integration.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-11-19T00:00:00",
+    "source": "Prisma Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Announcing Prisma 6.19.0",
+    "link": "https://www.prisma.io/blog/announcing-prisma-6-19-0",
+    "description": "Prisma 6.19 release includes pooled Postgres connections and VS Code extension improvements",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-11-05T00:00:00",
+    "source": "Prisma Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "How Deno and Prisma Partnered to Power Per-Branch Databases",
+    "link": "https://www.prisma.io/blog/how-deno-and-prisma-partnered-to-power-per-branch-databases",
+    "description": "Deno Deploy integrates Prisma Postgres for instant per-branch databases, enabling seamless full-stack deployment and modern developer workflows.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-10-29T00:00:00",
+    "source": "Prisma Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Prisma ORM 6.18.0, Postgres Database Metrics and Config Modernization",
+    "link": "https://www.prisma.io/blog/announcing-prisma-6-18-0",
+    "description": "Catch up on the lates 6.18.0 release for Prisma ORM and Prisma Postgres.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-10-22T00:00:00",
+    "source": "Prisma Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "The ORM Convergence: Convergence through experience",
+    "link": "https://www.prisma.io/blog/convergence",
+    "description": "Why Drizzle's relational API v2 mirrors Prisma: production database problems at scale lead to similar patterns. A look at ORM convergence.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-10-20T00:00:00",
+    "source": "Prisma Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "ORM v6.17.0, New Usage Metrics & Direct Connections in GA for Prisma Postgres",
+    "link": "https://www.prisma.io/blog/orm-v6-17-0-new-usage-metrics-and-direct-connections-in-ga-for-prisma-postgres",
+    "description": "Prisma ORM v6.17.0 is out with fixes and improvements. Connecting to Prisma Postgres via your favorite ORM/DB tool is now GA. Read the full update.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-10-08T00:00:00",
+    "source": "Prisma Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Introducing Instant App Deployments in Partnership with Vercel",
+    "link": "https://www.prisma.io/blog/introducing-instant-app-deployments-in-partnership-with-vercel",
+    "description": "Instant App Deployment with Prisma Postgres and Vercel makes going from generated code to production effortless. Provision a Postgres database, deploy globally, and let users claim full ownership with a single API call. Perfect for AI coding platform",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-09-23T00:00:00",
+    "source": "Prisma Blog",
+    "category": "Backend"
+  }
+]

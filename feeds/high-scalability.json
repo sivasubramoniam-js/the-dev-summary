@@ -1,0 +1,92 @@
+[
+  {
+    "title": "The Swedbank Outage shows that Change Controls don't work",
+    "link": "http://highscalability.com/blog/2023/8/16/the-swedbank-outage-shows-that-change-controls-dont-work.html",
+    "description": "This week I&rsquo;ve been reading through the recent&nbsp;judgment from the Swedish FSA&nbsp;on the Swedbank outage. If you&rsquo;re unfamiliar with this story, Swedbank had a major outage in April 2022 that was caused by an unapproved change to thei",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-08-16T17:05:12",
+    "source": "High Scalability",
+    "category": "System Design"
+  },
+  {
+    "title": "Lessons Learned Running Presto at Meta Scale",
+    "link": "http://highscalability.com/blog/2023/7/16/lessons-learned-running-presto-at-meta-scale.html",
+    "description": " \nPresto is a free, open source SQL query engine. We&rsquo;ve been using it at Meta for the past ten years, and learned a lot while doing so. Running anything at scale - tools, processes, services - takes problem solving to overcome unexpected challe",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-07-16T16:42:21",
+    "source": "High Scalability",
+    "category": "System Design"
+  },
+  {
+    "title": "Gossip Protocol Explained",
+    "link": "http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html",
+    "description": "You can&nbsp;subscribe to the&nbsp;system design newsletter to excel in&nbsp;system design interviews and software architecture.&nbsp;The original article was published on&nbsp;systemdesign.one&nbsp;website.\n\n\n\n\n\n\n\nWhat Is Gossip Protocol?\nThe typica",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-07-16T16:38:02",
+    "source": "High Scalability",
+    "category": "System Design"
+  },
+  {
+    "title": "Consistent hashing algorithm",
+    "link": "http://highscalability.com/blog/2023/2/22/consistent-hashing-algorithm.html",
+    "description": "\n&nbsp;\nThis is a guest article by NK. You can view the original article Consistent hashing explained on systemdesign.one website.\nHow does consistent hashing&nbsp;work?\nAt a high level, consistent hashing performs the following operations:\n\nThe outp",
+    "image": "https://live.staticflickr.com/65535/52705024790_8a89921cfb.jpg",
+    "datetimestamp": "2023-02-22T16:39:15",
+    "source": "High Scalability",
+    "category": "System Design"
+  },
+  {
+    "title": "What is Cloud Computing? According to ChatGPT.",
+    "link": "http://highscalability.com/blog/2022/12/16/what-is-cloud-computing-according-to-chatgpt.html",
+    "description": "\nDALL-E picture generated from the answer.\n\nI was curious, given all the ChatGPT love, what it would make of some of our favorite topics. I was both impressed and unimpressed.\nImpressed. ChatGPT instantly generated an response that might make a good ",
+    "image": "https://live.staticflickr.com/65535/52567686348_753df29d20_w.jpg",
+    "datetimestamp": "2022-12-16T17:04:08",
+    "source": "High Scalability",
+    "category": "System Design"
+  },
+  {
+    "title": "Stuff The Internet Says On Scalability For December 2nd, 2022",
+    "link": "http://highscalability.com/blog/2022/12/2/stuff-the-internet-says-on-scalability-for-december-2nd-2022.html",
+    "description": "Never fear, HighScalability is here!\n\n&nbsp;&nbsp;1958: An engineer wiring an early IBM computer 2021: An engineer wiring an early IBM quantum computer. @enclanglement \n&nbsp;\nMy Stuff:\n\n I'm proud to announce a completely updated and expanded versio",
+    "image": "https://live.staticflickr.com/65535/52529671687_3433b320e8_z.jpg",
+    "datetimestamp": "2022-12-02T17:08:30",
+    "source": "High Scalability",
+    "category": "System Design"
+  },
+  {
+    "title": "The Cloud is Not a Railroad - An Argument Against the Vertical Separation of Cloud Providers",
+    "link": "http://highscalability.com/blog/2022/10/24/the-cloud-is-not-a-railroad-an-argument-against-the-vertical.html",
+    "description": "\n&nbsp;\nThere's a move to regulate cloud providers by vertically separating the services they offer.\nLike railroads of yore, who were not allowed to provide freight services on top of their base services, cloud providers would not be allowed to provi",
+    "image": "https://live.staticflickr.com/65535/52450419526_dc9077a2d1.jpg",
+    "datetimestamp": "2022-10-24T11:52:23",
+    "source": "High Scalability",
+    "category": "System Design"
+  },
+  {
+    "title": "Sponsored Post: G-Core Labs, Close, Wynter, Pinecone, Kinsta, Bridgecrew, IP2Location, StackHawk, InterviewCamp.io, Educative, Stream, Fauna, Triplebyte",
+    "link": "http://highscalability.com/blog/2022/7/18/sponsored-post-g-core-labs-close-wynter-pinecone-kinsta-brid.html",
+    "description": "\nWho's Hiring?&nbsp;\n\nClose is building the sales communication platform of the future and we're looking for a Site Reliability Engineer to help us accomplish that goal. If you have a passion for databases (both SQL and NoSQL), significant experience",
+    "image": "http://farm3.static.flickr.com/2363/5781449767_54902da8a5_o.jpg",
+    "datetimestamp": "2022-07-18T14:38:51",
+    "source": "High Scalability",
+    "category": "System Design"
+  },
+  {
+    "title": "Stuff The Internet Says On Scalability For July 11th, 2022",
+    "link": "http://highscalability.com/blog/2022/7/11/stuff-the-internet-says-on-scalability-for-july-11th-2022.html",
+    "description": "Never fear, HighScalability is here!\n \nEvery cell a universe. Most detailed image of a human cell to date. @microscopicture\nOther images considered: one byte of RAM in 1946; visual guide on troubleshooting Kubernetes; Cloudflare using lava lamps to g",
+    "image": "https://live.staticflickr.com/65535/52201588992_e9ba03fa8f.jpg",
+    "datetimestamp": "2022-07-11T16:11:55",
+    "source": "High Scalability",
+    "category": "System Design"
+  },
+  {
+    "title": "Sponsored Post: G-Core Labs, Close, Wynter, Pinecone, Kinsta, Bridgecrew, IP2Location, StackHawk, InterviewCamp.io, Educative, Stream, Fauna, Triplebyte",
+    "link": "http://highscalability.com/blog/2022/6/10/sponsored-post-g-core-labs-close-wynter-pinecone-kinsta-brid.html",
+    "description": "\nWho's Hiring?&nbsp;\n\nClose is building the sales communication platform of the future and we're looking for a Site Reliability Engineer to help us accomplish that goal. If you have a passion for databases (both SQL and NoSQL), significant experience",
+    "image": "http://farm3.static.flickr.com/2363/5781449767_54902da8a5_o.jpg",
+    "datetimestamp": "2022-06-10T15:39:03",
+    "source": "High Scalability",
+    "category": "System Design"
+  }
+]

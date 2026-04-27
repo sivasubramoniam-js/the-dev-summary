@@ -1,0 +1,227 @@
+[
+  {
+    "title": "Your Pipeline Is 28.5h Behind: Catching World Sentiment Leads with Pulsebit",
+    "link": "https://dev.to/pulsebitapi/your-pipeline-is-285h-behind-catching-world-sentiment-leads-with-pulsebit-ah6",
+    "description": "Your pipeline should be set up to catch anomalies like the recent 24h momentum spike of +0.308 we just uncovered. This spike is tied to a significant sentiment shift surrounding the \"Global Response to WHCA Dinner Shooting,\" with English-language pre",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgryw6plrccxmjx92xico.png",
+    "datetimestamp": "2026-04-27T15:40:35",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "PromptLedger v0.4 \u2014 Faster prompt logging, lightweight markers, and better prompt organization",
+    "link": "https://dev.to/ertugrulmutlu/promptledger-v04-faster-prompt-logging-lightweight-markers-and-better-prompt-organization-2b2g",
+    "description": "Devlog \u2014 Part 4\n\nPromptLedger v0.4 is mostly about making prompt versioning easier to use repeatedly: faster logging, clearer organization, and small release signals for versions worth remembering.\n\nIn the earlier parts of this series, PromptLedger s",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T15:19:18",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "Building AceExam: An AI-Powered Accessible Examination Platform with MongoDB",
+    "link": "https://dev.to/tanvi_penu/building-aceexam-an-ai-powered-accessible-examination-platform-with-mongodb-5dha",
+    "description": "By Tanvi, Ranadeep, Nachiketh, Jeathraditya\n\nDeveloped under the guidance of Professor Chanda Raj Kumar, \nand we are thankful for his valuable support throughout this project.\n\n  \n  \n  Online exams aren't built for everyone.\n\n\nMost digital examinatio",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F35phdri5541fjdwsnbh3.png",
+    "datetimestamp": "2026-04-27T15:17:09",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "The Swiss Army Knife That Actually Works: How AI Learned to Think and Draw at the Same Time",
+    "link": "https://dev.to/xoqhdgh1002/the-swiss-army-knife-that-actually-works-how-ai-learned-to-think-and-draw-at-the-same-time-879",
+    "description": "Picture a talented friend who can do something most people cannot: hold a genuine conversation about a painting while simultaneously sketching it from memory, then explain their artistic choices in writing, then generate a variation in a different st",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kxsc9psext5weldcmkv.png",
+    "datetimestamp": "2026-04-27T15:07:11",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "FFT Vibration Analysis on Real Bearing Data: Python Setup",
+    "link": "https://dev.to/tildalice/fft-vibration-analysis-on-real-bearing-data-python-setup-1c0f",
+    "description": "\n  \n  \n  Why Most Vibration Analysis Tutorials Skip the Hard Part\n\n\nMost FFT tutorials show you perfect sine waves and clean frequency peaks. Then you load real bearing data and get a noisy mess with peaks everywhere.\n\nThe gap between \"here's numpy.f",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Ftildalice.io%2Fwp-content%2Fuploads%2F2026%2F04%2Fstock-fft-vibration-analysis-bearing-data-python-starter-1.jpg",
+    "datetimestamp": "2026-04-27T15:05:00",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "I'm an AI Agent That Runs on Its Own Computer \u2014 Here Are the 5 Mistakes I Made This Week",
+    "link": "https://dev.to/nebulagg/im-an-ai-agent-that-runs-on-its-own-computer-here-are-the-5-mistakes-i-made-this-week-3f4n",
+    "description": "Liquid syntax error: Unknown tag 'endraw'",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T15:04:01",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "Add Authentication and SSO to Your Shiny App",
+    "link": "https://dev.to/descope/add-authentication-and-sso-to-your-shiny-app-15mb",
+    "description": "This blog was originally published on Descope.\n\nShiny lets you easily build web apps for data science using R and Python without the need for any web development experience. You can deploy these applications on your own web server or use Posit Connec",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fff7zn7tz7m7wzlo0ywjl.png",
+    "datetimestamp": "2026-04-27T15:00:00",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "Distribute your Python app without rewriting it",
+    "link": "https://dev.to/codelluis/distribute-your-python-app-without-rewriting-it-3e6i",
+    "description": "You have a Python function that processes one item. You call it in a loop over a list. The list grows. The loop slows down. The work is real \u2014 an LLM API call, an embedding, a scrape, a database query, a model inference \u2014 the kind of thing that does ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T15:00:00",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "How to Build Python CLI Tools That People Actually Enjoy Using",
+    "link": "https://dev.to/nithinbharathwaj/how-to-build-python-cli-tools-that-people-actually-enjoy-using-437b",
+    "description": "\nAs a best-selling author, I invite you to explore my books on Amazon. Don't forget to follow me on Medium and show your support. Thank you! Your support means the world! \n\n\nI remember the first time I tried to build a command-line tool. I typed pyth",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T14:49:33",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "Building MedAI \u2014 An AI-Powered Disease Prediction & Clinical Decision Support System",
+    "link": "https://dev.to/srimukh_vishnubotla_77c92/building-medai-an-ai-powered-disease-prediction-clinical-decision-support-system-46l3",
+    "description": "\n\nMedAI is a Flask-served Python application backed by MongoDB for clinical data persistence. The system combines RAG-powered disease retrieval across 14,000+ Human Disease Ontology entries, rule-based vital risk scoring, medical imaging analysis, an",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fewp3x8rmyxlvip81p353.png",
+    "datetimestamp": "2026-04-27T14:44:58",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "Step-by-Step Guide: Migrate from Python 3.15 to PyPy 7.3.17 for Data Processing Pipelines",
+    "link": "https://dev.to/johal/step-by-step-guide-migrate-from-python-315-to-pypy-7317-for-data-processing-pipelines-28em",
+    "description": "",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T14:44:58",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "Your Pipeline Is 28.5h Behind: Catching World Sentiment Leads with Pulsebit",
+    "link": "https://dev.to/pulsebitapi/your-pipeline-is-285h-behind-catching-world-sentiment-leads-with-pulsebit-4k93",
+    "description": "\n  \n  \n  Your Pipeline Is 28.5h Behind: Catching World Sentiment Leads with Pulsebit\n\n\nWe just uncovered a fascinating anomaly: a 24-hour momentum spike of +0.308 that you might be missing out on. This spike is tied to a specific cluster story regard",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F44pjg5fqc68sb2zeila7.png",
+    "datetimestamp": "2026-04-27T14:40:10",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "How to Scrape Indeed Data with Python in 2026",
+    "link": "https://dev.to/alterlab/how-to-scrape-indeed-data-with-python-in-2026-k9i",
+    "description": "Disclaimer: This guide covers extracting publicly accessible data. Always review a site's robots.txt and Terms of Service before scraping.\n\n\n  \n  \n  Why collect jobs data from Indeed?\n\n\nJob boards contain high-signal market data. Engineering, data, a",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T14:40:07",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "Your Pipeline Is 19.0h Behind: Catching World Sentiment Leads with Pulsebit",
+    "link": "https://dev.to/pulsebitapi/your-pipeline-is-190h-behind-catching-world-sentiment-leads-with-pulsebit-2d6c",
+    "description": "\n  \n  \n  Your Pipeline Is 19.0h Behind: Catching World Sentiment Leads with Pulsebit\n\n\nWe just spotted a 24-hour momentum spike of +0.308, linked to the sentiment surrounding the \"Global Response to WHCA Dinner Shooting.\" This anomaly stands out, par",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fem838x1viagi3nyqdd35.png",
+    "datetimestamp": "2026-04-27T11:55:06",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "Stop Wasting Days on RAG Setup: How uv + pyseekdb Cut Your Development Time by 90%",
+    "link": "https://dev.to/seekdb/stop-wasting-days-on-rag-setup-how-uv-pyseekdb-cut-your-development-time-by-90-p3j",
+    "description": "Stop fighting your tools. Start building.\n\n\n\nYou know the drill. You\u2019ve got a brilliant RAG idea. You\u2019re ready to build. Then reality hits: three days wrestling with Python environments, dependency conflicts, and \u201cit works on my machine\u201d moments. By ",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fci82psqo7rr3um0izi9t.png",
+    "datetimestamp": "2026-04-27T11:49:26",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "Sound analysis for visualization",
+    "link": "https://dev.to/utak3r/sound-analysis-for-visualization-d6b",
+    "description": "Last time I was working on sound visualization, after testing with real-life data (yes, music \ud83d\ude09) and testing out various visualization shaders, I came to a conclusion that I approached it from a too scientific point of view.\nThe result was fully prop",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgecx2hucn87sj4o5dmd8.png",
+    "datetimestamp": "2026-04-27T11:48:50",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "Setting up a local RL environment in 2026 and WHAT I wish I knew!!!",
+    "link": "https://dev.to/lukeo/setting-up-a-local-rl-environment-in-2026-and-what-i-wish-i-knew-57fe",
+    "description": "I spent three days last month getting a reinforcement learning environment to run locally before I could write a single line of training code.\n\nThree days. For the setup.\n\nI'm writing this because I found almost no practical guide that covers the ann",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T11:48:27",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "Why Your Python Voice Assistant Should Use Whisper + Claude (Not SpeechRecognition)",
+    "link": "https://dev.to/bfo_ships/why-your-python-voice-assistant-should-use-whisper-claude-not-speechrecognition-4k0h",
+    "description": "If you Google \"ai voice assistant python\" today, the top results still teach SpeechRecognition + pyttsx3 + Google's free STT endpoint. That stack is from 2020. It's slow, cloud-locked, and the recognition quality on accented English is rough.\n\nThis i",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T11:47:38",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "Building Your First Intelligent Anomaly Detection Pipeline in 5 Steps",
+    "link": "https://dev.to/jasperstewart/building-your-first-intelligent-anomaly-detection-pipeline-in-5-steps-4dka",
+    "description": "\n  \n  \n  A Practical Implementation Guide\n\n\nEvery engineering team eventually faces the same problem: critical issues hiding in plain sight within mountains of metrics and logs. By the time humans notice unusual patterns, customers are already impact",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft48xrajxth9c2ql2bmfh.jpeg",
+    "datetimestamp": "2026-04-27T11:43:52",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "Your Pipeline Is 19.2h Behind: Catching Hardware Sentiment Leads with Pulsebit",
+    "link": "https://dev.to/pulsebitapi/your-pipeline-is-192h-behind-catching-hardware-sentiment-leads-with-pulsebit-21ki",
+    "description": "\n  \n  \n  Your Pipeline Is 19.2h Behind: Catching Hardware Sentiment Leads with Pulsebit\n\n\nWe recently observed a significant anomaly: a 24h momentum spike of +0.383. This spike indicates a fresh wave of sentiment surrounding hardware, particularly in",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuulwzwptj9llucevk4bp.png",
+    "datetimestamp": "2026-04-27T11:40:16",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "# How I Built a Real-Time HTTP Anomaly Detector for cloud.ng with Python, Nginx, Docker, and iptables",
+    "link": "https://dev.to/goteh_mbaza_e513bdbf1871a/-how-i-built-a-real-time-http-anomaly-detector-for-cloudng-with-python-nginx-docker-and-1d01",
+    "description": "When a platform is public and always online, one of the biggest security questions is:\n\n\nHow do you know when traffic is normal, and when something suspicious is happening?\n\n\nThat was the goal of this project.\n\nI built a real-time anomaly detection e",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T11:32:59",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "I completed the IBM Data Analyst Certificate \ud83c\udf93",
+    "link": "https://dev.to/rihhanna/i-completed-the-ibm-data-analyst-certificate-90n",
+    "description": "Alhamdulillah! \ud83c\udf89\n\nI just completed the IBM Data Analyst Professional Certificate on Coursera!\n\nHere's what I learned in simple words:\n\n\n\n\n\n  \n  \n  \ud83d\udcda What I Studied (11 Courses)\n\n\n\nExcel basics &amp; dashboards\nPython for data science\nSQL &amp; databa",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2kbfniyf18qg2cvvq0u9.png",
+    "datetimestamp": "2026-04-27T11:26:02",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "Building SkillShare Kenya: A Django Skills Marketplace with PWA Support",
+    "link": "https://dev.to/anita564lucy/building-skillshare-kenya-a-django-skills-marketplace-with-pwa-support-5127",
+    "description": "Introduction\n\nSkillShare Kenya is a skills marketplace built with Django that connects Kenyan professionals with people looking for their services. This project was built as part of my web development training at Code Hub.\n\nWhat I Built\n\nSkillShare K",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T11:23:09",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "How I Automate My Freelance Workflow with Python",
+    "link": "https://dev.to/caper_dev/how-i-automate-my-freelance-workflow-with-python-4dl3",
+    "description": "\n  \n  \n  How I Automate My Freelance Workflow with Python\n\n\nAs a freelancer, I've learned that automation is key to increasing productivity and efficiency. By leveraging Python, I've been able to streamline my workflow, reducing the time spent on rep",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T11:22:17",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "Agentic AI Course in Hyderabad | Agentic AI Online Training",
+    "link": "https://dev.to/hari_krishna_17497813413d/agentic-ai-course-in-hyderabad-agentic-ai-online-training-30n9",
+    "description": "\n  \n  \n  What Skills Make You Job-Ready in Agentic AI?\n\n\nIntroduction\nAgentic AI skills are the foundation for building systems that can act, plan, and make decisions with minimal human input. Today, many companies are exploring autonomous AI systems",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8wy3u60ij4ztiry53fxq.jpg",
+    "datetimestamp": "2026-04-27T11:20:44",
+    "source": "Python News",
+    "category": "Backend"
+  }
+]

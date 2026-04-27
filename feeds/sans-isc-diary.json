@@ -1,0 +1,101 @@
+[
+  {
+    "title": "TeamPCP Supply Chain Campaign: Update 008 - 26-Day Pause Ends with Three Concurrent Compromises (Checkmarx KICS, Bitwarden CLI Cascade, xinference PyPI), CanisterSprawl npm Worm Identified, and Tier 1 Coverage Returns, (Mon, Apr 27th)",
+    "link": "https://isc.sans.edu/diary/rss/32926",
+    "description": "This update succeeds&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;TeamPCP Supply Chain Campaign Update 007, published April 8, 2026, which left the campaign in credential-monetization mode following the Cisco sourc",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T14:01:17",
+    "source": "SANS ISC Diary",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "ISC Stormcast For Friday, April 24th, 2026 https://isc.sans.edu/podcastdetail/9906, (Fri, Apr 24th)",
+    "link": "https://isc.sans.edu/diary/rss/32924",
+    "description": "",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-24T02:00:02",
+    "source": "SANS ISC Diary",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "Apple Patches Exploited Notification Flaw, (Thu, Apr 23rd)",
+    "link": "https://isc.sans.edu/diary/rss/32922",
+    "description": "Apple yesterday released iOS/iPadOS 26.4.2 and iOS/iPadOS 18.7.8. This update fixes a single Notification Services vulnerability, CVE-2026-28950:&#xd;",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-23T10:18:30",
+    "source": "SANS ISC Diary",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "ISC Stormcast For Thursday, April 23rd, 2026 https://isc.sans.edu/podcastdetail/9904, (Thu, Apr 23rd)",
+    "link": "https://isc.sans.edu/diary/rss/32920",
+    "description": "",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-23T02:00:03",
+    "source": "SANS ISC Diary",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "ISC Stormcast For Wednesday, April 22nd, 2026 https://isc.sans.edu/podcastdetail/9902, (Wed, Apr 22nd)",
+    "link": "https://isc.sans.edu/diary/rss/32918",
+    "description": "",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-22T02:00:03",
+    "source": "SANS ISC Diary",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "&#x5b;Guest Diary&#x5d; Beyond Cryptojacking: Telegram tdata as a Credential Harvesting Vector, Lessons from a Honeypot Incident, (Wed, Apr 22nd)",
+    "link": "https://isc.sans.edu/diary/rss/32888",
+    "description": "&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x5b&#x3b;This is a Guest Diary by L. Carty, an ISC intern as part of the SANS.edu Bachelor&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s Degree in Applied Cybersecurity (BACS) program &&#x23&#x3b;x26&#x3b;&#x23&#x3b;x5b&#x3",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-22T00:03:04",
+    "source": "SANS ISC Diary",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "A .WAV With A Payload, (Tue, Apr 21st)",
+    "link": "https://isc.sans.edu/diary/rss/32910",
+    "description": "There have been reports of threat actors using a .wav file as a vector for malware.&#xd;",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-21T07:14:56",
+    "source": "SANS ISC Diary",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "ISC Stormcast For Tuesday, April 21st, 2026 https://isc.sans.edu/podcastdetail/9900, (Tue, Apr 21st)",
+    "link": "https://isc.sans.edu/diary/rss/32916",
+    "description": "",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-21T02:00:02",
+    "source": "SANS ISC Diary",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "Handling the CVE Flood With EPSS, (Mon, Apr 20th)",
+    "link": "https://isc.sans.edu/diary/rss/32914",
+    "description": "Every morning, security people around the world face the same ritual: opening their vulnerability feed to find a lot of new CVE entries that appeared overnight. Over the past decade, this flood has become a defining challenge of modern defensive secu",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-20T06:43:22",
+    "source": "SANS ISC Diary",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "ISC Stormcast For Monday, April 20th, 2026 https://isc.sans.edu/podcastdetail/9898, (Mon, Apr 20th)",
+    "link": "https://isc.sans.edu/diary/rss/32912",
+    "description": "",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-20T02:00:03",
+    "source": "SANS ISC Diary",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "ISC Stormcast For Friday, April 17th, 2026 https://isc.sans.edu/podcastdetail/9896, (Fri, Apr 17th)",
+    "link": "https://isc.sans.edu/diary/rss/32906",
+    "description": "",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-17T02:00:03",
+    "source": "SANS ISC Diary",
+    "category": "Cybersecurity"
+  }
+]

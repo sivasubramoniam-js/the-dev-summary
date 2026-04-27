@@ -1,0 +1,155 @@
+[
+  {
+    "title": "KEIBIDROP: Secure File Transfer!",
+    "link": "https://dev.to/mfc_keibisoft/keibidrop-secure-file-transfer-132n",
+    "description": "KEIBIDROP encrypted file transfer and shared filesystem between two devices\n\nhttps://keibidrop.com\n\nKeibiDrop connects two devices directly and lets them share files over an encrypted channel. It works over the internet or a local network.\n\nTwo modes",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T15:30:09",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "I Detect 26 Frameworks Without AI. Here's How Deterministic File-Based Detection Works.",
+    "link": "https://dev.to/jonny2k26/i-detect-26-frameworks-without-ai-heres-how-deterministic-file-based-detection-works-10jh",
+    "description": "When I built Staxa, a platform that deploys isolated customer environments from source code, I needed to answer a deceptively hard question.\n\n\"The user pushed a GitHub repo with no Dockerfile. What framework is this, and how do I containerize it?\"\n\nT",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T15:00:00",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "How I Built a Go WebSocket Server Handling 50,000 Clients Under 1ms Latency",
+    "link": "https://dev.to/nithinbharathwaj/how-i-built-a-go-websocket-server-handling-50000-clients-under-1ms-latency-2hk9",
+    "description": "\nAs a best-selling author, I invite you to explore my books on Amazon. Don't forget to follow me on Medium and show your support. Thank you! Your support means the world! \n\n\nI spent years building chat applications and real-time dashboards that fell ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T14:36:41",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "Why ERP integrations silently fail in production (and how I fixed it in Go)",
+    "link": "https://dev.to/girlsjustwannahavecode/why-erp-integrations-silently-fail-in-production-and-how-i-fixed-it-in-go-1gd4",
+    "description": "Most integration systems don\u2019t break immediately. They fail silently over time by corrupting your data.\n\nI learned this the hard way while building ERP integrations between retailers and suppliers. That retailer exchanged data with its suppliers: inv",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T14:00:00",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "Debugging theory solved our security triage problem",
+    "link": "https://dev.to/bala_paranj_059d338e44e7e/debugging-theory-solved-our-security-triage-problem-g6b",
+    "description": "Our security CLI produced findings engineers couldn't triage without hours of research. We applied Andreas Zeller's defect/infection/failure chain from debugging theory \u2014 and triage time collapsed.\n\n\n  \n  \n  50 findings. 4 hours of triage.\n\n\nOur Go C",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T12:43:14",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "\ud83d\ude80 Building a CRUD API in Go with PostgreSQL (Step-by-Step)",
+    "link": "https://dev.to/ahmedraza_fyntune/building-a-crud-api-in-go-with-postgresql-step-by-step-2n34",
+    "description": "In the previous post, we built a simple CRUD API in Go using in-memory storage.\n\nNow let\u2019s make it real-world ready by connecting it to a database:\n\n\ud83d\udc49 PostgreSQL\n\n\n\n\n\n  \n  \n  \u2699\ufe0f Step 1: Install PostgreSQL Driver\n\n\nWe\u2019ll use the official driver:\n\n\n\ngo",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T11:09:38",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "\ud83d\ude80 OathMesh v1.0.0-rc.1: Zero-Trust API Keys That Survive the Real World",
+    "link": "https://dev.to/mustafamahmoudatta111/oathmesh-v100-rc1-zero-trust-api-keys-that-survive-the-real-world-2hg5",
+    "description": "Replacing static API keys with 5-minute, self-destructing Ed25519 tokens sounds great\u2014until your Redis node dies, NTP drifts, or you realize you have to rewrite 50 legacy microservices to verify them. \n\nLast time, we introduced OathMesh. Since then, ",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fwww.image2url.com%2Fr2%2Fdefault%2Fimages%2F1777286912966-dae03aaf-9605-4a9b-bc86-385190bfd9ff.png",
+    "datetimestamp": "2026-04-27T10:52:19",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "Testing a Go exchange API client: mocks, httptest and testcontainers",
+    "link": "https://dev.to/ohugonnot/testing-a-go-exchange-api-client-mocks-httptest-and-testcontainers-2nl0",
+    "description": "The Go service runs locally, tests pass. Then you remember the tests are hitting the real Binance API. The next day, CI fails: rate limit exceeded, unstable network, or the exchange quietly renamed a field in its response. Tests that depend on extern",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T09:00:03",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "Async/Await-like pattern in Go to make concurrency simple, robust, less boilerplate",
+    "link": "https://dev.to/colafanta/asyncawait-like-pattern-in-go-to-make-structured-concurrency-easy-and-with-less-boilerplate-121l",
+    "description": "disclaimer:\nIt is just a pattern that wraps Goroutine and channel. It is still Goroutine underneath. It is not bringing \"coloring\" to Go code. Functions still call other functions as normal functions, without the need to distinguish async/sync ones.\n",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T05:31:24",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "Auto-updating Kubernetes workloads: an annotation-driven rollout, with circuit breaker",
+    "link": "https://dev.to/willamhou/auto-updating-kubernetes-workloads-an-annotation-driven-rollout-with-circuit-breaker-280o",
+    "description": "You have ten agent pods on a cluster, each running a different runtime image. Every Tuesday somebody publishes a new version of one of them. Are you going to kubectl set image ten things by hand? Are you sure you'll know if v1.4.2 was the one that we",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T04:20:33",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "Trying to beat the venerable tar",
+    "link": "https://dev.to/arhuman/trying-to-beat-the-venerable-tar-2nh",
+    "description": "Hi,\n\nI\u2019ve been working on a small Go project called Metarc: It's an Open Source file archiver and I\u2019d be curious to get feedback from the community.\n\nThe idea is to explore \u201cmetacompression\u201d: instead of only compressing bytes, try to reduce structura",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T01:53:29",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "Hangout Planner - fighting cognitive atrophy and full process of making app",
+    "link": "https://dev.to/meatboy/hangout-planner-fighting-cognitive-atrophy-and-full-process-of-making-app-4fn0",
+    "description": "In the rising era of artificial intelligence and information processing speeding up everywhere, I needed to slow down to force myself to deliberately practice and think. I wonder if cognitive skill atrophy will be a big thing or just a minor issue lo",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-26T20:55:59",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "I learned Rust with rustlings, so I built the same thing for Go",
+    "link": "https://dev.to/ichihiroy/i-learned-rust-with-rustlings-so-i-built-the-same-thing-for-go-4f4m",
+    "description": "I've been wanting to learn Go properly for a while. Tried the usual \u2014 read the docs, watched tutorials, copy-pasted\n  examples. Nothing stuck.                                                                                                    \n\nThen I",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fegc53ejnm1moma45zzxl.png",
+    "datetimestamp": "2026-04-26T18:44:00",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "I built ssmctl because AWS SSM deserved a better user experience",
+    "link": "https://dev.to/rhysmcneill/i-built-ssmctl-because-aws-ssm-deserved-a-better-user-experience-29e6",
+    "description": "\nGithub: github.com/rhysmcneill/ssmctl\n\n\nI use AWS Session Manager a lot. No bastion hosts, no open ports, full CloudTrail audit trail \u2014 it's the right way to access EC2 instances. But every time I sat down to use it I found myself Googling the same ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-26T17:00:37",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "Don\u2019t Trust Backups You Haven\u2019t Restored",
+    "link": "https://dev.to/alzhi_f93e67fa45b972/backups-are-useless-until-you-restore-them-50do",
+    "description": "\n  \n  \n  0. A Backup Is Not a File, but a Promise\n\n\nYou can write anything you want in the logs:\n\n\n\nbackup completed successfully\nWAL uploaded successfully\nretention completed successfully\narchive is healthy\n\n\n\n\n\n\nBut on the day of a real disaster, P",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-26T14:39:58",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "Every Request Looked the Same in My Logs. Then I Added One Line.",
+    "link": "https://dev.to/abhishek_sharma_a9792aee8/every-request-looked-the-same-in-my-logs-then-i-added-one-line-19m7",
+    "description": "In Part 9, I Dockerized my backend and added database migrations. One command (docker compose up) now spins up Go + Postgres + Redis.\n\nThen I hit a bug. I sent a POST to /entries and got a 500 back. No idea why.\n\nI opened the logs:\n\n\n\n2026/02/01 10:1",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-26T14:11:32",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "The Airgap Test: Refactoring a Cobra CLI into a Library API",
+    "link": "https://dev.to/bala_paranj_059d338e44e7e/the-airgap-test-refactoring-a-cobra-cli-into-a-library-api-1h0k",
+    "description": "How a single rule \u2014 only RunE touches *cobra.Command \u2014 turned a CLI codebase into a library that happens to ship with a CLI.\n\nI run a static analysis pass on my Go CLI that I call a contamination scan. It looks for places where the CLI framework has ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-26T12:06:42",
+    "source": "Golang News",
+    "category": "Backend"
+  }
+]

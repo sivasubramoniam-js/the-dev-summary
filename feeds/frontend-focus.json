@@ -1,0 +1,38 @@
+[
+  {
+    "title": "font-family doesn't fall back the way you think it does",
+    "link": "https://frontendfoc.us/issues/738",
+    "description": "\n  \n  \n\n\n\n\n\n\n      \n        \n          \n          \ud83d\ude80 Frontend Focus\n\n            #\u200b738 \u2014 April 22, 2026 | Read on the web\n          \n        \n      \n\n     \n\n\n  \n\n\n\n  \n  Building a UI Without Breakpoints \u2014 Amit makes the case for moving away from globa",
+    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1776863582/dk0my7vcpfojmy4qfeuc.jpg",
+    "datetimestamp": "2026-04-22T00:00:00",
+    "source": "Frontend Focus",
+    "category": "Frontend"
+  },
+  {
+    "title": "Google's crackdown on back button 'hijacking'",
+    "link": "https://frontendfoc.us/issues/737",
+    "description": "\n  \n  \n\n\n\n\n\n\n      \n        \n          \n          \ud83d\ude80 Frontend Focus\n\n            #\u200b737 \u2014 April 15, 2026 | Read on the web\n          \n        \n      \n\n     \n\n\n  \n\n\n\n  \n  Google's New Spam Policy for \"Back Button Hijacking\" \u2014 Starting in mid June, Googl",
+    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1776260935/szoqg3otarapxnzfqzxy.png",
+    "datetimestamp": "2026-04-15T00:00:00",
+    "source": "Frontend Focus",
+    "category": "Frontend"
+  },
+  {
+    "title": "HTML video/audio lazy-loading now a web standard",
+    "link": "https://frontendfoc.us/issues/736",
+    "description": "\n  \n  \n\n\n\n\n\n\n      \n        \n          \n          \ud83d\ude80 Frontend Focus\n\n            #\u200b736 \u2014 April 8, 2026 | Read on the web\n          \n        \n      \n\n     \n\n\n  \n\n\n\n  \n  Introducing view-transitions-toolkit: Utility Functions to More Easily Work with Vi",
+    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1775646124/zerm4rfvfd3otsaqzd40.png",
+    "datetimestamp": "2026-04-08T00:00:00",
+    "source": "Frontend Focus",
+    "category": "Frontend"
+  },
+  {
+    "title": "Rendering Doom in 3D with CSS",
+    "link": "https://frontendfoc.us/issues/735",
+    "description": "\n  \n  \n\n\n\n\n\n\n      \n        \n          \n          \ud83d\ude80 Frontend Focus\n\n            #\u200b735 \u2014 April 1, 2026 | Read on the web\n          \n        \n      \n\n     \n\n\n  \n\n\n\n  \n  Pretext: A Multiline Text Measurement and Layout Library \u2014 This caused quite the st",
+    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/cipm4q7l0cre7xhorejx.jpg",
+    "datetimestamp": "2026-04-01T00:00:00",
+    "source": "Frontend Focus",
+    "category": "Frontend"
+  }
+]

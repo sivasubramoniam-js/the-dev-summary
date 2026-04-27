@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Create videos with HTML and JavaScript via HyperFrames",
+    "link": "https://javascriptweekly.com/issues/782",
+    "description": "\n  \n      \n    \n#\u200b782 \u2014 April 21, 2026\nRead on the Web\n\n\n\n    \n    JavaScript Weekly\n\n  \n\n\n\n  \n  HyperFrames: Write HTML and JavaScript to Create Videos \u2014 An open-source framework for creating and rendering videos with HTML and JavaScript. Essentiall",
+    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/i3uvkia0thzscb525tjz.jpg",
+    "datetimestamp": "2026-04-21T00:00:00",
+    "source": "JavaScript Weekly",
+    "category": "Frontend"
+  },
+  {
+    "title": "MDN ditches React for web components in frontend rebuild",
+    "link": "https://javascriptweekly.com/issues/781",
+    "description": "\n  \n      \n    \n#\u200b781 \u2014 April 14, 2026\nRead on the Web\n\n\n\n    \n    JavaScript Weekly\n\n  \n\n\n\n  \n  Under the Hood of MDN's New Frontend \u2014 The hugely useful MDN has rebuilt its frontend stack from the ground up, ditching React for web components and a h",
+    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/gm0i5twsmyfutkc1xygg.jpg",
+    "datetimestamp": "2026-04-14T00:00:00",
+    "source": "JavaScript Weekly",
+    "category": "Frontend"
+  },
+  {
+    "title": "What to know about JavaScript in 2026",
+    "link": "https://javascriptweekly.com/issues/780",
+    "description": "\n  \n      \n    \n#\u200b780 \u2014 April 7, 2026\nRead on the Web\n\n\n\n    \n    JavaScript Weekly\n\n  \n\n\n\n  \n  JSIR: A High-Level IR for JavaScript from Google \u2014 Google has open sourced a new tool (JSIR) and proposed an industry-standard IR (Intermediate Representa",
+    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/clia2za7y4fbmgwelaod.jpg",
+    "datetimestamp": "2026-04-07T00:00:00",
+    "source": "JavaScript Weekly",
+    "category": "Frontend"
+  },
+  {
+    "title": "A new, major npm supply chain attack via Axios",
+    "link": "https://javascriptweekly.com/issues/779",
+    "description": "\n  \n      \n    \n#\u200b779 \u2014 March 31, 2026\nRead on the Web\n\n\n\n    \n    JavaScript Weekly\n\n  \n\n\n\n  \n  axios Package Compromised; Malicious Versions Added a Trojan\u00a0Dependency \u2014 Axios is an HTTP library that gets 100M+ downloads a week, largely due to its l",
+    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/hscgioobwckiiyh4eyof.jpg",
+    "datetimestamp": "2026-03-31T00:00:00",
+    "source": "JavaScript Weekly",
+    "category": "Frontend"
+  }
+]

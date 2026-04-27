@@ -1,0 +1,182 @@
+[
+  {
+    "title": "The React Foundation: A New Home for React Hosted by the Linux Foundation",
+    "link": "https://react.dev/blog/2026/02/24/the-react-foundation",
+    "description": "The React Foundation has officially launched, hosted by the Linux Foundation.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-02-24T00:00:00",
+    "source": "React Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "Denial of Service and Source Code Exposure in React Server Components",
+    "link": "https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components",
+    "description": "Security researchers have found and disclosed two additional vulnerabilities in React Server Components while attempting to exploit the patches in last week\u2019s critical vulnerability. High vulnerability Denial of Service (CVE-2025-55184), and medium v",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-12-11T00:00:00",
+    "source": "React Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "Critical Security Vulnerability in React Server Components",
+    "link": "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components",
+    "description": "There is an unauthenticated remote code execution vulnerability in React Server Components. A fix has been published in versions 19.0.1, 19.1.2, and 19.2.1. We recommend upgrading immediately.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-12-03T00:00:00",
+    "source": "React Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "React Conf 2025 Recap",
+    "link": "https://react.dev/blog/2025/10/16/react-conf-2025-recap",
+    "description": "Last week we hosted React Conf 2025, in this post, we summarize the talks and announcements from the event...",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-10-16T00:00:00",
+    "source": "React Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "React Compiler v1.0",
+    "link": "https://react.dev/blog/2025/10/07/react-compiler-1",
+    "description": "We are releasing the compiler's first stable release today.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-10-07T00:00:00",
+    "source": "React Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "Introducing the React Foundation",
+    "link": "https://react.dev/blog/2025/10/07/introducing-the-react-foundation",
+    "description": "Today, we're announcing our plans to create the React Foundation a new technical governance structure",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-10-07T00:00:00",
+    "source": "React Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "React 19.2",
+    "link": "https://react.dev/blog/2025/10/01/react-19-2",
+    "description": "React 19.2 adds new features like Activity, React Performance Tracks, useEffectEvent, and more.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-10-01T00:00:00",
+    "source": "React Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "React Labs: View Transitions, Activity, and more",
+    "link": "https://react.dev/blog/2025/04/23/react-labs-view-transitions-activity-and-more",
+    "description": "In React Labs posts, we write about projects in active research and development. In this post, we're sharing two new experimental features that are ready to try today, and updates on other areas we're working on now.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-04-23T00:00:00",
+    "source": "React Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "Sunsetting Create React App",
+    "link": "https://react.dev/blog/2025/02/14/sunsetting-create-react-app",
+    "description": "Today, we\u2019re deprecating Create React App for new apps, and encouraging existing apps to migrate to a framework, or to migrate to a build tool like Vite, Parcel, or RSBuild. We\u2019re also providing docs for when a framework isn\u2019t a good fit for your pro",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-02-14T00:00:00",
+    "source": "React Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "React v19",
+    "link": "https://react.dev/blog/2024/12/05/react-19",
+    "description": "React 19 is now available on npm! In this post, we'll give an overview of the new features in React 19, and how you can adopt them.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-12-05T00:00:00",
+    "source": "React Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "React Compiler Beta Release",
+    "link": "https://react.dev/blog/2024/10/21/react-compiler-beta-release",
+    "description": "At React Conf 2024, we announced the experimental release of React Compiler, a build-time tool that optimizes your React app through automatic memoization. In this post, we want to share what's next for open source, and our progress on the compiler.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-10-21T00:00:00",
+    "source": "React Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "React Conf 2024 Recap",
+    "link": "https://react.dev/blog/2024/05/22/react-conf-2024-recap",
+    "description": "Last week we hosted React Conf 2024, a two-day conference in Henderson, Nevada where 700+ attendees gathered in-person to discuss the latest in UI engineering. In this post, we'll summarize the talks and announcements from the event.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-05-22T00:00:00",
+    "source": "React Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "React 19 Upgrade Guide",
+    "link": "https://react.dev/blog/2024/04/25/react-19-upgrade-guide",
+    "description": "The improvements added to React 19 require some breaking changes, but we've worked to make the upgrade as smooth as possible and we don't expect the changes to impact most apps. In this post, we will guide you through the steps for upgrading apps and",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-04-25T00:00:00",
+    "source": "React Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "React Labs: What We've Been Working On \u2013 February 2024",
+    "link": "https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024",
+    "description": "In React Labs posts, we write about projects in active research and development. We\u2019ve made significant progress since our last update, and we\u2019d like to share our progress.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-02-15T00:00:00",
+    "source": "React Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "React Canaries: Enabling Incremental Feature Rollout Outside Meta",
+    "link": "https://react.dev/blog/2023/05/03/react-canaries",
+    "description": "We'd like to offer the React community an option to adopt individual new features as soon as their design is close to final, before they're released in a stable version--similar to how Meta has long used bleeding-edge versions of React internally. We",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-05-03T00:00:00",
+    "source": "React Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "React Labs: What We've Been Working On \u2013 March 2023",
+    "link": "https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023",
+    "description": "In React Labs posts, we write about projects in active research and development. We've made significant progress on them since our last update, and we'd like to share what we learned.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-03-22T00:00:00",
+    "source": "React Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "Introducing react.dev",
+    "link": "https://react.dev/blog/2023/03/16/introducing-react-dev",
+    "description": "Today we are thrilled to launch react.dev, the new home for React and its documentation. In this post, we would like to give you a tour of the new site.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-03-16T00:00:00",
+    "source": "React Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "React Labs: What We've Been Working On \u2013 June 2022",
+    "link": "https://react.dev/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022",
+    "description": "React 18 was years in the making, and with it brought valuable lessons for the React team. Its release was the result of many years of research and exploring many paths. Some of those paths were successful; many more were dead-ends that led to new in",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2022-06-15T00:00:00",
+    "source": "React Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "React v18.0",
+    "link": "https://react.dev/blog/2022/03/29/react-v18",
+    "description": "React 18 is now available on npm! In our last post, we shared step-by-step instructions for upgrading your app to React 18. In this post, we'll give an overview of what's new in React 18, and what it means for the future.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2022-03-08T00:00:00",
+    "source": "React Blog",
+    "category": "Frontend"
+  },
+  {
+    "title": "How to Upgrade to React 18",
+    "link": "https://react.dev/blog/2022/03/08/react-18-upgrade-guide",
+    "description": "As we shared in the release post, React 18 introduces features powered by our new concurrent renderer, with a gradual adoption strategy for existing applications. In this post, we will guide you through the steps for upgrading to React 18.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2022-03-08T00:00:00",
+    "source": "React Blog",
+    "category": "Frontend"
+  }
+]
