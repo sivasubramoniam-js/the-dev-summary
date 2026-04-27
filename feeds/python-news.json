@@ -1,5 +1,59 @@
 [
   {
+    "title": "Persistent multi-agent conversations with the OpenAI Agents SDK and MongoDB",
+    "link": "https://dev.to/alexbevi/persistent-multi-agent-conversations-with-the-openai-agents-sdk-and-mongodb-2n7f",
+    "description": "Version 0.14.2 added a MongoDBSession backend; here's a working multi-agent customer-support demo that uses it, and the documents it leaves behind.\n\nThe OpenAI Agents SDK has shipped session backends for SQLite, SQLAlchemy, Redis, and Dapr for a whil",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T16:49:36",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "What 5 cross-brand bridge failures in 60 minutes taught me about circuit breaker hold times",
+    "link": "https://dev.to/a3e_ecosystem/what-5-cross-brand-bridge-failures-in-60-minutes-taught-me-about-circuit-breaker-hold-times-1ae2",
+    "description": "We run a content distribution pipeline that publishes to 17 social platforms across 7 brands. Most platforms route through a single Chrome extension that drives signed-in browser sessions. When that extension dies, every platform on the bridge fails ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T16:44:26",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "The Brain Behind Intelligent AI: MongoDB Meets Zero-Shot Learning",
+    "link": "https://dev.to/hasini_sivaram/the-brain-behind-intelligent-ai-mongodb-meets-zero-shot-learning-4c2c",
+    "description": "\n  \n  \n  Team Members\n\n\nThis project was developed by:\n\n\n@hasini_sivaram\n@pothineni_rahinisai_ \n@suvidha_sreenichenametla \n@bavuna_aashritha \nWe would like to express our sincere gratitude to @chanda_rajkumar for his valuable guidance and support thr",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdofubqjgcmvubpreshg5.png",
+    "datetimestamp": "2026-04-27T16:17:55",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "Building a Threat Hunting Pipeline with Python and Jupyter",
+    "link": "https://dev.to/cgivre/building-a-threat-hunting-pipeline-with-python-and-jupyter-1bbc",
+    "description": "Most threat hunting guides describe the process abstractly: form a hypothesis, search for evidence, iterate. That framing is accurate but stops short of the part that actually takes time: getting data into a shape you can interrogate, writing code th",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T16:14:25",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "Building PitchRoom: AI-Powered Script Discovery using Flask & MongoDB Vector Search",
+    "link": "https://dev.to/srilakshmi_amarawadhi/building-pitchroom-ai-powered-script-discovery-using-flask-mongodb-vector-search-4hec",
+    "description": "Team Members\n\nThis project was developed by:\n@srilakshmi_amarawadhi - A. SRI LAKSHMI\n@vitesh_kotha - K. VITESH\n@nandireddy_gnaneshwarred - N. GNANESHWAR\n@jaggavarapu_vrushali_130906 - J. VRUSHALI\n\nWe would like to express our sincere gratitude to @ch",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft92srntri4s5sc0wrymw.png",
+    "datetimestamp": "2026-04-27T16:09:39",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "Why iPhone Videos Silently Fail as Telegram Video Avatars",
+    "link": "https://dev.to/liveavabot/why-iphone-videos-silently-fail-as-telegram-video-avatars-1i23",
+    "description": "\n  \n  \n  The Silent Failure Nobody Explains\n\n\nI was setting up a Telegram video avatar and uploaded a recent iPhone clip. No error, no feedback, just the upload spinner disappeared and my profile photo stayed the same. Tried again. Same result.\n\nIt t",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T16:06:07",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
     "title": "Your Pipeline Is 28.5h Behind: Catching World Sentiment Leads with Pulsebit",
     "link": "https://dev.to/pulsebitapi/your-pipeline-is-285h-behind-catching-world-sentiment-leads-with-pulsebit-ah6",
     "description": "Your pipeline should be set up to catch anomalies like the recent 24h momentum spike of +0.308 we just uncovered. This spike is tied to a significant sentiment shift surrounding the \"Global Response to WHCA Dinner Shooting,\" with English-language pre",

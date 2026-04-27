@@ -1,5 +1,41 @@
 [
   {
+    "title": "Guardrails in AI: Keeping LLMs Safe",
+    "link": "https://dev.to/_sowjanyasankara_/guardrails-in-ai-keeping-llms-safe-37p5",
+    "description": "\ud83e\udd14 Imagine asking an AI agent to generate a database query\u2026\nand it returns something wrong \u2014 or worse, unsafe.\n\nThe problem isn\u2019t just intelligence.\nIt\u2019s control.\n\nThat\u2019s where guardrails come in.\n\n\n\n\n\u26a1 What are Guardrails in AI?\n\nGuardrails are check",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmazrat7i5m4ovpsd3vmx.png",
+    "datetimestamp": "2026-04-27T17:11:09",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "What 5 cross-brand bridge failures in 60 minutes taught me about circuit breaker hold times",
+    "link": "https://dev.to/a3e_ecosystem/what-5-cross-brand-bridge-failures-in-60-minutes-taught-me-about-circuit-breaker-hold-times-1ae2",
+    "description": "We run a content distribution pipeline that publishes to 17 social platforms across 7 brands. Most platforms route through a single Chrome extension that drives signed-in browser sessions. When that extension dies, every platform on the bridge fails ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T16:44:26",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "Micro Frontends: Decomposing the Monolithic Frontend for Scalability and Agility",
+    "link": "https://dev.to/techblogs/micro-frontends-decomposing-the-monolithic-frontend-for-scalability-and-agility-189e",
+    "description": "\n  \n  \n  Micro Frontends: Decomposing the Monolithic Frontend for Scalability and Agility\n\n\nIn the ever-evolving landscape of web development, the pursuit of scalable, maintainable, and independently deployable applications is a constant endeavor. Wh",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T16:35:19",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
+    "title": "Async Processing: The Secret to Surviving Spikes",
+    "link": "https://dev.to/akshatjme/async-processing-the-secret-to-surviving-spikes-4n45",
+    "description": "\n  \n  \n  How decoupling work from requests helps systems stay stable under\u00a0load\n\n\nIn the previous part, we saw the limitations of synchronous systems.\n\nWhen every request waits for all operations to complete, performance suffers under load. Resources",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu15n1j4s1npi631d3wya.png",
+    "datetimestamp": "2026-04-27T16:05:51",
+    "source": "Backend News",
+    "category": "Backend"
+  },
+  {
     "title": "Observability vs Monitoring",
     "link": "https://dev.to/chisomchima/observability-vs-monitoring-2joj",
     "description": "Here is a situation that has probably happened to you at some point.\n\nA user submits a support ticket saying the app is \"slow.\" You check your dashboards. CPU looks fine. Memory looks fine. Error rate is zero. Everything is green. But the user is rig",

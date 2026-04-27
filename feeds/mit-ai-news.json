@@ -1,0 +1,452 @@
+[
+  {
+    "title": "A faster way to estimate AI power consumption",
+    "link": "https://news.mit.edu/2026/faster-way-to-estimate-ai-power-consumption-0427",
+    "description": "The \u201cEnergAIzer\u201d method generates reliable results in seconds, enabling data center operators to efficiently allocate resources and reduce wasted energy.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT_Power-Estimation-01.jpg?itok=SOtY3I2x",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "MIT scientists build the world\u2019s largest collection of Olympiad-level math problems, and open it to everyone",
+    "link": "https://news.mit.edu/2026/mit-scientists-build-worlds-largest-collection-olympiad-level-math-problems-open-0424",
+    "description": "New dataset of 30,000-plus competition math problems from 47 countries gives AI researchers a harder test \u2014 and students worldwide a better training ground.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT-MathNet.jpg?itok=-PPhyeth",
+    "datetimestamp": "2026-04-24T17:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Teaching AI models to say \u201cI\u2019m not sure\u201d",
+    "link": "https://news.mit.edu/2026/teaching-ai-models-to-say-im-not-sure-0422",
+    "description": "A new training method improves the reliability of AI confidence estimates without sacrificing performance, addressing a root cause of hallucination in reasoning models.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/mit-csail-reinforcement.jpg?itok=7eH81sq-",
+    "datetimestamp": "2026-04-22T19:15:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Jacob Andreas and Brett McGuire named Edgerton Award winners",
+    "link": "https://news.mit.edu/2026/jacob-andreas-brett-mcguire-edgerton-award-winners-0417",
+    "description": "The associate professors of EECS and chemistry, respectively, are honored for exceptional contributions to teaching, research, and service at MIT.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/mit-Edgerton-Award-Brett-McGuire-Jacob-Andreas.jpg?itok=m8C4mGM-",
+    "datetimestamp": "2026-04-17T13:40:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Bringing AI-driven protein-design tools to biologists everywhere",
+    "link": "https://news.mit.edu/2026/bringing-ai-driven-protein-design-tools-everywhere-0417",
+    "description": "Founded by Tristan Bepler PhD \u201920 and former MIT professor Tim Lu PhD \u201907, OpenProtein.AI offers researchers open-source models and other tools for protein engineering.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT-OpenProteinAI-01-press.jpg?itok=N8YxGz9v",
+    "datetimestamp": "2026-04-17T04:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Human-machine teaming dives underwater",
+    "link": "https://news.mit.edu/2026/human-machine-teaming-dives-underwater-0414",
+    "description": "Researchers are developing hardware and algorithms to improve collaboration between divers and autonomous underwater vehicles engaged in maritime missions.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/mit-lincoln-Gulf-Surveyor-Stringout.jpg?itok=D9eW6Bde",
+    "datetimestamp": "2026-04-14T13:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Q&A: MIT SHASS and the future of education in the age of AI",
+    "link": "https://news.mit.edu/2026/qa-mit-shass-and-future-of-education-age-ai-0414",
+    "description": "As the School of Humanities, Arts, and Social Sciences marks 75 years, Dean Agust\u00edn Rayo reflects on how AI is reshaping higher education and why SHASS disciplines continue to be central to MIT\u2019s mission.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/mit-shass-agustin-rayo.jpg?itok=NAyqupfF",
+    "datetimestamp": "2026-04-14T13:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "A philosophy of work",
+    "link": "https://news.mit.edu/2026/philosophy-work-michal-masny-0409",
+    "description": "As the NC Ethics of Technology Postdoctoral Fellow, Michal Masny is advancing dialogue, teaching, and research into the social and ethical dimensions of new computing technologies.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/mit-philosophy-Michal-Masny.jpg?itok=W40Yn7Ni",
+    "datetimestamp": "2026-04-09T18:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "New technique makes AI models leaner and faster while they\u2019re still learning",
+    "link": "https://news.mit.edu/2026/new-technique-makes-ai-models-leaner-faster-while-still-learning-0409",
+    "description": "Researchers use control theory to shed unnecessary complexity from AI models during training, cutting compute costs without sacrificing performance.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/mit-csail-compressm.jpg?itok=QQo3mVeX",
+    "datetimestamp": "2026-04-09T13:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Sixteen new START.nano companies are developing hard-tech solutions with the support of MIT.nano",
+    "link": "https://news.mit.edu/2026/sixteen-new-startnano-companies-developing-hard-tech-solutions-with-mitnano-0407",
+    "description": "Startup accelerator program grows to over 30 companies, almost half of them with MIT pedigrees.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/mit-start.nano-Rheyo.jpg?itok=aj1qTyfA",
+    "datetimestamp": "2026-04-07T20:40:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Helping data centers deliver higher performance with less hardware",
+    "link": "https://news.mit.edu/2026/helping-data-centers-deliver-higher-performance-less-hardware-0407",
+    "description": "Researchers developed a system that intelligently balances workloads to improve the efficiency of flash storage hardware in a data center.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT-DataCenter-Variable-01-press.jpg?itok=dig4qL6e",
+    "datetimestamp": "2026-04-07T04:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Working to advance the nuclear renaissance",
+    "link": "https://news.mit.edu/2026/working-to-advance-nuclear-renaissance-dean-price-0403",
+    "description": "Dean Price, assistant professor in the Department of Nuclear Science and Engineering, sees a bright future for nuclear power, and believes AI can help us realize that vision.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-nse-Dean-Price.jpg?itok=PuytMjyW",
+    "datetimestamp": "2026-04-03T20:55:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Evaluating the ethics of autonomous systems",
+    "link": "https://news.mit.edu/2026/evaluating-autonomous-systems-ethics-0402",
+    "description": "MIT researchers developed a testing framework that pinpoints situations where AI decision-support systems are not treating people and communities fairly.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT-ScalableEthics-01.jpg?itok=izVVCodb",
+    "datetimestamp": "2026-04-02T04:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Preview tool helps makers visualize 3D-printed objects",
+    "link": "https://news.mit.edu/2026/preview-tool-helps-makers-visualize-3d-printed-objects-0401",
+    "description": "By quickly generating aesthetically accurate previews of fabricated objects, the VisiPrint system could make prototyping faster and less wasteful.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-VisiPrint-Preview-A1.jpg?itok=2ckh0mm0",
+    "datetimestamp": "2026-04-01T04:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "MIT researchers use AI to uncover atomic defects in materials",
+    "link": "https://news.mit.edu/2026/mit-researchers-use-ai-uncover-atomic-defects-materials-0330",
+    "description": "A new model measures defects that can be leveraged to improve materials\u2019 mechanical strength, heat transfer, and energy-conversion efficiency.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-DefectNet-01-press.jpg?itok=JYWOjuxK",
+    "datetimestamp": "2026-03-30T15:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Seeing sounds",
+    "link": "https://news.mit.edu/2026/seeing-sounds-mariano-salcedo-0326",
+    "description": "Mariano Salcedo \u201925, a master\u2019s student in the new Music Technology and Computation Graduate Program, is designing an AI to visualize and express music and other sounds.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/mit-shass-music-Carlos-Mariano-Salcedo.jpg?itok=IZfmOz8J",
+    "datetimestamp": "2026-03-26T20:45:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "MIT engineers design proteins by their motion, not just their shape",
+    "link": "https://news.mit.edu/2026/mit-engineers-design-proteins-by-motion-not-just-shape-0326",
+    "description": "An AI model generates novel proteins based on how they vibrate and move, opening new possibilities for dynamic biomaterials and adaptive therapeutics.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-cee-VibeGen-protein.png?itok=hJ5_M2PH",
+    "datetimestamp": "2026-03-26T20:20:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "AI system learns to keep warehouse robot traffic running smoothly",
+    "link": "https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326",
+    "description": "This new approach adapts to decide which robots should get the right of way at every moment, avoiding congestion and increasing throughput.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-Warehouse-Auto-01-press.jpg?itok=TswYJbkp",
+    "datetimestamp": "2026-03-26T04:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Augmenting citizen science with computer vision for fish monitoring",
+    "link": "https://news.mit.edu/2026/augmenting-citizen-science-computer-vision-fish-monitoring-0325",
+    "description": "MIT Sea Grant works with the Woodwell Climate Research Center and other collaborators to demonstrate a deep learning-based system for fish monitoring.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/alewife-fish-00_0.jpg?itok=4ylCyOSO",
+    "datetimestamp": "2026-03-25T21:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Wristband enables wearers to control a robotic hand with their own movements",
+    "link": "https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325",
+    "description": "By moving their hands and fingers, users can direct a robot to play piano or shoot a basketball, or they can manipulate objects in a virtual environment.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-Hand-Tracker-01-press.jpg?itok=C_JqeasJ",
+    "datetimestamp": "2026-03-25T10:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "How to create \u201chumble\u201d AI",
+    "link": "https://news.mit.edu/2026/creating-humble-ai-0324",
+    "description": "An MIT-led team is designing artificial intelligence systems for medical diagnosis that are more collaborative and forthcoming about uncertainty.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-HumbleAI-01-press.jpg?itok=w90pox8K",
+    "datetimestamp": "2026-03-24T04:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Advancing international trade research and finding community",
+    "link": "https://news.mit.edu/2026/sojun-park-advancing-international-trade-research-finding-community-0323",
+    "description": "Sojun Park, a postdoc at the Center for International Studies, has learned much from his research on intellectual property as well as his interactions with students and mentors at MIT.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/mit-cis-sojun-park.jpg?itok=NxZXpd9n",
+    "datetimestamp": "2026-03-23T21:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "On algorithms, life, and learning",
+    "link": "https://news.mit.edu/2026/algorithms-life-learning-killian-lecture-dimitris-bertsimas-0323",
+    "description": "Operations research expert Dimitris Bertsimas delivered the annual Killian Lecture, providing a look at the past and future of his work.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-Bertsima-Killian-Lecture-01-press.jpg?itok=e8x7sWR2",
+    "datetimestamp": "2026-03-23T17:45:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "What\u2019s the right path for AI?",
+    "link": "https://news.mit.edu/2026/right-path-for-ai-karen-hao-paola-ricaurte-0320",
+    "description": "Conference speakers discussed the unfolding trajectory of AI and the benefits of shaping technology to meet people\u2019s needs.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-WGSevent-A1-press.jpg?itok=Zx5XVaeA",
+    "datetimestamp": "2026-03-20T13:30:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "MIT and Hasso Plattner Institute establish collaborative hub for AI and creativity",
+    "link": "https://news.mit.edu/2026/mit-hasso-plattner-institute-collaborative-hub-for-ai-and-creativity-0320",
+    "description": "Jointly led by the MIT Morningside Academy for Design, MIT Schwarzman College of Computing, and the Hasso Plattner Institute in Potsdam, the hub will foster a dynamic community where computing, creativity, and human-centered innovation meet.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-HPI-signing-00.jpg?itok=70grnEFu",
+    "datetimestamp": "2026-03-20T12:45:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Generative AI improves a wireless vision system that sees through obstructions",
+    "link": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
+    "description": "With this new technique, a robot could more accurately detect hidden objects or understand an indoor scene using reflected Wi-Fi signals.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-Scene-Understanding-01-press.jpg?itok=GpWqJHl6",
+    "datetimestamp": "2026-03-19T04:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "A better method for identifying overconfident large language models",
+    "link": "https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319",
+    "description": "This new metric for measuring uncertainty could flag hallucinations and help users know whether to trust an AI model.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-LLMUncertainty-01-press.jpg?itok=zigfCUvv",
+    "datetimestamp": "2026-03-19T04:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Sustaining diplomacy amid competition in US-China relations",
+    "link": "https://news.mit.edu/2026/sustaining-diplomacy-amid-us-china-competition-0318",
+    "description": "At MIT, former U.S. ambassador to China Nicholas Burns highlights climate change as an area for diplomatic engagement, while exploring areas including China's emphasis on STEM education.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/mitei-china-seminar-nicholas-burns.jpg?itok=JRTDethV",
+    "datetimestamp": "2026-03-18T04:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "MIT-IBM Watson AI Lab seed to signal: Amplifying early-career faculty impact",
+    "link": "https://news.mit.edu/2026/mit-ibm-watson-ai-lab-seed-signal-amplifying-early-career-faculty-impact-0317",
+    "description": "Academia-industry relationship is an early-stage accelerator, supporting professional progress and research.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/mit-ibm-seed-to-signal.jpg?itok=KhVDGaMj",
+    "datetimestamp": "2026-03-17T20:35:44",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Can AI help predict which heart-failure patients will worsen within a year?",
+    "link": "https://news.mit.edu/2026/can-ai-help-predict-which-heart-failure-patients-will-worsen-0312",
+    "description": "Researchers at MIT, Mass General Brigham, and Harvard Medical School developed a deep-learning model to forecast a patient\u2019s heart failure prognosis up to a year in advance.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/mit-jameel-yau-bergamaschi-PULSE.jpg?itok=t0tTj-za",
+    "datetimestamp": "2026-03-12T21:30:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "3 Questions: On the future of AI and the mathematical and physical sciences",
+    "link": "https://news.mit.edu/2026/3-questions-future-of-ai-and-mathematical-physical-sciences-0311",
+    "description": "Professor Jesse Thaler describes a vision for a two-way bridge between artificial intelligence and the mathematical and physical sciences \u2014 one that promises to advance both.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/AI%2BMPS-abstract-00_0.jpg?itok=RUxXgtUK",
+    "datetimestamp": "2026-03-11T22:30:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "New MIT class uses anthropology to improve chatbots",
+    "link": "https://news.mit.edu/2026/mit-class-uses-anthropology-to-improve-chatbots-0311",
+    "description": "MIT computer science students design AI chatbots to help young users become more social, and socially confident.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-morningside-chatbots.jpg?itok=XOu2ryQK",
+    "datetimestamp": "2026-03-11T16:10:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "A better method for planning complex visual tasks",
+    "link": "https://news.mit.edu/2026/better-method-planning-complex-visual-tasks-0311",
+    "description": "A new hybrid system could help robots navigate in changing environments or increase the efficiency of multirobot assembly teams.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-Visual-Planning-01-press.jpg?itok=X3VZw8Xs",
+    "datetimestamp": "2026-03-11T04:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "3 Questions: Building predictive models to characterize tumor progression",
+    "link": "https://news.mit.edu/2026/3-questions-building-predictive-models-characterize-tumor-progression-0310",
+    "description": "Assistant Professor Matthew Jones is working to decode molecular processes on the genetic, epigenetic, and microenvironment levels to anticipate how and when tumors evolve to resist treatment.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/mit-koch-matthew-jones.jpg?itok=fQCpCxPO",
+    "datetimestamp": "2026-03-10T20:50:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "How Joseph Paradiso\u2019s sensing innovations bridge the arts, medicine, and ecology",
+    "link": "https://news.mit.edu/2026/mit-professor-joseph-paradiso-sensing-innovations-0310",
+    "description": "From early motion-sensing platforms to environmental monitoring, the professor and head of the Program in Media Arts and Sciences has turned decades of cross-disciplinary research into real-world impact.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/mit-media-lab-joseph-paradiso.jpg?itok=29bW0wzJ",
+    "datetimestamp": "2026-03-10T20:25:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Improving AI models\u2019 ability to explain their predictions",
+    "link": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
+    "description": "A new approach could help users know whether to trust a model\u2019s predictions in safety-critical applications like health care and autonomous driving.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-Concept-Bottleneck-01-press.jpg?itok=LWdB-IXI",
+    "datetimestamp": "2026-03-09T04:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "A \u201cChatGPT for spreadsheets\u201d helps solve difficult engineering challenges faster",
+    "link": "https://news.mit.edu/2026/chatgpt-spreadsheets-helps-solve-difficult-engineering-challenges-faster-0304",
+    "description": "The approach could help engineers tackle extremely complex design problems, from power grid optimization to vehicle design.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-Bayesian-Opt-01a-press.jpg?itok=mV7P_iB5",
+    "datetimestamp": "2026-03-04T05:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Featured video: Coding for underwater robotics",
+    "link": "https://news.mit.edu/2026/featured-video-coding-underwater-robotics-0227",
+    "description": "Lincoln Laboratory intern Ivy Mahncke developed and tested algorithms to help human divers and robots navigate underwater.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/Ivy-Mahncke-Lincoln-Laboratory-00.png?itok=nyIPKaP3",
+    "datetimestamp": "2026-02-27T22:15:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "New method could increase LLM training efficiency",
+    "link": "https://news.mit.edu/2026/new-method-could-increase-llm-training-efficiency-0226",
+    "description": "By leveraging idle computing time, researchers can double the speed of model training while preserving accuracy.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-LongTail-01-press.jpg?itok=42nxHWis",
+    "datetimestamp": "2026-02-26T05:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Mixing generative AI with physics to create personal items that work in the real world",
+    "link": "https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225",
+    "description": "To help generative AI models create durable, real-world accessories and decor, the PhysiOpt system runs physics simulations and makes subtle tweaks to its 3D blueprints.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/PhysiOpt%20%281%29_0.png?itok=L6nb1tHp",
+    "datetimestamp": "2026-02-25T19:40:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "AI to help researchers see the bigger picture in cell biology",
+    "link": "https://news.mit.edu/2026/ai-help-researchers-see-bigger-picture-cell-biology-0225",
+    "description": "By providing holistic information on a cell, an AI-driven method could help      scientists better understand disease mechanisms and plan experiments.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-HolisticCells-01-press.jpg?itok=QkJ5wbGS",
+    "datetimestamp": "2026-02-25T10:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Study: AI chatbots provide less-accurate information to vulnerable users",
+    "link": "https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219",
+    "description": "Research from the MIT Center for Constructive Communication finds leading AI models perform worse for users with lower English proficiency, less formal education, and non-US origins.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/ai-chatbot-paper-presentation-00_0.png?itok=bltTWXL8",
+    "datetimestamp": "2026-02-19T23:25:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Exposing biases, moods, personalities, and abstract concepts hidden in large language models",
+    "link": "https://news.mit.edu/2026/exposing-biases-moods-personalities-hidden-large-language-models-0219",
+    "description": "A new method developed at MIT could root out vulnerabilities and improve LLM safety and performance.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-LLM-Bias-01.gif?itok=6bmZD-vd",
+    "datetimestamp": "2026-02-19T19:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Parking-aware navigation system could prevent frustration and emissions",
+    "link": "https://news.mit.edu/2026/parking-aware-navigation-could-prevent-frustration-and-emissions-0219",
+    "description": "By minimizing the need to drive around looking for a parking spot, this technique can save drivers up to 35 minutes \u2014 and give them a realistic estimate of total travel time.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT_Probability-Parking-01.jpg?itok=T0prXwyt",
+    "datetimestamp": "2026-02-19T05:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Personalization features can make LLMs more agreeable",
+    "link": "https://news.mit.edu/2026/personalization-features-can-make-llms-more-agreeable-0218",
+    "description": "The context of long-term conversations can cause an LLM to begin mirroring the user\u2019s viewpoints, possibly reducing accuracy or creating a virtual echo-chamber.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-LLM-Sycophant-01-press.jpg?itok=ToLXaRbE",
+    "datetimestamp": "2026-02-18T05:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "New J-PAL research and policy initiative to test and scale AI innovations to fight poverty",
+    "link": "https://news.mit.edu/2026/new-j-pal-research-policy-initiative-to-test-scale-ai-innovations-fight-poverty-0212",
+    "description": "Project AI Evidence will connect governments, tech companies, and nonprofits with world-class economists at MIT and across J-PAL's global network to evaluate and improve AI solutions.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/mit-j-pal-letrus.jpg?itok=qjK8_FC9",
+    "datetimestamp": "2026-02-12T23:50:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Accelerating science with AI and simulations",
+    "link": "https://news.mit.edu/2026/accelerating-science-ai-and-simulations-rafael-gomez-bombarelli-0212",
+    "description": "Associate Professor Rafael G\u00f3mez-Bombarelli has spent his career applying AI to improve scientific discovery. Now he believes we are at an inflection point.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-Rafael-Gomez-Bombarelli-01-press.jpg?itok=vCsnmt-Q",
+    "datetimestamp": "2026-02-12T05:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "3 Questions: Using AI to help Olympic skaters land a quint",
+    "link": "https://news.mit.edu/2026/3-questions-using-ai-help-olympic-skaters-land-quint-0210",
+    "description": "MIT Sports Lab researchers are applying AI technologies to help figure skaters improve. They also have thoughts on whether five-rotation jumps are humanly possible.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT_Jerry-Lu-Anette-Hosoi_01-PRESS.jpg?itok=_vfn9PGN",
+    "datetimestamp": "2026-02-10T05:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Study: Platforms that rank the latest LLMs can be unreliable",
+    "link": "https://news.mit.edu/2026/study-platforms-rank-latest-llms-can-be-unreliable-0209",
+    "description": "Removing just a tiny fraction of the crowdsourced data that informs online ranking platforms can significantly change the results.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-LLM-Rankings-01-press.jpg?itok=sfZTuiuE",
+    "datetimestamp": "2026-02-09T05:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "\u201cThis is science!\u201d \u2013 MIT president talks about the importance of America\u2019s research enterprise on GBH\u2019s Boston Public Radio",
+    "link": "https://news.mit.edu/2026/science-mit-president-talks-about-importance-americas-research-enterprise-gbhs-boston-public",
+    "description": "MIT faculty join The Curiosity Desk to discuss football, math, Olympic figure skating, AI and the quest to cure ovarian cancer.",
+    "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/Sally%20Kornbluth%20GBH_0.png?itok=ijERDelJ",
+    "datetimestamp": "2026-02-06T17:38:22",
+    "source": "Mit Ai News",
+    "category": "AI"
+  }
+]

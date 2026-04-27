@@ -1,5 +1,14 @@
 [
   {
+    "title": "Unified Memory Core for AI Agents",
+    "link": "https://dev.to/oracledevs/unified-memory-core-for-ai-agents-3da3",
+    "description": "A practical guide to building episodic, lexical, vector, and graph memory workflows in Oracle AI Database\n\nCompanion notebook: Unified Agent Memory with Oracle AI Database\n\n\n\n\n\n  \n  \n  Key takeaways\n\n\n\nA unified memory core combines episodic, lexical",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7jcz1aev0s7q6ovzmy6q.png",
+    "datetimestamp": "2026-04-27T16:05:40",
+    "source": "Database News",
+    "category": "Database"
+  },
+  {
     "title": "Best Datafetcher Alternative for PostgreSQL",
     "link": "https://dev.to/ilshadyx/best-datafetcher-alternative-for-postgresql-1jnh",
     "description": "Datafetcher syncs API data to Airtable, not PostgreSQL. Here are the best Datafetcher alternatives for PostgreSQL users \u2014 Supabase, Neon, AWS RDS \u2014 compared.\n\nBy Ilshaad Kheerdali \u00b7 27 Apr 2026\n\n\n\n\nDatafetcher is one of the cleanest no-code tools for",

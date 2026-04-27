@@ -1,0 +1,110 @@
+[
+  {
+    "title": "I got tired of AI agents trashing my codebase, so I built a skill to fix that",
+    "link": "https://dev.to/flyingsquirrel0419/i-got-tired-of-ai-agents-trashing-my-codebase-so-i-built-a-skill-to-fix-that-mgc",
+    "description": "Every AI coding agent I've used hits the same wall. It always starts the same way.\n\nYou ask it to add a feature. It rewrites half the file in its preferred naming convention. Your snake_case Python suddenly has camelCase crammed in. The test framewor",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T17:25:00",
+    "source": "Devto Ai",
+    "category": "AI"
+  },
+  {
+    "title": "Plagiatspr\u00fcfung f\u00fcr Lehrer: Wie man Sch\u00fclerarbeiten effizient kontrolliert",
+    "link": "https://dev.to/john_taylor/plagiatsprufung-fur-lehrer-wie-man-schulerarbeiten-effizient-kontrolliert-94c",
+    "description": "Die Digitalisierung des Bildungswesens hat den Zugang zu Informationen revolutioniert \u2013 und gleichzeitig neue Herausforderungen geschaffen. Eine der gr\u00f6\u00dften ist das Thema Plagiate in Sch\u00fclerarbeiten. W\u00e4hrend fr\u00fcher B\u00fccher und Bibliotheken die Hauptqu",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T17:24:00",
+    "source": "Devto Ai",
+    "category": "AI"
+  },
+  {
+    "title": "How I think about Hermes Agent use cases before touching setup",
+    "link": "https://dev.to/ethanjamescolez/how-i-think-about-hermes-agent-use-cases-before-touching-setup-396j",
+    "description": "There are workflow problems that look small until they show up often enough to waste real time.\n\nI kept coming back to the same product question while working on this workflow. Many people do not need another generic \"what is an AI agent\" post. They ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T17:15:27",
+    "source": "Devto Ai",
+    "category": "AI"
+  },
+  {
+    "title": "I Asked AI to Audit My Last 3 Failed Projects \u2014 Here's What It Found",
+    "link": "https://dev.to/tillerman/i-asked-ai-to-audit-my-last-3-failed-projects-heres-what-it-found-30on",
+    "description": "Two years ago, I was managing three concurrent projects. All three ran over budget. Two missed their deadlines. One got cancelled.\n\nI blamed external factors at the time: changing requirements, staffing issues, unclear leadership direction.\n\nLast mon",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T17:11:55",
+    "source": "Devto Ai",
+    "category": "AI"
+  },
+  {
+    "title": "Guardrails in AI: Keeping LLMs Safe",
+    "link": "https://dev.to/_sowjanyasankara_/guardrails-in-ai-keeping-llms-safe-37p5",
+    "description": "\ud83e\udd14 Imagine asking an AI agent to generate a database query\u2026\nand it returns something wrong \u2014 or worse, unsafe.\n\nThe problem isn\u2019t just intelligence.\nIt\u2019s control.\n\nThat\u2019s where guardrails come in.\n\n\n\n\n\u26a1 What are Guardrails in AI?\n\nGuardrails are check",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmazrat7i5m4ovpsd3vmx.png",
+    "datetimestamp": "2026-04-27T17:11:09",
+    "source": "Devto Ai",
+    "category": "AI"
+  },
+  {
+    "title": "How I Built a Stunning AI-Powered Portfolio Site in 40 Minutes with Free Tools \u2013 Transform Your Online Presence Now!",
+    "link": "https://dev.to/zay_theprince_f6da0437a6/how-i-built-a-stunning-ai-powered-portfolio-site-in-40-minutes-with-free-tools-transform-your-72i",
+    "description": "I was knee-deep in my side project, a personal portfolio site for showcasing my indie games, when I glanced at the clock\u2014it was 8 PM on a Thursday, and my design assets were nowhere near ready for a Friday launch. I'd been manually sketching UI eleme",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14nj20melyg6h2a7vqgk.jpeg",
+    "datetimestamp": "2026-04-27T17:09:47",
+    "source": "Devto Ai",
+    "category": "AI"
+  },
+  {
+    "title": "Why Your Projects Keep Getting Derailed (And How AI Can Fix It)",
+    "link": "https://dev.to/tillerman/why-your-projects-keep-getting-derailed-and-how-ai-can-fix-it-533g",
+    "description": "I've been managing software projects for over a decade, and I've noticed a pattern: most project failures aren't caused by the problems you anticipated. They're caused by the ones you didn't.\n\nThe risks you named in your risk register rarely derail y",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T17:07:53",
+    "source": "Devto Ai",
+    "category": "AI"
+  },
+  {
+    "title": "\u26a0\ufe0f Why a Simple Integer Breaks in Concurrency",
+    "link": "https://dev.to/codewithishwar/why-a-simple-integer-breaks-in-concurrency-1j2o",
+    "description": "\nA small example that completely changed how I think about shared state.\n\n\n\n\n\n\n  \n  \n  \ud83e\udde0 The Scenario\n\n\nConsider a shared integer accessed by two threads:\n\n\nThread A increments (+1)\nThread B decrements (-1)\n\n\n\n  \n  \n  Expected\n\n\n\n\n\n0\n\n\n\n\n\n\n\n  \n  \n  A",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T17:07:51",
+    "source": "Devto Ai",
+    "category": "AI"
+  },
+  {
+    "title": "G\u0336o\u0336d\u0336 \u0336i\u0336s\u0336 \u0336m\u0336y\u0336 \u0336C\u0336o\u0336p\u0336i\u0336l\u0336o\u0336t\u0336 Copilot is my new god",
+    "link": "https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i",
+    "description": "I spent some time this weekend noodling around with Github Copilot, using the copilot-cli tool.\n\nA while back I had created a little Electron app that searched for and displayed information about Unicode characters. I didn\u2019t really know what I was do",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T17:06:51",
+    "source": "Devto Ai",
+    "category": "AI"
+  },
+  {
+    "title": "One Codebase, Two Channels: Handle Voice Calls and Web Chat with the Same AI Logic",
+    "link": "https://dev.to/voipbin/one-codebase-two-channels-handle-voice-calls-and-web-chat-with-the-same-ai-logic-l38",
+    "description": "Many teams build an AI chatbot first, then realize they also need voice support. So they build a second system \u2014 separate logic, separate prompts, separate maintenance burden.\n\nIt does not have to be that way.\n\nThis post walks through an architecture",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T17:03:23",
+    "source": "Devto Ai",
+    "category": "AI"
+  },
+  {
+    "title": "Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.",
+    "link": "https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-5hff",
+    "description": "The AI landscape is experiencing unprecedented growth and transformation. This post delves into the key developments shaping the future of artificial intelligence, from massive industry investments to critical safety considerations and integration in",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T17:00:54",
+    "source": "Devto Ai",
+    "category": "AI"
+  },
+  {
+    "title": "How I Reduced Meeting Time by 30% Using This One AI Habit",
+    "link": "https://dev.to/tillerman/how-i-reduced-meeting-time-by-30-using-this-one-ai-habit-g9i",
+    "description": "Every week I was spending 8-10 hours in meetings. Most of them were fine. But a significant portion were meetings that either didn't need to happen at all, or ran 30 minutes longer than they should have.\n\nAfter some digging, I realized the root cause",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T17:00:26",
+    "source": "Devto Ai",
+    "category": "AI"
+  }
+]

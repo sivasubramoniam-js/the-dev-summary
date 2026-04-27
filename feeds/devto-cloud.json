@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Cloud Provisioning Benchmarks: AWS vs Azure vs GCP \u2014 2026-04-26",
+    "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/cloud-provisioning-benchmarks-aws-vs-azure-vs-gcp-2026-04-26-309l",
+    "description": "\n  \n  \n  Daily Cloud Provisioning Benchmarks \u2014 2026-04-26\n\n\nFastest cloud today: AWS\n\nReal provisioning latency and reliability data collected via automated synthetic tests across AWS, Azure, and GCP. All results from live API calls \u2014 no estimates.\n\n",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T17:00:07",
+    "source": "Devto Cloud",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Provide storage for the IT department testing and traning",
+    "link": "https://dev.to/ijeoma_omolade_9cf04c9ef3/provide-storage-for-the-it-department-testing-and-traning-388l",
+    "description": "\n### what is Azure storage\n Azure Storage is a cloud storage service by Microsoft used to store large amounts of data, including text, images, and videos.\nIt offers different storage types like Blob, File, Table, and Queue to handle different kinds o",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhmthylybqttc51qyee3f.png",
+    "datetimestamp": "2026-04-27T15:46:32",
+    "source": "Devto Cloud",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "\ud83d\udc27 AWS EC2 SSH permission denied fix Ubuntu \u2014 common mistakes and how to resolve them",
+    "link": "https://dev.to/ptp2308/aws-ec2-ssh-permission-denied-fix-ubuntu-common-mistakes-and-how-to-resolve-them-3lka",
+    "description": "47 seconds. That\u2019s all it takes. \n\nOne minute you\u2019re confidently typing ssh -i \u2026, the next you\u2019re sweating over a blinking cursor and that cold, unfeeling line:\n\n\"\nPermission denied (publickey).  \n\"\n\nYeah. I\u2019ve been there. Multiple times. Once during",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq5csezr6u61uxayntqd5.png",
+    "datetimestamp": "2026-04-27T15:20:58",
+    "source": "Devto Cloud",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Effortless DOT File Merging with Python REST API",
+    "link": "https://dev.to/shahzad_ashraf_5ea18e2b2d/effortless-dot-file-merging-with-python-rest-api-47ej",
+    "description": "Merging DOT files can often be a challenge, especially when dealing with multiple file types and ensuring data integrity. Developers frequently encounter issues with maintaining formatting and structure during the merge process. This can lead to wast",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T14:15:10",
+    "source": "Devto Cloud",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Types of Assignments We Handle",
+    "link": "https://dev.to/dissertationonlineuk/types-of-assignments-we-handle-51ib",
+    "description": "https://www.dissertationonline.co.uk/writing-services/assignment/\n\nTypes of Assignments We Handle\n\nWe provide expert help with all types of assignments:\n\n\u270d\ufe0f Essays &amp; Written Assignments\n\ud83d\udcca Reports &amp; Case Studies\n\ud83d\udd2c Research-Based Assignments\n\ud83d\udcc8 ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T13:12:57",
+    "source": "Devto Cloud",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Building Enterprise AI on Azure: What Matters Beyond the Demo",
+    "link": "https://dev.to/alichoudhry/building-enterprise-ai-on-azure-what-matters-beyond-the-demo-3093",
+    "description": "\n  \n  \n  Building Enterprise AI on Azure: What Matters Beyond the Demo\n\n\nEnterprise AI conversations often start with impressive demos and powerful models. But real success depends much more on architecture, governance, and operational readiness than",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T12:58:16",
+    "source": "Devto Cloud",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Best Cloud Hosting for Developers: Fast, Secure & Scalable Solutions for Modern Apps",
+    "link": "https://dev.to/ping_dart/best-cloud-hosting-for-developers-fast-secure-scalable-solutions-for-modern-apps-58el",
+    "description": "\n  \n  \n  Introduction\n\n\nChoosing the best cloud hosting is one of the most important decisions for developers, startups, and businesses building modern applications.\n\nFrom performance and scalability to security and uptime, the right cloud hosting so",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmc40w4kp46jp7cs3ssul.png",
+    "datetimestamp": "2026-04-27T12:47:27",
+    "source": "Devto Cloud",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Azure Migration Is Not the Problem. Your Plan Is",
+    "link": "https://dev.to/sanket-parmar/azure-migration-is-not-the-problem-your-plan-is-3g3k",
+    "description": "Six months after migration, your cloud bill runs 40% higher than projected. On top of that, three legacy applications are running on workarounds your team built at 2 a.m. Meanwhile, the engineer who sold the project internally is now defending it in ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T12:47:14",
+    "source": "Devto Cloud",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Why Businesses Struggle with Cloud Migration, and What Actually Helps",
+    "link": "https://dev.to/shabna_p_b915bbbdeb278830/why-businesses-struggle-with-cloud-migration-and-what-actually-helps-3hk4",
+    "description": "The concept of cloud migration seems relatively easy when looked at on paper. Just move your workloads from existing infrastructures into the cloud, cut costs, and upgrade your technology ecosystem in the process. Easy enough.\nThe reality, however, i",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T11:52:33",
+    "source": "Devto Cloud",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "How i Created a Linux VM, SSHed Into it and Installed Apache2 on Azure",
+    "link": "https://dev.to/danielops/how-i-created-a-linux-vm-sshed-into-it-and-installed-apache2-on-azure-5dge",
+    "description": "Introduction\n\nIn this project, I created a Linux virtual machine on Microsoft Azure, connected to it securely using SSH, and installed Apache2 to host a web server.\n\nThis is part of my journey as an aspiring cloud engineer, learning cloud technologie",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuwgm06sd2jcv80nm82pk.PNG",
+    "datetimestamp": "2026-04-27T11:10:32",
+    "source": "Devto Cloud",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "GKE Gateway API: Full Setup & Troubleshooting Runbook",
+    "link": "https://dev.to/durrello/gke-gateway-api-full-setup-troubleshooting-runbook-145j",
+    "description": "I recently went through the full process of setting up GKE Gateway API on a production-grade cluster \u2014 Fleet registration, controller enablement, Helm deployment, and a handful of painful debugging sessions. This is the cleaned-up runbook so you don'",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T11:04:59",
+    "source": "Devto Cloud",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "I Broke Production on Azure. Here's What I Learned (And Why I Still Love It)",
+    "link": "https://dev.to/ibne_sabidsaikat_1443282/i-broke-production-on-azure-heres-what-i-learned-and-why-i-still-love-it-20en",
+    "description": "Let me be real with you.\nThe first time I deployed something on Azure, I was confident. Like, dangerously confident. Clicked through the portal like I knew exactly what I was doing, hit deploy, and watched my app go live.\nThen I got the bill.\nNot cat",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T10:08:53",
+    "source": "Devto Cloud",
+    "category": "Cloud & DevOps"
+  }
+]

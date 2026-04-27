@@ -1,5 +1,41 @@
 [
   {
+    "title": "I Rebuilt the Core of My Data Engine \u2014 Here's What Changed in v1.3.0",
+    "link": "https://dev.to/bingulhan/i-rebuilt-the-core-of-my-data-engine-heres-what-changed-in-v130-35od",
+    "description": "\n  \n  \n  I Rebuilt the Core of My Data Engine \u2014 Here's What Changed in v1.3.0\n\n\n\n  \n  \n  What is Nexus Core?\n\n\nNexus Core is a standalone Java application \u2014 a central data orchestration engine that sits between your distributed server infrastructure ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T16:44:52",
+    "source": "Java News",
+    "category": "Backend"
+  },
+  {
+    "title": "Pattern: Matrix Manupulation",
+    "link": "https://dev.to/prashantrmishra/pattern-matrix-manupulation-2pm8",
+    "description": "Matrix manipulation involves, matrix traversal and manipulation based on matrix properties\nExample: Rotate Image\n\n\n\nclass Solution {\n    public void rotate(int[][] matrix) {\n        //replacing rows with columns\n        int m = matrix.length;\n       ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T16:27:18",
+    "source": "Java News",
+    "category": "Backend"
+  },
+  {
+    "title": "Pattern: Reverse LinkedList",
+    "link": "https://dev.to/prashantrmishra/pattern-reverse-linkedlist-4c5e",
+    "description": "Reverse a LinkedList\n\n\n\n/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T16:16:14",
+    "source": "Java News",
+    "category": "Backend"
+  },
+  {
+    "title": "Pattern:Cyclic Sort",
+    "link": "https://dev.to/prashantrmishra/patterncyclic-sort-17o5",
+    "description": "Cyclic Sort: Instead of comparing elements like normal sorting, you place each number directly at its correct index.\n\nExample: Find all the numbers disappeared in an array\n\n\n\nclass Solution {\n    public List&lt;Integer&gt; findDisappearedNumbers(int[",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T16:06:56",
+    "source": "Java News",
+    "category": "Backend"
+  },
+  {
     "title": "How I Used the Observer Pattern to Watch Directories in Java (And Prevent Race Conditions)",
     "link": "https://dev.to/keenchris/how-i-used-the-observer-pattern-to-watch-directories-in-java-and-prevent-race-conditions-4j85",
     "description": "If you've ever needed to react to file system changes in Java \u2014 a config file updating, an upload folder receiving a new file, a hot-reload mechanism \u2014 you've probably reached for Java's WatchService. It's clean. It's built-in. And it hides a subtle ",

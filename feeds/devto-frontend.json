@@ -1,5 +1,32 @@
 [
   {
+    "title": "What is DOM in JavaScript and ten interview questions for DOM ?",
+    "link": "https://dev.to/mohandassmani/what-is-dom-in-javascript-and-ten-interview-questions-for-dom-in-js--i78",
+    "description": "\nThe Document Object Model(DOM) is a programing interface for web documents. It's represents an HTML or XML document as a tree of objects.Allowing a language like javascript to dynamically access and update the page's content, structure,and style.\nDO",
+    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyehxno9qcetb9upgxmmk.png",
+    "datetimestamp": "2026-04-27T16:42:06",
+    "source": "Dev.to Frontend",
+    "category": "Frontend"
+  },
+  {
+    "title": "Micro Frontends: Decomposing the Monolithic Frontend for Scalability and Agility",
+    "link": "https://dev.to/techblogs/micro-frontends-decomposing-the-monolithic-frontend-for-scalability-and-agility-189e",
+    "description": "\n  \n  \n  Micro Frontends: Decomposing the Monolithic Frontend for Scalability and Agility\n\n\nIn the ever-evolving landscape of web development, the pursuit of scalable, maintainable, and independently deployable applications is a constant endeavor. Wh",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T16:35:19",
+    "source": "Dev.to Frontend",
+    "category": "Frontend"
+  },
+  {
+    "title": "Ilha for Svelte Developers",
+    "link": "https://dev.to/rgolawski/ilha-for-svelte-developers-4016",
+    "description": "\n  \n  \n  What is Ilha?\n\n\nIlha is a small reactive UI framework built around the concept of islands: self-contained, focused components that render on the server and activate in the browser only where interactivity is actually needed.\n\nRather than rel",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T16:29:23",
+    "source": "Dev.to Frontend",
+    "category": "Frontend"
+  },
+  {
     "title": "We Migrated from Webpack 5.90 to Vite 6 and Cut Frontend Build Times by 60%: A Retrospective",
     "link": "https://dev.to/johal/we-migrated-from-webpack-590-to-vite-6-and-cut-frontend-build-times-by-60-a-retrospective-3a5e",
     "description": "",

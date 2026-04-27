@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Localization support for web app manifests",
+    "link": "https://developer.chrome.com/blog/manifest-localization?hl=en",
+    "description": "Your manifest can now support multiple languages.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-24T07:00:00",
+    "source": "Chrome Dev",
+    "category": "Tech News"
+  },
+  {
+    "title": "Unlock Structured Clone for Chrome Extension Messaging",
+    "link": "https://developer.chrome.com/blog/structured-clone-messaging?hl=en",
+    "description": "Chrome extension developers can now opt-in to use the Structured Clone algorithm for message serialization.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-22T07:00:00",
+    "source": "Chrome Dev",
+    "category": "Tech News"
+  },
+  {
+    "title": "What's New in WebGPU (Chrome 147-148)",
+    "link": "https://developer.chrome.com/blog/new-in-webgpu-147-148?hl=en",
+    "description": "WGSL linear_indexing extension and WebGPU on Linux NVIDIA.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-22T07:00:00",
+    "source": "Chrome Dev",
+    "category": "Tech News"
+  },
+  {
+    "title": "Final Soft Navigations origin trial starting in Chrome 147",
+    "link": "https://developer.chrome.com/blog/final-soft-navigations-origin-trial?hl=en",
+    "description": "Take a last chance to try out the Soft Navigations API before release with this final origin trial.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-20T07:00:00",
+    "source": "Chrome Dev",
+    "category": "Tech News"
+  },
+  {
+    "title": "Connection Allowlists origin trial: Secure your web application's network",
+    "link": "https://developer.chrome.com/blog/connection-allowlists-origin-trial?hl=en",
+    "description": "Join the origin trial for Connection Allowlists, a security mechanism in Chrome that creates a network sandbox for documents and web workers.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-16T07:00:00",
+    "source": "Chrome Dev",
+    "category": "Tech News"
+  },
+  {
+    "title": "Improved Japanese phonetic name support in Chrome autofill",
+    "link": "https://developer.chrome.com/blog/japanese-phonetic-name-autofill?hl=en",
+    "description": "Learn how Chrome Autofill is improving support for Japanese phonetic names (Furigana), making it easier for users to fill out web forms.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-15T07:00:00",
+    "source": "Chrome Dev",
+    "category": "Tech News"
+  },
+  {
+    "title": "Take our course about AI evaluations",
+    "link": "https://developer.chrome.com/blog/announce-ai-evals-course?hl=en",
+    "description": "Over the next several weeks, we'll release lessons on AI evals.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-14T07:00:00",
+    "source": "Chrome Dev",
+    "category": "Tech News"
+  },
+  {
+    "title": "Chrome Web Store: A smarter, faster appeals process",
+    "link": "https://developer.chrome.com/blog/cws-new-appeals-process?hl=en",
+    "description": "We're launching a new appeals process in the Chrome Web Store.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-08T07:00:00",
+    "source": "Chrome Dev",
+    "category": "Tech News"
+  },
+  {
+    "title": "Chrome 148 beta",
+    "link": "https://developer.chrome.com/blog/chrome-148-beta?hl=en",
+    "description": "Get a preview of the next Chrome release with this post detailing the features in the current beta.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-08T07:00:00",
+    "source": "Chrome Dev",
+    "category": "Tech News"
+  },
+  {
+    "title": "New in Chrome 147",
+    "link": "https://developer.chrome.com/blog/new-in-chrome-147?hl=en",
+    "description": "Element-scoped view transitions, CSS contrast-color(), and the border-shape property.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-07T07:00:00",
+    "source": "Chrome Dev",
+    "category": "Tech News"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "title": "March 27, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#March_27_2026",
+    "description": "Access Approval\nFeature\nDNS Armor is available in Preview.\nAccess Transparency\nFeature\nDNS Armor is available in Preview.\nAssured Workloads\nFeature\nThe Data Boundary for IRS 1075\nsupports the following products:\n\nAI Protection\nArtifact Analysis\nAutoM",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.641287",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "March 28, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#March_28_2026",
+    "description": "Google SecOps SOAR\nAnnouncement\nRelease 6.3.80 is now available for all regions.\nSensitive Data Protection\nFeature\nYou can configure Sensitive Data Protection to detect specific\nclient-provided metadata. For more information, see Create a custom meta",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.641238",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "March 29, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#March_29_2026",
+    "description": "Google SecOps SOAR\nAnnouncement\nRelease 6.3.81 is being rolled out to the first phase of regions as listed here.\nThis release contains internal and customer bug fixes.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.596939",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "March 30, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#March_30_2026",
+    "description": "AlloyDB for PostgreSQL\nFeature\nAlloyDB now offers conversational analytics, which lets users query their\noperational data using natural language. This feature is powered by the\nConversational Analytics API,\nwhich can help you translate complex human ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.596694",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "March 31, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#March_31_2026",
+    "description": "Access Approval\nFeature\nService Management is generally available\n(GA).\nAccess Transparency\nFeature\nService Management is generally available (GA).\nAlloyDB for PostgreSQL\nFeature\nHot standby enhances the AlloyDB high availability (HA) architecture to",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.596516",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 01, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_01_2026",
+    "description": "Cloud Composer\nFeature\nAirflow 2.11.1 is available in Cloud Composer 3 and Cloud Composer 2.\nChange\nNew Airflow builds\nare available in Cloud Composer 3:\n\ncomposer-3-airflow-2.11.1-build.0\ncomposer-3-airflow-3.1.7-build.4\ncomposer-3-airflow-2.10.5-bu",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.596421",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 02, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_02_2026",
+    "description": "AlloyDB for PostgreSQL\nChange\nYou can now enable Advanced Query Insights on primary\nclusters\nwhich have secondary clusters configured. Advanced Query Insights is not supported on secondary\nclusters. If you perform a switchover, you must re-enable Adv",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.596169",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 03, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_03_2026",
+    "description": "AlloyDB for PostgreSQL\nFeature\nThe gcloud beta alloydb connect\ncommand is now available in\nPreview. This command\nprovides a simplified way to connect securely to AlloyDB\ninstances by using the AlloyDB Auth Proxy and psql. For more information,\nsee Co",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.595891",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 04, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_04_2026",
+    "description": "Google SecOps\nFeature\nPlaybook Condition and Multi-Choice Question Flows\nThe maximum number of branches supported in Playbook Conditions and Multiple Choice Questions has been increased from 6 to 20. This allows for more complex branching logic withi",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.583254",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 05, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_05_2026",
+    "description": "Cloud Load Balancing\nFeature\nCertificate Manager certificates are available in Google Cloud console\nwhile provisioning a load balancer.\nYou can select a certificate map for the following load balancers:\n\nGlobal external Application Load Balancers\nCla",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.583221",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 06, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_06_2026",
+    "description": "Access Approval\nFeature\nAPI keys are available in Preview.\nFeature\nService Usage is available in Preview.\nAccess Transparency\nFeature\nAPI keys are available in Preview.\nFeature\nService Usage is available in Preview.\nAlloyDB for PostgreSQL\nFeature\nThe",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.583004",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 07, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_07_2026",
+    "description": "BigQuery\nFeature\nThe BigQuery Data Transfer Service now supports incremental data transfers for\nthe following data source connectors:\n\nMySQL\nOracle\nPostgreSQL\nServiceNow\n\nThese features are supported in\nPreview.\nFeature\nYou can now use the built-in t",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.582861",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 08, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_08_2026",
+    "description": "BigQuery\nFeature\nThe BigQuery Data Transfer Service now supports incremental data transfers\nwhen transferring data from Microsoft SQL Server to BigQuery. This feature is supported in\nPreview.\nFeature\nYou can now use the\n@@session_id system variable w",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.582786",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 09, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_09_2026",
+    "description": "Apigee X\nChange\nRelaxed limitation on header name for Client IP resolution\nThe client IP can now be resolved from any header, not just the X-Forwarded-For header. The most common headers are X-Forwarded-For or True-Client-Ip.\nFor more information, se",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.582525",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 10, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_10_2026",
+    "description": "BigQuery\nFeature\nSQL cells in BigQuery notebooks are now\ngenerally available\n(GA).\nCloud Composer\nFixed\nFixed a problem with missing DAG description and schedule in the DAG UI which\noccurred in environments with Airflow 3 in some cases.\nFixed an issu",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.548087",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 11, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_11_2026",
+    "description": "Google SecOps SOAR\nAnnouncement\nRelease 6.3.82 is now available for all regions.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.536708",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 12, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_12_2026",
+    "description": "Google SecOps SOAR\nAnnouncement\nRelease 6.3.83 is being rolled out to the first phase of regions as listed here.\nThis release contains internal and customer bug fixes.",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.512652",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 13, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_13_2026",
+    "description": "BigQuery\nFeature\nSupport for the AI.AGG function preview\nhas been temporarily disabled. We are working to restore this feature as soon as\npossible.\nFeature\nTo reduce LLM token consumption and query latency when processing large\ndatasets, enable optim",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.512307",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 14, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_14_2026",
+    "description": "AlloyDB for PostgreSQL\nBreaking\nAs of April 10, 2026, you can create, run, and edit\nGemini Cloud Assist investigations\nonly if you have a Premium Support contract.\nYou can use Gemini Cloud Assist investigations to\nmonitor and troubleshoot your AlloyD",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.512193",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 15, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_15_2026",
+    "description": "AlloyDB for PostgreSQL\nFeature\nThe AlloyDB for PostgreSQL index advisor is enabled by default. It provides vector\nsearch index recommendations for Scalable Nearest Neighbors (ScaNN) indexes. For\nmore information, see Use the index advisor.\nArtifact R",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.511813",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 16, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_16_2026",
+    "description": "AI Hypercomputer\nFeature\nGenerally available: The AI Hypercomputer documentation includes support for\nthe A3 Mega and A3 High machine types. The addition of A3 Mega and A3 High\nexpand the available compute options for training and serving large-scale",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.511664",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 17, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_17_2026",
+    "description": "AlloyDB for PostgreSQL\nIssue\nWhen querying your Elasticsearch data using\nstandard SQL queries and specifying an\nOFFSET, if the OFFSET gets pushed down, it gets applied twice. For example,\nif your SQL query contains OFFSET 5, AlloyDB tries\nto push the",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.511538",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 18, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_18_2026",
+    "description": "Cloud SQL for MySQL\nFeature\nNewly created Cloud SQL instances are integrating with Knowledge Catalog\n(formerly Dataplex Universal Catalog) for data discovery. Instances on MySQL\nversion 8.0 or later will have updates sent to Knowledge Catalog in near",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.511462",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 19, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_19_2026",
+    "description": "Google SecOps SIEM\nAnnouncement\nNew parser documentation now available\nNew parser documentation is available to help you ingest and normalize logs from the following sources:\n\nCollect Group-IB Threat Intelligence logs\nCollect Microsoft System Center ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.475496",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 20, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_20_2026",
+    "description": "AlloyDB for PostgreSQL\nFeature\nYou can now use the Database Insights remote MCP server to analyze AlloyDB's performance and system metrics. This feature is in GA.\nFeature\nThe AlloyDB remote MCP server\u2014available through the global endpoint\u2014is now gene",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.468726",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 21, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_21_2026",
+    "description": "AlloyDB for PostgreSQL\nFeature\nThe integration between AlloyDB for PostgreSQL and Knowledge Catalog (in Preview) is now enabled by default for all new AlloyDB clusters.\nThis integration provides a unified view of your metadata to simplify data govern",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.468659",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 22, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_22_2026",
+    "description": "Agent Registry\nIssue\nThe following known issues affect Agent Registry:\n\nSearch location filtering: When calling the SearchAgents or SearchMcpServers APIs for the global location, the results might incorrectly include resources from us and eu multi-re",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.467902",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 23, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_23_2026",
+    "description": "BigQuery\nChange\nAn updated version of the\nSimba JDBC driver for BigQuery\nis now available.\nBigtable\nFeature\nYou can use window functions with GoogleSQL in Bigtable to perform advanced\nanalytic operations over multiple table rows.\nThis feature is gene",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.448826",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 24, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_24_2026",
+    "description": "Database Center\nFeature\nThe Database Center REST and RPC APIs are available in\nPreview.\nThe Database Center API provides access to an organization-wide,\ncross-product database fleet health platform. You can use the API to aggregate\nhealth, security, ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.418606",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "April 27, 2026",
+    "link": "https://docs.cloud.google.com/release-notes#April_27_2026",
+    "description": "Cloud Trace\nFeature\nCloud Trace is a service covered by the\nCloud Observability (Monitoring, Logging, Trace) Service Level Agreement (SLA).\nGoogle SecOps\nAnnouncement\nNew parser documentation now available\nNew parser documentation is available to hel",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T23:00:52.388194",
+    "source": "Gcp Release Notes",
+    "category": "Cloud & DevOps"
+  }
+]

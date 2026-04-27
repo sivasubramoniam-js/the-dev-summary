@@ -1,5 +1,23 @@
 [
   {
+    "title": "What I Look for When Hiring Remote Full-Stack Developers (React + Node.js)",
+    "link": "https://dev.to/lucas_rego_213f20f3bd36ed/what-i-look-for-when-hiring-remote-full-stack-developers-react-nodejs-3ihe",
+    "description": "\n  \n  \n  What I Look for When Hiring Remote Full-Stack Developers (React + Node.js)\n\n\nAfter years of building and leading remote engineering teams, I've reviewed hundreds of applications, conducted dozens of interviews, and worked alongside developer",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T17:13:53",
+    "source": "Dev.to React",
+    "category": "Frontend"
+  },
+  {
+    "title": "How a Broken Logo Animation Taught Me How Next.js Really Boots",
+    "link": "https://dev.to/suzyg38/how-a-broken-logo-animation-taught-me-how-nextjs-really-boots-cgh",
+    "description": "\n  \n  \n  A deep dive into pre-hydration rendering, critical CSS, vanilla JS, and what it actually means to contribute to open source\n\n\n\n\n\nBy Sulagna Ghosh | Open Source Contributor, Meshery\n\n\n\n\nI came to this bug expecting to spend 20 minutes adding ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T16:20:39",
+    "source": "Dev.to React",
+    "category": "Frontend"
+  },
+  {
     "title": "Building Dependent Form Fields in React: A Practical Approach",
     "link": "https://dev.to/kensaadi/building-dependent-form-fields-in-react-a-practical-approach-3il2",
     "description": "Have you ever needed a form where changing one field updates the options of another? Like selecting a category and seeing subcategories automatically update?\n\nMost developers reach for useEffect + manual state management. But there's a better way.\n\n\n",

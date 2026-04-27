@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+    "description": "A web next to a laptop",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp",
+    "datetimestamp": "2026-04-27T13:00:00",
+    "source": "Google Dev Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Deep Research Max: a step change for autonomous research agents",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research/",
+    "description": "Gemini Deep Research Agent",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1-pro_deep-research-an.max-600x600.format-webp.webp",
+    "datetimestamp": "2026-04-21T15:30:00",
+    "source": "Google Dev Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Start vibe coding in AI Studio with your Google AI subscription.",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-one-ai-studio/",
+    "description": "Starting today, Google AI Pro and Ultra subscribers get increased usage limits in Google AI Studio. This update also includes access to Nano Banana Pro and Gemini Pro mo\u2026",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g1-ais_keyword_DEV_header_dark.max-600x600.format-webp.webp",
+    "datetimestamp": "2026-04-20T16:32:00",
+    "source": "Google Dev Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Prepay for the Gemini API to get more control over your spend",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/prepay-gemini-api/",
+    "description": "Gemini API",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/API_Hero_409.max-600x600.format-webp.webp",
+    "datetimestamp": "2026-04-15T14:00:00",
+    "source": "Google Dev Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Introducing Learn Mode: your personal coding tutor in Google Colab",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/colab-updates/",
+    "description": "Colab Learning logo",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ColabLearning_hero.max-600x600.format-webp.webp",
+    "datetimestamp": "2026-04-08T16:00:00",
+    "source": "Google Dev Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Gemma 4: Byte for byte, the most capable open models",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/",
+    "description": "Gemma 4",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma-4_blog_keyword_header-dar.max-600x600.format-webp.webp",
+    "datetimestamp": "2026-04-02T16:00:00",
+    "source": "Google Dev Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "New ways to balance cost and reliability in the Gemini API",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+    "description": "Gemini API Dials",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cost_reliability_Gemini_API-soc.max-600x600.format-webp.webp",
+    "datetimestamp": "2026-04-02T16:00:00",
+    "source": "Google Dev Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "The latest AI news we announced in March 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+    "description": "March 2026 AI Recap showing new updates",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/March_2026_AI_Recap_social_hvvl.max-600x600.format-webp.webp",
+    "datetimestamp": "2026-04-01T13:00:00",
+    "source": "Google Dev Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Improve coding agents\u2019 performance with Gemini API Docs MCP and Agent Skills.",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-docsmcp-agent-skills/",
+    "description": "Gemini API Skills",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-api-skills-mcp.max-600x600.format-webp.webp",
+    "datetimestamp": "2026-04-01T12:54:00",
+    "source": "Google Dev Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+    "description": "Build with Veo 3.1 Lite",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/veo31lite.max-600x600.format-webp.webp",
+    "datetimestamp": "2026-03-31T16:00:00",
+    "source": "Google Dev Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Build real-time conversational agents with Gemini 3.1 Flash Live",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-3-1-flash-live/",
+    "description": "Build with Gemini 3.1 Flash Live",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/build_with_gemini-3.1-flash-liv.max-600x600.format-webp.webp",
+    "datetimestamp": "2026-03-26T15:00:00",
+    "source": "Google Dev Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Build with Lyria 3, our newest music generation model",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+    "description": "Google Lyria teaser",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BuildWithLyria3_social.max-600x600.format-webp.webp",
+    "datetimestamp": "2026-03-25T16:00:00",
+    "source": "Google Dev Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Lyria 3 Pro: Create longer tracks in more Google products",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
+    "description": "Sizzle video showing new capabilities from Lyria 3 Pro",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria-3-Pro_thumbnail.max-600x600.format-webp.webp",
+    "datetimestamp": "2026-03-25T16:00:00",
+    "source": "Google Dev Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Now anyone can host a global AI challenge",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-kaggle-community-hackathons/",
+    "description": "A graphic of a rocketship, clock, and other icons on a funky blue and yellow background.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword_Hackathon.max-600x600.format-webp.webp",
+    "datetimestamp": "2026-03-19T15:00:00",
+    "source": "Google Dev Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Introducing \u201cvibe design\u201d with Stitch",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/",
+    "description": "Design by Stitch",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Stitch_Keyword_Hero_Visual.max-600x600.format-webp.webp",
+    "datetimestamp": "2026-03-18T18:00:00",
+    "source": "Google Dev Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/",
+    "description": "Vibe Code Updated",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/vibecode-updated-gemini-3.1_pro.max-600x600.format-webp.webp",
+    "datetimestamp": "2026-03-18T15:30:00",
+    "source": "Google Dev Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Gemini API tooling updates: context circulation, tool combos and Maps grounding for Gemini 3",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tooling-updates/",
+    "description": "Gemini API header with code snippet showing an example of a multi-tool combination flow with Grounding with Google Search.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-API_blog_keyword_header_.max-600x600.format-webp_hZyvz7s.webp",
+    "datetimestamp": "2026-03-17T16:00:00",
+    "source": "Google Dev Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Giving you more transparency and control over your Gemini API costs",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/more-control-over-gemini-api-costs/",
+    "description": "Gemini API",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Limit_Hero.max-600x600.format-webp.webp",
+    "datetimestamp": "2026-03-16T17:00:00",
+    "source": "Google Dev Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Gemini Embedding 2: Our first natively multimodal embedding model",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/",
+    "description": "Gemini Embedding 2",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-2_embedding_keyword_blog.max-600x600.format-webp.webp",
+    "datetimestamp": "2026-03-10T16:00:00",
+    "source": "Google Dev Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Play AI-based games in our I/O Save the date",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/io-save-the-date-2026-gemini/",
+    "description": "Gemini games for I/O 2026 rendering",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5GeminigamesI_O2026_Social.max-600x600.format-webp.webp",
+    "datetimestamp": "2026-03-06T16:00:00",
+    "source": "Google Dev Blog",
+    "category": "Backend"
+  }
+]

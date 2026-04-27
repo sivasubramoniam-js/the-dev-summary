@@ -1,5 +1,23 @@
 [
   {
+    "title": "What I Look for When Hiring Remote Full-Stack Developers (React + Node.js)",
+    "link": "https://dev.to/lucas_rego_213f20f3bd36ed/what-i-look-for-when-hiring-remote-full-stack-developers-react-nodejs-3ihe",
+    "description": "\n  \n  \n  What I Look for When Hiring Remote Full-Stack Developers (React + Node.js)\n\n\nAfter years of building and leading remote engineering teams, I've reviewed hundreds of applications, conducted dozens of interviews, and worked alongside developer",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T17:13:53",
+    "source": "Node.js News",
+    "category": "Backend"
+  },
+  {
+    "title": "I got tired of deploying broken configs, so I built dotenv-scan",
+    "link": "https://dev.to/flyingsquirrel0419/i-got-tired-of-deploying-broken-configs-so-i-built-dotenv-scan-47lb",
+    "description": "Every team I've worked on has had this incident at least once.\n\nFriday afternoon deploy. CI is green. You push to production. Five minutes later, someone's pinging you in Slack: the app is crashing on startup. You SSH in, check the logs, and there it",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-27T16:38:00",
+    "source": "Node.js News",
+    "category": "Backend"
+  },
+  {
     "title": "The sed that didn't stick",
     "link": "https://dev.to/vineethnkrishnan/the-sed-that-didnt-stick-49jm",
     "description": "\n  \n  \n  The sed that didn't stick\n\n\n\n\nTL;DR - The nightly backup on one of my self-hosted servers kept failing. I patched the running container with a single sed command, ran the backup by hand, watched it succeed, and went to bed thinking I had it.",

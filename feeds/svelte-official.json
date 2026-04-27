@@ -1,0 +1,893 @@
+[
+  {
+    "title": "What\u2019s new in Svelte: April 2026",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-april-2026",
+    "description": "This month, a new best practices guide was added to the Svelte docs. Check it out, if you haven't already!\nOn the code side, the Svelte MCP got even easier to use with improvements to the official OpenCode package. Combined with the improvements to s",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-04-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: March 2026",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-march-2026",
+    "description": "This month, we got a ton of new features across Svelte, SvelteKit and even the Svelte CLI. Plus, the State of JS 2025 is out and Svelte continues to hold the top spot among reactive frameworks in terms of positive sentiment.\nSo, without further ado, ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-03-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: February 2026",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-february-2026",
+    "description": "This month brings a few new features to Svelte and SvelteKit and quite a few new libraries from around the community.\nAlso, in case you missed it last month, the Svelte maintainers released patches for 5 vulnerabilities across the Svelte ecosystem. S",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-02-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "CVEs affecting the Svelte ecosystem",
+    "link": "https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem",
+    "description": "We\u2019ve released patches for 5 vulnerabilities across devalue, svelte, @sveltejs/kit, and @sveltejs/adapter-node. Here\u2019s what you need to know:\nUpgrade nowIf you\u2019re using any of these packages, upgrade them to their corresponding non-vulnerable version",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-01-15T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: January 2026",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-january-2026",
+    "description": "During the December holiday season, the Svelte team shared 24 days of Svelte knowledge, tips, and insights to unwrap in 2025's Advent of Svelte. Learn more about under-utilized Svelte features through a series of fun and interactive videos!\nThere wer",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2026-01-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: December 2025",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-december-2025",
+    "description": "Just in time for the end of the year, there's a new Svelte Society Website! It brings a whole new experience. Instead of just being a site with static resources, it now serves a dynamic feed of all the latest Svelte content out there. Videos, librari",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-12-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Advent of Svelte is back",
+    "link": "https://svelte.dev/blog/advent-of-svelte-is-back",
+    "description": "It's Advent of Svelte time!\nThis year, we're doing something different: every day between now and Christmas, a new door will be unlocked on advent.sveltesociety.dev/2025. Behind each door is a short video about a feature in Svelte that you might not ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-12-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: November 2025",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-november-2025",
+    "description": "The official Svelte MCP server (for all your agentic needs) is now available with its own section of the docs site and GitHub repo. If you haven't gotten a chance to try it out with the AI of your choice, definitely take it for a spin. It should repl",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-11-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: October 2025",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-october-2025",
+    "description": "There were lots of improvements to remote functions this month - including new batching tools and improved performance via lazy discovery. For more info, check out the Docs and PR links in each bullet. Async SSR is also available for those who would ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-10-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: September 2025",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-september-2025",
+    "description": "In case you missed it, the main Svelte blog covered how to use SvelteKit's new OpenTelemetry traces to reliably set up observability instrumentation using instrumentation.server.ts. This month's round up covers that release and a few other features t",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-09-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Introducing integrated observability in SvelteKit",
+    "link": "https://svelte.dev/blog/sveltekit-integrated-observability",
+    "description": "Understanding how your SvelteKit application behaves in production \u2014 from request flows to performance bottlenecks \u2014 is crucial for building reliable user experiences. SvelteKit now has first-class support for observability: built-in OpenTelemetry tr",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-08-18T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: August 2025",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-august-2025",
+    "description": "With Async Svelte and its companion Remote Functions officially out in the world, there's a lot of updates to share!\nBe sure to check out the showcase for videos from Rich, Paolo, and Stanislav about all the brand new features in Svelte.\nLet's dive i",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-08-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: July 2025",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-july-2025",
+    "description": "Whether you're trying out Vite 7, vitest browser mode or remote functions, there's lots of experimental features to try this month.\nWant some Svelte swag while you're chatting on Discord? With the new sv \u26a1 server tag, you do just that. While signed i",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-07-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: June 2025",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-june-2025",
+    "description": "In addition to advancing the work on Async Svelte, the maintainers have been hard at work introducing long requested features like Attachments.\nThis month, we'll share a bit about the new API along with a huge showcase of apps/sites built with Svelte",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-06-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Bringing Svelte Summit to the whole community",
+    "link": "https://svelte.dev/blog/svelte-summit-videos",
+    "description": "This month's Svelte Summit in Barcelona was a glorious celebration of the community. We had lively conversations, delightful dinners, and funny, imaginative and thought-provoking talks.\nFor everyone who couldn't make it there in person, the conferenc",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-05-21T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: May 2025",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-may-2025",
+    "description": "Only a week until Svelte Summit Spring 2025! If you can't make it in-person to Barcelona, you can purchase a virtual ticket here.\nBut before that, we've got a few updates to highlight...\nWhat's new in Svelte and SvelteKitThe Svelte maintainers have b",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-05-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: April 2025",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-april-2025",
+    "description": "With a couple minor releases of SvelteKit in the last month and a few more from Svelte itself, there's a lot to be excited about this month. From new helper functions to new configuration options, we've got a lot to cover...\nSo let's dive in!\nWhat's ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-04-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: March 2025",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-march-2025",
+    "description": "SvelteHack 2024 has ended and the winners were announced on February 9th. Congrats to all the winners who you'll also find listed in the &quot;Community Showcase&quot; below.\nBut before we dive into that, let's get to some updates!\nWhat's new in Svel",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-03-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: February 2025",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-february-2025",
+    "description": "The Svelte developer experience got a huge upgrade this month with more exported types and better syntax highlighting in VS Code. Combine that with the huge releases from Storybook, Tailwind and Threlte... and you've got a pretty big month!\nLet's div",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-02-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: January 2025",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-january-2025",
+    "description": "From new syntax to improved dev tooling, the Svelte team has been busy this month building new features in both Svelte and SvelteKit. And as we round the corner into the new year, there's even more to look forward to... like the 10th Svelte Summit! J",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2025-01-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: December 2024",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-december-2024",
+    "description": "I can't believe it's already the last newsletter of the year! So much has happened in the Svelte community - from two great Svelte Summits to the release Svelte 5 \ud83c\udf89\nAs we look forward to the next year and watch the Svelte team do 24 features in 24 da",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-12-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Advent of Svelte",
+    "link": "https://svelte.dev/blog/advent-of-svelte",
+    "description": "Last December, Svelte Society presented an advent calendar's worth of festive Svelte-themed code challenges.\nThis year, we're turning it around: you get to relax while we take on a challenge. We've set ourselves a goal of releasing one thing a day fr",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-12-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: November 2024",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-november-2024",
+    "description": "In case you missed the announcement post, the brand new omnisite or the maintainers shipping it LIVE during Svelte Summit... Svelte 5 is out!\nAlso announced at Svelte Summit was SvelteHack 2024: A Svelte Hackathon (with not-so-svelte prizes). The sub",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-11-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Introducing the new Svelte CLI",
+    "link": "https://svelte.dev/blog/sv-the-svelte-cli",
+    "description": "We\u2019ve just released sv, a new Command Line Interface (CLI) for creating, enhancing, and upgrading Svelte projects.\nOne of the most common question we hear is &quot;how do I set up Tailwind on my new project?&quot;. Tailwind has SvelteKit documentatio",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-10-24T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Svelte 5 is alive",
+    "link": "https://svelte.dev/blog/svelte-5-is-alive",
+    "description": "After almost 18 months of development, comprising thousands of commits from dozens of contributors, Svelte 5 is finally stable.\nIt\u2019s the most significant release in the project\u2019s history. Svelte 5 is a ground-up rewrite: your apps will be faster, sma",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-10-22T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "The Omnisite",
+    "link": "https://svelte.dev/blog/the-omnisite",
+    "description": "Launching Svelte 5 and the brand new sv CLI wasn't enough: we've also released a brand new website. You're looking at it.\nUp until now, we've maintained multiple different sites under the svelte.dev domain \u2014 the main site, for Svelte itself, along wi",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-10-21T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: October 2024",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-october-2024",
+    "description": "It's October! Which can only mean one thing... Svelte Summit Fall is only 19 days away! Stay up to date with the latest Svelte Summit news by subscribing to its official newsletter or follow along during the stream on the Discord.\nThanks to the numbe",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-10-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: September 2024",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-september-2024",
+    "description": "A bunch of updates to Svelte dropped in the last few weeks, plus a few quality of life improvements in the Svelte language tools.\nLet's take a look...\nWhat's new in Svelte and Language Tools\n$state.frozen has been replaced with $state.raw (5.0.0-next",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-09-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: August 2024",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-august-2024",
+    "description": "The ramp up to the Svelte 5 release has led to a bunch of huge improvements to both performance and customizability. Also in this month's round-up: some minor SvelteKit updates and a return of the Svelte Dev Vlog.\nLet's dive in!\nWhat's new in SvelteB",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-08-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: July 2024",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-july-2024",
+    "description": "This month, we got a bunch of new features in the Svelte 5 release candidate, Rich Harris explained to Prismic's CEO how Svelte optimizes for vibes and Geoff Rich shared even more about this philosophy at CascadiaJS 2024.\nLet's jump in!\nWhat's new in",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-07-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: June 2024",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-june-2024",
+    "description": "The maintainers have been hard at work getting the Svelte 5 Release Candidate ready for release. In this month's newsletter, you'll find highlights from the pre-release CHANGELOG and a host of items from our community showcase.\nLet's dive in!\nWhat's ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-06-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: May 2024",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-may-2024",
+    "description": "Svelte Summit was last week - featuring a number of fantastic talks from across the community. In the final talk, What You Can Do For Your Framework, Rich Harris (with a little help from PuruVJ's neoconfetti library) announced that Svelte 5 is now in",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-05-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Svelte 5 Release Candidate",
+    "link": "https://svelte.dev/blog/svelte-5-release-candidate",
+    "description": "Svelte 5 is now in the Release Candidate phase. This means that the design of the framework is largely settled, with no anticipated breaking changes between now and the stable release, and that the most egregious bugs have been stomped.\nIt doesn't me",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-04-30T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: April 2024",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-april-2024",
+    "description": "Spring is just around the corner (for half the globe at least), which means Svelte Summit Spring is coming soon! The event will be streamed on the Svelte Society YouTube channel on April 27.\nAlso, this month, a ton of new features have been merged in",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-04-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: March 2024",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-march-2024",
+    "description": "This month, the Svelte maintainers made a ton of progress on Svelte 5 and Rich Harris talked to Prismic about how the team is working on making the framework even better.\nLots to showcase too... so let's dive in!\nWhat's new in SvelteAs you may alread",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-03-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: February 2024",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-february-2024",
+    "description": "Since SvelteKit 2.0 released late last year, there's been a bunch of new features to make the Kit dev experience even better! Meanwhile the Svelte team has been hard at work making Svelte 5 a reality.\nIn case you missed it, Rich also posted Tenets, &",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-02-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: January 2024",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-january-2024",
+    "description": "Happy New Year! It's been a busy month for the Svelte maintainers - with tons of new features dropping in the Svelte 5 preview and the release of SvelteKit 2!\nYou can find all the new features in both projects below, along with a bunch of resources a",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2024-01-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Announcing SvelteKit 2",
+    "link": "https://svelte.dev/blog/sveltekit-2",
+    "description": "Version 2.0 of SvelteKit, the official framework for building apps with Svelte, is now available. It is an incremental release that adds support for the newly-released Vite 5 along with a bevy of small improvements and one much-requested feature.\nIf ",
+    "image": "https://svelte.dev/media/framework-poll.webp",
+    "datetimestamp": "2023-12-14T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: December 2023",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-december-2023",
+    "description": "Svelte Summit Fall 2023 was epic! Featuring talks from across the ecosystem and the launches from the core team of new Svelte Dev Tools, image optimization, and a preview version of Svelte 5.0! The whole talk can be found here (timestamps below):\n\n0:",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-12-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: November 2023",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-november-2023",
+    "description": "Mark your calendars! Svelte Summit Fall is on November 11th. Join us on YouTube and in the Discord for hours of Svelte-focused fun \ud83c\udfa5\nEvery month, maintainers within the Svelte ecosystem fix bugs, improve performance and bring new features to Svelte, ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-11-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: October 2023",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-october-2023",
+    "description": "Svelte 5 isn't out yet (you can, however, preview it now), but that doesn't mean we don't get a sneak peek! Most notably are Runes - a simpler way to manage reactive variables in Svelte code. There's lots of links the showcase section for deeper dive",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-10-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Hacktoberfest 2023 with SvelteKit",
+    "link": "https://svelte.dev/blog/hacktoberfest",
+    "description": "Sveltekit \ud83e\udde1 HacktoberfestWe're excited to announce SvelteKit's participation in this year's Hacktoberfest! Hacktoberfest is a global event that takes place every October, during which developers are encouraged to contribute to open-source projects li",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-10-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Introducing runes",
+    "link": "https://svelte.dev/blog/runes",
+    "description": "In 2019, Svelte 3 turned JavaScript into a reactive language. Svelte is a web UI framework that uses a compiler to turn declarative component code like this...\nApp&#x3c;script>\n\tlet count = 0;\n\n\tfunction increment() {\n\t\tcount += 1;\n\t}\n&#x3c;/script>\n",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-09-20T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: September 2023",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-september-2023",
+    "description": "Happy September y'all! With all the sneak peeks at what's coming soon in Svelte 5, we thought it'd be best to look back at the last month to see what's shipped and what the community is building with Svelte.\nBefore we jump in, a warm welcome to the n",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-09-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Unlocking view transitions in SvelteKit 1.24",
+    "link": "https://svelte.dev/blog/view-transitions",
+    "description": "The view transitions API has been sweeping the web development world lately, and for good reason. It streamlines the process of animating between two page states, which is especially useful for page transitions.\nHowever, until now, you couldn\u2019t easil",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-08-31T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: August 2023",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-august-2023",
+    "description": "Some sweet new features have dropped in both Svelte and SvelteKit, this month. It's also great to see how many products and side projects have launched using Svelte as their core technology!\nMore on all that down below...\nWhat's new in Svelte &amp; L",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-08-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: July 2023",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-july-2023",
+    "description": "Svelte 4 is out and folks have been building! There's a bunch of new showcases, libraries and tutorials to share. So let's get right into it...\nWhat's new in SvelteThe big news this month was the release of Svelte 4.0! You can read all about it in th",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-07-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "svelte.dev: A complete overhaul",
+    "link": "https://svelte.dev/blog/svelte-dev-overhaul",
+    "description": "When the initial version of Svelte v3 was released four years ago, it included the single-page documentation that folks have been familiar with. That documentation structure had stayed the same as Svelte's API surface increased steadily and more deta",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-06-29T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Announcing Svelte 4",
+    "link": "https://svelte.dev/blog/svelte-4",
+    "description": "After months in the making, we're excited to announce the stable release of Svelte 4.\nTime flies - Svelte 3 was released more than four years ago! In JavaScript-framework-time, that's eons. Svelte\u2019s freshness has persisted throughout, but Node.js and",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-06-22T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: June 2023",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-june-2023",
+    "description": "Welcome to June everyone and congrats to our SvelteHack winners, across all the categories! If you missed it, these winners were announced at Svelte Summit on May 6th \ud83c\udf89\nThe entire playlist of the summit, including all the talks broken up in to separa",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-06-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: May 2023",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-may-2023",
+    "description": "Before we dive into the updates, there's a few announcements worth mentioning at the top:\nNew Svelte AmbassadorsRegular features of this newsletter and all-around great content creators for Svelte JoyOfCode and HuntaByte have been appointed as Svelte",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-05-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: April 2023",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-april-2023",
+    "description": "Happy April, everyone! This month, we're covering all the new features in the Svelte compiler, some quality-of-life improvements in SvelteKit and a huge showcase (like always).\nIn core team news, Dominic Gannaway has joined Vercel to work on Svelte f",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-04-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Zero-effort type safety",
+    "link": "https://svelte.dev/blog/zero-config-type-safety",
+    "description": "By sprinkling type annotations into your SvelteKit apps, you can get full type safety across the network \u2014 the data in your page has a type that's inferred from the return values of the load functions that generated that data, without you having to e",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-03-09T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: March 2023",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-march-2023",
+    "description": "March is coming in hot with a number of essential features having been added to SvelteKit following its 1.0 launch. Check out last week's blog post for more details.\nSvelte Society also launched SvelteHack last month with over $12,000 in prizes - cal",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-03-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Streaming, snapshots, and other new features since SvelteKit 1.0",
+    "link": "https://svelte.dev/blog/streaming-snapshots-sveltekit",
+    "description": "The Svelte team has been hard at work since the release of SvelteKit 1.0. Let\u2019s talk about some of the major new features that have shipped since launch: streaming non-essential data, snapshots, and route-level config.\nStream non-essential data in lo",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-02-21T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: February 2023",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-february-2023",
+    "description": "Since last month, we've seen a couple of minor versions across Svelte and SvelteKit, a bunch of educational content to support the 1.0 release, as well as the State of JS survey results...\nSvelte, once again, increased in satisfaction and interest, s",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-02-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: January 2023",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-january-2023",
+    "description": "It's been just two weeks since the release of SvelteKit 1.0! If you haven't yet, check out the livestream, new website and tutorial to learn all the features of SvelteKit step-by-step.\nLet's dive into the details...\nWhat's new in SvelteKit\n@sveltejs/",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2023-01-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Announcing SvelteKit 1.0",
+    "link": "https://svelte.dev/blog/announcing-sveltekit-1.0",
+    "description": "After two years in development, SvelteKit has finally reached 1.0. As of today, it\u2019s the recommended way to build Svelte apps of all shapes and sizes.\nWe\u2019re so excited to share this release with you. It\u2019s the culmination of thousands of hours of work",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2022-12-14T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: December 2022",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-december-2022",
+    "description": "SvelteKit 1.0 is just around the corner! With 99% of the milestone issues completed, there's a lot of new changes from the last month to cover...\nLet's get to it!\nWhat's new in SvelteKit\nUse the willUnload property to find out if the navigation will ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2022-12-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: November 2022",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-november-2022",
+    "description": "It's been a busy October for the Svelte community. use:enhance and Advanced Routes got some great improvements in SvelteKit while the Svelte compiler released a minor version to improve the day-to-day dev experience.\nThere's also a huge showcase to c",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2022-11-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: October 2022",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-october-2022",
+    "description": "There's a bunch of updates this month... from new features in Svelte and SvelteKit to a whole 2-day summit! Plus, the Svelte extension gets some helpful new tools, new accessibility (a11y) warnings, and Tan Li Hau teaches us how to build our own Svel",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2022-10-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: September 2022",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-september-2022",
+    "description": "Still looking for something to do this month? It's your last chance to get tickets to Svelte Summit, Stockholm! Join us on Sept 8-9th \ud83c\udf89\nWith the redesign of SvelteKit's filesystem-based router merging early last month, there's lots to cover this mont",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2022-09-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: August 2022",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-august-2022",
+    "description": "There's a lot to cover this month... big changes are coming to SvelteKit's design before 1.0 can be completed. If you haven't already, check out Rich's Discussion, Fixing load, and tightening up SvelteKit's design before 1.0 #5748.\nAlso, @dummdidumm ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2022-08-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: July 2022",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-july-2022",
+    "description": "From faster SSR to support for Vitest and Storybook in SvelteKit, there's a lot to cover in this month's newsletter...\nSo let's dive in!\nOpenCollective funding drives Svelte forwardSvelte supporters have donated approximately $80,000 to the project o",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2022-07-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: June 2022",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-june-2022",
+    "description": "With last month's Svelte Summit behind us, we're ready to apply everything we learned in this new month of June! Also new this month are some quality-of-life changes to createEventDispatcher, @const declarations and tons of progress toward SvelteKit ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2022-06-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: May 2022",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-may-2022",
+    "description": "With yesterday's Svelte Summit behind us, we've got a lot of news to share! Check out all of the recordings on the Svelte Society YouTube Channel and the rest of this month's updates below...\nWhat's new in Svelte\nThe &lt;svelte:element&gt; element le",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2022-05-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: April 2022",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-april-2022",
+    "description": "This month, we felt a shift in the way SvelteKit handles page properties. The last holdout of the use-cases that required fallthrough routes, validating parameter properties, has been replaced by a more specific solution.\nMore on that, and what else ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2022-04-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: March 2022",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-march-2022",
+    "description": "Just announced: Svelte Summit Spring will be taking place on April 30, 2022. The 5th Virtual Svelte Conference is looking for speakers and sponsors... so it's time to dust off those proposals!\nAlso, some long-requested features were added to SvelteKi",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2022-03-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: February 2022",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-february-2022",
+    "description": "Happy February, everyone! Over the last month or so, we've seen Svelte and SvelteKit develop at rapid speed, new community rules across the Reddit, GitHub and Discord, and quite a few amazing apps, tutorials and libraries.\nLet's take a look...\nHighli",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2022-02-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Accelerating Svelte\u2019s Development",
+    "link": "https://svelte.dev/blog/accelerating-sveltes-development",
+    "description": "Svelte is a frontend framework for building fast reactive web apps with less code. If you\u2019re new here, check out the tutorial or examples to get a feel for it.\nSvelte was launched 5 years ago and has come a long way in the time since. In 2021, as usa",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2022-01-13T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: January 2022",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-january-2022",
+    "description": "Happy new year, Svelte Community! Lots to share this month across Svelte, SvelteKit, Language Tools and the Showcase. Thanks to everyone who made 2021 a great year to use Svelte. Looking forward to the next one \ud83d\ude80\nWhat's new in SvelteKit\n@sveltejs/ada",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2022-01-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: December 2021",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-december-2021",
+    "description": "With SvelteKit getting more and more stable each day, there's not much to cover in terms of code changes other than bug fixes... So, in this month's newsletter, we'll be covering Svelte Summit Fall 2021!\nIf you want to dive deep into the last month's",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2021-12-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: November 2021",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-november-2021",
+    "description": "With SvelteKit crossing the 80% complete mark, over 5000 stars on GitHub, and now having more usage than Sapper, there's never been a better time to try it out! Many in the community have, making for quite a large showcase this month...\nAlso, don't m",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2021-11-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: October 2021",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-october-2021",
+    "description": "Hey y'all \ud83d\udc4b It's been 1 year since &quot;What's new in Svelte&quot; started being cross-posted to the Svelte blog. I wanted to take this moment at the top to thank all of you for reading and for all the contributors every month. From the maintainers ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2021-10-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: September 2021",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-september-2021",
+    "description": "This month, Svelte was voted StackOverflow's most loved web framework, Tan Li Hau talked to Svelte Radio about his Svelte-filled YouTube channel, and SvelteKit made even more progress towards its 1.0 release!\nNew in Svelte\nuse:actions can now be used",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2021-09-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: August 2021",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-august-2021",
+    "description": "From The Changelog (JS Party Ep. 182) to Svelte Radio (Episodes 29 and 30), it seems that folks couldn't help but talk about Svelte, this month! Also, shadow DOM support and new export and await functionality are new in Svelte.\nNew in SvelteJuly was ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2021-08-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: July 2021",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-july-2021",
+    "description": "As the northern hemisphere heats up, Svelte has stayed cool with lots of performance and bug fixes, better TypeScript support, and lots of new components &amp; tools from around the ecosystem. Let's take a peek \ud83d\udc40\nNew in SvelteKit\nadapter-node now pre",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2021-07-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: June 2021",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-june-2021",
+    "description": "This month, we saw lots of contributions to SvelteKit and its docs. The language tools also got some new features, most notably deeper integration with Svelte files within JavaScript or TypeScript files. Let's jump into the updates...\nNew in SvelteKi",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2021-06-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: May 2021",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-may-2021",
+    "description": "Last week, Svelte Summit blew us away with a mountain of content! Check out the full recording or an audio-only (p)review on Svelte Radio. Now let's get into this month's news...\nNew features in the Svelte Compiler\n:global() is now supported as part ",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2021-05-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: April 2021",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-april-2021",
+    "description": "Two projects that have been months (even years) in the making have made their way out into the world. SvelteKit is now in public beta and slotted components are now available in Svelte!\nWhat's up with SvelteKit?SvelteKit - Svelte's versatile framewor",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2021-04-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "SvelteKit is in public beta",
+    "link": "https://svelte.dev/blog/sveltekit-beta",
+    "description": "Previously: What's the deal with SvelteKit?\n\nIt's time. After five months and hundreds of commits, you're finally invited to try out the SvelteKit beta. It's not finished \u2014 there are a few known bugs and several missing features \u2014 but we're really ha",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2021-03-23T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: March 2021",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-march-2021",
+    "description": "Lots to cover this month with releases from across the Svelte ecosystem. Most importantly, Svelte Summit Spring 2021 has an Open Call for Speakers. The deadline is March 14 so if you have an idea for a talk, submit it now!\nLet's dive into the news \ud83d\udc2c\n",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2021-03-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: February 2021",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-february-2021",
+    "description": "With the shortest month of the year coming up, Svelte maintainers and community members alike have been busy this last month \u2013 from big changes in svelte-loader, prettier-plugin-svelte, rollup-plugin-svelte, and language-tools to steady progress in S",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2021-02-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: January 2021",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-january-2021",
+    "description": "Happy new year from Svelte! In the last month we made progress on Sapper's upcoming release, fine-tuned our SvelteComponent typings, and have seen some amazing apps, sites, and libraries coming out in the showcase.\nWhat's changed in Svelte?A new mino",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2021-01-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: December 2020",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-december-2020",
+    "description": "It's the last &quot;What's new in Svelte&quot; of the year and there's lots to celebrate! This month's coverage includes updates from rollup-plugin-svelte, Sapper and SvelteKit and a bunch of showcases from the Svelte community!\nNew features &amp; im",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2020-12-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s the deal with SvelteKit?",
+    "link": "https://svelte.dev/blog/whats-the-deal-with-sveltekit",
+    "description": "If you didn't attend Svelte Summit, you can catch up on the Svelte Society YouTube page\n\nIf you attended Svelte Summit last month you may have seen my talk, Futuristic Web Development, in which I finally tackled one of the most frequently asked quest",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2020-11-05T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: November 2020",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-november-2020",
+    "description": "Welcome back to the &quot;What's new in Svelte&quot; series! This month, we're covering new features &amp; bug fixes, last month's Svelte Summit and some stand-out sites and libraries...\nNew features &amp; impactful bug fixes\nDestructuring Promises n",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2020-11-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "What\u2019s new in Svelte: October 2020",
+    "link": "https://svelte.dev/blog/whats-new-in-svelte-october-2020",
+    "description": "Welcome to the first edition of our &quot;What's new in Svelte&quot; series! We'll try to make this a monthly blog post in which you'll find out about new features, bug fixes, and a showcase of Svelte projects from around the community.\nNew features\n",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2020-10-01T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Svelte <3 TypeScript",
+    "link": "https://svelte.dev/blog/svelte-and-typescript",
+    "description": "It's been by far the most requested feature for a while, and it's finally here: Svelte officially supports TypeScript.\nWe think it'll give you a much nicer development experience \u2014 one that also scales beautifully to larger Svelte code bases \u2014 regard",
+    "image": "https://svelte.dev/media/svelte-ts.png",
+    "datetimestamp": "2020-07-17T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Svelte 3: Rethinking reactivity",
+    "link": "https://svelte.dev/blog/svelte-3-rethinking-reactivity",
+    "description": "After several months of being just days away, we are over the moon to announce the stable release of Svelte 3. This is a huge release representing hundreds of hours of work by many people in the Svelte community, including invaluable feedback from be",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2019-04-22T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Write less code",
+    "link": "https://svelte.dev/blog/write-less-code",
+    "description": "All code is buggy. It stands to reason, therefore, that the more code you have to write the buggier your apps will be.\nWriting more code also takes more time, leaving less time for other things like optimisation, nice-to-have features, or being outdo",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2019-04-20T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Svelte for new developers",
+    "link": "https://svelte.dev/blog/svelte-for-new-developers",
+    "description": "This short guide is designed to help you \u2014 someone who has looked at the tutorial and wants to start creating Svelte apps, but doesn't have a ton of experience using JavaScript build tooling \u2014 get up and running.\nIf there are things that don't make s",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2019-04-16T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Svelte on The Changelog",
+    "link": "https://svelte.dev/blog/svelte-on-the-changelog",
+    "description": "Earlier this month, I had the privilege of appearing on The Changelog, a podcast about software development. We had a fun (for me) and wide-ranging conversation:\n\nlife as a coder inside a newsroom\nthe big compilers-as-frameworks trend\nscalability\nthe",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2019-01-31T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Virtual DOM is pure overhead",
+    "link": "https://svelte.dev/blog/virtual-dom-is-pure-overhead",
+    "description": "If you've used JavaScript frameworks in the last few years, you've probably heard the phrase 'the virtual DOM is fast', often said to mean that it's faster than the real DOM. It's a surprisingly resilient meme \u2014 for example people have asked how Svel",
+    "image": "https://svelte.dev/media/rethinking-best-practices.jpg",
+    "datetimestamp": "2018-12-27T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Using CSS-in-JS with Svelte",
+    "link": "https://svelte.dev/blog/svelte-css-in-js",
+    "description": "CSS is a core part of any web app. By extension, a UI framework that doesn't have a built-in way to add styles to your components is unfinished.\nThat's why Svelte allows you to add CSS in a component's &lt;style&gt; tag. Co-locating your CSS with you",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2018-12-26T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Svelte v2 is out!",
+    "link": "https://svelte.dev/blog/version-2",
+    "description": "Our motto is 'move slowly and break things'. No, wait, that came out wrong...\n\nAlmost a year after we first started talking about version 2 on the Svelte issue tracker, it's finally time to make some breaking changes. This blog post will explain what",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2018-04-18T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Sapper: Towards the ideal web app framework",
+    "link": "https://svelte.dev/blog/sapper-towards-the-ideal-web-app-framework",
+    "description": "Quickstart for the impatient: the Sapper docs, and the starter template\nIf you had to list the characteristics of the perfect Node.js web application framework, you'd probably come up with something like this:\n\nIt should do server-side rendering, for",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2017-12-31T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "The zen of Just Writing CSS",
+    "link": "https://svelte.dev/blog/the-zen-of-just-writing-css",
+    "description": "It's fashionable to dislike CSS. There are lots of reasons why that's the case, but it boils down to this: CSS is unpredictable. If you've never had the experience of tweaking a style rule and accidentally breaking some layout that you thought was co",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2017-09-06T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  },
+  {
+    "title": "Frameworks without the framework: why didn\u2019t we think of this sooner?",
+    "link": "https://svelte.dev/blog/frameworks-without-the-framework",
+    "description": "Wait, this new framework has a runtime? Ugh. Thanks, I'll pass.\n\u2013 front end developers in 2018\nWe're shipping too much code to our users. Like a lot of front end developers, I've been in denial about that fact, thinking that it was fine to serve 100k",
+    "image": "https://via.placeholder.com/400x250?text=Tech+News",
+    "datetimestamp": "2016-11-26T00:00:00",
+    "source": "Svelte Official",
+    "category": "Frontend"
+  }
+]

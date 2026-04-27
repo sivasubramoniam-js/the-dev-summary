@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Top Resiliency Patterns for Developers",
+    "link": "https://newsletter.systemdesigncodex.com/p/top-resiliency-patterns-for-developers",
+    "description": "Quick Guide",
+    "image": "https://substackcdn.com/image/fetch/$s_!eBaM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b084659-16be-42d9-ba14-e9b0ef568813_2175x1361.png",
+    "datetimestamp": "2026-04-21T06:08:56",
+    "source": "System Design Codex",
+    "category": "System Design"
+  },
+  {
+    "title": "What is the BFF Pattern?",
+    "link": "https://newsletter.systemdesigncodex.com/p/what-is-the-bff-pattern",
+    "description": "And when do you need it?",
+    "image": "https://substackcdn.com/image/fetch/$s_!rMIC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef7849f7-bede-4d65-9adf-c01713e6d324_2107x1315.png",
+    "datetimestamp": "2026-04-07T08:41:56",
+    "source": "System Design Codex",
+    "category": "System Design"
+  },
+  {
+    "title": "How TCP Handshake Works",
+    "link": "https://newsletter.systemdesigncodex.com/p/how-tcp-handshake-works",
+    "description": "The 3 step process",
+    "image": "https://substackcdn.com/image/fetch/$s_!1nC8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d8fe891-e992-42b7-a735-6ee2aeb7902b_2107x1318.png",
+    "datetimestamp": "2026-03-31T08:17:52",
+    "source": "System Design Codex",
+    "category": "System Design"
+  },
+  {
+    "title": "Object Oriented Programming - The Key Terms",
+    "link": "https://newsletter.systemdesigncodex.com/p/object-oriented-programming-the-key",
+    "description": "The essential concepts",
+    "image": "https://substackcdn.com/image/fetch/$s_!jVVE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c01cb23-17b3-49c5-9613-ddb139ee9e77_1929x1319.png",
+    "datetimestamp": "2026-03-24T08:38:43",
+    "source": "System Design Codex",
+    "category": "System Design"
+  },
+  {
+    "title": "Inside Look at Reddit's Metadata Store",
+    "link": "https://newsletter.systemdesigncodex.com/p/inside-look-at-reddits-metadata-store",
+    "description": "How it works",
+    "image": "https://substackcdn.com/image/fetch/$s_!Y_8m!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10aa87cf-553f-4348-81c0-d08996eb5db0_1764x1070.png",
+    "datetimestamp": "2026-03-17T08:41:58",
+    "source": "System Design Codex",
+    "category": "System Design"
+  },
+  {
+    "title": "How Agoda Load Balanced Kafka",
+    "link": "https://newsletter.systemdesigncodex.com/p/how-agoda-load-balanced-kafka",
+    "description": "Deep Dive",
+    "image": "https://substackcdn.com/image/fetch/$s_!0lYF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9760a841-f86f-4f54-bd32-083d5d323f8d_2101x1321.png",
+    "datetimestamp": "2026-03-10T08:01:37",
+    "source": "System Design Codex",
+    "category": "System Design"
+  },
+  {
+    "title": "What Happens to an SQL Query?",
+    "link": "https://newsletter.systemdesigncodex.com/p/what-happens-to-an-sql-query",
+    "description": "The Journey Through the DB",
+    "image": "https://substackcdn.com/image/fetch/$s_!NfGN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a4e60df-517b-43df-bdb1-8dc56f523d3e_1808x2477.png",
+    "datetimestamp": "2026-03-04T03:14:28",
+    "source": "System Design Codex",
+    "category": "System Design"
+  },
+  {
+    "title": "How to Prevent the DB from Becoming a Bottleneck",
+    "link": "https://newsletter.systemdesigncodex.com/p/how-to-prevent-the-db-from-becoming",
+    "description": "Tips and Strategies",
+    "image": "https://substackcdn.com/image/fetch/$s_!Cl1U!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35b35c57-6027-4ba4-b8bb-bc572dc6eebb_2101x1370.png",
+    "datetimestamp": "2026-02-24T08:15:03",
+    "source": "System Design Codex",
+    "category": "System Design"
+  },
+  {
+    "title": "Airbnb's Move from Monolith",
+    "link": "https://newsletter.systemdesigncodex.com/p/airbnbs-move-from-monolith",
+    "description": "The journey of migration",
+    "image": "https://substackcdn.com/image/fetch/$s_!ZNoT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feed9c53e-abbe-4c88-82c7-da34cb05ece1_1698x1218.png",
+    "datetimestamp": "2026-02-17T07:56:10",
+    "source": "System Design Codex",
+    "category": "System Design"
+  },
+  {
+    "title": "Eraser\u2019s New AI-Driven Diagramming Workflow",
+    "link": "https://newsletter.systemdesigncodex.com/p/erasers-new-ai-driven-diagramming",
+    "description": "Making Documentation Wonderful Again",
+    "image": "https://substackcdn.com/image/fetch/$s_!NlLb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ec2ec4e-243f-4f71-895b-5a7be7e998d4_2200x394.png",
+    "datetimestamp": "2026-02-10T08:52:33",
+    "source": "System Design Codex",
+    "category": "System Design"
+  },
+  {
+    "title": "The Role of Caching at Netflix",
+    "link": "https://newsletter.systemdesigncodex.com/p/the-role-of-caching-at-netflix",
+    "description": "How Netflix Holds Your Attention",
+    "image": "https://substackcdn.com/image/fetch/$s_!s9HK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6caec37-cfde-4ff4-8f91-ff464d4fb50b_2175x1361.png",
+    "datetimestamp": "2026-02-03T08:52:57",
+    "source": "System Design Codex",
+    "category": "System Design"
+  },
+  {
+    "title": "Synchronous Communication is NOT the Only Way",
+    "link": "https://newsletter.systemdesigncodex.com/p/synchronous-communication-is-not",
+    "description": "There are other ways your application components can talk to each other",
+    "image": "https://substackcdn.com/image/fetch/$s_!FR4W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7bd5b94a-2b01-49ca-8328-05aefc5f9b52_2175x1361.png",
+    "datetimestamp": "2026-01-28T01:57:51",
+    "source": "System Design Codex",
+    "category": "System Design"
+  },
+  {
+    "title": "Top Strategies to Reduce Latency",
+    "link": "https://newsletter.systemdesigncodex.com/p/top-strategies-to-reduce-latency",
+    "description": "Latency is the new downtime",
+    "image": "https://substackcdn.com/image/fetch/$s_!uguW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33e9bd61-bd97-4ea1-a393-eb0f6a0e6b19_2032x1379.png",
+    "datetimestamp": "2026-01-20T13:27:51",
+    "source": "System Design Codex",
+    "category": "System Design"
+  },
+  {
+    "title": "Sticky Sessions or Not?",
+    "link": "https://newsletter.systemdesigncodex.com/p/sticky-sessions-or-not",
+    "description": "How to decide?",
+    "image": "https://substackcdn.com/image/fetch/$s_!4U4U!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0fb5105d-039e-40e1-ad76-ab0302bde9dc_4076x2345.png",
+    "datetimestamp": "2026-01-13T08:43:21",
+    "source": "System Design Codex",
+    "category": "System Design"
+  },
+  {
+    "title": "Consistent Hashing in a Nutshell",
+    "link": "https://newsletter.systemdesigncodex.com/p/consistent-hashing-in-a-nutshell",
+    "description": "How it works?",
+    "image": "https://substackcdn.com/image/fetch/$s_!z3OU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6fa3cdb1-33be-4bf2-a700-d5157e82ced4_2876x1595.png",
+    "datetimestamp": "2026-01-06T08:40:29",
+    "source": "System Design Codex",
+    "category": "System Design"
+  },
+  {
+    "title": "Polling or Webhooks",
+    "link": "https://newsletter.systemdesigncodex.com/p/polling-or-webhooks",
+    "description": "When to use what?",
+    "image": "https://substackcdn.com/image/fetch/$s_!8S-B!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3fb0bc9-e5d8-4305-9a1b-b75989173946_2101x1315.png",
+    "datetimestamp": "2025-12-30T11:44:43",
+    "source": "System Design Codex",
+    "category": "System Design"
+  },
+  {
+    "title": "Multiple Places Where Caching Exists",
+    "link": "https://newsletter.systemdesigncodex.com/p/multiple-places-where-caching-exists",
+    "description": "Caching is everywhere",
+    "image": "https://substackcdn.com/image/fetch/$s_!gvWL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F937fb03b-15f4-4a8a-933c-f0ff1472489a_1552x1850.png",
+    "datetimestamp": "2025-12-23T09:17:41",
+    "source": "System Design Codex",
+    "category": "System Design"
+  },
+  {
+    "title": "Database Scaling and Performance Tips",
+    "link": "https://newsletter.systemdesigncodex.com/p/database-scaling-and-performance",
+    "description": "Strategies you must know",
+    "image": "https://substackcdn.com/image/fetch/$s_!b9bR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F200ed6f4-c5e2-45cb-9eac-8ec96dde382f_1604x966.png",
+    "datetimestamp": "2025-12-16T08:47:15",
+    "source": "System Design Codex",
+    "category": "System Design"
+  },
+  {
+    "title": "LSM Trees Explained",
+    "link": "https://newsletter.systemdesigncodex.com/p/lsm-trees-explained",
+    "description": "Making database writes fast",
+    "image": "https://substackcdn.com/image/fetch/$s_!6vYd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80379b47-b560-4fc3-9c43-a7fb9f7ca8f8_3318x2284.png",
+    "datetimestamp": "2025-12-09T09:04:35",
+    "source": "System Design Codex",
+    "category": "System Design"
+  },
+  {
+    "title": "Top Microservices Patterns",
+    "link": "https://newsletter.systemdesigncodex.com/p/top-microservices-patterns",
+    "description": "The ones that are most common",
+    "image": "https://substackcdn.com/image/fetch/$s_!ZfIA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3755de0d-b906-489c-ac21-16ae1f25a002_4580x2615.png",
+    "datetimestamp": "2025-12-02T08:41:51",
+    "source": "System Design Codex",
+    "category": "System Design"
+  }
+]

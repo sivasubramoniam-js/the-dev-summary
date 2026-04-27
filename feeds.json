@@ -583,5 +583,385 @@
         "feedname": "Chainlink Blog",
         "feedurl": "https://blog.chain.link/rss.xml",
         "category": "Web3"
+    },
+    {
+        "feedname": "Codrops",
+        "feedurl": "https://tympanus.net/codrops/feed/",
+        "category": "Tech News"
+    },
+    {
+        "feedname": "React Official",
+        "feedurl": "https://react.dev/feed.xml",
+        "category": "Frontend"
+    },
+    {
+        "feedname": "Angular Official",
+        "feedurl": "https://blog.angular.io/feed",
+        "category": "Frontend"
+    },
+    {
+        "feedname": "Vue Official",
+        "feedurl": "https://news.vuejs.org/feed.xml",
+        "category": "Frontend"
+    },
+    {
+        "feedname": "Svelte Official",
+        "feedurl": "https://svelte.dev/blog/rss.xml",
+        "category": "Frontend"
+    },
+    {
+        "feedname": "Frontend Masters",
+        "feedurl": "https://frontendmasters.com/blog/feed/",
+        "category": "Frontend"
+    },
+    {
+        "feedname": "Javascript Weekly",
+        "feedurl": "https://javascriptweekly.com/rss",
+        "category": "Frontend"
+    },
+    {
+        "feedname": "Web Dev",
+        "feedurl": "https://web.dev/static/blog/feed.xml",
+        "category": "Frontend"
+    },
+    {
+        "feedname": "Frontend Dogma",
+        "feedurl": "https://frontenddogma.com/feed",
+        "category": "Frontend"
+    },
+    {
+        "feedname": "The New Stack Frontend",
+        "feedurl": "https://thenewstack.io/frontend-development/feed/",
+        "category": "Frontend"
+    },
+    {
+        "feedname": "Logrocket",
+        "feedurl": "https://blog.logrocket.com/feed/",
+        "category": "Tech News"
+    },
+    {
+        "feedname": "Devto Main",
+        "feedurl": "https://dev.to/feed",
+        "category": "AI"
+    },
+    {
+        "feedname": "Devto Ai",
+        "feedurl": "https://dev.to/feed/tag/ai",
+        "category": "AI"
+    },
+    {
+        "feedname": "Techcrunch",
+        "feedurl": "https://techcrunch.com/feed/",
+        "category": "Tech News"
+    },
+    {
+        "feedname": "Engadget",
+        "feedurl": "https://www.engadget.com/rss.xml",
+        "category": "Tech News"
+    },
+    {
+        "feedname": "Venturebeat",
+        "feedurl": "https://venturebeat.com/feed/",
+        "category": "Tech News"
+    },
+    {
+        "feedname": "Cnet",
+        "feedurl": "https://www.cnet.com/rss/news/",
+        "category": "Tech News"
+    },
+    {
+        "feedname": "Wired Ai",
+        "feedurl": "https://www.wired.com/feed/tag/ai/latest/rss",
+        "category": "AI"
+    },
+    {
+        "feedname": "Google Ai Research",
+        "feedurl": "https://research.google/blog/rss",
+        "category": "AI"
+    },
+    {
+        "feedname": "Analytics Vidhya",
+        "feedurl": "https://www.analyticsvidhya.com/feed/",
+        "category": "AI"
+    },
+    {
+        "feedname": "Marktechpost",
+        "feedurl": "https://www.marktechpost.com/feed/",
+        "category": "AI"
+    },
+    {
+        "feedname": "Mit Ai News",
+        "feedurl": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+        "category": "AI"
+    },
+    {
+        "feedname": "Oreilly Ai Radar",
+        "feedurl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+        "category": "AI"
+    },
+    {
+        "feedname": "Import Ai",
+        "feedurl": "https://importai.substack.com/feed",
+        "category": "AI"
+    },
+    {
+        "feedname": "Future Tools",
+        "feedurl": "https://www.futuretools.io/rss",
+        "category": "AI"
+    },
+    {
+        "feedname": "Ai Tool News",
+        "feedurl": "https://nyheter.aitool.se/feed/",
+        "category": "AI"
+    },
+    {
+        "feedname": "Ai News Aggregated",
+        "feedurl": "https://artificial-intelligence.blog/ai-news?format=rss",
+        "category": "AI"
+    },
+    {
+        "feedname": "Aws Whats New",
+        "feedurl": "https://aws.amazon.com/new/feed/",
+        "category": "Cloud & DevOps"
+    },
+    {
+        "feedname": "Aws Devops Blog",
+        "feedurl": "https://aws.amazon.com/blogs/devops/feed/",
+        "category": "Cloud & DevOps"
+    },
+    {
+        "feedname": "Azure Updates",
+        "feedurl": "https://www.microsoft.com/releasecommunications/api/v2/azure/rss",
+        "category": "Cloud & DevOps"
+    },
+    {
+        "feedname": "Gcp Blog",
+        "feedurl": "https://cloud.google.com/blog/feed/",
+        "category": "Cloud & DevOps"
+    },
+    {
+        "feedname": "Gcp Release Notes",
+        "feedurl": "https://cloud.google.com/feeds/gcp-release-notes.xml",
+        "category": "Cloud & DevOps"
+    },
+    {
+        "feedname": "Cncf Blog",
+        "feedurl": "https://www.cncf.io/feed/",
+        "category": "Cloud & DevOps"
+    },
+    {
+        "feedname": "The New Stack",
+        "feedurl": "https://thenewstack.io/feed/",
+        "category": "Tech News"
+    },
+    {
+        "feedname": "Cloudonaut",
+        "feedurl": "https://cloudonaut.io/feed/rss.xml",
+        "category": "Cloud & DevOps"
+    },
+    {
+        "feedname": "Last Week In Aws",
+        "feedurl": "https://lastweekinaws.com/feed/",
+        "category": "Cloud & DevOps"
+    },
+    {
+        "feedname": "Devto Cloud",
+        "feedurl": "https://dev.to/feed/tag/cloud",
+        "category": "Cloud & DevOps"
+    },
+    {
+        "feedname": "System Design Newsletter",
+        "feedurl": "https://newsletter.systemdesign.one/feed",
+        "category": "System Design"
+    },
+    {
+        "feedname": "System Design Codex",
+        "feedurl": "https://newsletter.systemdesigncodex.com/feed",
+        "category": "System Design"
+    },
+    {
+        "feedname": "System Design Classroom",
+        "feedurl": "https://newsletter.systemdesignclassroom.com/feed",
+        "category": "System Design"
+    },
+    {
+        "feedname": "Architecture Weekly",
+        "feedurl": "https://www.architecture-weekly.com/feed",
+        "category": "System Design"
+    },
+    {
+        "feedname": "Pragmatic Engineer",
+        "feedurl": "https://blog.pragmaticengineer.com/feed",
+        "category": "Tech News"
+    },
+    {
+        "feedname": "Medium System Design",
+        "feedurl": "https://medium.com/feed/tag/system-design",
+        "category": "System Design"
+    },
+    {
+        "feedname": "Educative Blog",
+        "feedurl": "https://www.educative.io/blog/feed",
+        "category": "System Design"
+    },
+    {
+        "feedname": "Figma Blog",
+        "feedurl": "https://www.figma.com/blog/feed/atom.xml",
+        "category": "Design & UX"
+    },
+    {
+        "feedname": "Ux Planet",
+        "feedurl": "https://uxplanet.org/feed",
+        "category": "Design & UX"
+    },
+    {
+        "feedname": "Prototypr",
+        "feedurl": "https://blog.prototypr.io/feed",
+        "category": "Design & UX"
+    },
+    {
+        "feedname": "Dribbble Stories",
+        "feedurl": "https://dribbble.com/stories.rss",
+        "category": "Design & UX"
+    },
+    {
+        "feedname": "Medium Ui Design",
+        "feedurl": "https://medium.com/feed/tag/ui-design",
+        "category": "Design & UX"
+    },
+    {
+        "feedname": "Medium Ux Design",
+        "feedurl": "https://medium.com/feed/tag/ux-design",
+        "category": "Design & UX"
+    },
+    {
+        "feedname": "Devto Ux",
+        "feedurl": "https://dev.to/feed/tag/ux",
+        "category": "Design & UX"
+    },
+    {
+        "feedname": "Devto Ui",
+        "feedurl": "https://dev.to/feed/tag/ui",
+        "category": "Design & UX"
+    },
+    {
+        "feedname": "Web Designer News",
+        "feedurl": "https://www.webdesignernews.com/rss",
+        "category": "Design & UX"
+    },
+    {
+        "feedname": "Aimodels",
+        "feedurl": "https://aimodels.substack.com/feed",
+        "category": "AI"
+    },
+    {
+        "feedname": "Github",
+        "feedurl": "https://github.blog/changelog/feed/",
+        "category": "Tech News"
+    },
+    {
+        "feedname": "Aws",
+        "feedurl": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+        "category": "Cloud & DevOps"
+    },
+    {
+        "feedname": "Chrome Dev",
+        "feedurl": "https://developer.chrome.com/static/blog/feed.xml",
+        "category": "Tech News"
+    },
+    {
+        "feedname": "Infoq",
+        "feedurl": "https://feed.infoq.com/",
+        "category": "Tech News"
+    },
+    {
+        "feedname": "Google Dev Blog",
+        "feedurl": "https://blog.google/technology/developers/rss/",
+        "category": "Backend"
+    },
+    {
+        "feedname": "Microsoft Dev Blog",
+        "feedurl": "https://devblogs.microsoft.com/feed/",
+        "category": "Tech News"
+    },
+    {
+        "feedname": "Google Innovation Ai Blog",
+        "feedurl": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+        "category": "AI"
+    },
+    {
+        "feedname": "Towardsdatascience",
+        "feedurl": "https://towardsdatascience.com/feed",
+        "category": "AI"
+    },
+    {
+        "feedname": "Web3",
+        "feedurl": "https://web3wire.org/feed/",
+        "category": "Tech News"
+    },
+    {
+        "feedname": "Verge",
+        "feedurl": "https://www.theverge.com/rss/index.xml",
+        "category": "Tech News"
+    },
+    {
+        "feedname": "Wired",
+        "feedurl": "https://www.wired.com/feed/rss",
+        "category": "Tech News"
+    },
+    {
+        "feedname": "Tech Review",
+        "feedurl": "https://www.technologyreview.com/feed/",
+        "category": "Tech News"
+    },
+    {
+        "feedname": "Nvidia",
+        "feedurl": "https://nvidianews.nvidia.com/releases.xml",
+        "category": "AI"
+    },
+    {
+        "feedname": "Science",
+        "feedurl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+        "category": "AI"
+    },
+    {
+        "feedname": "Builder",
+        "feedurl": "https://www.builder.io/blog/feed.xml",
+        "category": "Design & UX"
+    },
+    {
+        "feedname": "Angular",
+        "feedurl": "https://blog.angular.dev/feed",
+        "category": "Frontend"
+    },
+    {
+        "feedname": "Python",
+        "feedurl": "https://blog.python.org/feeds/posts/default?alt=rss",
+        "category": "Backend"
+    },
+    {
+        "feedname": "Java",
+        "feedurl": "https://blogs.oracle.com/java/feed",
+        "category": "Backend"
+    },
+    {
+        "feedname": "Hacker News (Custom)",
+        "feedurl": "https://hnrss.org/newest?q=AI+OR+LLM+OR+Claude+OR+Gemini+OR+Llama+OR+Mistral+OR+RAG+OR+LangChain+OR+PyTorch+OR+OpenAI+OR+Inference+OR+Agents+OR+React+OR+Next.js+OR+Vue+OR+Svelte+OR+HTMX+OR+Tailwind+OR+TypeScript+OR+JavaScript+OR+Wasm+OR+WebAssembly+OR+Angular+OR+Rust+OR+Go+OR+Golang+OR+Python+OR+Node.js+OR+Elixir+OR+Zig+OR+Postgres+OR+SQLite+OR+Redis+OR+Microservices+OR+Java+OR+AWS+OR+Azure+OR+GCP+OR+Vercel+OR+Cloudflare+OR+Docker+OR+Kubernetes+OR+K8s+OR+Terraform+OR+Ansible+OR+Linux&count=99&points=15",
+        "category": "Frontend"
+    },
+    {
+        "feedname": "Google Blog",
+        "feedurl": "https://blog.google/rss/",
+        "category": "Backend"
+    },
+    {
+        "feedname": "Indianexpress",
+        "feedurl": "https://indianexpress.com/section/technology/feed/",
+        "category": "Tech News"
+    },
+    {
+        "feedname": "Zeenews",
+        "feedurl": "https://zeenews.india.com/rss/technology-news.xml",
+        "category": "Tech News"
     }
 ]

@@ -1,0 +1,92 @@
+[
+  {
+    "title": "LangChain.js for Beginners: A Free Course to Build Agentic AI Apps with JavaScript",
+    "link": "https://devblogs.microsoft.com/blog/langchainjs-for-beginners",
+    "description": "Want to build AI agents with JavaScript that go beyond basic chat completions? Agents that reason, call tools, and pull from knowledge bases on their own? We put together a free, open source course to help you get there. LangChain.js for Beginners is",
+    "image": "https://devblogs.microsoft.com/wp-content/uploads/2026/04/word-image-21337-2.webp",
+    "datetimestamp": "2026-04-23T17:00:14",
+    "source": "Microsoft Dev Blog",
+    "category": "Tech News"
+  },
+  {
+    "title": "Securing MCP: A Control Plane for Agent Tool Execution",
+    "link": "https://devblogs.microsoft.com/blog/securing-mcp-a-control-plane-for-agent-tool-execution",
+    "description": "The Model Context Protocol (MCP) is quickly becoming a common way for AI agents to discover and use tools. It provides a consistent interface to databases, APIs, file systems, and third-party services, which makes it easier to plug capabilities into ",
+    "image": "https://devblogs.microsoft.com/wp-content/uploads/2026/04/Agent-Governance-Toolkit-Diagram-Dev-Blog.webp",
+    "datetimestamp": "2026-04-22T17:00:09",
+    "source": "Microsoft Dev Blog",
+    "category": "Tech News"
+  },
+  {
+    "title": "Take your PostgreSQL-backed apps to the next level",
+    "link": "https://devblogs.microsoft.com/blog/take-your-postgresql-backed-apps-to-the-next-level",
+    "description": "PostgreSQL is a powerful and hugely popular database engine, and it really comes alive across Microsoft developer platforms. You can build with PostgreSQL across Azure offerings, develop productively in Visual Studio Code with strong extensions and t",
+    "image": "https://devblogs.microsoft.com/wp-content/uploads/2026/04/word-image-21258-1.webp",
+    "datetimestamp": "2026-04-14T17:00:37",
+    "source": "Microsoft Dev Blog",
+    "category": "Tech News"
+  },
+  {
+    "title": "Awesome GitHub Copilot just got a website, and a learning hub, and plugins!",
+    "link": "https://devblogs.microsoft.com/blog/awesome-github-copilot-just-got-a-website-and-a-learning-hub-and-plugins",
+    "description": "Back in July, we launched the Awesome GitHub Copilot Customizations repo with a simple goal: give the community a place to share custom instructions, prompts, and chat modes to customize the AI responses from GitHub Copilot. We were hoping for maybe ",
+    "image": "https://devblogs.microsoft.com/wp-content/uploads/2026/03/website-homepage-1024x762.webp",
+    "datetimestamp": "2026-03-16T17:00:33",
+    "source": "Microsoft Dev Blog",
+    "category": "Tech News"
+  },
+  {
+    "title": "Build a real-world example with Microsoft Agent Framework, Microsoft Foundry, MCP and Aspire",
+    "link": "https://devblogs.microsoft.com/blog/build-a-real-world-example-with-microsoft-agent-framework-microsoft-foundry-mcp-and-aspire",
+    "description": "Building AI agents is getting easier. Deploying them as part of a real application, with multiple services, persistent state, and production infrastructure, is where things get complicated. Developers from the .NET community have requested whether a ",
+    "image": "https://devblogs.microsoft.com/wp-content/uploads/2026/03/architecture-1024x568.webp",
+    "datetimestamp": "2026-03-09T16:00:42",
+    "source": "Microsoft Dev Blog",
+    "category": "Tech News"
+  },
+  {
+    "title": "Get started with GitHub Copilot CLI: A free, hands-on course",
+    "link": "https://devblogs.microsoft.com/blog/get-started-with-github-copilot-cli-a-free-hands-on-course",
+    "description": "Learn GitHub Copilot CLI with this free, 8-chapter hands-on course. Review code, generate tests, debug issues, and build custom agents and skills - all from your terminal. No AI experience needed. Works with GitHub Copilot Free. Clone the repo or ope",
+    "image": "https://devblogs.microsoft.com/wp-content/uploads/2026/03/copilot-banner-1024x357.webp",
+    "datetimestamp": "2026-03-03T20:40:42",
+    "source": "Microsoft Dev Blog",
+    "category": "Tech News"
+  },
+  {
+    "title": "The JavaScript AI Build-a-thon Season 2 starts today!",
+    "link": "https://devblogs.microsoft.com/blog/the-javascript-ai-build-a-thon-season-2-starts-today",
+    "description": "The JavaScript AI Build\u2011a\u2011thon Season\u00a02 starts today! Join a free, four\u2011week, hands\u2011on program\u2014from Local AI and RAG pipelines to multi\u2011agent hackathon\u2014designed specifically for JavaScript/TypeScript developers.\nThe post The JavaScript AI Build-a-tho",
+    "image": "https://devblogs.microsoft.com/wp-content/uploads/2026/03/program-roadmap.webp",
+    "datetimestamp": "2026-03-02T20:00:39",
+    "source": "Microsoft Dev Blog",
+    "category": "Tech News"
+  },
+  {
+    "title": "GitHub Copilot Dev Days: Build faster with GitHub Copilot CLI, in VS Code & Visual Studio, and beyond!",
+    "link": "https://devblogs.microsoft.com/blog/github-copilot-dev-days",
+    "description": "Modern software development is moving fast\u2014and AI is now a practical part of how Microsoft developers design, build, and ship applications every day. From writing code in Visual Studio and VS Code, to building cloud-native apps on Azure, developers a",
+    "image": "https://devblogs.microsoft.com/wp-content/uploads/2026/02/word-image-20966-1.webp",
+    "datetimestamp": "2026-03-02T18:00:36",
+    "source": "Microsoft Dev Blog",
+    "category": "Tech News"
+  },
+  {
+    "title": "WinGet Configuration: Set up your dev machine in one command",
+    "link": "https://devblogs.microsoft.com/blog/winget-configuration-set-up-your-dev-machine-in-one-command",
+    "description": "I&#8217;ve set up a lot of dev machines in my life. Traditionally, this takes a lot of time to get everything just right, but now there&#8217;s a faster way with WinGet Configuration files. Let me show you how to go from a fresh Windows install to a ",
+    "image": "https://devblogs.microsoft.com/wp-content/uploads/2026/02/winget-configuration.webp",
+    "datetimestamp": "2026-02-04T18:00:13",
+    "source": "Microsoft Dev Blog",
+    "category": "Tech News"
+  },
+  {
+    "title": "Bringing work context to your code in GitHub Copilot",
+    "link": "https://devblogs.microsoft.com/blog/bringing-work-context-to-your-code-in-github-copilot",
+    "description": "This week we shipped the GitHub Copilot SDK which takes the agent loop from the Copilot CLI and makes it easy to embed in other applications. We\u2019ve been using, improving, and extending Copilot CLI for the last few months and it\u2019s sparked new ideas ab",
+    "image": "https://devblogs.microsoft.com/wp-content/uploads/2026/01/work-iq-setup-1024x379.webp",
+    "datetimestamp": "2026-01-23T15:00:30",
+    "source": "Microsoft Dev Blog",
+    "category": "Tech News"
+  }
+]
