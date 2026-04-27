@@ -867,7 +867,7 @@
                     const readTime = Math.max(1, Math.ceil(wordCount / 200));
 
                     const cardHTML = `
-                        <a href="javascript:void(0)" class="news-card ${cardClass}" style="animation-delay: ${animDelay}s">
+                        <a href="${item.link}" class="news-card ${cardClass}" style="animation-delay: ${animDelay}s">
                             ${item.image ? `
                                 <div class="news-image-wrapper">
                                     <img src="${item.image}" class="news-image" alt="Article image" loading="lazy">

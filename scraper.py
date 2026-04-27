@@ -8,6 +8,8 @@ from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor
 from email.utils import parsedate_to_datetime
 from parser import scrape_custom, SCRAPE_CONFIGS
+import requests
+from bs4 import BeautifulSoup
 
 # Configuration
 DATA_DIR = "feeds"
@@ -17,6 +19,30 @@ os.makedirs(DATA_DIR, exist_ok=True)
 # List of all 120+ feeds (Categories: AI, Frontend, System Design, etc.)
 with open('feeds.json', 'r', encoding='utf-8') as f:
     FEEDS = json.load(f)
+
+def get_link_preview(url):
+    response = requests.get(url, headers={"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"}, timeout=30)
+    soup = BeautifulSoup(response.content, 'lxml')
+    # write extraxted content to a file without html tags and append image urls within the page at the end
+    with open("link_preview.txt", "w") as f:
+        f.write(soup.get_text())
+        # append all image urls within the page at the end
+        for img in soup.find_all("img"):
+            f.write(img.get("src") + "\n")
+
+    def get_meta(name):
+        tag = soup.find("meta", property=name) or soup.find("meta", attrs={"name": name})
+        return tag['content'] if tag and 'content' in tag.attrs else None
+
+    preview = {
+        "title": soup.title.string if soup.title else get_meta("og:title"),
+        "description": get_meta("og:description") or get_meta("description"),
+        "image": get_meta("og:image"),
+        "url": get_meta("og:url") or url,
+        "textContent": soup.get_text()
+    }
+
+    return preview
 
 def slugify(text):
     return re.sub(r'[-\s]+', '-', re.sub(r'[^\w\s-]', '', text.lower())).strip('-')
@@ -71,12 +97,12 @@ def process_feed(feed):
 
             if timestamp <= latest_timestamp:
                 continue
-
+            res = get_link_preview(entry.get('link'))
             item = {
-                "title": entry.get('title', 'No Title'),
-                "link": entry.get('link', '#'),
-                "description": re.sub('<[^<]+?>', '', entry.get('summary', ''))[:250],
-                "image": extract_image(entry),
+                "title": res['title'],
+                "link": res['url'],
+                "description": res['description'],
+                "image": res['image'],
                 "datetimestamp": timestamp,
                 "source": feed_name,
                 "category": feed.get('category', 'General')
