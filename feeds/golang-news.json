@@ -1,0 +1,110 @@
+[
+  {
+    "title": "KEIBIDROP: Secure File Transfer! - DEV Community",
+    "link": "https://dev.to/mfc_keibisoft/keibidrop-secure-file-transfer-132n",
+    "description": "KEIBIDROP encrypted file transfer and shared filesystem between two...",
+    "image": "images/416f17e7809232af2ae5bcba68877e75.webp",
+    "datetimestamp": "2026-04-27T15:30:09",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "I Detect 26 Frameworks Without AI. Here's How Deterministic File-Based Detection Works. - DEV Community",
+    "link": "https://dev.to/jonny2k26/i-detect-26-frameworks-without-ai-heres-how-deterministic-file-based-detection-works-10jh",
+    "description": "When I built Staxa, a platform that deploys isolated customer environments from source code, I needed...",
+    "image": "images/5f59b4e4a9576a70623b4d90cd27eb52.webp",
+    "datetimestamp": "2026-04-27T15:00:00",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "How I Built a Go WebSocket Server Handling 50,000 Clients Under 1ms Latency - DEV Community",
+    "link": "https://dev.to/nithinbharathwaj/how-i-built-a-go-websocket-server-handling-50000-clients-under-1ms-latency-2hk9",
+    "description": "Learn how Go's connection multiplexing and zero-copy message handling can support 50,000 concurrent WebSocket clients under 1ms latency. Read the full guide.",
+    "image": "images/0820ffb4c5b1d4801b5397f3f7486f44.webp",
+    "datetimestamp": "2026-04-27T14:36:41",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "Why ERP integrations silently fail in production (and how I fixed it in Go) - DEV Community",
+    "link": "https://dev.to/girlsjustwannahavecode/why-erp-integrations-silently-fail-in-production-and-how-i-fixed-it-in-go-1gd4",
+    "description": "Most integration systems don\u2019t break immediately. They fail silently over time by corrupting your...",
+    "image": "images/b771ece9011c73dc2b8a9935e065723b.webp",
+    "datetimestamp": "2026-04-27T14:00:00",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "Debugging theory solved our security triage problem - DEV Community",
+    "link": "https://dev.to/bala_paranj_059d338e44e7e/debugging-theory-solved-our-security-triage-problem-g6b",
+    "description": "Our security CLI produced findings engineers couldn't triage without hours of research. We applied...",
+    "image": "images/bea3bf1f6b7f6467f21902a7d1d5c9dd.webp",
+    "datetimestamp": "2026-04-27T12:43:14",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "\ud83d\ude80 Building a CRUD API in Go with PostgreSQL (Step-by-Step) - DEV Community",
+    "link": "https://dev.to/ahmedraza_fyntune/building-a-crud-api-in-go-with-postgresql-step-by-step-2n34",
+    "description": "In the previous post, we built a simple CRUD API in Go using in-memory storage.  Now let\u2019s make it...",
+    "image": "images/f7169fd0dccad0b0421b44333e9ccfb9.webp",
+    "datetimestamp": "2026-04-27T11:09:38",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "\ud83d\ude80 OathMesh v1.0.0-rc.1: Zero-Trust API Keys That Survive the Real World - DEV Community",
+    "link": "https://dev.to/mustafamahmoudatta111/oathmesh-v100-rc1-zero-trust-api-keys-that-survive-the-real-world-2hg5",
+    "description": "Replacing static API keys with 5-minute, self-destructing Ed25519 tokens sounds great\u2014until your...",
+    "image": "images/41c235bc18ada85f2dc1295ec47758e6.webp",
+    "datetimestamp": "2026-04-27T10:52:19",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "Testing a Go exchange API client: mocks, httptest and testcontainers - DEV Community",
+    "link": "https://dev.to/ohugonnot/testing-a-go-exchange-api-client-mocks-httptest-and-testcontainers-2nl0",
+    "description": "You can't hit the real Binance API in tests. ExchangeClient interface, mockgen mocks, httptest for parsing real responses, testcontainers for PostgreSQL integration tests.",
+    "image": "images/835723df3c2883ffc640b41820e2c0f8.webp",
+    "datetimestamp": "2026-04-27T09:00:03",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "Async/Await-like pattern in Go to make concurrency simple, robust, less boilerplate - DEV Community",
+    "link": "https://dev.to/colafanta/asyncawait-like-pattern-in-go-to-make-structured-concurrency-easy-and-with-less-boilerplate-121l",
+    "description": "disclaimer: It is just a pattern that wraps Goroutine and channel. It is still Goroutine underneath....",
+    "image": "images/071f5276b442b83ca040187fd1f8cec5.webp",
+    "datetimestamp": "2026-04-27T05:31:24",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "Auto-updating Kubernetes workloads: an annotation-driven rollout, with circuit breaker - DEV Community",
+    "link": "https://dev.to/willamhou/auto-updating-kubernetes-workloads-an-annotation-driven-rollout-with-circuit-breaker-280o",
+    "description": "How the k8s4claw auto-update controller polls OCI registries on cron, applies semver-filtered upgrades to a StatefulSet, verifies health, and rolls back automatically \u2014 using a single annotation to drive the rollout and Status fields for durable state.",
+    "image": "images/ef87fe8ef8ea6b5123487883147f54ef.webp",
+    "datetimestamp": "2026-04-27T04:20:33",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "Trying to beat the venerable tar - DEV Community",
+    "link": "https://dev.to/arhuman/trying-to-beat-the-venerable-tar-2nh",
+    "description": "Hi,  I\u2019ve been working on a small Go project called Metarc: It's an Open Source file archiver and I\u2019d...",
+    "image": "images/608b2e8ecdc7f37e949e7f42dd4d19f5.webp",
+    "datetimestamp": "2026-04-27T01:53:29",
+    "source": "Golang News",
+    "category": "Backend"
+  },
+  {
+    "title": "Hangout Planner - fighting cognitive atrophy and full process of making app - DEV Community",
+    "link": "https://dev.to/meatboy/hangout-planner-fighting-cognitive-atrophy-and-full-process-of-making-app-4fn0",
+    "description": "In the rising era of artificial intelligence and information processing speeding up everywhere, I...",
+    "image": "images/1f3a666becc158ae1f367f009def417c.webp",
+    "datetimestamp": "2026-04-26T20:55:59",
+    "source": "Golang News",
+    "category": "Backend"
+  }
+]
