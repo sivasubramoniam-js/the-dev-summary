@@ -579,7 +579,7 @@
                 // Helper to convert image URL to base64 data URL
                 const toBase64 = async (url) => {
                     try {
-                        const resp = await fetch(url, { mode: 'cors' });
+                        const resp = await fetch(url);
                         const blob = await resp.blob();
                         return await new Promise((resolve, reject) => {
                             const reader = new FileReader();
@@ -593,7 +593,7 @@
                     }
                 };
 
-                const imgData = imgSrc ? await toBase64(imgSrc) : null;
+                const imgData = imgSrc ? await toBase64(`https://corsproxy.io?${encodeURIComponent(imgSrc)}`) : null;
 
                 // Programmatically construct a perfectly structured exact 4:5 offline poster div (1080x1350 resolution)
                 const poster = document.createElement('div');
