@@ -315,7 +315,7 @@ def main():
     with open('news.json', 'w', encoding='utf-8') as f:
         flat = [x for x in flat if datetime.fromisoformat(x['datetimestamp']) > datetime.now() - timedelta(hours=24)]
         random.shuffle(flat)
-        json.dump(flat, f, indent=2)
+        json.dump(flat[:50], f, indent=2)
 
     print("Completed successfully!")
 
