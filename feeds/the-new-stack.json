@@ -1,5 +1,14 @@
 [
   {
+    "title": "Why JSON Schema matters more than ever in the age of generative AI - The New Stack",
+    "link": "https://thenewstack.io/json-schema-ai-reliability/",
+    "description": "JSON Schema is essential for grounding unpredictable AI outputs. Discover why this standard ensures enterprise data reliability in 2026.",
+    "image": "https://cdn.thenewstack.io/media/2026/04/162228ed-stacey-knipe-lfhqhc_wq9e-unsplash-scaled.jpg",
+    "datetimestamp": "2026-04-28T17:00:00",
+    "source": "The New Stack",
+    "category": "Tech News"
+  },
+  {
     "title": "Sentry\u2019s Seer Agent lets developers debug production issues in natural language - The New Stack",
     "link": "https://thenewstack.io/sentrys-seer-agent-debug/",
     "description": "Seer Agent queries across errors, traces, logs, and code context to investigate production problems that don't start with a clean error.",

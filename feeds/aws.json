@@ -1,5 +1,59 @@
 [
   {
+    "title": "Amazon Connect Talent for AI-powered hiring (now available in Preview) - AWS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-talent-ai-powered/",
+    "description": "Discover more about what's new at AWS with Amazon Connect Talent for AI-powered hiring (now available in Preview)",
+    "image": "",
+    "datetimestamp": "2026-04-28T15:30:00",
+    "source": "Aws",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "AWS Announces Amazon Connect Decisions - AWS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-decisions-april/",
+    "description": "Discover more about what's new at AWS with AWS Announces Amazon Connect Decisions",
+    "image": "",
+    "datetimestamp": "2026-04-28T14:30:00",
+    "source": "Aws",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Amazon Quick now supports document and visual creation in chat - AWS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick/",
+    "description": "Discover more about what's new at AWS with Amazon Quick now supports document and visual creation in chat",
+    "image": "",
+    "datetimestamp": "2026-04-28T11:30:00",
+    "source": "Aws",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Amazon Quick expands integrations to include Google Workspace, Zoom, Airtable, and more - AWS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-google-workspace-zoom/",
+    "description": "Discover more about what's new at AWS with Amazon Quick expands integrations to include Google Workspace, Zoom, Airtable, and more",
+    "image": "",
+    "datetimestamp": "2026-04-28T11:30:00",
+    "source": "Aws",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Start using Amazon Quick for free in minutes with Free and Plus pricing plans - AWS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-free-plus/",
+    "description": "Discover more about what's new at AWS with Start using Amazon Quick for free in minutes with Free and Plus pricing plans",
+    "image": "",
+    "datetimestamp": "2026-04-28T11:30:00",
+    "source": "Aws",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Amazon Quick now available as a desktop application for macOS and Windows (Preview) - AWS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-macos-windows-preview/",
+    "description": "Discover more about what's new at AWS with Amazon Quick now available as a desktop application for macOS and Windows (Preview)",
+    "image": "",
+    "datetimestamp": "2026-04-28T11:30:00",
+    "source": "Aws",
+    "category": "Cloud & DevOps"
+  },
+  {
     "title": "Amazon Redshift Serverless AI-driven scaling is now the default for new workgroups - AWS",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-ai-driven-scaling-default/",
     "description": "Discover more about what's new at AWS with Amazon Redshift Serverless AI-driven scaling is now the default for new workgroups",

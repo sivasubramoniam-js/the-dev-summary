@@ -1,5 +1,23 @@
 [
   {
+    "title": "I Used Claude Design for a Day. Here\u2019s What It Actually Felt Like | by Fahbid | Apr, 2026 | Medium",
+    "link": "https://medium.com/@abrar.fahbid/i-used-claude-design-for-a-day-heres-what-it-actually-felt-like-ca847d382c9d?source=rss------system_design-5",
+    "description": "A first-hand look at Anthropic\u2019s new AI design tool \u2014 what works, what doesn\u2019t, and why it matters if you\u2019ve ever stared at a blank Figma\u2026",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*GGksMbViodMfn2IFMPa9Mw.png",
+    "datetimestamp": "2026-04-28T17:03:10",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "I Lost Two System Design Interviews in Two Weeks. Here\u2019s the Cycle Built From What I Got Wrong. | by Alex Tolmachev | Apr, 2026 | Medium",
+    "link": "https://medium.com/@alekseywzor/i-lost-two-system-design-interviews-in-two-weeks-heres-the-cycle-built-from-what-i-got-wrong-50c6d346c940?source=rss------system_design-5",
+    "description": "A four-month cycle on system design, written for analysts who are watching the senior BA role shift under their feet.",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*8DiDVY6ESUIKAp3UfVLaZw.jpeg",
+    "datetimestamp": "2026-04-28T17:00:35",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
     "title": "Anatomy of distributed systems. Distributed systems might feel abstract\u2026 | by Lakshman Karthick | Apr, 2026 | Medium",
     "link": "https://medium.com/@lakshmankarthickt/anatomy-of-distributed-systems-150fd8164ad8?source=rss------system_design-5",
     "description": "Distributed systems might feel abstract at first \u2014 until you look at them from two simple perspectives.",

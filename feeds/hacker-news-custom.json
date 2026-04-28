@@ -1,5 +1,77 @@
 [
   {
+    "title": "AI's Economics Don't Make Sense",
+    "link": "https://www.wheresyoured.at/ais-economics-dont-make-sense/",
+    "description": "If you liked this piece, please subscribe to my premium newsletter. It\u2019s $70 a year, or $7 a month, and in return you get a weekly newsletter that\u2019s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and OpenAI\u2019s finances,",
+    "image": "https://storage.ghost.io/c/24/d8/24d8fcec-dfba-4f40-a467-823d2941ae46/content/images/2024/01/wyea--1.jpeg",
+    "datetimestamp": "2026-04-28T16:39:53",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Laguna XS.2 and\u00a0M.1: A Deeper Dive \u2014 Poolside",
+    "link": "https://poolside.ai/blog/laguna-a-deeper-dive",
+    "description": "We've released the first two models in the Laguna family, Laguna M.1 and Laguna XS.2, alongside the runtime we use to train and operate agents, available through two product experiences in research preview. ",
+    "image": "https://cdn.sanity.io/images/n259s8jk/production/797bdad2848e425774f67ef8ce02925166ace2e0-1200x628.png",
+    "datetimestamp": "2026-04-28T16:17:55",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "AISLE Discovers 38 CVEs in Healthcare Software Used by 100,000 Medical Providers | AISLE",
+    "link": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
+    "description": "38 zero-day security vulnerabilities, three critical, and the shift from disclosure to prevention in healthcare software",
+    "image": "https://aisle.com/api/media/file/OpenEMR%20-%20SOME%20post-1200x630.jpg",
+    "datetimestamp": "2026-04-28T16:06:01",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Paramount, In Request For FCC Funding OK, Notes It Will Be 49.5% Foreign-Owned After WBD Merger",
+    "link": "https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/",
+    "description": "Paramount has noted it will be 49.5%-owned by non-U.S. investors after completing a planned merger with Warner Bros. Discovery.",
+    "image": "https://deadline.com/wp-content/uploads/2025/10/Paramount-and-Warner-Bros.jpg?w=1024",
+    "datetimestamp": "2026-04-28T15:54:21",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Nvidia executive: The cost of AI tools is \u2018far beyond\u2019 the cost of human workers | Fortune",
+    "link": "https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/",
+    "description": "Big Tech has announced $740 billion in capex this year, but AI has yet to show evidence of widespread increased productivity.",
+    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2270143685-e1777322583880.jpg?resize=1200,600",
+    "datetimestamp": "2026-04-28T15:54:13",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Google and Pentagon reportedly agree on deal for \u2018any lawful\u2019 use of AI | The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+    "description": "\ufeffThe classified deal apparently doesn\u2019t allow Google to veto how the government will use its AI models.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24925007/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0001_5.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "datetimestamp": "2026-04-28T15:49:22",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "The Fedora Linux 44 Release is Here! - Fedora Magazine",
+    "link": "https://fedoramagazine.org/announcing-fedora-linux-44/",
+    "description": "I\u2019m excited to announce that Fedora Linux 44 is here! Keep reading to discover highlights of Fedora Linux 44, or if you are ready, just jump right in and give Fedora Linux 44 a try!",
+    "image": "https://fedoramagazine.org/wp-content/uploads/2026/04/fedora-linux-44-1.jpg",
+    "datetimestamp": "2026-04-28T14:10:35",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "AI's biggest critic has lost the plot - by Kelsey Piper",
+    "link": "https://www.theargumentmag.com/p/ais-biggest-critic-has-lost-the-plot",
+    "description": "Ed Zitron vs. reality",
+    "image": "https://substackcdn.com/image/fetch/$s_!D-G-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5979a92-1aa2-4040-b398-475d13b0004e_1024x678.jpeg",
+    "datetimestamp": "2026-04-28T13:33:33",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
     "title": "OpenAI CEO\u2019s Identity Verification Company Announced Fake Bruno Mars Partnership Due To Mistaken Identity",
     "link": "https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/",
     "description": "Tools For Humanity announced it was partnering with Bruno Mars on his upcoming tour, but no one told Bruno Mars about it.",

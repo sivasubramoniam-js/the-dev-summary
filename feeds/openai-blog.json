@@ -1,5 +1,14 @@
 [
   {
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS | OpenAI",
+    "link": "https://openai.com/index/openai-on-aws",
+    "description": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6Qdod1sP2lAXzlwaRnglBQ/be5995711d44ca680a45d496825cf240/oai-amazon-16x9.png?w=1600&h=900&fit=fill",
+    "datetimestamp": "2026-04-28T00:00:00",
+    "source": "OpenAI Blog",
+    "category": "AI"
+  },
+  {
     "title": "OpenAI available at FedRAMP Moderate | OpenAI",
     "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
     "description": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",

@@ -1,5 +1,23 @@
 [
   {
+    "title": "Cloudflare R2 vs S3: storage for VPS hosting - DEV Community",
+    "link": "https://dev.to/juan_diegoisazaa_5362a/cloudflare-r2-vs-s3-storage-for-vps-hosting-3oll",
+    "description": "Cloudflare R2 vs S3 for VPS hosting: egress costs, latency, features, and a practical S3-compatible CLI example to choose the right object storage.",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcs4l21wyh739jcobavfx.png",
+    "datetimestamp": "2026-04-28T16:59:47",
+    "source": "Devto Cloud",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Cloudflare R2 vs S3: What to Use on a VPS - DEV Community",
+    "link": "https://dev.to/juan_diegoisazaa_5362a/cloudflare-r2-vs-s3-what-to-use-on-a-vps-14a1",
+    "description": "Cloudflare R2 vs S3 for VPS hosting: costs, egress, latency, compatibility, and a practical rclone backup example to choose the right object storage.",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiwipa9bqsy9n7k581nd1.png",
+    "datetimestamp": "2026-04-28T16:49:26",
+    "source": "Devto Cloud",
+    "category": "Cloud & DevOps"
+  },
+  {
     "title": "MY First Step into AWS: Launching an EC2 Instance - DEV Community",
     "link": "https://dev.to/aritpal15/my-first-step-into-aws-launching-an-ec2-instance-1bp9",
     "description": "<p>I started learning AWS and tried launching my first EC2 instance.</p>\n\n<p>What I did:</p>\n\n<ul>\n<li>Created an EC2 instance</li>\n<li>Connected to it using SSH</li>\n<li>Installed a simple web server</li>\n</ul>\n\n<p>What I learned:</p>\n\n<ul>\n<li>Basics of EC2 and Cloud Computing</li>\n<li>How virtual servers work</li>\n<li>Importance of security groups</li>\n</ul>\n\n<p>Challenges I faced:</p>\n\n<ul>\n<li>Couldn't connect at first because port 22 wasn't open</li>\n<li>Took time to understand key pairs</li>\n</ul>\n\n<p>Still learning, but this gave me a good starting point. I will keep sharing what I learn. </p>",
