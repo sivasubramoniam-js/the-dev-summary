@@ -1,0 +1,20 @@
+[
+  {
+    "title": "A faster way to estimate AI power consumption | MIT News | Massachusetts Institute of Technology",
+    "link": "https://news.mit.edu/2026/faster-way-to-estimate-ai-power-consumption-0427",
+    "description": "The EnergAIzer technique can predict how much power a certain AI workload will consume when run on a particular processor. This method could help data center operators and algorithm developers improve the sustainability of AI workloads.",
+    "image": "https://news.mit.edu/sites/default/files/images/202604/MIT_Power-Estimation-01.jpg",
+    "datetimestamp": "2026-04-27T04:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "MIT scientists build the world\u2019s largest collection of Olympiad-level math problems, and open it to everyone | MIT News | Massachusetts Institute of Technology",
+    "link": "https://news.mit.edu/2026/mit-scientists-build-worlds-largest-collection-olympiad-level-math-problems-open-0424",
+    "description": "MIT CSAIL scientists have compiled the largest high-quality dataset of proof-based math problems ever created. It can help researchers test AI models\u2019 mathematical reasoning, while capturing the full range of mathematical perspectives and problem-solving traditions within the global math community.",
+    "image": "https://news.mit.edu/sites/default/files/images/202604/MIT-MathNet.jpg",
+    "datetimestamp": "2026-04-24T17:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  }
+]

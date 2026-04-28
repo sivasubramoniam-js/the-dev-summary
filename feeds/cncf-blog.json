@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Kubernetes for platform teams: Leveraging k0s and k0rdent | CNCF",
+    "link": "https://www.cncf.io/blog/2026/04/27/kubernetes-for-platform-teams-leveraging-k0s-and-k0rdent/",
+    "description": "In our previous blog, we explored a GitOps use case for on-premises infrastructure, managing multiple clusters hosted on the k3s Kubernetes distribution using k0rdent. But the platform engineering\u2026",
+    "image": "https://www.cncf.io/wp-content/uploads/2026/04/Kubernetes-for-platform-teams-Leveraging-k0s-and-k0rdent.png",
+    "datetimestamp": "2026-04-27T11:00:00",
+    "source": "Cncf Blog",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "From Ingress NGINX to Higress: migrating 60+ resources in 30 minutes with AI | CNCF",
+    "link": "https://www.cncf.io/blog/2026/04/23/from-ingress-nginx-to-higress-migrating-60-resources-in-30-minutes-with-ai/",
+    "description": "With the official retirement of Ingress NGINX that took place in March 2026, enterprise platform teams are facing an urgent security and compliance mandate. Remaining on a retired controller leaves\u2026",
+    "image": "https://www.cncf.io/wp-content/uploads/2026/04/Golden-Kubestronaut-Journey.png",
+    "datetimestamp": "2026-04-23T13:37:18",
+    "source": "Cncf Blog",
+    "category": "Cloud & DevOps"
+  }
+]

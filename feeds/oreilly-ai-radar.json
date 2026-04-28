@@ -1,0 +1,29 @@
+[
+  {
+    "title": "\nShow Your Work: The Case for Radical AI Transparency \u2013 O\u2019Reilly",
+    "link": "https://www.oreilly.com/radar/show-your-work-the-case-for-radical-ai-transparency/",
+    "description": "A colleague told me something recently that I keep thinking about.She said, unprompted, that she appreciated seeing both sides of my AI conversations. Not",
+    "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/04/Show-your-work-1600x1244.jpg",
+    "datetimestamp": "2026-04-27T11:16:33",
+    "source": "Oreilly Ai Radar",
+    "category": "AI"
+  },
+  {
+    "title": "\nEmergency Pedagogical Design: How Programming Instructors Are Scrambling to Adapt to GenAI \u2013 O\u2019Reilly",
+    "link": "https://www.oreilly.com/radar/emergency-pedagogical-design-how-programming-instructors-are-scrambling-to-adapt-to-genai/",
+    "description": "ChatGPT has been publicly available for over three years now, and generative AI is woven into the tools students use every day: web search, word processors,",
+    "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/04/Emergency-pedagogical-design-1600x1244.jpg",
+    "datetimestamp": "2026-04-24T11:23:42",
+    "source": "Oreilly Ai Radar",
+    "category": "AI"
+  },
+  {
+    "title": "\nBehavioral Credentials: Why Static Authorization Fails Autonomous Agents \u2013 O\u2019Reilly",
+    "link": "https://www.oreilly.com/radar/behavioral-credentials-why-static-authorization-fails-autonomous-agents/",
+    "description": "Enterprise AI governance still authorizes agents as if they were stable software artifacts.They are not.An enterprise deploys a LangChain-based research",
+    "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/04/Behavioral-Credentials-1600x1244.jpg",
+    "datetimestamp": "2026-04-23T11:14:51",
+    "source": "Oreilly Ai Radar",
+    "category": "AI"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+    "link": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+    "description": "A Blog post by NVIDIA on Hugging Face",
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/raw2insights-adaptive-ultrasound-imaging.png",
+    "datetimestamp": "2026-04-28T00:28:13",
+    "source": "Hugging Face Blog",
+    "category": "AI"
+  },
+  {
+    "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+    "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+    "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+    "image": "https://huggingface.co/blog/assets/openai-privacy-filter-web-apps/thumbnail.png",
+    "datetimestamp": "2026-04-27T00:00:00",
+    "source": "Hugging Face Blog",
+    "category": "AI"
+  },
+  {
+    "title": "DeepSeek-V4: a million-token context that agents can actually use",
+    "link": "https://huggingface.co/blog/deepseekv4",
+    "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+    "image": "https://huggingface.co/blog/assets/deepseekv4/thumbnail.png",
+    "datetimestamp": "2026-04-24T00:00:00",
+    "source": "Hugging Face Blog",
+    "category": "AI"
+  }
+]

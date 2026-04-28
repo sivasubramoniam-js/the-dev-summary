@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Error Handling in GBase Database: From SQL Mistakes to System-Level Failures - DEV Community",
+    "link": "https://dev.to/scale_b4260f8ecad7f02306d/error-handling-in-gbase-database-from-sql-mistakes-to-system-level-failures-5242",
+    "description": "In any database system, errors are not just failures\u2014they are part of the system design.  In a GBase...",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq6kbmh1udb832oqxnt57.png",
+    "datetimestamp": "2026-04-28T08:20:19",
+    "source": "Database News",
+    "category": "Database"
+  },
+  {
+    "title": "GBase Database Error Codes Explained: A Practical Troubleshooting Guide - DEV Community",
+    "link": "https://dev.to/scale_b4260f8ecad7f02306d/gbase-database-error-codes-explained-a-practical-troubleshooting-guide-5gab",
+    "description": "When working with a GBase database, errors are inevitable.  But instead of treating them as blockers,...",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffiaivh0tlmfc6r8vofwh.png",
+    "datetimestamp": "2026-04-28T08:18:05",
+    "source": "Database News",
+    "category": "Database"
+  },
+  {
+    "title": "I indexed 17,341 polynomial fan curves in Postgres and matched a duty point in <100ms - DEV Community",
+    "link": "https://dev.to/goncharovart/i-indexed-17341-polynomial-fan-curves-in-postgres-and-matched-a-duty-point-in-100ms-ej2",
+    "description": "Most B2B HVAC catalogs publish fan performance curves as scanned PDFs. Engineers do the interpolation...",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6bs04ssen2vapf34j5c.png",
+    "datetimestamp": "2026-04-28T07:53:38",
+    "source": "Database News",
+    "category": "Database"
+  },
+  {
+    "title": "Why Every D2C Wallet Should Be a Ledger, Not a Counter - DEV Community",
+    "link": "https://dev.to/ujjawal_tyagi_c5a84255da4/why-every-d2c-wallet-should-be-a-ledger-not-a-counter-2kok",
+    "description": "Friday post-mortem: when we deleted 30,000 customer wallets by accident.  Then realized we...",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvu87t5u8lzz273zm31hv.png",
+    "datetimestamp": "2026-04-28T07:30:54",
+    "source": "Database News",
+    "category": "Database"
+  },
+  {
+    "title": "Ruby on Rails Has Scalability Issues. Here's How We Solved Them - DEV Community",
+    "link": "https://dev.to/devansh2002/ruby-on-rails-has-scalability-issues-heres-how-we-solved-them-3b50",
+    "description": "Every few months someone declares Rails dead. Then Shopify reports another record Black Friday. In...",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F68s34jriqd8mwr7l98b6.png",
+    "datetimestamp": "2026-04-28T03:54:31",
+    "source": "Database News",
+    "category": "Database"
+  },
+  {
+    "title": "Unlocking Data Dominance: Why SQL Skills Are a Must-Have for Developers in 2026 - DEV Community",
+    "link": "https://dev.to/orbit_websites_b004ed2787/unlocking-data-dominance-why-sql-skills-are-a-must-have-for-developers-in-2026-53jc",
+    "description": "Unlocking Data Dominance: Why SQL Skills Are a Must-Have for Developers in 2026   We\u2019re...",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F62c55jzkjabbr0wb8udu.png",
+    "datetimestamp": "2026-04-28T02:17:49",
+    "source": "Database News",
+    "category": "Database"
+  },
+  {
+    "title": "The Database Bottleneck You Never Saw Coming: Why 50ms Will Make or Break Your AI Agent in 2026 - DEV Community",
+    "link": "https://dev.to/seekdb/the-database-bottleneck-you-never-saw-coming-why-50ms-will-make-or-break-your-ai-agent-in-2026-55ok",
+    "description": "The uncomfortable truth about AI infrastructure that nobody is talking about \u2014 and why your stack...",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcc3je10i4f0waz6sorsa.png",
+    "datetimestamp": "2026-04-28T01:59:07",
+    "source": "Database News",
+    "category": "Database"
+  },
+  {
+    "title": "Elasticsearch Cluster Health 101: Understanding Your Distributed System's Vital Signs - DEV Community",
+    "link": "https://dev.to/iprithv/elasticsearch-cluster-health-101-understanding-your-distributed-systems-vital-signs-1eef",
+    "description": "You ship your Elasticsearch cluster to production. Traffic hits it. Three hours later, your...",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc38ct3dto953wze3obao.png",
+    "datetimestamp": "2026-04-28T00:30:42",
+    "source": "Database News",
+    "category": "Database"
+  },
+  {
+    "title": "Improving Search Relevance in OpenSearch: A Practical Guide for Engineers - DEV Community",
+    "link": "https://dev.to/iprithv/improving-search-relevance-in-opensearch-a-practical-guide-for-engineers-5eid",
+    "description": "OpenSearch powers search at scale for many organizations, but raw relevance scores often need...",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frmz4r1h77pbgw2onnapn.png",
+    "datetimestamp": "2026-04-28T00:30:34",
+    "source": "Database News",
+    "category": "Database"
+  },
+  {
+    "title": "\u2697\ufe0f ACID Properties Explained Like You're 5 - DEV Community",
+    "link": "https://dev.to/esreekarreddy/acid-properties-explained-like-youre-5-4aik",
+    "description": "Guarantees for data reliability",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ivm48xyub4bz7b7nt95.png",
+    "datetimestamp": "2026-04-27T22:54:58",
+    "source": "Database News",
+    "category": "Database"
+  },
+  {
+    "title": "RoomSharp for .NET: Source-Generated Data Access, Not Just an ORM - DEV Community",
+    "link": "https://dev.to/safwa1_dev/roomsharp-for-net-source-generated-data-access-not-just-an-orm-edd",
+    "description": "Introduction to RoomSharp",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fem81drpd9i5nc6ep50js.png",
+    "datetimestamp": "2026-04-27T22:00:11",
+    "source": "Database News",
+    "category": "Database"
+  },
+  {
+    "title": "SQLite Verification, pg_savior, & PostgreSQL Restore Strategies - DEV Community",
+    "link": "https://dev.to/soytuber/sqlite-verification-pgsavior-postgresql-restore-strategies-31mk",
+    "description": "SQLite Verification, pg_savior, &amp; PostgreSQL Restore Strategies            Today's...",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn0s2h7q24ojx4nlr7n6d.png",
+    "datetimestamp": "2026-04-27T21:35:46",
+    "source": "Database News",
+    "category": "Database"
+  }
+]

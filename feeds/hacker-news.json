@@ -1,0 +1,272 @@
+[
+  {
+    "title": "Scraping 241 UK council planning portals \u2013 2.6M decisions so far | Hacker News",
+    "link": "https://news.ycombinator.com/item?id=47931470",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47931470\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-28T07:34:03",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "BYD Seal 08 debuts with Blade Battery 2.0: 1,000 km range, 5-min charging, 684 hp | Electrek",
+    "link": "https://electrek.co/2026/04/27/byd-seal-08-blade-battery-2-1000km-range-beijing-auto-show/",
+    "description": "BYD unveiled the Seal 08, its new flagship electric sedan, at the Beijing Auto Show this weekend. The vehicle packs...",
+    "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/04/BYD-Seal-08-hero.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "datetimestamp": "2026-04-28T06:32:53",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "GTFOBins",
+    "link": "https://gtfobins.org/",
+    "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
+    "image": "https://gtfobins.org/assets/logo.png",
+    "datetimestamp": "2026-04-28T06:27:39",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Wasm is not quite a stack machine | purplesyringa's blog",
+    "link": "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/",
+    "description": "Everyone knows Wasm is a stack machine. Wikipedia says so, the official Wasm design specification says so, you get it. I thought so too.\nThat is, until I started writing Wasm code \u2013 not compiling for Wasm, but writing the instructions by hand. And I found out that there exists a major difference between Wasm and all other stack-based languages, that makes this claim misleading.",
+    "image": "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/og.png",
+    "datetimestamp": "2026-04-28T04:34:29",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Robbyant - Exploring the Frontiers of Embodied Intelligence | \u8682\u8681\u7075\u6ce2\u79d1\u6280 - \u63a2\u7d22\u5177\u8eab\u667a\u80fd\u7684\u4e0a\u9650\uff0c\u6253\u9020\u7269\u7406\u4e16\u754c\u7684 AGI \u5e73\u53f0",
+    "link": "https://technology.robbyant.com/lingbot-map",
+    "description": "Technology-driven and application-oriented. We build foundational large models for embodied AI: spatial perception (LingBot-Depth), VLA (LingBot-VLA), world models (LingBot-World), video action (LingBot-VA). Jointly embrace the new era of embodied intelligence. \u6280\u672f\u9a71\u52a8\u3001\u573a\u666f\u5bfc\u5411\uff0c\u81ea\u7814\u5177\u8eab\u667a\u80fd\u57fa\u7840\u5927\u6a21\u578b\uff0c\u5171\u8fce\u5177\u8eab\u667a\u80fd\u65b0\u65f6\u4ee3\uff0c\u5171\u521b\u5e78\u798f\u751f\u6d3b\u65b0\u573a\u666f\u3002",
+    "image": "",
+    "datetimestamp": "2026-04-28T03:27:40",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "High Performance Git",
+    "link": "https://gitperf.com/",
+    "description": "High Performance Git by Ted Nyman, a book about Git internals and large Git repositories.",
+    "image": "",
+    "datetimestamp": "2026-04-28T00:32:04",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Integrated by Design",
+    "link": "https://vivianvoss.net/blog/integrated-by-design-launch",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47928554\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-27T23:14:26",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Introducing talkie: a 13B vintage language model from 1930",
+    "link": "https://talkie-lm.com/introducing-talkie",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47927903\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-27T21:55:48",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47927070\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-27T20:44:16",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Is My Blue Your Blue?",
+    "link": "https://ismy.blue/",
+    "description": "Test your color perception with this interactive test.",
+    "image": "https://ismy.blue/card.png",
+    "datetimestamp": "2026-04-27T20:24:33",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "GitHub - Hanqaqa/Easyduino: Easily dive into different PCB KiCad designs of the most popular microcontroller devboards \u00b7 GitHub",
+    "link": "https://github.com/Hanqaqa/Easyduino",
+    "description": "Easily dive into different PCB KiCad designs of the most popular microcontroller devboards - Hanqaqa/Easyduino",
+    "image": "https://opengraph.githubassets.com/eed9c46b7aa77f56fa48519f76647d834332bfd1b4dd087de923a3bc166ae547/Hanqaqa/Easyduino",
+    "datetimestamp": "2026-04-27T17:45:02",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "GitHub Copilot is moving to usage-based billing - The GitHub Blog",
+    "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+    "description": "Starting June 1, your Copilot usage will consume GitHub AI Credits.",
+    "image": "https://github.blog/wp-content/uploads/2026/01/generic-invertocat-logo.png",
+    "datetimestamp": "2026-04-27T16:03:08",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Networking changes coming in macOS 27 \u2013 The Eclectic Light Company",
+    "link": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
+    "description": "We are under warning that macOS 27 is likely to remove support for AFP, and lately some additional requirements for connection to certain servers. This explains how these could affect you.",
+    "image": "https://eclecticlight.co/wp-content/uploads/2015/01/cropped-eclecticlightlogo-e1421784280911.png?w=200",
+    "datetimestamp": "2026-04-27T15:36:12",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "The woes of sanitizing SVGs",
+    "link": "https://muffin.ink/blog/scratch-svg-sanitization/",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47922957\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-27T15:31:36",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Bloomberg - Are you a robot?",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47921248\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-27T13:22:42",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Staring at walls to improve focus and productivity | Alex Selimov",
+    "link": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
+    "description": "\nI came across a video by Simple Lucas describing a routine to improve focus and productivity.\nThe routine was basically:\n\nDon\u2019t use any screens/entertainment when trying to focus on work.\nWhen you start to feel mentally drained, sit and stare at a wall for x minutes to recover focus.\n\nI\u2019ve been trying it, and it\u2019s a very effective (but hard) routine.",
+    "image": "https://www.alexselimov.com/images/social_card_bg_hu_127c2191fa265490.webp",
+    "datetimestamp": "2026-04-27T11:08:26",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "GitHub - pgbackrest/pgbackrest: Reliable PostgreSQL Backup & Restore \u00b7 GitHub",
+    "link": "https://github.com/pgbackrest/pgbackrest",
+    "description": "Reliable PostgreSQL Backup & Restore. Contribute to pgbackrest/pgbackrest development by creating an account on GitHub.",
+    "image": "https://opengraph.githubassets.com/71e3fd8796b824fc639b556f575f29be4a03fccc9f0e721702adabb4829d122e/pgbackrest/pgbackrest",
+    "datetimestamp": "2026-04-27T10:56:34",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "FDA approves first gene therapy for treatment of genetic hearing loss",
+    "link": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47919733\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-27T10:15:17",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "4TB of voice samples stolen from 40,000 AI contractors -- how to verify if yours is being weaponized | ORAVYS",
+    "link": "https://app.oravys.com/blog/mercor-breach-2026",
+    "description": "Advanced bio-acoustic analysis for HR, relationships, and personal insights. Trust Your Intuition. Verify It.",
+    "image": "https://app.oravys.com/static/images/og-image.png",
+    "datetimestamp": "2026-04-27T09:57:10",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": " APOD: 2026 April 27 \u2013 Comet R3 PanSTARRS Behind Satellite Trails\n",
+    "link": "https://apod.nasa.gov/apod/ap260427.html",
+    "description": "A different astronomy and space science\nrelated image is featured each day, along with a brief explanation.",
+    "image": "",
+    "datetimestamp": "2026-04-27T07:59:37",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Get Your Reps: product, design, and engineering lessons from building Sail & Muddy - Alejandro Garc\u00eda Salas",
+    "link": "https://www.alejandro.pe/writing/sail-muddy-lessons",
+    "description": "product, design, and engineering lessons from building Sail & Muddy",
+    "image": "https://www.alejandro.pe/writing/multiverse.webp",
+    "datetimestamp": "2026-04-26T14:59:37",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Hidden treasures: Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar | Archaeology | The Guardian",
+    "link": "https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar",
+    "description": "Researchers identify wrecks at the bottom of the sea from as far back as fifth century BC, from Europe and beyond",
+    "image": "https://i.guim.co.uk/img/media/e6061b1b8fb08d4492a358f75035d4a4727ebe7d/6_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=61659f4be83d67a0a51559f40c1bcf01",
+    "datetimestamp": "2026-04-26T03:52:43",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Meetings are forcing functions \u2013 Dan Moore!",
+    "link": "https://www.mooreds.com/wordpress/archives/3734",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47906942\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-26T03:12:04",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "https://nbelakovski.substack.com/p/how-i-learned-what-a-decoupling-capacitor",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47905208\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-25T22:27:44",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "The Quiet Resurgence of RF Engineering | Anthony T's Blog",
+    "link": "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/",
+    "description": "I've worked in the aerospace industry for the past 8 years, and for most of that time I felt like I could confidently say that RF engineering felt like it wa...",
+    "image": "/static/og-image.png",
+    "datetimestamp": "2026-04-25T18:25:54",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Mo RAM, mo problems",
+    "link": "https://fabiensanglard.net/curse/",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47902269\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-25T15:41:54",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "https://radarlaboratory.com/",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47901776\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-25T14:24:47",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "GitHub - WeebLabs/DSPi: A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350).  Official Discord: https://discord.gg/RCyqxAQ5xS \u00b7 GitHub",
+    "link": "https://github.com/WeebLabs/DSPi",
+    "description": "A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350).  Official Discord: https://discord.gg/RCyqxAQ5xS - WeebLabs/DSPi",
+    "image": "https://opengraph.githubassets.com/22b4bbca717608a55b02055acb08f60d536fb657cecb2e204cb37c5d59cfa145/WeebLabs/DSPi",
+    "datetimestamp": "2026-04-25T13:28:29",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "GitHub - pgcentralfoundation/pgrx: Build Postgres Extensions with Rust! \u00b7 GitHub",
+    "link": "https://github.com/pgcentralfoundation/pgrx",
+    "description": "Build Postgres Extensions with Rust! Contribute to pgcentralfoundation/pgrx development by creating an account on GitHub.",
+    "image": "https://repository-images.githubusercontent.com/228908078/c13b4b8d-9ab9-4a6e-92af-24973df4953a",
+    "datetimestamp": "2026-04-25T08:16:19",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Access Denied",
+    "link": "https://gshock.casio.com/intl/products/g-lide/gbx-h5600/",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47878396\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-23T17:13:25",
+    "source": "Hacker News",
+    "category": "General Tech"
+  }
+]

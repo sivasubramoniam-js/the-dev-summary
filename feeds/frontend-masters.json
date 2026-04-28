@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Code is Clay \u2013 Frontend Masters Blog",
+    "link": "https://frontendmasters.com/blog/code-is-clay/",
+    "description": "A nice essay from Cam Pedersen. Clay breaks. A lot. My first few attempts collapsed on the wheel. One piece cracked in the kiln. I dropped another walking to my car. But nobody cries about it, you just start over. The clay doesn\u2019t care. It\u2019s just material waiting for the next idea. You\u2019re gonna have [\u2026]",
+    "image": "https://frontendmasters.com/blog/wp-json/social-image-generator/v1/image/9495",
+    "datetimestamp": "2026-04-27T19:15:23",
+    "source": "Frontend Masters",
+    "category": "Frontend"
+  },
+  {
+    "title": "Auto `sizes` on Images \u2013 Frontend Masters Blog",
+    "link": "https://frontendmasters.com/blog/auto-sizes-on-images/",
+    "description": "Hand-writing/maintaining a sizes attribute is just not going to happen. This is the way.",
+    "image": "https://frontendmasters.com/blog/wp-json/social-image-generator/v1/image/9474",
+    "datetimestamp": "2026-04-24T15:11:56",
+    "source": "Frontend Masters",
+    "category": "Frontend"
+  },
+  {
+    "title": "Constructable Stylesheets and adoptedStyleSheets: One Parse, Every Shadow Root \u2013 Frontend Masters Blog",
+    "link": "https://frontendmasters.com/blog/constructable-stylesheets-and-adoptedstylesheets-one-parse-every-shadow-root/",
+    "description": "If you have any shared styles across multiple shadow DOMs (imagine 20 custom button components), a Constructable Stylesheets is just way more efficient.",
+    "image": "https://frontendmasters.com/blog/wp-json/social-image-generator/v1/image/9446",
+    "datetimestamp": "2026-04-23T16:20:23",
+    "source": "Frontend Masters",
+    "category": "Frontend"
+  }
+]

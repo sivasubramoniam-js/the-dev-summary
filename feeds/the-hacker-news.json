@@ -1,0 +1,209 @@
+[
+  {
+    "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+    "link": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
+    "description": "Agent ID Administrator enabled service principal takeover before April 9, 2026 patch, exposing privilege escalation risk in Entra ID tenants.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4YomH2AGnUSAePfyyvEMXCbULukirvclzEJ6gnsm30Y2PApuarWfCLpKrBng3qYhhINWPwn99rVtdqKcEtbnVR9jkXkpBY-vDByDzMmZgLPPPrqyodmgqBCfR3ojF1tbyaFHQxIdr8voZgDugagnBymAchRR99uUm_0btEdWYeir8B6njw6Q1lPTcugcB/s1600/azure.jpg",
+    "datetimestamp": "2026-04-28T06:37:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
+    "link": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
+    "description": "CVE-2026-32202 actively exploited after April 27 advisory fix, exposing NTLMv2 hashes via zero-click SMB authentication.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMPU-2lLUg__kJUnPm1HSRP0cTelgKBaXgKDq4ODhX0XTKI83sddz2F_EHiOmoxnTYIkIFYIbFh8JLAMp6lqfK39czq_e1G5Ixe-Y53_-kXBSk0fqVZV6jFpECe1JjAy3ZD3MmnJ71jpZHuPpbNRjB4x7SsmfHNUCMVyzQiST7CTc9m3qteMc4zJ2U_GXo/s1600/windows-exploit.jpg",
+    "datetimestamp": "2026-04-28T05:50:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
+    "link": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
+    "description": "Checkmarx data surfaced after March 23, 2026 supply chain attack, prompting repository lockdown and investigation, raising exposure concerns.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWLDpoCXOE_C970Jb9YXSPl2DIDXlL2K2ZDch28huIDzQhLoliuasxjBz3mmCWcDe2u136HN7pDJUu0XBjVkgP6lQJSQTRL4VU_jqhXNwQyb8xLdDD8-9WKQxGp7eT_7WzNpqYPplV1nvvSF5cPwsT3q88d-52g7iU_hP9pxCoU5muOhBTqnTHgGl8Scr8/s1600/Checkmarx.jpg",
+    "datetimestamp": "2026-04-27T14:19:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "\u26a1 Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More",
+    "link": "https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html",
+    "description": "This week\u2019s ThreatsDay covers supply chain attacks, fake help desks, wiper malware, AI prompt traps, RMM abuse, phishing kits, and more.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1eEqmWavzJwy68cdm3DB_l6dZO3ja-RjrtStTMh8_AA5AwWVDhwqEHJIYOPo98lAQ1yDrMZL1Yl2LxeSbk25vsQQI7csJuilXZRo-frfCj9ULE507sQBgvEBM0Y_RkYAWtUteoShXMRAD70JhGRjah1cBzZCew3meQp5xP5-Jv72-ZI4veiUa-aJnMYAK/s1600/cybrecap.jpg",
+    "datetimestamp": "2026-04-27T13:30:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
+    "link": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html",
+    "description": "Claude Mythos\u2019 April 7 launch accelerates vulnerability discovery, but limited access and rising false positives strain remediation workflows.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR-gtpmKWvXoC5M5eOQM8k01yoiVjMDTYwRePtuLtpEPMevNdUs3BrVGykkop3OgF-DGCjpXB5T_AS84khCvVv7J-4W-7aE2ND0VuYbnyD8B6l1DUk_TVi96ab977o9i81hIIubY3l5F2A7_Qe4P4-qMTMzwnrvoXYC3cRhBU0X1VpG4F_MwstEGUQYHg/s1600/unnamed.png",
+    "datetimestamp": "2026-04-27T11:58:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
+    "link": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
+    "description": "PhantomCore exploited three TrueConf flaws since September 2025, enabling remote access and lateral movement across Russian networks.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi02vvwkoYlj343usA-GYXcQHZKIceJufKYFzZNyHlsGQ6lCPD8H8bHEWtzBnJsWmnlQsGq0fBLgyKTdnOoEi83L3kQ8V3EOou_vlAmMhnMDFU5P5LxA-Sz1agVhDmFrd2qKHGnYZituJuoAEsHp0ExFR4pw6VCf9VNESl7C4q5Wkefh6_8rN2MDK96yh_a/s1600/russian-cyberattack.jpg",
+    "datetimestamp": "2026-04-27T11:54:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware",
+    "link": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html",
+    "description": "73 cloned VS Code extensions since Dec 21, 2025 fuel GlassWorm v2, installing cross-IDE malware and stealing credentials.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhptNKAIMY9gm1kv8ULlpPvZh-F4HFaSveiiGCF8qbXkps5m4__rCDykkMAYSG4kg6r1pDv-EDRBTloxLF1yJC5hJJyfrq4J2anUCcgfYP9-nuYuPHh16pC7j0OzTqNvC2TQwbwFcna6nUQ_ZDkZt9NJRi3N3AZnt8qyVsmfans82j_uck31bzBMl4WWdRJ/s1600/vscode.jpg",
+    "datetimestamp": "2026-04-27T11:23:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
+    "link": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html",
+    "description": "Fake CAPTCHA IRSF scam sends up to 60 SMS messages since June 2020, exploiting 17 countries and costing victims $30 per attack.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-cI0h0qDxREUkTFlIqeT_9-QNxJHPv6SqDQXpMs00i8A26QWukWlxtk1iwdZvnar80HiymWGDY9148_CiWIdL2xj-t9xC9KDM-8WdGALuTRxhdZqDcaZf2MG9adEpZLkLqsaA2uMP-3e_E0Ru-A5JSv0_dvEjAAniYpsdS71SCxFVlmB1NhkL20oangQz/s1600/sim-card.jpg",
+    "datetimestamp": "2026-04-27T06:33:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "Researchers Uncover Pre-Stuxnet \u2018fast16\u2019 Malware Targeting Engineering Software",
+    "link": "https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html",
+    "description": "Fast16 malware from 2005 predates Stuxnet by five years, targeting engineering software to sabotage calculations and reshape cyberwar history.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizs_g3Pi3X0KEIbHkq8WujTF9X1RE6Fu_p8CiWmZrjsBj0MK-OTgAj5Dn8hz_8-n_3KmkNhFYDHeKUxeAnJv3nWdqwu5XlKsUEC0yq-uOESR7HkzKLJ1-FdrJtyBy05M0NZ4HkrXZ_eCvCSEX3Y4jauh6A4loJ_gY-F5aOT39ZMn4noffniWz8VgIv1zA2/s1600/fast16-exploit.jpg",
+    "datetimestamp": "2026-04-25T09:26:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline",
+    "link": "https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html",
+    "description": "CISA adds 4 exploited CVEs including CVSS 9.9 SimpleHelp flaw, mandating FCEB mitigation by May 8, 2026 to reduce ransomware and botnet risk.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMgO4j_Nf0B9HdU4WtN1axBdJFNJgV6Xvb8pCk0kooK6_-gNIxfURSqLIJuuzaufzvoXVTkFFg9WfMkyHvu4h_DBQK4QMJ21JYdwWtLem-CSOgTEYFhXazp4aSPJJglbiZel1V5aatqMKFCXk3scw-3UmMzQPrmTn-CbgBBjpLu_i4TBfNyS2kgZSkreW/s1600/cisa-kev.jpg",
+    "datetimestamp": "2026-04-25T05:08:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
+    "link": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html",
+    "description": "FIRESTARTER backdoor hit Cisco ASA in Sept 2025, persists after patching CVE-2025-20333, risking continued federal network access.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL39ca_K84pnKcPSv77aXouF3t3HCOjjL1zFVEdeDE64LiUxQ2Het8xQeTeO0JZRHZE56SbG87psVmhYCbSyu5PE3FZiHrAIzm0zp8nfGKk7XwVTUUjpeZ7zDEZwuJaQkZp6Cl20WF7qkWDAuaOQW5-OtTQ1ZvjW4xhHB9HrC2O-C6pPPnE94gLqp1GZrI/s1600/cisco.jpg",
+    "datetimestamp": "2026-04-24T17:06:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software",
+    "link": "https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html",
+    "description": "NASA OIG exposed a 2017\u20132021 spear-phishing campaign by Song Wu, leading to DOJ charges and export control violations.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHAuHNFOxvs6UDl3EnaRiFcpN6xXjeqMCeudHBwRKzbIoUCdno0MHlfe2ijlnYU7D5k0vi4nlhv9j_hkR4zeaHTq2xewCOVza2_qYZZxpy_Qy1V_IQu5nO5lDyGzeG3P_B5kSbGT5W01Ic0E_FuSlWat1zsWYCDHhYbqQ_S5Q8p1WO14UStW8EJ4PIkKuX/s1600/WANTED.jpg",
+    "datetimestamp": "2026-04-24T14:13:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine",
+    "link": "https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html",
+    "description": "AI agents inherit hidden authority from fragmented identities, creating a delegation gap that demands real-time governance.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZTTjYlof51AlGz6c8vyYmpqVPODX_zgUiWkJ-Mgq8a5d6pfOrUQqgu2A7H3dIcv7k4_AYSTxitHZiCxve_l8QG-zLLqgkLLdudvwjASI7p3CUtk6O0rntkr_mDPcUK66NPMoGEVWvS1mMKFzNKpRTAN2Wv9jLdLwcOlNAtlqfLCSCKpqHldT1e9AnnD0/s1600/or.gif",
+    "datetimestamp": "2026-04-24T11:49:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases",
+    "link": "https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html",
+    "description": "26 FakeWallet apps since fall 2025 hijack crypto recovery phrases via Apple App Store China accounts, enabling wallet theft.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFcKlAJD87JqpQgBraCHiotcX52rMft8iVqUuhlFlU-NTgMxjYfB2UQ0WLUbQ7yR_qCy9kvXJDFbZEHe10gEEOSUcKcUY6arDzLhyurrKlngubO7Lulc_nSHthxHv7WXqma34SDUl4o_F9Zw9N-1GQnTsxo3v-jO8eWTvRCx8hHmf5EaLCZMknYfMGpfcP/s1600/iphone.jpg",
+    "datetimestamp": "2026-04-24T11:48:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2",
+    "link": "https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html",
+    "description": "Tropic Trooper used trojanized SumatraPDF and GitHub C2 in 2024 to deploy AdaptixC2, enabling covert VS Code tunnel access.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheXZWhV-F6JpyIS7BshxCI158lslIFwx6XU9K15AoGDti8DVknLSrhAEc9HybQjSHfjfuKpGJ5by4EJamG4RV_7v8_SzlmhmSlxcfIBRaYX913E8f6-z0NQyMJ9g0VkszTUY726Csg6xWhwY16ygTe_JySvgj-JkaMyX4ZdM7yCuxRT_98lv22nywvy6r5/s1600/cyberattack.jpg",
+    "datetimestamp": "2026-04-24T09:29:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
+    "link": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
+    "description": "CVE-2026-33626 exploited within 13 hours of disclosure, enabling SSRF-based cloud credential theft and internal scanning.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjQrFbHBSUJCgc3WB8IsBaYhvbOnk7jwkU3MRHO7YVAFZBBwi7LE2OZzC_oddjsfbh_YwW7czfQ0FzCpHyztt-N8po5TkqZqsOhm_LpW4dxmzaDtGkud-vho2R409maf5r_QBAPjGUpfFShbENQ-qIpwaQ0eNmBgD7U-Pgu4uFgSzGRxt6O7kKLAg_PyVg/s1600/lmdeploy.png",
+    "datetimestamp": "2026-04-24T07:24:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware",
+    "link": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
+    "description": "UNC6692 targeted 77% senior employees between March 1\u2013April 1, 2026, via Teams impersonation, enabling malware, data theft.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHoBLtF5qmS63UuZJdrs4DtwoJRc6V3OK_4vUjCp-mHUs99AlJkzxcQgZH-tD0dFneYJHfBEumdGw42jcqcYHYiqmNHBtHZVB7m83pxPakcbupcdcRmDzg2fedK4doHPUwOfGoqY2a44VUwgK1g8cyZSgpMmpzcbWuBrzxvdalA9bkt8_26WkdIfZy6qqa/s1600/helpdesk.jpg",
+    "datetimestamp": "2026-04-23T18:16:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+    "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
+    "description": "Bitwarden CLI 2026.4.0 was compromised via GitHub Actions in Checkmarx campaign, exposing secrets and distributing malicious npm code",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3GuK50sJwMRH4ad8bcUVRSBm1Wk0X5Gj1dSalza49wWxFY9g3_E32271zOeqx6vsqrWY2SWAVnnXTKiJZvKbhxynk018zLTIlZpBNhFA_QVi6kzn7vATBe419m222ZMUcTToaSn19L4DgElrI9luwUv2EJk0efy5TLDIqIUyGcOnTvVU2KKZw9AMsMipz/s1600/bitwarden.jpg",
+    "datetimestamp": "2026-04-23T13:42:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
+    "link": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
+    "description": "ThreatsDay Bulletin: active exploits, supply chain attacks, AI abuse, and stealth data risks observed this week.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCPlFIV8w3UXOQRe4cwOn8C-x6WYxvZnNAOHSUnzIg8TFswCnJNoyTFJTdzAbl_a6JNCzhbAk4yGQbhI_cjF-FATAAmJJJiLjo2cZgbMQpfhYnrH6MFv6TVEqC3sblGQPViYTDE0o3alqO3YsIzatrw7NwlTkv1g6NkiVegSWKuRuQcajEyNdAUEaTamQ-/s1600/threatsday.jpg",
+    "datetimestamp": "2026-04-23T13:17:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
+    "link": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
+    "description": "AI-driven attacks collapse exploit windows, widening the patch gap and forcing faster vulnerability prioritization strategies.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirgCFjBm7wVU1Nve1GwsT-mX4Fm9C2OB25FN0xsgQxB5H1y0XN-I4TrfFH3f47uWBie1-yNBz_K2tuml0FOagCnaxI5xQvqoVbpzOUU6bCoaBZLohQWPSWF4r2YSEXIQKt3FRdoSXjvAk8OTmysTV4uoPD87y-3Boh7UzcJoUFIQxkmB576KIDMtU0YHDx/s1600/miggo-webinar.jpg",
+    "datetimestamp": "2026-04-23T12:03:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
+    "link": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html",
+    "description": "Mythos found decades-old vulnerabilities, yet fewer than 1% were patched, exposing a remediation gap.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkzSPo6TkrJjcTvsuM1O71fiiZ7gnKw4PqqtKu_TeAaZNr5qAEfsfVvoZv64F7EFULRIv8SKePHZehY_0g9AqyqlnMdTPF-OLf1S9RwmB-edOgYKEg1Llw-6m87CQBglHxbK3oS0Brnwc9_x_oi56XGuxe1V9vN0KfoY9cUmU4mplEHeqQxO-5byx79YY/s1600/picus-main.jpg",
+    "datetimestamp": "2026-04-23T11:30:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
+    "link": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
+    "description": "GopherWhisper infected 12 Mongolian government systems in January 2025, abusing Slack and Discord for C2, exposing wider espionage risks.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcPZEHQ2ePgeeD1JO3nqkHDxu5XWd53XZ8GsPxgX5Gl3vY-isf7bdT1_8ZGbMGOwic5gJKYXp0G5rIiSacQvidnb3_voREgqsyanhwo0uQs1HLNXACrsV2tLmHXlxA4FizErdbwb5o35MEDIrZKMkDsAAzIVPt0g6pTMbsZSN7SIwTEozmgX7MO26XxapY/s1600/chinese-hacking.jpg",
+    "datetimestamp": "2026-04-23T09:04:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "Vercel Finds More Compromised Accounts in Context.ai-Linked Breach",
+    "link": "https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html",
+    "description": "Vercel uncovered additional compromised accounts after expanding its probe into a Context.ai-linked breach, exposing OAuth and malware risks.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzwM3USZlfhbZvEZWWJp8Qa4g-UzetuH1vkGUsyr3Ju00B8gC8z791k1Gv-WZ_pMB1VQtX1xLFj-ETJg33razqLHCpoOzMcbb65ucw8jruZ_ltVmaO4bky9WmoFSXfgquEn8HVbLx_I02h0BDOXPBn61_jdnRYKSleCpfUR8G4pkEpsn592IvR3D3qgt0X/s1600/vercel-breach.jpg",
+    "datetimestamp": "2026-04-23T08:40:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  }
+]

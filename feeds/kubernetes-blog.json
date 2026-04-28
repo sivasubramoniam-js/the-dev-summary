@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Kubernetes v1.36: Mutable Pod Resources for Suspended Jobs (beta) | Kubernetes",
+    "link": "https://kubernetes.io/blog/2026/04/27/kubernetes-v1-36-mutable-pod-resources-for-suspended-jobs/",
+    "description": "Kubernetes v1.36 promotes the ability to modify container resource requests and limits in the pod template of a suspended Job to beta. First introduced as alpha in v1.35, this feature allows queue controllers and cluster administrators to adjust CPU, memory, GPU, and extended resource specifications on a Job while it is suspended, before it starts or resumes running.\nWhy mutable pod resources for suspended Jobs? Batch and machine learning workloads often have resource requirements that are not precisely known at Job creation time.",
+    "image": "",
+    "datetimestamp": "2026-04-27T18:35:00",
+    "source": "Kubernetes Blog",
+    "category": "Cloud"
+  },
+  {
+    "title": "Kubernetes v1.36: Fine-Grained Kubelet API Authorization Graduates to GA | Kubernetes",
+    "link": "https://kubernetes.io/blog/2026/04/24/kubernetes-v1-36-fine-grained-kubelet-authorization-ga/",
+    "description": "On behalf of Kubernetes SIG Auth and SIG Node, we are pleased to announce the graduation of fine-grained kubelet API authorization to General Availability (GA) in Kubernetes v1.36!\nThe KubeletFineGrainedAuthz feature gate was introduced as an opt-in alpha feature in Kubernetes v1.32, then graduated to beta (enabled by default) in v1.33. Now, the feature is generally available and the feature gate is locked to enabled. This feature enables more precise, least-privilege access control over the kubelet's HTTPS API, replacing the need to grant the overly broad nodes/proxy permission for common monitoring and observability use cases.",
+    "image": "",
+    "datetimestamp": "2026-04-24T18:35:00",
+    "source": "Kubernetes Blog",
+    "category": "Cloud"
+  },
+  {
+    "title": "Kubernetes v1.36: User Namespaces in Kubernetes are finally GA | Kubernetes",
+    "link": "https://kubernetes.io/blog/2026/04/23/kubernetes-v1-36-userns-ga/",
+    "description": "After several years of development, User Namespaces support in Kubernetes reached General Availability (GA) with the v1.36 release. This is a Linux-only feature.\nFor those of us working on low level container runtimes and rootless technologies, this has been a long awaited milestone. We finally reached the point where \"rootless\" security isolation can be used for Kubernetes workloads.\nThis feature also enables a critical pattern: running workloads with privileges and still being confined in the user namespace.",
+    "image": "",
+    "datetimestamp": "2026-04-23T18:35:00",
+    "source": "Kubernetes Blog",
+    "category": "Cloud"
+  }
+]

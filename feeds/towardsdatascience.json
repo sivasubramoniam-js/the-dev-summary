@@ -1,0 +1,137 @@
+[
+  {
+    "title": "Just a moment...",
+    "link": "https://towardsdatascience.com/a-career-in-data-is-not-always-a-straight-line-and-thats-okay/",
+    "description": "<p>Sabrine Bendimerad on why flexibility is a crucial data science skill, the risks of outsourcing human thinking to AI agents, and the changing terrain of career paths today.</p>\n<p>The post <a href=\"https://towardsdatascience.com/a-career-in-data-is-not-always-a-straight-line-and-thats-okay/\">A Career in Data Is Not Always a Straight Line, and That\u2019s Okay</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-27T16:30:00",
+    "source": "Towardsdatascience",
+    "category": "AI"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "https://towardsdatascience.com/how-spreadsheets-quietly-cost-supply-chains-millions/",
+    "description": "<p>A simulation of how a single forecast change moves through five planning teams, and why most retailers lose money in the gap between Sales and Stores.</p>\n<p>The post <a href=\"https://towardsdatascience.com/how-spreadsheets-quietly-cost-supply-chains-millions/\">How Spreadsheets Quietly Cost Supply Chains Millions</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-27T14:00:00",
+    "source": "Towardsdatascience",
+    "category": "AI"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "https://towardsdatascience.com/comparing-explicit-measures-to-calculation-groups-in-tabular-models/",
+    "description": "<p>With the advent of UDFs and their combination with calculation groups, I see a lot of discussion about not creating explicit measures but instead offering calculation groups to report creators.</p>\n<p>The post <a href=\"https://towardsdatascience.com/comparing-explicit-measures-to-calculation-groups-in-tabular-models/\">Comparing Explicit Measures to Calculation Groups in Tabular Models</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-27T12:00:00",
+    "source": "Towardsdatascience",
+    "category": "AI"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "https://towardsdatascience.com/bytes-speak-all-languages-cross-script-name-retrieval-via-contrastive-learning/",
+    "description": "<p>Why learn 8 scripts when you can learn 256 bytes?</p>\n<p>The post <a href=\"https://towardsdatascience.com/bytes-speak-all-languages-cross-script-name-retrieval-via-contrastive-learning/\">Bytes Speak All Languages: Cross-Script Name Retrieval via Contrastive Learning</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-26T15:00:00",
+    "source": "Towardsdatascience",
+    "category": "AI"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "https://towardsdatascience.com/i-reduced-my-pandas-runtime-by-95-heres-what-i-was-doing-wrong/",
+    "description": "<p>Most slow Pandas code \"works\", until it doesn't. Learn how to spot hidden bottlenecks, avoid costly row-wise operations, and know when Pandas is no longer enough.</p>\n<p>The post <a href=\"https://towardsdatascience.com/i-reduced-my-pandas-runtime-by-95-heres-what-i-was-doing-wrong/\">I Reduced My Pandas Runtime by 95% \u2014 Here\u2019s What I Was Doing Wrong</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-26T13:00:00",
+    "source": "Towardsdatascience",
+    "category": "AI"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "https://towardsdatascience.com/causal-inference-is-different-in-business/",
+    "description": "<p>How does decision-gravity dictate this gap?</p>\n<p>The post <a href=\"https://towardsdatascience.com/causal-inference-is-different-in-business/\">Causal Inference Is Different in Business</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-25T15:00:00",
+    "source": "Towardsdatascience",
+    "category": "AI"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "https://towardsdatascience.com/the-essential-guide-to-effectively-summarizing-massive-documents-part-2/",
+    "description": "<p>We have the document clusters, and it\u2019s time to unlock their true potential! Let\u2019s explore how to extract meaningful information from the actionable clusters.</p>\n<p>The post <a href=\"https://towardsdatascience.com/the-essential-guide-to-effectively-summarizing-massive-documents-part-2/\">The Essential Guide to Effectively Summarizing Massive Documents, Part 2</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-25T13:00:00",
+    "source": "Towardsdatascience",
+    "category": "AI"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "https://towardsdatascience.com/introduction-to-approximate-solution-methods-for-reinforcement-learning-2/",
+    "description": "<p>Learn about function approximation and the different choices for approximation functions</p>\n<p>The post <a href=\"https://towardsdatascience.com/introduction-to-approximate-solution-methods-for-reinforcement-learning-2/\">Introduction to Approximate Solution Methods for Reinforcement Learning</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-24T16:30:00",
+    "source": "Towardsdatascience",
+    "category": "AI"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "https://towardsdatascience.com/i-built-an-ai-pipeline-for-kindle-highlights/",
+    "description": "<p>A local, zero-cost project that cleans, structures, and summarizes your reading automatically</p>\n<p>The post <a href=\"https://towardsdatascience.com/i-built-an-ai-pipeline-for-kindle-highlights/\">I Built an AI Pipeline for Kindle Highlights</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-24T15:00:00",
+    "source": "Towardsdatascience",
+    "category": "AI"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "https://towardsdatascience.com/how-to-vastly-improve-claude-code-performance-with-automated-testing/",
+    "description": "<p>Learn how to get the most out of Claude Code</p>\n<p>The post <a href=\"https://towardsdatascience.com/how-to-vastly-improve-claude-code-performance-with-automated-testing/\">How to Improve Claude Code Performance with Automated Testing</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-24T13:30:00",
+    "source": "Towardsdatascience",
+    "category": "AI"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "https://towardsdatascience.com/how-to-select-variables-robustly-in-a-scoring-model/",
+    "description": "<p>More variables don't make a better scoring model. Stable variables do. Here's how to find\u00a0them.</p>\n<p>The post <a href=\"https://towardsdatascience.com/how-to-select-variables-robustly-in-a-scoring-model/\">How to Select Variables Robustly in a Scoring\u00a0Model</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-24T12:00:00",
+    "source": "Towardsdatascience",
+    "category": "AI"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "https://towardsdatascience.com/using-a-local-llm-as-a-zero-shot-classifier/",
+    "description": "<p>A practical pipeline for classifying messy free-text data into meaningful categories using a locally hosted LLM, no labeled training data required.</p>\n<p>The post <a href=\"https://towardsdatascience.com/using-a-local-llm-as-a-zero-shot-classifier/\">Using a Local LLM as a Zero-Shot Classifier</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-23T16:30:00",
+    "source": "Towardsdatascience",
+    "category": "AI"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "https://towardsdatascience.com/i-simulated-an-international-supply-chain-and-let-openclaw-monitor-it/",
+    "description": "<p>Mario asked me why 18% of his shipments were late when every team hit their target. I built a live simulation, connected an AI agent, and let it investigate.</p>\n<p>The post <a href=\"https://towardsdatascience.com/i-simulated-an-international-supply-chain-and-let-openclaw-monitor-it/\">I Simulated an International Supply Chain and Let OpenClaw Monitor It</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-23T15:00:00",
+    "source": "Towardsdatascience",
+    "category": "AI"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "https://towardsdatascience.com/your-synthetic-data-passed-every-test-and-still-broke-your-model/",
+    "description": "<p>The silent gaps in synthetic data that only show up when your model is already in production.</p>\n<p>The post <a href=\"https://towardsdatascience.com/your-synthetic-data-passed-every-test-and-still-broke-your-model/\">Your Synthetic Data Passed Every Test and Still Broke Your Model</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-23T13:30:00",
+    "source": "Towardsdatascience",
+    "category": "AI"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "https://towardsdatascience.com/lasso-regression-why-the-solution-lives-on-a-diamond/",
+    "description": "<p>It\u2019s simpler than you think.</p>\n<p>The post <a href=\"https://towardsdatascience.com/lasso-regression-why-the-solution-lives-on-a-diamond/\">Lasso Regression: Why the Solution Lives on a Diamond</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-23T12:00:00",
+    "source": "Towardsdatascience",
+    "category": "AI"
+  }
+]

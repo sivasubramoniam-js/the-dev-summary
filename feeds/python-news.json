@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Exploratory Data Analysis: How to Read a Dataset - DEV Community",
+    "link": "https://dev.to/yakhilesh/exploratory-data-analysis-how-to-read-a-dataset-d19",
+    "description": "Loading data is not the start of understanding it.  You have done the loading. You have done the...",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F529s0dcfbdqzxjrya9d2.png",
+    "datetimestamp": "2026-04-28T08:24:05",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "How to Implement AI-Powered Pricing Engines: A Step-by-Step Guide - DEV Community",
+    "link": "https://dev.to/jasperstewart/how-to-implement-ai-powered-pricing-engines-a-step-by-step-guide-1ga",
+    "description": "How to Implement AI-Powered Pricing Engines: A Step-by-Step Guide   You've heard about the...",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzk644ta6oy79evanxsmk.png",
+    "datetimestamp": "2026-04-28T08:18:52",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "How to Implement AI-Driven Dynamic Pricing in Your Application - DEV Community",
+    "link": "https://dev.to/jasperstewart/how-to-implement-ai-driven-dynamic-pricing-in-your-application-4ol7",
+    "description": "A Step-by-Step Implementation Guide   Building a pricing system that automatically adapts to...",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqbiehlyq0tbos6j4j3h.png",
+    "datetimestamp": "2026-04-28T08:09:57",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "How to Fine-Tune Llama 3.1 70B on Your 2026 Python 3.13 Codebase Using vLLM 0.4 and Hugging Face Transformers 4.40 - DEV Community",
+    "link": "https://dev.to/johalputt/how-to-fine-tune-llama-31-70b-on-your-2026-python-313-codebase-using-vllm-04-and-hugging-face-5c1m",
+    "description": "In 2026, 68% of Python teams report wasting over $12k/month on under-optimized LLM fine-tuning...",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftoza6hj9m0iidj9ylvyc.png",
+    "datetimestamp": "2026-04-28T08:08:40",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "How to Use HuggingFace Inference API for Free Image Generation - DEV Community",
+    "link": "https://dev.to/chasebot/how-to-use-huggingface-inference-api-for-free-image-generation-1hkh",
+    "description": "A practical guide covering how to use huggingface inference api for free image generation.",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimage.pollinations.ai%2Fprompt%2Fabstract%2520minimalist%2520technology%2520huggingface%2520inference%2520api%2520free%3Fwidth%3D1000%26height%3D420%26nologo%3Dtrue%26seed%3D3592",
+    "datetimestamp": "2026-04-28T08:00:29",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "Your Pipeline Is 26.2h Behind: Catching Inflation Sentiment Leads with Pulsebit - DEV Community",
+    "link": "https://dev.to/pulsebitapi/your-pipeline-is-262h-behind-catching-inflation-sentiment-leads-with-pulsebit-1d85",
+    "description": "Your Pipeline Is 26.2h Behind: Catching Inflation Sentiment Leads with Pulsebit   We...",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu39twn9lwn08nt4xpw30.png",
+    "datetimestamp": "2026-04-28T07:56:20",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "Your Pipeline Is 26.4h Behind: Catching Healthcare Sentiment Leads with Pulsebit - DEV Community",
+    "link": "https://dev.to/pulsebitapi/your-pipeline-is-264h-behind-catching-healthcare-sentiment-leads-with-pulsebit-3dol",
+    "description": "Your Pipeline Is 26.4h Behind: Catching Healthcare Sentiment Leads with Pulsebit   We just...",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fabjgzensbp8q9wk0i0ai.png",
+    "datetimestamp": "2026-04-28T07:41:14",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "API Automation (Zedu Platform) - DEV Community",
+    "link": "https://dev.to/meseret_akalu_1743b6f6aa5/api-automation-zedu-platform-38ih",
+    "description": "Automated test suite for the Zedu API built with Python and Pytest. 79 test cases across 4 files...",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnpzgrzwhiie7fo2ytl52.png",
+    "datetimestamp": "2026-04-28T07:27:56",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "Tutorial: Set Up SAST Scanning for Python 3.13 Projects Using Snyk 2026 and Checkov 3.0 - DEV Community",
+    "link": "https://dev.to/johalputt/tutorial-set-up-sast-scanning-for-python-313-projects-using-snyk-2026-and-checkov-30-b0n",
+    "description": "In 2025, the OWASP Top 10 reported that 73% of Python production deployments contained at least one...",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq4cm1r8zy92h8vpr3ykx.png",
+    "datetimestamp": "2026-04-28T07:20:38",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "TaskFlow API vs Traditional Operators in Apache Airflow - DEV Community",
+    "link": "https://dev.to/karen_langat_299784e2c330/taskflow-api-vs-traditional-operators-in-apache-airflow-381k",
+    "description": "Introduction   Apache Airflow is an open-source platform for developing, scheduling, and...",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwb32fnja8t43x7aznred.png",
+    "datetimestamp": "2026-04-28T07:17:52",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "CrewAI vs AutoGen vs LangGraph: Which Multi-Agent Framework Should You Choose in 2026? - DEV Community",
+    "link": "https://dev.to/agdex_ai/crewai-vs-autogen-vs-langgraph-which-multi-agent-framework-should-you-choose-in-2026-2613",
+    "description": "A practical, opinionated comparison of the three dominant multi-agent frameworks in 2026. Real code, real tradeoffs, no fluff.",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yinx03o1zx0fjfan1po.png",
+    "datetimestamp": "2026-04-28T06:59:00",
+    "source": "Python News",
+    "category": "Backend"
+  },
+  {
+    "title": "How to Fine-Tune Llama 3.1 8B for Under $5 Using QLoRA in 2026 \u2013 A Practical Guide - DEV Community",
+    "link": "https://dev.to/dharshan_a_23835c7dc05682/how-to-fine-tune-llama-31-8b-for-under-5-using-qlora-in-2026-a-practical-guide-kj7",
+    "description": "I spent nearly three weeks and close to $300 trying to fine-tune a large language model the...",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5ul0pv1374xzj8y4uzzv.png",
+    "datetimestamp": "2026-04-28T06:32:14",
+    "source": "Python News",
+    "category": "Backend"
+  }
+]

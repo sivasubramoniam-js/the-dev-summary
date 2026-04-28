@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Let\u2019s Use the Nonexistent ::nth-letter Selector Now | CSS-Tricks",
+    "link": "https://css-tricks.com/using-nonexistent-nth-letter-selector-now/",
+    "description": "My shim might give the powers that be another reason to say native support isn't necessary, or if lots of people use my :nth-letter hack in the wild, the browser gods might recognize the need to implement it for real.",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/10/nth-letter.png",
+    "datetimestamp": "2026-04-27T13:55:42",
+    "source": "CSS-Tricks",
+    "category": "Frontend"
+  },
+  {
+    "title": "Recreating Apple\u2019s Vision Pro Animation in CSS | CSS-Tricks",
+    "link": "https://css-tricks.com/recreating-apples-vision-pro-animation-in-css/",
+    "description": "Putting CSS\u2019s more recent scrolling animation capabilities to the test to recreate a complex animation of the Apple Vision Pro headset from Apple's website.",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/apple-vision-pro.webp",
+    "datetimestamp": "2026-04-23T13:22:57",
+    "source": "CSS-Tricks",
+    "category": "Frontend"
+  }
+]

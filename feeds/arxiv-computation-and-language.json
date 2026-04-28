@@ -1,0 +1,452 @@
+[
+  {
+    "title": "[2604.22771] The Randomness Floor: Measuring Intrinsic Non-Randomness in Language Model Token Distributions",
+    "link": "https://arxiv.org/abs/2604.22771",
+    "description": "Language models cannot be random. This paper introduces Entropic Deviation (ED), the normalised KL divergence between a model's token distribution and the uniform distribution, and measures it systematically across 31,200 generations spanning seven models, two architectures (transformer and state space), nine prompt categories, three temperatures, and five languages. Under semantically neutral prompts (empty strings, random characters, nonsense syllables) transformers still exhibit ED of approximately 0.30, meaning that 88-93% of the non-randomness observed under semantic prompts is intrinsic to the learned weights rather than induced by context. Three transformer families (Gemma, Llama, Qwen) converge on nearly identical ED values despite different training data and vocabularies. A state space model (Mamba2) reveals a qualitatively different regime: twice the ED, three times lower within-sequence variance, and massive sensitivity to temperature (r = -0.78) where transformers are nearly immune (r < 0.05). Cross-lingual experiments with Qwen-32B show a stable gradient across five languages (English, Japanese, Chinese, Polish, Arabic) that does not correlate with token fertility and persists when two languages sharing an identical tokeniser subset are compared. These findings establish a structural lower bound on randomness in pretrained language models, characterise how this bound differs across architectures, and demonstrate that language itself modulates the bound independently of tokenisation.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.22880] TexOCR: Advancing Document OCR Models for Compilable Page-to-LaTeX Reconstruction",
+    "link": "https://arxiv.org/abs/2604.22880",
+    "description": "Existing document OCR largely targets plain text or Markdown, discarding the structural and executable properties that make LaTeX essential for scientific publishing. We study page-level reconstruction of scientific PDFs into compilable LaTeX and introduce TexOCR-Bench, a benchmark, and TexOCR-Train, a large-scale training corpus, for this task. TexOCR-Bench features a multi-dimensional evaluation suite that jointly assesses transcription fidelity, structural faithfulness, and end-to-end compilability. Leveraging TexOCR-Train, we train a 2B-parameter model, TexOCR, using supervised fine-tuning (SFT) and reinforcement learning (RL) with verifiable rewards derived from LaTeX unit tests that directly enforce compilability and referential integrity. Experiments across 21 frontier models on TexOCR-Bench show that existing systems frequently violate key document invariants, including consistent section structure, correct float placement, and valid label-reference links, which undermines compilation reliability and downstream usability. Our analysis further reveals that RL with verifiable rewards yields consistent improvements over SFT alone, particularly on structural and compilation metrics.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.22937] AutoPyVerifier: Learning Compact Executable Verifiers for Large Language Model Outputs",
+    "link": "https://arxiv.org/abs/2604.22937",
+    "description": "Verification is becoming central to both reinforcement-learning-based training and inference-time control of large language models (LLMs). Yet current verifiers face a fundamental trade-off: LLM-based verifiers are expressive but hard to control and prone to error, while deterministic executable verifiers are reliable and interpretable but often limited in capability. We study the following question: given a development set of LLM outputs and labels for a target objective, such as correctness, can we automatically induce a minimal set of Python verifiers whose joint satisfaction closely matches that objective? We propose AutoPyVerifier, a framework that uses an LLM to synthesize candidate verifier functions and then refines them through search over a directed acyclic graph (DAG). By navigating the DAG, AutoPyVerifier systematically explores the space of deterministic executable verifiers and selects a compact verifier set whose joint satisfaction best approximates the target objective. Across mathematical reasoning, coding, function calling, and instruction-following benchmarks for several state-of-the-art LLMs, AutoPyVerifier improves target-objective prediction by up to 55.0 F1 points over the initial LLM-generated verifier sets. Additional analyses show that the most useful verification targets vary by benchmark and model, and that the DAG-based search shifts the learned verifier sets toward more structural and semantically grounded checks. We further show that exposing the discovered verifier set to an LLM as an external tool improves downstream accuracy by up to 17.0 points. We release our code",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.22939] Self Knowledge Re-expression: A Fully Local Method for Adapting LLMs to Tasks Using Intrinsic Knowledge",
+    "link": "https://arxiv.org/abs/2604.22939",
+    "description": "While the next-token prediction (NTP) paradigm enables large language models (LLMs) to express their intrinsic knowledge, its sequential nature constrains performance on specialized, non-generative tasks. We attribute this performance bottleneck to the LLMs' knowledge expression mechanism, rather than to deficiencies in knowledge acquisition. To address this, we propose Self-Knowledge Re-expression (SKR), a novel, task-agnostic adaptation method. SKR transforms the LLM's output from generic token generation to highly efficient, task-specific expression. SKR is a fully local method that uses only unannotated data, requiring neither human supervision nor model distillation. Experiments on a large financial document dataset demonstrate substantial improvements: over 40% in Recall@1 for information retrieval tasks, over 76% reduction in object detection latency, and over 33% increase in anomaly detection AUPRC. Our results on the MMDocRAG dataset surpass those of leading retrieval models by at least 12.6%.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.22985] Uncertainty Quantification for LLM Function-Calling",
+    "link": "https://arxiv.org/abs/2604.22985",
+    "description": "Large Language Models (LLMs) are increasingly deployed to autonomously solve real-world tasks. A key ingredient for this is the LLM Function-Calling paradigm, a widely used approach for equipping LLMs with tool-use capabilities. However, an LLM calling functions incorrectly can have severe implications, especially when their effects are irreversible, e.g., transferring money or deleting data. Hence, it is of paramount importance to consider the LLM's confidence that a function call solves the task correctly prior to executing it. Uncertainty Quantification (UQ) methods can be used to quantify this confidence and prevent potentially incorrect function calls. In this work, we present what is, to our knowledge, the first evaluation of UQ methods for LLM Function-Calling (FC). While multi-sample UQ methods, such as Semantic Entropy, show strong performance for natural language Q&A tasks, we find that in the FC setting, it offers no clear advantage over simple single-sample UQ methods. Additionally, we find that the particularities of FC outputs can be leveraged to improve the performance of existing UQ methods in this setting. Specifically, multi-sample UQ methods benefit from clustering FC outputs based on their abstract syntax tree parsing, while single-sample UQ methods can be improved by selecting only semantically meaningful tokens when calculating logit-based uncertainty scores.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23009] Chinese-SkillSpan: A Span-Level Dataset for ESCO-Aligned Competency Extraction from Chinese Job Ads",
+    "link": "https://arxiv.org/abs/2604.23009",
+    "description": "Job Skill Named Entity Recognition (JobSkillNER) aims to automatically extract key skill information from large-scale job posting data, which is important for improving talent-market matching efficiency and supporting personalized employment services. To the best of our knowledge, this work presents the first Chinese JobSkillNER dataset for recruitment texts. We propose annotation guidelines tailored to Chinese job postings and an LLM-empowered Macro-Micro collaborative annotation pipeline. The pipeline leverages the contextual understanding ability of large language models (LLMs) for initial annotation and then refines the results through expert sentence-level adjudication. Using this pipeline, we annotate more than 20,000 instances collected from four major recruitment platforms over the period 2014-2025. Based on these efforts, we release Chinese-SkillSpan, the first Chinese JobSkillNER dataset aligned with the ESCO occupational skill standard across four dimensions: knowledge, skill, transversal competence, and language competence (LSKT). Experimental results show that the dataset supports effective model training and evaluation, indicating that Chinese-SkillSpan helps fill a major gap in Chinese JobSkillNER resources and provides a useful benchmark for intelligent recruitment research. Code and data are available at https://sites.google.com/view/cn-skillspan-resources .",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23051] Evaluating Temporal Consistency in Multi-Turn Language Models",
+    "link": "https://arxiv.org/abs/2604.23051",
+    "description": "Language models are increasingly deployed in interactive settings where users reason about facts over time rather than in isolation. In such scenarios, correct behavior requires models to maintain and update implicit temporal assumptions established earlier in a conversation. We study this challenge through the lens of temporal scope stability: the ability to preserve, override, or transfer time-scoped factual context across dialogue turns. We introduce ChronoScope, a large-scale diagnostic benchmark designed to isolate temporal scope behavior in controlled multi-turn interactions, comprising over one million deterministically generated question chains grounded in Wikidata. ChronoScope evaluates whether models can correctly retain inferred temporal scope when follow-up questions omit explicit time references, spanning implicit carryover, explicit scope switching, cross-entity transfer, and longer temporal trajectories. Through extensive evaluation of state-of-the-art language models, we find that temporal scope stability is frequently violated in controlled multi-turn settings, with models often drifting toward present-day assumptions despite correct underlying knowledge. These failures intensify with interaction length and persist even under oracle context conditions, revealing a gap between single-turn factual accuracy and coherent temporal reasoning under sequential interaction. We make our dataset and evaluation suite publicly available at https://github.com/yashkumaratri/ChronoScope",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23054] DeepImagine: Learning Biomedical Reasoning via Successive Counterfactual Imagining",
+    "link": "https://arxiv.org/abs/2604.23054",
+    "description": "Predicting the outcomes of prospective clinical trials remains a major challenge for large language models. Prior work has shown that both traditional correlational predictors, such as random forests and logistic regression, and strong commercial LLMs achieve limited performance on this task. In this paper, we propose DeepImagine, a framework for teaching LLMs biomedical reasoning through successive counterfactual imagining. The central idea is to approximate hidden causal mechanisms of clinical trials by training models to infer how observed trial results would change under controlled perturbations of experimental conditions, such as dosage, outcome measures, study arms, geography, and other trial attributes. To support this objective, we construct both natural and approximate counterfactual pairs from real clinical trials with reported outcomes. For settings where strict counterfactual supervision is available, such as paired outcome measures or dose-ranging study arms within the same trial, we train models with supervised fine-tuning. For broader settings where only approximate counterfactual pairs can be retrieved, we optimize models with reinforcement learning using verifiable rewards based on downstream benchmark correctness. We further augment training with synthetic reasoning traces that provide causally plausible explanations for local counterfactual transitions. Using this pipeline, we train language models under 10B parameters, including Qwen3.5-9B, and evaluate them on clinical trial outcome prediction. We aim to show that DeepImagine consistently improves over untuned language models and traditional correlational baselines. Finally, we aim to show that the learned reasoning trajectories provide interpretable signals about how models represent trial-level mechanisms, suggesting a practical path toward more mechanistic and scientifically useful biomedical language models.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23059] Implicit Framing in Obstetric Counseling Notes: A Grounded LLM Pipeline on a VBAC-Eligible Cohort",
+    "link": "https://arxiv.org/abs/2604.23059",
+    "description": "Clinical framing -- the linguistic manner in which clinical information is presented -- can influence patient understanding and decision-making, with important implications for healthcare outcomes. Obstetrics is a high-stakes domain in which physicians counsel patients on delivery mode choices such as vaginal birth after cesarean (VBAC) and repeat cesarean section (RCS), yet counseling language remains underexplored in large-scale clinical text analysis. In this work, we analyze physician counseling language in 2,024 obstetric history and physical narratives for a rigorously defined cohort of patients for whom both VBAC and RCS were clinically viable options. To control for confounding due to medical contraindications, we first construct a VBAC-eligible cohort using structured clinical data supplemented by a large language model (LLM)-based extraction pipeline constrained to grounded, verbatim evidence from free-text narratives. We then apply a zero-shot LLM framework to categorize counseling segments into predefined framing categories capturing how physicians linguistically present delivery options. Our analysis reveals a significant difference in counseling framing distributions between VBAC and RCS notes; risk-focused language accounts for a substantially larger share of counseling segments in RCS documentation than in VBAC, with category-level differences confirmed by statistical testing, highlighting the value of controlled LLM-based framing analysis in obstetric care.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23069] ContextWeaver: Selective and Dependency-Structured Memory Construction for LLM Agents",
+    "link": "https://arxiv.org/abs/2604.23069",
+    "description": "Large language model (LLM) agents often struggle in long-context interactions. As the agent accumulates more interaction history, context management approaches such as sliding window and prompt compression may omit earlier structured information that later steps rely on. Recent retrieval-based memory systems surface relevant content but still overlook the causal and logical structure needed for multi-step reasoning. We introduce ContextWeaver, a selective and dependency-structured memory framework that organizes an agent's interaction trace into a graph of reasoning steps and selects the relevant context for future actions. Unlike prior context management approaches, ContextWeaver supports: (1) dependency-based construction and traversal that link each step to the earlier steps it relies on; (2) compact dependency summarization that condenses root-to-step reasoning paths into reusable units; and (3) a lightweight validation layer that incorporates execution feedback. On the SWE-Bench Verified and Lite benchmarks, ContextWeaver improves performance over a sliding-window baseline in pass@1, while reducing reasoning steps and token usage. Our observations suggest that modeling logical dependencies provides a stable and scalable memory mechanism for LLM agents that use tools.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23108] Mixture of Heterogeneous Grouped Experts for Language Modeling",
+    "link": "https://arxiv.org/abs/2604.23108",
+    "description": "Large Language Models (LLMs) based on Mixture-of-Experts (MoE) are pivotal in industrial applications for their ability to scale performance efficiently. However, standard MoEs enforce uniform expert sizes,creating a rigidity that fails to align computational costs with varying token-level complexity. While heterogeneous expert architectures attempt to address this by diversifying expert sizes, they often suffer from significant system-level challenges, specifically unbalanced GPU utilization and inefficient parameter utilization, which hinder practical deployment. To bridge the gap between theoretical heterogeneity and robust industrial application, we propose Mixture of Heterogeneous Grouped Experts (MoHGE) which introduces a two-level routing mechanism to enable flexible, resource-aware expert combinations. To optimize inference efficiency, we propose a Group-Wise Auxiliary Loss, which dynamically steers tokens to the most parameter-efficient expert groups based on task difficulty. To address the critical deployment challenge of GPU load balancing, we introduce an All-size Group-decoupling Allocation strategy coupled with an Intra-Group Experts Auxiliary Loss. These mechanisms collectively ensure uniform computation distribution across GPUs. Extensive evaluations demonstrate that MoHGE matches the performance of MoE architectures while reducing the total parameters by approximately 20% and maintaining balanced GPU utilization. Our work establishes a scalable paradigm for resource-efficient MoE design, offering a practical solution for optimizing inference costs in real-world scenarios.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23130] Mechanistic Steering of LLMs Reveals Layer-wise Feature Vulnerabilities in Adversarial Settings",
+    "link": "https://arxiv.org/abs/2604.23130",
+    "description": "Large language models (LLMs) can still be jailbroken into producing harmful outputs despite safety alignment. Existing attacks show this vulnerability, but not the internal mechanisms that cause it. This study asks whether jailbreak success is driven by identifiable internal features rather than prompts alone. We propose a three-stage pipeline for Gemma-2-2B using the BeaverTails dataset. First, we extract concept-aligned tokens from adversarial responses via subspace similarity. Second, we apply three feature-grouping strategies (cluster, hierarchical-linkage, and single-token-driven) to identify SAE feature subgroups for the aligned tokens across all 26 model layers. Third, we steer the model by amplifying the top features from each identified subgroup and measure the change in harmfulness score using a standardized LLM-judge scoring protocol. In all three approaches, the features in the layers [16-25] were relatively more vulnerable to steering. All three methods confirmed that mid to later layer feature subgroups are more responsible for unsafe outputs. These results provide evidence that the jailbreak vulnerability in Gemma-2-2B is localized to feature subgroups of mid to later layers, suggesting that targeted feature-level interventions may offer a more principled path to adversarial robustness than current prompt-level defenses.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23214] DARC-CLIP: Dynamic Adaptive Refinement with Cross-Attention for Meme Understanding",
+    "link": "https://arxiv.org/abs/2604.23214",
+    "description": "Memes convey meaning through the interaction of visual and textual signals, often combining humor, irony, and offense in subtle ways. Detecting harmful or sensitive content in memes requires accurate modeling of these multimodal cues. Existing CLIP-based approaches rely on static fusion, which struggles to capture fine grained dependencies between modalities. We propose DARC-CLIP, a CLIP-based framework for adaptive multimodal fusion with a hierarchical refinement stack. DARC-CLIP introduces Adaptive Cross-Attention Refiners to for bidirectional information alignment and Dynamic Feature Adapters for task-sensitive signal adaptation. We evaluate DARC-CLIP on the PrideMM benchmark, which includes hate, target, stance, and humor classification, and further test generalization on the CrisisHateMM dataset. DARC-CLIP achieves highly competitive classification accuracy across tasks, with significant gains of +4.18 AUROC and +6.84 F1 in hate detection over the strongest baseline. Ablation studies confirm that ACAR and DFA are the main contributors to these gains. These results show that adaptive cross-signal refinement is an effective strategy for multimodal content analysis in socially sensitive classification.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23235] Measuring Temporal Linguistic Emergence in Diffusion Language Models",
+    "link": "https://arxiv.org/abs/2604.23235",
+    "description": "Diffusion language models expose an explicit denoising trajectory, making it possible to ask when different kinds of information become measurable during generation. We study three independent 32-step runs of LLaDA-8B-Base on masked WikiText-103 text, each with 1{,}000 probe-training sequences and 200 held-out evaluation sequences. From saved trajectories, we derive four temporal measurements: token commitment; linear recoverability of part-of-speech (POS), coarse semantic category, and token identity; confidence and entropy dynamics; and sensitivity under mid-trajectory re-masking. Across seeds, the same ordering recurs: content categories stabilize earlier than function-heavy categories, POS and coarse semantic labels remain substantially more linearly recoverable than exact lexical identity under our probe setup, uncertainty remains higher for tokens that ultimately resolve incorrectly even though late confidence becomes less calibrated, and perturbation sensitivity peaks in the middle of the trajectory. A direct/collateral decomposition shows that this peak is overwhelmingly local to the perturbed positions themselves. In this LLaDA+WikiText setting, denoising time is therefore a useful analysis axis: under our measurements, coarse labels are recovered earlier and more robustly than lexical identity, trajectory-level uncertainty tracks eventual correctness, and mid-trajectory states are the most intervention-sensitive.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23263] Small Language Model Helps Resolve Semantic Ambiguity of LLM Prompt",
+    "link": "https://arxiv.org/abs/2604.23263",
+    "description": "Large language models (LLMs) are increasingly utilized in various complex reasoning tasks due to their excellent instruction following capability. However, the model's performance is highly dependent on the open-ended characteristics of the users' input prompt. Natural prompts often do not follow proper syntactic rules, which creates ambiguous queries that yield multiple interpretations. Such ambiguous prompts confuse the model in choosing the correct reasoning paths to answer questions. Prior works address this challenge by applying query editing during the LLM inference process without explicitly solving the root cause of the ambiguity. To address this limitation, we propose a pre-inference prompt optimization mechanism via explicit prompt disambiguation. Particularly, we identify semantic risks in the prompt, check their multi-perspective consistency, and resolve any semantic conflicts that arise. Finally, we organize the resolved ambiguities in a logically structured manner as a clean input to the LLM. By explicitly resolving semantic ambiguity, our method can produce a more focused attention distribution to the semantically essential tokens. We also leverage small language models (SLMs) as the main executor of prompt disambiguation to benefit from their efficient computation. Through comprehensive experiments on multiple benchmarks, we demonstrate that our method improves reasoning performance by 2.5 points at a cost of only \\$0.02. Our study promotes explicit prompt disambiguation as an effective prompt optimization method without disturbing the internal mechanism of LLM inference.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23267] Fine-tuning vs. In-context Learning in Large Language Models: A Formal Language Learning Perspective",
+    "link": "https://arxiv.org/abs/2604.23267",
+    "description": "Large language models (LLMs) operate in two fundamental learning modes - fine-tuning (FT) and in-context learning (ICL) - raising key questions about which mode yields greater language proficiency and whether they differ in their inductive biases. Prior studies comparing FT and ICL have yielded mixed and inconclusive results due to inconsistent experimental setups. To enable a rigorous comparison, we propose a formal language learning task - offering precise language boundaries, controlled string sampling, and no data contamination - and introduce a discriminative test for language proficiency, where an LLM succeeds if it assigns higher generation probability to in-language strings than to out-of-language strings.\n  Empirically, we find that: (a) FT has greater language proficiency than ICL on in-distribution generalization, but both perform equally well on out-of-distribution generalization. (b) Their inductive biases, measured by the correlation in string generation probabilities, are similar when both modes partially learn the language but diverge at higher proficiency levels. (c) Unlike FT, ICL performance differs substantially across models of varying sizes and families and is sensitive to the token vocabulary of the language. Thus, our work demonstrates the promise of formal languages as a controlled testbed for evaluating LLMs, behaviors that are difficult to isolate in natural language datasets. Our source code is available at https://github.com/bishwamittra/formallm.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23277] From Similarity to Structure: Training-free LLM Context Compression with Hybrid Graph Priors",
+    "link": "https://arxiv.org/abs/2604.23277",
+    "description": "Long-context large language models remain computationally expensive to run and often fail to reliably process very long inputs, which makes context compression an important component of many systems. Existing compression approaches typically rely on trained compressors, dense retrieval-style selection, or heuristic trimming, and they often struggle to jointly preserve task relevance, topic coverage, and cross-sentence coherence under a strict token budget. To address this, we propose a training-free and model-agnostic compression framework that selects a compact set of sentences guided by structural graph priors. Our method constructs a sparse hybrid sentence graph that combines mutual k-NN semantic edges with short-range sequential edges, extracts a topic skeleton via clustering, and ranks sentences using an interpretable score that integrates task relevance, cluster representativeness, bridge centrality, and a cycle coverage cue. A budgeted greedy selection with redundancy suppression then produces a readable compressed context in original order. Experimental results on four datasets show that our approach is competitive with strong extractive and abstractive baselines, demonstrating larger gains on long-document benchmarks.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23284] Au-M-ol: A Unified Model for Medical Audio and Language Understanding",
+    "link": "https://arxiv.org/abs/2604.23284",
+    "description": "In this work, we present Au-M-ol, a novel multimodal architecture that extends Large Language Models (LLMs) with audio processing. It is designed to improve performance on clinically relevant tasks such as Automatic Speech Recognition (ASR). Au-M-ol has three main components: (1) an audio encoder that extracts rich acoustic features from medical speech, (2) an adaptation layer that maps audio features into the LLM input space, and (3) a pretrained LLM that performs transcription and clinical language understanding. This design allows the model to interpret spoken medical content directly, improving both accuracy and robustness. In experiments, Au-M-ol reduces Word Error Rate (WER) by 56\\% compared to state-of-the-art baselines on medical transcription tasks. The model also performs well in challenging conditions, including noisy environments, domain-specific terminology, and speaker variability. These results suggest that Au-M-ol is a strong candidate for real-world clinical applications, where reliable and context-aware audio understanding is essential.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23295] Human-1 by Josh Talks: A Full-Duplex Conversational Modeling Framework in Hindi using Real-World Conversations",
+    "link": "https://arxiv.org/abs/2604.23295",
+    "description": "Full-duplex spoken dialogue systems can model natural conversational behaviours such as interruptions, overlaps, and backchannels, yet such systems remain largely unexplored for Indian languages. We present the first open, reproducible full-duplex spoken dialogue system for Hindi by adapting Moshi, a state-of-the-art duplex speech architecture, using a custom Hindi tokeniser and training on 26,000 hours of real spontaneous conversations collected from 14,695 speakers with separate speaker channels, enabling direct learning of turn-taking and overlap patterns from natural interactions. To support Hindi text generation, we replace the original English tokeniser and reinitialise text-vocabulary-dependent parameters while retaining the pre-trained audio components. We propose a two-stage training recipe -- large-scale pre-training followed by fine-tuning on 1,000 hours of conversational data. Evaluation through the prompted dialogue continuation paradigm with both automatic metrics and human judgments demonstrates that the resulting model generates natural and meaningful full-duplex conversational behaviour in Hindi. This work serves as a first step toward real-time duplex spoken dialogue systems for Hindi and other Indian languages.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23296] $\\mathcal{S}^2$IT: Stepwise Syntax Integration Tuning for Large Language Models in Aspect Sentiment Quad Prediction",
+    "link": "https://arxiv.org/abs/2604.23296",
+    "description": "Aspect Sentiment Quad Prediction (ASQP) has seen significant advancements, largely driven by the powerful semantic understanding and generative capabilities of large language models (LLMs). However, while syntactic structure information has been proven effective in previous extractive paradigms, it remains underutilized in the generative paradigm of LLMs due to their limited reasoning capabilities. In this paper, we propose S^2IT, a novel Stepwise Syntax Integration Tuning framework that progressively integrates syntactic structure knowledge into LLMs through a multi-step tuning process. The training process is divided into three steps. S^2IT decomposes the quadruple generation task into two stages: 1) Global Syntax-guided Extraction and 2) Local Syntax-guided Classification, integrating both global and local syntactic structure information. Finally, Fine-grained Structural Tuning enhances the model's understanding of syntactic structures through the prediction of element links and node classification. Experiments demonstrate that S^2IT significantly improves state-of-the-art performance across multiple datasets. Our implementation will be open-sourced at https://github.com/DMIRLAB-Group/S2IT.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23318] Hidden States Know Where Reasoning Diverges: Credit Assignment via Span-Level Wasserstein Distance",
+    "link": "https://arxiv.org/abs/2604.23318",
+    "description": "Group Relative Policy Optimization (GRPO) performs coarse-grained credit assignment in reinforcement learning with verifiable rewards (RLVR) by assigning the same advantage to all tokens in a rollout. Process reward models can provide finer-grained supervision, but they require step-level annotation or additional reward modeling. We show that hidden-state distributions contain a useful signal for local reasoning quality that can be extracted using only outcome-level correctness labels available in RLVR. Specifically, within each GRPO group, the Wasserstein distance between span-level hidden state distributions of correct and incorrect rollouts increases around regions where their local reasoning quality diverges. This association holds both across examples and within individual trajectories, suggesting that hidden-state distributional divergence can serve as a self-supervision signal for fine-grained credit assignment. We formalize this observation with a separation theorem showing that, under mild structural assumptions, post-divergence spans have larger Wasserstein distances than pre-divergence spans whenever the population-level distributional gap exceeds finite-sample noise. Motivated by this result, we propose \\textbf{S}pan-level \\textbf{H}idden state \\textbf{E}nabled \\textbf{A}dvantage \\textbf{R}eweighting (SHEAR), which modifies GRPO by using span-level Wasserstein distances to scale token-level advantages, amplifying updates on tokens whose hidden states are more separated from the opposing group. The method requires no additional model and only minimal changes to the training pipeline. Experiments on five mathematical reasoning benchmarks and five code generation benchmarks show improvements over standard GRPO and strong performance relative to supervised process reward models, while requiring no additional annotation or reward model training.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23323] Robust Audio-Text Retrieval via Cross-Modal Attention and Hybrid Loss",
+    "link": "https://arxiv.org/abs/2604.23323",
+    "description": "Audio-text retrieval enables semantic alignment between audio content and natural language queries, supporting applications in multimedia search, accessibility, and surveillance. However, current state-of-the-art approaches struggle with long, noisy, and weakly labeled audio due to their reliance on contrastive learning and large-batch training. We propose a novel multimodal retrieval framework that refines audio and text embeddings using a cross-modal embedding refinement module combining transformer-based projection, linear mapping, and bidirectional attention. To further improve robustness, we introduce a hybrid loss function blending cosine similarity, $\\mathcal{L}_{1}$, and contrastive objectives, enabling stable training even under small-batch constraints. Our approach efficiently handles long-form and noisy audio (SNR 5 to 15) via silence-aware chunking and attention-based pooling. Experiments on benchmark datasets demonstrate improvements over prior methods.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23345] Bridging Reasoning and Action: Hybrid LLM-RL Framework for Efficient Cross-Domain Task-Oriented Dialogue",
+    "link": "https://arxiv.org/abs/2604.23345",
+    "description": "Cross-domain task-oriented dialogue requires reasoning over implicit and explicit feasibility constraints while planning long-horizon, multi-turn actions. Large language models (LLMs) can infer such constraints but are unreliable over long horizons, while Reinforcement learning (RL) optimizes long-horizon behavior yet cannot recover constraints from raw dialogue. Naively coupling LLMs with RL is therefore brittle: unverified or unstructured LLM outputs can corrupt state representations and misguide policy learning. Motivated by this, we propose Verified LLM-Knowledge empowered RL (VLK-RL), a hybrid framework that makes LLM-derived constraint reasoning usable for RL. VLK-RL first elicits candidate constraints with an LLM and then verifies them via a dual-role cross-examination procedure to suppress hallucinations and cross-turn inconsistencies. The verified constraints are mapped into ontology-aligned slot-value representations, yielding a structured, constraint-aware state for RL policy optimization. Experiments across multiple benchmarks demonstrate that VLK-RL significantly improves generalization and robustness, outperforming strong single-model baselines on long-horizon tasks.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23347] Evaluating Large Language Models on Computer Science University Exams in Data Structures",
+    "link": "https://arxiv.org/abs/2604.23347",
+    "description": "We present a comprehensive evaluation of Large Language Models (LLMs) on Computer Science (CS) Data Structure examination questions. Our work introduces a new benchmark dataset comprising exam questions from Tel Aviv University (TAU), curated to assess LLMs' abilities in handling closed and multiple-choice questions. We evaluated the performance of OpenAI's GPT 4o and Anthropic's Claude 3.5, popular LLMs, alongside two smaller LLMs, Mathstral 7B and LLaMA 3 8B, across the TAU exams benchmark. Our findings provide insight into the current capabilities of LLMs in CS education.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23351] When Chain-of-Thought Fails, the Solution Hides in the Hidden States",
+    "link": "https://arxiv.org/abs/2604.23351",
+    "description": "Whether intermediate reasoning is computationally useful or merely explanatory depends on whether chain-of-thought (CoT) tokens contain task-relevant information. We present a mechanistic causal analysis of CoT on GSM8K using activation patching: transferring token-level hidden states from a CoT generation to a direct-answer run for the same question, then measuring the effect on final-answer accuracy. Across models, generating after patching yields substantially higher accuracy than both direct-answer prompting and the original CoT trace, revealing that individual CoT tokens can encode sufficient information to recover the correct answer, even when the original trace is incorrect. This task-relevant information is more prevalent in correct than incorrect CoT runs and is unevenly distributed across tokens, concentrating in mid-to-late layers and appearing earlier in the reasoning trace. Moreover, patching language tokens such as verbs and entities carry task-solving information that steers generation toward correct reasoning, whereas mathematical tokens encode answer-proximal content that rarely succeeds. Patched outputs are often shorter and yet exceed the accuracy of a full CoT trace, suggesting complete reasoning chains are not always necessary. Together, these findings demonstrate that CoT encodes recoverable, token-level problem-solving information, offering new insight into how reasoning is represented and where it breaks down.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23356] VeriLLMed: Interactive Visual Debugging of Medical Large Language Models with Knowledge Graphs",
+    "link": "https://arxiv.org/abs/2604.23356",
+    "description": "Large language models (LLMs) show promise in medical diagnosis, but real-world deployment remains challenging due to high-stakes clinical decisions and imperfect reasoning reliability. As a result, careful inspection of model behavior is essential for assessing whether diagnostic reasoning is reliable and clinically grounded. However, debugging medical LLMs remains difficult. First, developers often lack sufficient medical domain expertise to interpret model errors in clinically meaningful terms. Second, models can fail across a large and diverse set of instances involving different input types, tasks, and reasoning steps, making it challenging for developers to prioritize which errors deserve focused inspection. Third, developers struggle to identify recurring error patterns across cases, as existing debugging practices are largely instance-centric and rely on manual inspection of isolated failures. To address these challenges, we present VeriLLMed, a visual analytics system that integrates external biomedical knowledge to audit and debug medical LLM diagnostic reasoning. VeriLLMed transforms model outputs into comparable reasoning paths, constructs knowledge graph-grounded reference paths, and identifies three recurring classes of diagnosis errors: relation errors, branch errors, and missing errors. Case studies and expert evaluation demonstrate that VeriLLMed helps developers identify clinically implausible reasoning and generate actionable insights that can inform the improvement of medical LLMs.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23412] Overcoming Copyright Barriers in Corpus Distribution Through Non-Reversible Hashing",
+    "link": "https://arxiv.org/abs/2604.23412",
+    "description": "While annotated corpora are crucial in the field of natural language processing (NLP), those containing copyrighted material are difficult to exchange among researchers. Yet, such corpora are necessary to fully represent the diversity of data found in the wild in the context of NLP tasks. We tackle this issue by proposing a method to lawfully and publicly share the annotations of copyrighted literary texts. The corpus creator shares the annotations in clear, along with a non-reversible hashed version of the source material. The corpus user must own the source material, and apply the same hash function to their own tokens, in order to match them to the shared annotations. Crucially, our method is robust to reasonable divergences in the version of the copyrighted data owned by the user. As an illustration, we present alignment experiments on different editions of novels. Our results show that our method is able to correctly align 98.7 to 99.79% of tokens depending on the novel, provided the user version is sufficiently close to the corpus creator's version. We publicly release novelshare, a Python implementation of our method.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23413] Beyond Local vs. External: A Game-Theoretic Framework for Trustworthy Knowledge Acquisition",
+    "link": "https://arxiv.org/abs/2604.23413",
+    "description": "Cloud-hosted Large Language Models (LLMs) offer unmatched reasoning capabilities and dynamic knowledge, yet submitting raw queries to these external services risks exposing sensitive user intent. Conversely, relying exclusively on trusted local models preserves privacy but often compromises answer quality due to limited parameter scale and knowledge. To resolve this dilemma, we propose Game-theoretic Trustworthy Knowledge Acquisition (GTKA), a framework that formulates the trade-off between knowledge utility and privacy as a strategic game. GTKA consists of three components: (i) a privacy-aware sub-query generator that decomposes sensitive intent into generalized, low-risk fragments; (ii) an adversarial reconstruction attacker that attempts to infer the original query from these fragments, providing adaptive leakage signals; and (iii) a trusted local integrator that synthesizes external responses within a secure boundary. By training the generator and attacker in an alternating adversarial manner, GTKA optimizes the sub-query generation policy to maximize knowledge acquisition accuracy while minimizing the reconstructability of the original sensitive intent. To validate our approach, we construct two sensitive-domain benchmarks in the biomedical and legal fields. Extensive experiments demonstrate that GTKA significantly reduces intent leakage compared to state-of-the-art baselines while maintaining high-fidelity answer quality.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23443] Revisiting Greedy Decoding for Visual Question Answering: A Calibration Perspective",
+    "link": "https://arxiv.org/abs/2604.23443",
+    "description": "Stochastic sampling strategies are widely adopted in large language models (LLMs) to balance output coherence and diversity. These heuristics are often inherited in Multimodal LLMs (MLLMs) without task-specific justification. However, we contend that stochastic decoding can be suboptimal for Visual Question Answering (VQA). VQA is a closed-ended task with head-heavy answer distributions where uncertainty is usually epistemic, arising from missing or ambiguous visual evidence rather than plausible continuations. In this work, we provide a theoretical formalization of the relationship between model calibration and predictive accuracy, and derive the sufficient conditions for greedy decoding optimality. Extensive experiments provide empirical evidence for the superiority of greedy decoding over stochastic sampling across multiple benchmarks. Furthermore, we propose Greedy Decoding for Reasoning Models, which outperforms both stochastic sampling and standard greedy decoding in multimodal reasoning scenarios. Overall, our results caution against naively inheriting LLMs decoding heuristics in MLLMs and demonstrate that greedy decoding can be an efficient yet strong default for VQA.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23445] AI Safety Training Can be Clinically Harmful",
+    "link": "https://arxiv.org/abs/2604.23445",
+    "description": "Large language models are being deployed as mental health support agents at scale, yet only 16% of LLM-based chatbot interventions have undergone rigorous clinical efficacy testing, and simulations reveal psychological deterioration in over one-third of cases. We evaluate four generative models on 250 Prolonged Exposure (PE) therapy scenarios and 146 CBT cognitive restructuring exercises (plus 29 severity-escalated variants), scored by a three-judge LLM panel. All models scored near-perfectly on surface acknowledgment (~0.91-1.00) while therapeutic appropriateness collapsed to 0.22-0.33 at the highest severity for three of four models, with protocol fidelity reaching zero for two. Under CBT severity escalation, one model's task completeness dropped from 92% to 71% while the frontier model's safety-interference score fell from 0.99 to 0.61. We identify a systematic, modality-spanning failure: RLHF safety alignment disrupts the therapeutic mechanism of action by grounding patients during imaginal exposure, offering false reassurance, inserting crisis resources into controlled exercises, and refusing to challenge distorted cognitions mentioning self-harm in PE; and through task abandonment or safety-preamble insertion during CBT cognitive restructuring. These findings motivate a five-axis evaluation framework (protocol fidelity, hallucination risk, behavioral consistency, crisis safety, demographic robustness), mapped onto FDA SaMD and EU AI Act requirements. We argue that no AI mental health system should proceed to deployment without passing multi-axis evaluation across all five dimensions.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23458] A Benchmark Suite of Reddit-Derived Datasets for Mental Health Detection",
+    "link": "https://arxiv.org/abs/2604.23458",
+    "description": "The growing availability of online support groups has opened up new windows to study mental health through natural language processing (NLP). However, it is hindered by a lack of high-quality, well-validated datasets. Existing studies have a tendency to build task-specific corpora without collecting them into widely available resources, and this makes reproducibility as well as cross-task comparison challenging. In this paper, we present a uniform benchmark set of four Reddit-based datasets for disjoint but complementary tasks: (i) detection of suicidal ideation, (ii) binary general mental disorder detection, (iii) bipolar disorder detection, and (iv) multi-class mental disorder classification. All datasets were established upon diligent linguistic inspection, well-defined annotation guidelines, and human-judgmental verification. Inter-annotator agreement metrics always exceeded the baseline agreement score of 0.8, ensuring the labels' trustworthiness. Previous work's evidence of performance on both transformer and contextualized recurrent models demonstrates that these models receive excellent performances on tasks (F1 ~ 93-99%), further validating the usefulness of the datasets. By combining these resources, we establish a unifying foundation for reproducible mental health NLP studies with the ability to carry out cross-task benchmarking, multi-task learning, and fair model comparison. The presented benchmark suite provides the research community with an easy-to-access and varied resource for advancing computational approaches toward mental health research.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23478] JudgeSense: A Benchmark for Prompt Sensitivity in LLM-as-a-Judge Systems",
+    "link": "https://arxiv.org/abs/2604.23478",
+    "description": "Large language models are increasingly deployed as automated judges for evaluating other models, yet the stability of their verdicts under semantically equivalent prompt paraphrases remains unmeasured. We introduce JudgeSense, a framework and benchmark for quantifying this property via the Judge Sensitivity Score (JSS), defined as the fraction of paraphrase pairs on which a judge returns an identical decision.\n  Evaluating nine judge models on 494 validated paraphrase pairs, we find that coherence is the only task where judges meaningfully differ, with JSS ranging from 0.389 to 0.992. On factuality, all judges cluster near JSS about 0.63, driven by a polarity-inverted prompt artifact; after correction, factuality JSS rises to about 0.9. Pairwise tasks (preference and relevance) exhibit degenerate always-A behavior in 8 of 9 judges, indicating strong position bias.\n  Model scale does not predict consistency. We release code, decision logs, and a validated paraphrase dataset to support standardized JSS reporting.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23486] Your Students Don't Use LLMs Like You Wish They Did",
+    "link": "https://arxiv.org/abs/2604.23486",
+    "description": "Educational NLP systems are typically evaluated using engagement metrics and satisfaction surveys, which are at best a proxy for meeting pedagogical goals. We introduce six computational metrics for automated evaluation of pedagogical alignment in student-AI dialogue. We validate our metrics through analysis of 12,650 messages across 500 conversations from four courses. Using our metrics, we identify a fundamental misalignment: educators design conversational tutors for sustained learning dialogue, but students mainly use them for answer-extraction. Deployment context is the strongest predictor of usage patterns, outweighing student preference or system design: when AI tools are optional, usage concentrates around deadlines; when integrated into course structure, students ask for solutions to verbatim assignment questions. Whole-dialogue evaluation misses these turn-by-turn patterns. Our metrics will enable researchers building educational dialogue systems to measure whether they are achieving their pedagogical goals.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23493] K-SENSE: A Knowledge-Guided Self-Augmented Encoder for Neuro-Semantic Evaluation of Mental Health Conditions on Social Media",
+    "link": "https://arxiv.org/abs/2604.23493",
+    "description": "Early detection of mental health conditions, particularly stress and depression, from social media text remains a challenging open problem in computational psychiatry and natural language processing. Automated systems must contend with figurative language, implicit emotional expression, and the high noise inherent in user-generated content. Existing approaches either leverage external commonsense knowledge to model mental states explicitly, or apply self-augmentation and contrastive training to improve generalization, but seldom do both in a principled, unified framework. We propose K-SENSE (Knowledge-guided Self-augmented Encoder for Neuro-Semantic Evaluation of Mental Health), a framework that jointly exploits external psychological reasoning and internal representation robustness. K-SENSE adopts a three-stage encoding pipeline: (1) inferential commonsense knowledge is extracted from the COMET model across five mental state dimensions; (2) a semantic anchor is constructed by combining hidden representations from two parallel encoding streams, projected into a shared space before fusion; and (3) a supervised contrastive learning objective aligns same-class representations while encouraging the attention mechanism to suppress irrelevant knowledge noise. We evaluate K-SENSE on Dreaddit (stress detection) and Depression_Mixed (depression detection), achieving mean F1-scores of 86.1 (0.6%) and 94.3 (0.8%), respectively, over five independent runs. These represent improvements of approximately 2.6 and 1.5 percentage points over the strongest prior baselines. Ablation experiments confirm the contribution of each architectural component, including the temporal knowledge integration strategy and the choice to keep the knowledge encoder frozen during fine-tuning.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23530] MTRouter: Cost-Aware Multi-Turn LLM Routing with History-Model Joint Embeddings",
+    "link": "https://arxiv.org/abs/2604.23530",
+    "description": "Multi-turn, long-horizon tasks are increasingly common for large language models (LLMs), but solving them typically requires many sequential model invocations, accumulating substantial inference costs. Here, we study cost-aware multi-turn LLM routing: selecting which model to invoke at each turn from a model pool, given a fixed cost budget. We propose MTRouter, which encodes the interaction history and candidate models into joint history-model embeddings, and learns an outcome estimator from logged trajectories to predict turn-level model utility. Experiments show that MTRouter improves the performance-cost trade-off: on ScienceWorld, it surpasses GPT-5 while reducing total cost by 58.7%; on Humanity's Last Exam (HLE), it achieves competitive accuracy while reducing total cost by 43.4% relative to GPT-5, and these gains even carry over to held-out tasks. Further analyses reveal several mechanisms underlying its effectiveness: relative to prior multi-turn routers, MTRouter makes fewer model switches, is more tolerant to transient errors, and exhibits emergent specialization across models. Code: https://github.com/ZhangYiqun018/MTRouter",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23543] Pref-CTRL: Preference Driven LLM Alignment using Representation Editing",
+    "link": "https://arxiv.org/abs/2604.23543",
+    "description": "Test-time alignment methods offer a promising alternative to fine-tuning by steering the outputs of large language models (LLMs) at inference time with lightweight interventions on their internal representations. Recently, a prominent and effective approach, RE-Control (Kong et al., 2024), has proposed leveraging an external value function trained over the LLM's hidden states to guide generation via gradient-based editing. While effective, this method overlooks a key characteristic of alignment tasks, i.e. that they are typically formulated as learning from human preferences between candidate responses. To address this, in this paper we propose a novel preference-based training framework, Pref-CTRL, that uses a multi-objective value function to better reflect the structure of preference data. Our approach has outperformed RE-Control on two benchmark datasets and showed greater generalization on out-of-domain datasets. Our source code is available at https://github.com/UTS-nlPUG/pref-ctrl.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23577] RouteNLP: Closed-Loop LLM Routing with Conformal Cascading and Distillation Co-Optimization",
+    "link": "https://arxiv.org/abs/2604.23577",
+    "description": "Serving diverse NLP workloads with large language models is costly: at one enterprise partner, inference costs exceeded $200K/month despite over 70% of queries being routine tasks well within the capability of smaller models. We present RouteNLP, a closed-loop framework that routes queries across a tiered model portfolio to minimize cost while satisfying per-task quality constraints. The framework integrates three components: a difficulty-aware router with shared task-conditioned representations trained on preference data and quality signals; confidence-calibrated cascading that uses conformal prediction for distribution-free threshold initialization; and a distillation-routing co-optimization loop that clusters escalation failures, applies targeted knowledge distillation to cheaper models, and automatically retrains the router, yielding over twice the cost improvement of untargeted distillation. In an 8-week pilot deployment processing ~5K queries/day at an enterprise customer-service division, RouteNLP reduced inference costs by 58% while maintaining 91% response acceptance and reducing p99 latency from 1,847 ms to 387 ms. On a six-task benchmark spanning finance, customer service, and legal domains, the framework achieves 40-85% cost reduction while retaining 96-100% quality on structured tasks and 96-98% on generation tasks, with human evaluation confirming that 74.5% of routed generation outputs match or exceed frontier-model quality.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23578] LLMs Reading the Rhythms of Daily Life: Aligned Understanding for Behavior Prediction and Generation",
+    "link": "https://arxiv.org/abs/2604.23578",
+    "description": "Human daily behavior unfolds as complex sequences shaped by intentions, preferences, and context. Effectively modeling these behaviors is crucial for intelligent systems such as personal assistants and recommendation engines. While recent advances in deep learning and behavior pre-training have improved behavior prediction, key challenges remain--particularly in handling long-tail behaviors, enhancing interpretability, and supporting multiple tasks within a unified framework. Large language models (LLMs) offer a promising direction due to their semantic richness, strong interpretability, and generative capabilities. However, the structural and modal differences between behavioral data and natural language limit the direct applicability of LLMs.\n  To address this gap, we propose Behavior Understanding Alignment (BUA), a novel framework that integrates LLMs into human behavior modeling through a structured curriculum learning process. BUA employs sequence embeddings from pretrained behavior models as alignment anchors and guides the LLM through a three-stage curriculum, while a multi-round dialogue setting introduces prediction and generation capabilities. Experiments on two real-world datasets demonstrate that BUA significantly outperforms existing methods in both tasks, highlighting its effectiveness and flexibility in applying LLMs to complex human behavior modeling.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23585] ComplianceNLP: Knowledge-Graph-Augmented RAG for Multi-Framework Regulatory Gap Detection",
+    "link": "https://arxiv.org/abs/2604.23585",
+    "description": "Financial institutions must track over 60,000 regulatory events annually, overwhelming manual compliance teams; the industry has paid over USD 300 billion in fines and settlements since the 2008 financial crisis. We present ComplianceNLP, an end-to-end system that automatically monitors regulatory changes, extracts structured obligations, and identifies compliance gaps against institutional policies. The system integrates three components: (1) a knowledge-graph-augmented RAG pipeline grounding generations in a regulatory knowledge graph of 12,847 provisions across SEC, MiFID II, and Basel III; (2) multi-task obligation extraction combining NER, deontic classification, and cross-reference resolution over a shared LEGAL-BERT encoder; and (3) compliance gap analysis that maps obligations to internal policies with severity-aware scoring. On our benchmark, ComplianceNLP achieves 87.7 F1 on gap detection, outperforming GPT-4o+RAG by +3.5 F1, with 94.2% grounding accuracy ($r=0.83$ vs. human judgments) and 83.4 F1 under realistic end-to-end error propagation. Ablations show that knowledge-graph re-ranking contributes the largest marginal gain (+4.6 F1), confirming that structural regulatory knowledge is critical for cross-reference-heavy tasks. Domain-specific knowledge distillation (70B $\\to$ 8B) combined with Medusa speculative decoding yields $2.8\\times$ inference speedup; regulatory text's low entropy ($H=2.31$ bits vs. $3.87$ general text) produces 91.3% draft-token acceptance rates. In four months of parallel-run deployment processing 9,847 updates at a financial institution, the system achieved 96.0% estimated recall and 90.7% precision, with a $3.1\\times$ sustained analyst efficiency gain. We report deployment lessons on trust calibration, GRC integration, and distributional shift monitoring for regulated-domain NLP.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23589] XITE: Cross-lingual Interpolation for Transfer using Embeddings",
+    "link": "https://arxiv.org/abs/2604.23589",
+    "description": "Facilitating cross-lingual transfer in multilingual language models remains a critical challenge. Towards this goal, we propose an embedding-based data augmentation technique called XITE. We start with unlabeled text from a low-resource target language, identify an English counterpart in a task-specific training corpus using embedding-based similarities and adopt its label. Next, we perform a simple interpolation of the source and target embeddings to create synthetic data for task-specific fine-tuning. Projecting the target text into a language-rich subspace using linear discriminant analysis (LDA), prior to interpolation, further boosts performance. Our cross-lingual embedding-based augmentation technique XITE yields significant improvements of up to 35.91% for sentiment analysis and up to 81.16% for natural language inference, using XLM-R, for a diverse set of target languages including Korean, Arabic, Urdu and Hindi. Apart from boosting cross-lingual transfer, adaptation using XITE also safeguards against forgetting and maintains task performance on the high-resource language.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23600] Personality Shapes Gender Bias in Persona-Conditioned LLM Narratives Across English and Hindi: An Empirical Investigation",
+    "link": "https://arxiv.org/abs/2604.23600",
+    "description": "Large Language Models (LLMs) are increasingly deployed in persona-driven applications such as education, customer service, and social platforms, where models are prompted to adopt specific personas when interacting with users. While persona conditioning can improve user experience and engagement, it also raises concerns about how personality cues may interact with gender biases and stereotypes. In this work, we present a controlled study of persona-conditioned story generation in English and Hindi, where each story portrays a working professional in India producing context-specific artifacts (e.g., lesson plans, reports, letters) under systematically varied persona gender, occupational role, and personality traits from the HEXACO and Dark Triad frameworks. Across 23,400 generated stories from six state-of-the-art LLMs, we find that personality traits are significantly associated with both the magnitude and direction of gender bias. In particular, Dark Triad personality traits are consistently associated with higher gender-stereotypical representations compared to socially desirable HEXACO traits, though these associations vary across models and languages. Our findings demonstrate that gender bias in LLMs is not static but context-dependent. This suggests that persona-conditioned systems used in real-world applications may introduce uneven representational harms, reinforcing gender stereotypes in generated educational, professional, or social content.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23615] Applications of the Transformer Architecture in AI-Assisted English Reading Comprehension",
+    "link": "https://arxiv.org/abs/2604.23615",
+    "description": "This paper studies interpretable and fair artificial intelligence architectures for understanding English reading. Introduced transformer-based models, integrating advanced attention mechanisms and gradient-based feature attribution. The model's lack of interpretability, reduction of algorithmic bias, and unreliable performance in learning environments are the current issues faced in natural language teaching. A unified technical pipeline has been constructed, including adversarial bias correction methods, token-level attribution analysis, and multi-head attention heatmap visualization. Experimental validation was conducted using a large-scale labeled English reading comprehension dataset, and the data partitioning scheme and parameter optimization procedures have been determined. The method significantly outperforms the state-of-the-art models for this task in terms of accuracy and macro-average F1 score; in some aspects, it even surpasses or closely matches the results of human evaluations. In multi-week user experiments, the explainable transformer improved teachers' trust and operability in feedback-based assessments within the scoring system. The proposed method aims to ensure high prediction accuracy and fairness for different learners. This indicates that it is a real-world educational application based on artificial intelligence with a focus on interpretation. Improve the user experience in AI-assisted reading comprehension systems, counteract biases, and enhance the details explained by transformers.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23626] GraphPlanner: Graph Memory-Augmented Agentic Routing for Multi-Agent LLMs",
+    "link": "https://arxiv.org/abs/2604.23626",
+    "description": "LLM routing has achieved promising results in integrating the strengths of diverse models while balancing efficiency and performance. However, to support more realistic and challenging applications, routing must extend into agentic LLM settings, where task planning, multi-round cooperation among heterogeneous agents, and memory utilization are indispensable. To address this gap, we propose GraphPlanner, a heterogeneous graph memory-augmented agentic router for multi-agent LLMs that generates routing workflows for each query and supports both inductive and transductive inference. GraphPlanner formulates workflow generation as a Markov Decision Process (MDP), where at each step it selects both the LLM backbone and the agent role, including Planner, Executor, and Summarizer. By leveraging a heterogeneous graph, denoted as GARNet, to capture interaction memories among queries, agents, and responses, GraphPlanner integrates historical memory and workflow memory into richer state representations. The entire pipeline is optimized with reinforcement learning, jointly improving task-specific performance and computational efficiency. We evaluate GraphPlanner across 14 diverse LLM tasks and demonstrate that: (1) GraphPlanner outperforms strong single-round and multi-round routers, improving accuracy by up to 9.3% while reducing GPU cost from 186.26 GiB to 1.04 GiB; (2) GraphPlanner generalizes robustly to unseen tasks and LLMs, exhibiting strong zero-shot capabilities; and (3) GraphPlanner effectively leverages historical memories, supporting both inductive and transductive inference for more adaptive routing. Our code for GraphPlanner is released at https://github.com/ulab-uiuc/GraphPlanner.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23627] Neural Grammatical Error Correction for Romanian",
+    "link": "https://arxiv.org/abs/2604.23627",
+    "description": "Resources for Grammatical Error Correction (GEC) in non-English languages are scarce, while available spellcheckers in these languages are mostly limited to simple corrections and rules. In this paper we introduce a first GEC corpus for Romanian consisting of 10k pairs of sentences. In addition, the German version of ERRANT (ERRor ANnotation Toolkit) scorer was adapted for Romanian to analyze this corpus and extract edits needed for evaluation. Multiple neural models were experimented, together with pretraining strategies, which proved effective for GEC in low-resource settings. Our baseline consists of a small Transformer model trained only on the GEC dataset (F0.5 of 44.38), whereas the best performing model is produced by pretraining a larger Transformer model on artificially generated data, followed by finetuning on the actual corpus (F0.5 of 53.76). The proposed method for generating additional training examples is easily extensible and can be applied to any language, as it requires only a POS tagger",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23698] Benchmarking Testing in Automated Theorem Proving",
+    "link": "https://arxiv.org/abs/2604.23698",
+    "description": "Recent advances in large language models (LLMs) have shown promise in formal theorem proving, yet evaluating semantic correctness remains challenging. Existing evaluations rely on indirect proxies such as lexical overlap with human-annotated proof, or expensive manual inspection. Inspired by the shift from lexical comparison to test-based evaluation in code generation, we propose T , a framework that evaluates the semantic correctness of formal theorems: a generated theorem is considered correct only if all dependent successor theorems compile successfully, analogous to integration testing. We construct a benchmark from 5 real-world Lean 4 repositories, comprising 2,206 problems paired with 41 successor theorems on average, automatically extracted without human effort. Experiments demonstrate that while state-of-the-art models achieve high compilation success, they perform significantly worse under our semantic metric. The best model, Claude-Sonnet-4.5, achieves only 38.9% Testing Accuracy on the full set, given both natural language proof and successor theorems as context, revealing a critical gap in current theorem generation capabilities.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23701] Agri-CPJ: A Training-Free Explainable Framework for Agricultural Pest Diagnosis Using Caption-Prompt-Judge and LLM-as-a-Judge",
+    "link": "https://arxiv.org/abs/2604.23701",
+    "description": "Crop disease diagnosis from field photographs faces two recurring problems: models that score well on benchmarks frequently hallucinate species names, and when predictions are correct, the reasoning behind them is typically inaccessible to the practitioner. This paper describes Agri-CPJ (Caption-Prompt-Judge), a training-free few-shot framework in which a large vision-language model first generates a structured morphological caption, iteratively refined through multi-dimensional quality gating, before any diagnostic question is answered. Two candidate responses are then generated from complementary viewpoints, and an LLM judge selects the stronger one based on domain-specific criteria. Caption refinement is the component with the largest individual impact: ablations confirm that skipping it consistently degrades downstream accuracy across both models tested. On CDDMBench, pairing GPT-5-Nano with GPT-5-mini-generated captions yields \\textbf{+22.7} pp in disease classification and \\textbf{+19.5} points in QA score over no-caption baselines. Evaluated without modification on AgMMU-MCQs, GPT-5-Nano reached 77.84\\% and Qwen-VL-Chat reached 64.54\\%, placing them at or above most open-source models of comparable scale despite the format shift from open-ended to multiple-choice. The structured caption and judge rationale together constitute a readable audit trail: a practitioner who disagrees with a diagnosis can identify the specific caption observation that was incorrect. Code and data are publicly available https://github.com/CPJ-Agricultural/CPJ-Agricultural-Diagnosis",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23719] AIPsy-Affect: A Keyword-Free Clinical Stimulus Battery for Mechanistic Interpretability of Emotion in Language Models",
+    "link": "https://arxiv.org/abs/2604.23719",
+    "description": "Mechanistic interpretability research on emotion in large language models -- linear probing, activation patching, sparse autoencoder (SAE) feature analysis, causal ablation, steering vector extraction -- depends on stimuli that contain the words for the emotions they test. When a probe fires on \"I am furious\", it is unclear whether the model has detected anger or detected the word \"furious\". The two readings have very different consequences for every downstream claim about emotion circuits, features, and interventions. We release AIPsy-Affect, a 480-item clinical stimulus battery that removes the confound at the stimulus level: 192 keyword-free vignettes evoking each of Plutchik's eight primary emotions through narrative situation alone, 192 matched neutral controls that share characters, setting, length, and surface structure with the affect surgically removed, plus moderate-intensity and discriminant-validity splits. The matched-pair structure supports linear probing, activation patching, SAE feature analysis, causal ablation, and steering vector extraction under a strong methodological guarantee: any internal representation that distinguishes a clinical item from its matched neutral cannot be doing so on the basis of emotion-keyword presence. A three-method NLP defense battery -- bag-of-words sentiment, an emotion-category lexicon, and a contextual transformer classifier -- confirms the property: bag-of-words methods see only situational vocabulary, and a contextual classifier detects affect (p < 10^-15) but cannot identify the category (5.2% top-1 vs. 82.5% on a keyword-rich control). AIPsy-Affect extends our earlier 96-item battery (arXiv:2603.22295) by a factor of four and is released openly under MIT license.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23733] Multimodal QUD: Inquisitive Questions from Scientific Figures",
+    "link": "https://arxiv.org/abs/2604.23733",
+    "description": "Asking inquisitive questions while reading, and looking for their answers, is an important part in human discourse comprehension, curiosity, and creative ideation, and prior work has investigated this in text-only scenarios. However, in scientific or research papers, many of the critical takeaways are conveyed through both figures and the text that analyzes them. While scientific visualizations have been used to evaluate Vision-Language Models (VLMs) capabilities, current benchmarks are limited to questions that focus simply on extracting information from them. Such questions only require lower-level reasoning, do not take into account the context in which a figure appears, and do not reflect the communicative goals the authors wish to achieve. We generate inquisitive questions that reach the depth of questions humans generate when engaging with scientific papers, conditioned on both the figure and the paper's context, and require reasoning across both modalities. To do so, we extend the linguistic theory of Questions Under Discussion (QUD) from being text-only to multimodal, where implicit questions are raised and resolved as discourse progresses. We present MQUD, a dataset of research papers in which such questions are made explicit and annotated by the original authors. We show that fine-tuning a VLM on MQUD shifts the model from generating generic low-level visual questions to content-specific grounding that requires a high-level of multimodal reasoning, yielding higher-quality, more visually grounded multimodal QUD generation.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23801] Domain Fine-Tuning vs. Retrieval-Augmented Generation for Medical Multiple-Choice Question Answering: A Controlled Comparison at the 4B-Parameter Scale",
+    "link": "https://arxiv.org/abs/2604.23801",
+    "description": "Practitioners deploying small open-weight large language models (LLMs) for medical question answering face a recurring design choice: invest in a domain-fine-tuned model, or keep a general-purpose model and inject domain knowledge at inference time via retrieval-augmented generation (RAG). We isolate this trade-off by holding model size, prompt template, decoding temperature, retrieval pipeline, and evaluation protocol fixed, and varying only (i) whether the model has been domain-adapted (Gemma 3 4B vs. MedGemma 4B, both 4-bit quantized and served via Ollama) and (ii) whether retrieved passages from a medical knowledge corpus are inserted into the prompt. We evaluate all four cells of this 2x2 design on the full MedQA-USMLE 4-option test split (1,273 questions) with three repetitions per question (15,276 LLM calls). Domain fine-tuning yields a +6.8 percentage-point gain in majority-vote accuracy over the general 4B baseline (53.3% vs. 46.4%, McNemar p < 10^-4). RAG over MedMCQA explanations does not produce a statistically significant gain in either model, and in the domain-tuned model the point estimate is slightly negative (-1.9 pp, p = 0.16). At this scale and on this benchmark, domain knowledge encoded in weights dominates domain knowledge supplied in context. We release the full experiment code and JSONL traces to support replication.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  },
+  {
+    "title": "[2604.23809] LegalDrill: Diagnosis-Driven Synthesis for Legal Reasoning in Small Language Models",
+    "link": "https://arxiv.org/abs/2604.23809",
+    "description": "Small language models (SLMs) are promising for real-world deployment due to their efficiency and low operational cost. However, their limited capacity struggles with high-stakes legal reasoning tasks that require coherent statute interpretation and logically consistent deduction. Furthermore, training SLMs for such tasks demands high-quality, concise reasoning trajectories, which are prohibitively expensive to manually collect and difficult to curate via standard rejection sampling, lacking granularity beyond final verdicts. To address these challenges, we propose {LegalDrill}, a diagnosis-driven synthesis framework that extracts and iteratively refines reasoning trajectories from a capable teacher via fine-grained prompting, then a self-reflective verification is employed to adaptively select the most effective data for the SLM student. The resulting data empower SLM training through supervised fine-tuning and direct preference optimization. Extensive experiments on several legal benchmarks demonstrate that {LegalDrill} significantly bolsters the legal reasoning capabilities of representative SLMs while bypassing the need for scarce expert annotations, paving a scalable path toward practical legal reasoning systems.",
+    "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "datetimestamp": "2026-04-28T04:00:00",
+    "source": "ArXiv: Computation and Language",
+    "category": "Research"
+  }
+]
