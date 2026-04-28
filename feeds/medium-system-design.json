@@ -1,5 +1,95 @@
 [
   {
+    "title": "A Second Brain For Your Agents | Michael Suzuki | Design Systems Collective",
+    "link": "https://www.designsystemscollective.com/a-second-brain-for-your-agents-6fbe710a4fc1?source=rss------system_design-5",
+    "description": "Coding agents forget. Here is how I built a structured markdown memory layer so parallel sessions stop overwriting each other\u2019s decisions.",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*hMw0Y86D2tLtjHIRQHGUOg.png",
+    "datetimestamp": "2026-04-28T14:46:04",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "I Asked Claude to Design a University Website. It Was Still Writing When I Started This Article. | by Daniel Twum | Apr, 2026 | Medium",
+    "link": "https://medium.com/@daniel.twum/i-asked-claude-to-design-a-university-website-it-was-still-writing-when-i-started-this-article-451010081138?source=rss------system_design-5",
+    "description": "A humorous but completely honest account of Claude Design \u2014 and why calling it \u201cthe AI Studio killer\u201d is both accurate and a massive\u2026",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*7BL1hhWzJR1vVQn9lgXfFw.jpeg",
+    "datetimestamp": "2026-04-28T13:59:52",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "India\u2019s AWS Cloud Adoption Gap: Why Infrastructure Is Still Underutilized | by Ismail Kovvuru | Apr, 2026 | Medium",
+    "link": "https://medium.com/@ismailkovvuru/indias-aws-cloud-adoption-gap-why-infrastructure-is-still-underutilized-666d113f2e8f?source=rss------system_design-5",
+    "description": "A deep dive into AWS, AI adoption, MLOps gaps, and why many enterprise cloud systems in India still struggle to reach production maturity.",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*gRzYEGlX3Su8axCMZPPenA.png",
+    "datetimestamp": "2026-04-28T13:46:01",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "Design System n\u00e3o \u00e9 biblioteca de componentes. \u00c9 linha de cr\u00e9dito. | by Douglas Junior | Apr, 2026 | Medium",
+    "link": "https://medium.com/@doug.g.s.jr/design-system-n%C3%A3o-%C3%A9-biblioteca-de-componentes-%C3%A9-linha-de-cr%C3%A9dito-26f7a9ae376f?source=rss------system_design-5",
+    "description": "Toda vez que algu\u00e9m do time cria um componente fora do Design System, est\u00e1 sacando no cheque especial. Parece r\u00e1pido. Resolve o sprint. E\u2026",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*CCSBLp1en7N2ZC2WtGXlBw.jpeg",
+    "datetimestamp": "2026-04-28T13:01:02",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "The 1% Your Coding Agent Gets Wrong Is the 1% That Takes Down Production ! | by Pamuditha Senanayake | Apr, 2026 | Medium",
+    "link": "https://medium.com/@pamudithasenanayake/the-1-your-coding-agent-gets-wrong-is-the-1-that-takes-down-production-fa1446a7f658?source=rss------system_design-5",
+    "description": "Start at the beginning.",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*Sm_UpFxPoZdyQneIn6gjAg.jpeg",
+    "datetimestamp": "2026-04-28T12:44:32",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "The insane engineering behind Uber\u2019s Real Time Map | by Vipulgupta | Apr, 2026 | Medium",
+    "link": "https://medium.com/@vilulgupta2802/the-insane-engineering-behind-ubers-real-time-map-6fa0639906eb?source=rss------system_design-5",
+    "description": "How Uber Handles Real-Time Location at Massive Scale",
+    "image": "https://miro.medium.com/v2/resize:fit:883/1*EiK-BlKxoGpTTXspVT-odg.png",
+    "datetimestamp": "2026-04-28T12:16:55",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "Proxies & CDNs: The Hidden Infrastructure That Makes Global Products Work | by Muhammad Hassaan Bashir | Apr, 2026 | Medium",
+    "link": "https://medium.com/@eeng.hassaan/proxies-cdns-the-hidden-infrastructure-that-makes-global-products-work-fbb5668f667e?source=rss------system_design-5",
+    "description": "How forward proxies, reverse proxies, and CDNs work, and what every TPM needs to know to manage them",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*Jlr36rVvYijErbp_XHbEmA.jpeg",
+    "datetimestamp": "2026-04-28T12:11:59",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "I Tried Claude Design \u2014 The Result Was Mind-Blowing | by Warsono | Apr, 2026 | Medium",
+    "link": "https://medium.com/@gravitano/i-tried-claude-design-the-result-was-mind-blowing-03b19085e08a?source=rss------system_design-5",
+    "description": "TL;DR \u2014 Anthropic just shipped Claude Design on Anthropic Labs. I gave it the Figma file for Morpheme Design (our team\u2019s design system at\u2026",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/0*48H7ZW9ucwONlIcF.png",
+    "datetimestamp": "2026-04-28T12:01:01",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "\ud83c\udfdb\ufe0f CareerKey: A System for Structured Academic Document Verification | by shahiskhan | Apr, 2026 | Medium",
+    "link": "https://medium.com/@aliaskk8/%EF%B8%8F-careerkey-a-system-for-structured-academic-document-verification-c7ef8b254cc5?source=rss------system_design-5",
+    "description": "The Problem",
+    "image": "https://miro.medium.com/v2/resize:fit:1010/1*fq8EE-FnmeOZs__g5C7DCw.png",
+    "datetimestamp": "2026-04-28T11:52:57",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "Are you a thinker? What is your thinking process? prt 2 | by Subhashi Tania de Silva | Apr, 2026 | Medium",
+    "link": "https://medium.com/@subhashitania/are-you-a-thinker-what-is-your-thinking-process-prt-2-13bdc1ef9a8c?source=rss------system_design-5",
+    "description": "by Subhashi Tania de Silva",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*57Z3HfII3T9SzSD5E9Dhew.jpeg",
+    "datetimestamp": "2026-04-28T11:19:39",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
     "title": "Designing HMI That Truly Matters. Most UX mistakes are annoying. In HMI\u2026 | by Andrea Cama | Apr, 2026 | Medium",
     "link": "https://medium.com/@andreacama92/designing-hmi-that-truly-matters-f433229c03a2?source=rss------system_design-5",
     "description": "Most UX mistakes are annoying. In HMI, they have consequences.",

@@ -1,5 +1,14 @@
 [
   {
+    "title": "More Than a Portfolio: Building a Scroll-Driven 3D World with Something to Say | Codrops",
+    "link": "https://tympanus.net/codrops/2026/04/28/more-than-a-portfolio-building-a-scroll-driven-3d-world-with-something-to-say/",
+    "description": "A scroll-driven 3D world built from scratch with Three.js, GSAP, and WebGL \u2014 where every technical decision serves a message worth sharing.",
+    "image": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/04/josephsm_featured.webp?x52581",
+    "datetimestamp": "2026-04-28T14:51:37",
+    "source": "Codrops",
+    "category": "Tech News"
+  },
+  {
     "title": "Rhumb Studio: Small but Mighty, Shaped by Curiosity | Codrops",
     "link": "https://tympanus.net/codrops/2026/04/27/rhumb-studio-small-but-mighty-shaped-by-curiosity/",
     "description": "A two-person studio working between Bristol and Paris, redefining web design by crafting immersive, spatial experiences that feel less like pages and more like places.",

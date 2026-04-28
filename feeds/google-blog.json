@@ -1,5 +1,14 @@
 [
   {
+    "title": "Google donates Agent Payments Protocol to FIDO Alliance",
+    "link": "https://blog.google/products-and-platforms/platforms/google-pay/agent-payments-protocol-fido-alliance/",
+    "description": "Google donates the Agent Payments Protocol (AP2) to the FIDO Alliance to help secure the evolution of AI-driven commerce.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/26009_Google_Agentic_Thumbnail01_v01_MR.max-1440x810.png",
+    "datetimestamp": "2026-04-28T13:00:00",
+    "source": "Google Blog",
+    "category": "Backend"
+  },
+  {
     "title": "Google Wallet adds Aadhaar support in India, expands digital IDs to more countries",
     "link": "https://blog.google/products-and-platforms/platforms/google-pay/aadhaar-digital-id/",
     "description": "Consumers in India can now save their Aadhaar Verifiable Credentials in Google Wallet and digital IDs expand to more countries.",

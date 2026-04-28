@@ -1,5 +1,95 @@
 [
   {
+    "title": "This Google Messages bug is making messages vanish, and it's not just Samsung phones",
+    "link": "https://www.androidpolice.com/google-messages-bug-makes-messages-vanish-but-only-on-samsung-phones/",
+    "description": "Worrying issue seems to have spread to other Android phones as well",
+    "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/07/google-messages-samsung-hero.jpg?w=1600&h=900&fit=crop",
+    "datetimestamp": "2026-04-28T13:53:23",
+    "source": "Android Police",
+    "category": "Mobile"
+  },
+  {
+    "title": "Read receipts in Google Messages look different, but nobody knows why",
+    "link": "https://www.androidpolice.com/google-messages-beta-read-receipts-redesign/",
+    "description": "Is this a bug or a deliberate change?",
+    "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/06/google-messages-samsung-hero-jpg.jpg?w=1600&h=900&fit=crop",
+    "datetimestamp": "2026-04-28T13:42:00",
+    "source": "Android Police",
+    "category": "Mobile"
+  },
+  {
+    "title": "The private NotebookLM alternative I'm moving all my notes to",
+    "link": "https://www.androidpolice.com/the-private-notebooklm-alternative-im-moving-all-my-notes-to/",
+    "description": "AnythingLLM gave me what NotebookLM couldn't on my Android phone",
+    "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/04/stylized-anythingllm-logo-surrounded-by-notes-and-offline-icons.png?w=1600&h=900&fit=crop",
+    "datetimestamp": "2026-04-28T13:30:12",
+    "source": "Android Police",
+    "category": "Mobile"
+  },
+  {
+    "title": "I'm officially 'un-locked' and ready to scroll, as long as I'm on my couch",
+    "link": "https://www.androidpolice.com/officially-unlocked-ready-scroll-on-my-couch/",
+    "description": "No more biometrics in your trusted places",
+    "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/04/smiling-woman-on-a-couch-using-a-smartphone-with-icons-illustrating-android-s-extend-unlock-feature.png?w=1600&h=900&fit=crop",
+    "datetimestamp": "2026-04-28T12:30:11",
+    "source": "Android Police",
+    "category": "Mobile"
+  },
+  {
+    "title": "I open YouTube all the time, but I barely watch anything anymore",
+    "link": "https://www.androidpolice.com/open-youtube-but-barely-watch-anything-anymore/",
+    "description": "It didn't happen all at once",
+    "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/04/cracked-youtube-logo-surrounded-by-messy-scribbles-and-icons-with-unhappy-faces.png?w=1600&h=900&fit=crop",
+    "datetimestamp": "2026-04-28T12:00:10",
+    "source": "Android Police",
+    "category": "Mobile"
+  },
+  {
+    "title": "Jaw-dropping discount knocks 89% off this Arlo 2K security camera",
+    "link": "https://www.androidpolice.com/take-89-off-this-arlo-security-camera/",
+    "description": "Impressive savings on a powerful camera",
+    "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/07/073a0469.jpg?w=1600&h=900&fit=crop",
+    "datetimestamp": "2026-04-28T11:44:10",
+    "source": "Android Police",
+    "category": "Mobile"
+  },
+  {
+    "title": "Google has found a new way to shame battery-hogging apps before you even install them",
+    "link": "https://www.androidpolice.com/play-store-battery-warnings/",
+    "description": "Google will punish developers that drain your battery",
+    "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/04/the-google-play-store-logo-with-a-battery-icon-wrapped-in-battery-hogging-caution-tape-and-a-warning-sign.png?w=1600&h=900&fit=crop",
+    "datetimestamp": "2026-04-28T11:00:10",
+    "source": "Android Police",
+    "category": "Mobile"
+  },
+  {
+    "title": "Samsung Galaxy S27 could bring a major Exynos upgrade",
+    "link": "https://www.androidpolice.com/samsung-galaxy-s27-could-bring-major-exynos-upgrade/",
+    "description": "A step toward fixing Exynos heat issues",
+    "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/galaxy-s26-ultra-back-table.JPG?w=1600&h=900&fit=crop",
+    "datetimestamp": "2026-04-28T10:15:28",
+    "source": "Android Police",
+    "category": "Mobile"
+  },
+  {
+    "title": "We all know what's coming from the latest secretive Samsung and Google meetings",
+    "link": "https://www.androidpolice.com/we-all-know-whats-coming-from-the-latest-secretive-samsung-and-google-meetings/",
+    "description": "The meetings also marked an important 10-year anniversary",
+    "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/galaxy-s26-ultra-back.JPG?w=1600&h=900&fit=crop",
+    "datetimestamp": "2026-04-28T10:12:53",
+    "source": "Android Police",
+    "category": "Mobile"
+  },
+  {
+    "title": "I'm finally the 'organized' friend, thanks to a little help from Gemini",
+    "link": "https://www.androidpolice.com/im-finally-the-organized-friend-thanks-to-a-little-help-from-gemini/",
+    "description": "I have become organized in the most unexpected way",
+    "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/04/gemini-logo-centered-over-an-organized-workspace-featuring-a-laptop-smartphone-notebook-and-colorful-sticky-notes.png?w=1600&h=900&fit=crop",
+    "datetimestamp": "2026-04-28T10:00:23",
+    "source": "Android Police",
+    "category": "Mobile"
+  },
+  {
     "title": "Google Gemini wants to become a more proactive assistant",
     "link": "https://www.androidpolice.com/google-gemini-wants-to-become-more-proactive-assistant/",
     "description": "An assistant that acts before you ask",

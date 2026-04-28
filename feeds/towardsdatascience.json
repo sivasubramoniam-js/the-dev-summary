@@ -1,6 +1,33 @@
 [
   {
     "title": "Just a moment...",
+    "link": "https://towardsdatascience.com/correlation-doesnt-mean-causation-but-what-does-it-mean/",
+    "description": "<p>What does correlation tells us?</p>\n<p>The post <a href=\"https://towardsdatascience.com/correlation-doesnt-mean-causation-but-what-does-it-mean/\">Correlation Doesn\u2019t Mean Causation! But What Does It Mean?</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-28T15:00:00",
+    "source": "Towardsdatascience",
+    "category": "AI"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "https://towardsdatascience.com/the-next-frontier-of-ai-in-production-is-chaos-engineering/",
+    "description": "<p>Blast-radius control tells you how much to break. Intent tells you what breaking it will teach. Only one of these has mature tooling.</p>\n<p>The post <a href=\"https://towardsdatascience.com/the-next-frontier-of-ai-in-production-is-chaos-engineering/\">The Next Frontier of AI in Production Is Chaos Engineering</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-28T13:30:00",
+    "source": "Towardsdatascience",
+    "category": "AI"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "https://towardsdatascience.com/pytorch-nans-are-silent-killers-i-built-a-3ms-hook-to-catch-them-at-the-exact-layer/",
+    "description": "<p>NaNs don\u2019t crash your training \u2014 they quietly destroy it.<br />\nAfter losing hours to a silent failure in a ResNet training run, I built a lightweight detector that pinpoints the exact layer and batch where things break. Using forward hooks and gradient checks, it catches issues early with minimal overhead \u2014 without slowing your model to a crawl.</p>\n<p>The post <a href=\"https://towardsdatascience.com/pytorch-nans-are-silent-killers-i-built-a-3ms-hook-to-catch-them-at-the-exact-layer/\">PyTorch NaNs Are Silent Killers \u2014 So I Built a 3ms Hook to Catch Them at the Exact Layer</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-28T12:00:00",
+    "source": "Towardsdatascience",
+    "category": "AI"
+  },
+  {
+    "title": "Just a moment...",
     "link": "https://towardsdatascience.com/a-career-in-data-is-not-always-a-straight-line-and-thats-okay/",
     "description": "<p>Sabrine Bendimerad on why flexibility is a crucial data science skill, the risks of outsourcing human thinking to AI agents, and the changing terrain of career paths today.</p>\n<p>The post <a href=\"https://towardsdatascience.com/a-career-in-data-is-not-always-a-straight-line-and-thats-okay/\">A Career in Data Is Not Always a Straight Line, and That\u2019s Okay</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
     "image": "",

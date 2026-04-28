@@ -1,5 +1,23 @@
 [
   {
+    "title": "Building a Modern Job Board? Save 200+ Hours with Jobupp UI Template \ud83d\ude80 - DEV Community",
+    "link": "https://dev.to/mantraksh_devs/building-a-modern-job-board-save-200-hours-with-jobupp-ui-template-250d",
+    "description": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz7dud7sy8w440975dg4t.png\"><img alt=\" \" height=\"800\" src=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz7dud7sy8w440975dg4t.png\" width=\"800\" /></a></p>\n\n<p>Are you planning to launch a recruitment SaaS or a niche job portal? Building a high-end UI from scratch with Dark Mode, RTL support, and complex filters is time-consuming.</p>\n\n<p>Meet Jobupp \u2014 A premium Job Board UI template designed for modern web apps.</p>\n\n<p>Technical Highlights:</p>\n\n<ul>\n<li>Modern Stack: Built for performance and clean scalability.</li>\n<li>UI/UX: Focus on glassmorphism and minimal aesthetics.</li>\n<li>Features: 4+ Hero variations, advanced job filters, and seamless theme switching.</li>\n<li>SEO &amp; Speed: Pre-optimized for Google search rankings and core web vitals.</li>\n</ul>\n\n<p>Whether you are a freelancer or a startup founder, this template helps you ship your product faster.</p>\n\n<p>Live Preview &amp; Documentation:<br />\n\ud83d\udc49 <a href=\"https://wrapmarket.com/item/jobupp-job-portal-job-board-template-WB0LD2475?via=mdevs\" rel=\"noopener noreferrer\">Check Jobupp on WrapMarket</a></p>",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvz88at4frr4k8b5oed5c.png",
+    "datetimestamp": "2026-04-28T14:04:38",
+    "source": "Devto Ui",
+    "category": "Design & UX"
+  },
+  {
+    "title": "BareForge v0.1.1: A drag-and-drop UI design tool that bridges the gap between design and code - DEV Community",
+    "link": "https://dev.to/avanelsas/bareforge-v011-a-drag-and-drop-ui-design-tool-that-bridges-the-gap-between-design-and-code-4nfl",
+    "description": "<p>I've just released <strong><a href=\"https://github.com/avanelsas/bareforge\" rel=\"noopener noreferrer\">BareForge v0.1.1</a></strong>. BareForge aims to close the gap between design and code. What does it offer:</p>\n\n<p>\u2022 Drag-and-drop any of the 90 BareDOM components onto a canvas<br />\n\u2022 Tweak attributes, layout, CSS-variable themes live<br />\n\u2022 Declare reactive state on any container \u2014 fields, computed fields, records<br />\n\u2022 Wire DOM events to actions that mutate the data<br />\n\u2022 Pick from 9 starter templates (8 realistic + 1 kinetic showcase) or start blank</p>\n\n<p>It exports a fully working vanilla JS project (or Clojurescript if that is your cup of tea). The code output looks pretty decent so far.</p>\n\n<p>The BareForge export is pluggable. Adding React, Svelte or any other framework can be implemented in a simple manner.</p>\n\n<p>It would be great if someone would give that a try.</p>\n\n<p>The code can be found at github: <a href=\"https://github.com/avanelsas/bareforge\" rel=\"noopener noreferrer\">Bareforge</a></p>\n\n<p>and a live demo is at: <a href=\"https://avanelsas.github.io/bareforge/\" rel=\"noopener noreferrer\">Live demo</a></p>",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4cfbwejbjkhu43klssam.png",
+    "datetimestamp": "2026-04-28T14:02:13",
+    "source": "Devto Ui",
+    "category": "Design & UX"
+  },
+  {
     "title": "From Figma to Flutter: Designing a System That Scales Across 30 Apps - DEV Community",
     "link": "https://dev.to/ujjawal_tyagi_c5a84255da4/from-figma-to-flutter-designing-a-system-that-scales-across-30-apps-3431",
     "description": "We've shipped 30+ Flutter apps at Xenotix Labs across D2C commerce, real-time sports, edtech,...",

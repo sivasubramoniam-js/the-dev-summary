@@ -1,5 +1,59 @@
 [
   {
+    "title": "DJI\u2019s new Mic Mini 2 adds colorful covers to help them blend in | The Verge",
+    "link": "https://www.theverge.com/tech/919553/dji-mic-mini-2-wireless-microphone-transmitter-magnetic-cover",
+    "description": "The company\u2019s smallest wireless mic also adds voice presets so you can prioritize clarity or emphasize lower tones.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/djimicmini2_1.jpg?quality=90&strip=all&crop=0%2C10.746034148862%2C100%2C78.507931702275&w=1200",
+    "datetimestamp": "2026-04-28T15:04:04",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "Musk and Altman go to court | The Verge",
+    "link": "https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast",
+    "description": "On The Vergecast: Musk v. OpenAI, Framework\u2019s new gear, and fast chips for small laptops.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0428_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "datetimestamp": "2026-04-28T14:47:21",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "Asus ROG Zephyrus Duo (2026) review: 2 screens 2 furious | The Verge",
+    "link": "https://www.theverge.com/tech/918529/asus-rog-zephyrus-duo-2026-intel-nvidia-5090-review",
+    "description": "It\u2019s like r/battlestations in laptop form.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268497_Asus_ROG_Zephyrus_Duo_2026_gaming_laptop_ADiBenedetto_0014.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "datetimestamp": "2026-04-28T13:00:00",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "Google and Pentagon reportedly agree on deal for \u2018any lawful\u2019 use of AI | The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+    "description": "\ufeffThe classified deal apparently doesn\u2019t allow Google to veto how the government will use its AI models.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24925007/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0001_5.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "datetimestamp": "2026-04-28T11:09:32",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "Attack of the killer script kiddies | The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
+    "description": "\u201cIt\u2019s now or never. There\u2019s a tidal wave coming.\u201d",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/rogers-script-kiddies-Lede-STATIC.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "datetimestamp": "2026-04-28T11:00:00",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "It\u2019s a busy time for sci-fi, but don\u2019t miss Aphelion | The Verge",
+    "link": "https://www.theverge.com/entertainment/919379/aphelion-review-sci-fi-game-steam-ps5-xbox",
+    "description": "A nice slow burn.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/APHELION_screenshot_launch_2.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "datetimestamp": "2026-04-28T09:00:00",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
     "title": "Microsoft Office can now be controlled with Logitech\u2019s MX Creative Console | The Verge",
     "link": "https://www.theverge.com/tech/919165/logitech-mx-ecosystem-creative-console-productivity-plugins-microsoft-office-slack-notion",
     "description": "Take your spreadsheets and decks to the next level.",

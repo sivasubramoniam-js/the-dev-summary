@@ -1,5 +1,50 @@
 [
   {
+    "title": "GitHub Uses eBPF to Eliminate Deployment Risks and Prevent Circular Failures - InfoQ",
+    "link": "https://www.infoq.com/news/2026/04/github-ebpf-deployment/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "description": "GitHub has introduced a new approach to improving deployment safety by leveraging eBPF, enabling the company to detect and prevent hidden circular dependencies that could block recovery during outages.",
+    "image": "https://res.infoq.com/news/2026/04/github-ebpf-deployment/en/headerimage/generatedHeaderImage-1777219003623.jpg",
+    "datetimestamp": "2026-04-28T12:00:00",
+    "source": "Infoq",
+    "category": "Tech News"
+  },
+  {
+    "title": "AI-Powered SRE for Autonomous Incident Response - InfoQ",
+    "link": "https://www.infoq.com/presentations/ai-sre-incident-response/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "description": "The presenters discuss incident response, how AI-enhanced SRE platforms connect signals from logs, metrics, traces, and historical incidents to enable autonomous decisions.",
+    "image": "https://res.infoq.com/presentations/ai-sre-incident-response/en/card_header_image/twitter-card-1777368469045.jpg",
+    "datetimestamp": "2026-04-28T11:21:00",
+    "source": "Infoq",
+    "category": "Tech News"
+  },
+  {
+    "title": "Week-Long Outage: Lifelong Lessons - InfoQ",
+    "link": "https://www.infoq.com/presentations/outage-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "description": "Molly Struve discusses a brutal six-day outage that nearly sank a company. She explains technical lessons like the importance of FMEAs, shadow traffic, and exercising rollback mechanisms. She shares why the human elements - widening your circle early and having a VP who acts as a defender - are what truly build psychological safety.",
+    "image": "https://res.infoq.com/presentations/outage-lessons/en/card_header_image/molly-struve-twitter-card-1776864399990.jpg",
+    "datetimestamp": "2026-04-28T10:13:00",
+    "source": "Infoq",
+    "category": "Tech News"
+  },
+  {
+    "title": "Legare Kerrison and Cedric Clyburn on LLM Performance and Evaluations - InfoQ",
+    "link": "https://www.infoq.com/news/2026/04/kerrison-clyburn-llm-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "description": "Effectively measuring the performance of applications that are leveraging Large Language Models (LLM) is critical to the adoption of AI technologies in organizations. Legare Kerrison and Cedric Clyburn from RedHat team recently spoke at Arc of AI 2026 Conference about practical methods to evaluate and optimize LLM inference.",
+    "image": "https://res.infoq.com/news/2026/04/kerrison-clyburn-llm-performance/en/headerimage/kerrison-clyburn-llm-performance-header--1777288853060.jpg",
+    "datetimestamp": "2026-04-28T09:05:00",
+    "source": "Infoq",
+    "category": "Tech News"
+  },
+  {
+    "title": "CodeGuardian: A Model Context Protocol Server for AI-Assisted Code Quality Analysis and Security Scanning - InfoQ",
+    "link": "https://www.infoq.com/articles/ai-code-guardian/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "description": "CodeGuardian is an MCP server that extends AI coding assistants with comprehensive code quality and security analysis capabilities. By implementing eleven specialized tools, CodeGuardian enables developers to access enterprise-grade analysis directly through their AI assistant, eliminating context-switching and reducing friction in adopting secure coding practices.",
+    "image": "https://res.infoq.com/articles/ai-code-guardian/en/headerimage/ai-code-guardian-header-1776157217464.jpg",
+    "datetimestamp": "2026-04-28T09:00:00",
+    "source": "Infoq",
+    "category": "Tech News"
+  },
+  {
     "title": "OpenChoreo 1.0 Brings AI Agents and GitOps to Kubernetes Developer Platforms - InfoQ",
     "link": "https://www.infoq.com/news/2026/04/openchoreo-10/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
     "description": "OpenChoreo, the open-source internal developer platform built on Kubernetes, has shipped its 1.0 release and been accepted into the Cloud Native Computing Foundation (CNCF) Sandbox. The project is designed to give engineering teams a complete foundation for running workloads on Kubernetes without requiring them to build it themselves.",

@@ -1,5 +1,59 @@
 [
   {
+    "title": "Apple introduces a cheaper option for App Store subscriptions | TechCrunch",
+    "link": "https://techcrunch.com/2026/04/28/apple-introduces-a-cheaper-option-for-app-store-subscriptions/",
+    "description": "Apple is adding a new subscription option that lets app developers offer lower monthly pricing in exchange for a 12-month commitment.",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v2.jpg?resize=1200,675",
+    "datetimestamp": "2026-04-28T14:46:15",
+    "source": "Techcrunch",
+    "category": "Tech News"
+  },
+  {
+    "title": "Snapchat brings AI-powered conversational advertising to its app | TechCrunch",
+    "link": "https://techcrunch.com/2026/04/28/snapchat-brings-ai-powered-conversational-advertising-to-its-app/",
+    "description": "Users will be able to chat with a brand's AI agent to do things like ask questions and get recommendations.",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
+    "datetimestamp": "2026-04-28T13:57:19",
+    "source": "Techcrunch",
+    "category": "Tech News"
+  },
+  {
+    "title": "YouTube is testing an AI-powered search feature that shows guided answers | TechCrunch",
+    "link": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+    "description": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2242441443.jpg?resize=1200,800",
+    "datetimestamp": "2026-04-28T13:54:06",
+    "source": "Techcrunch",
+    "category": "Tech News"
+  },
+  {
+    "title": "BCI startup Neurable looks to license its 'mind-reading' tech for consumer wearables | TechCrunch",
+    "link": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
+    "description": "The startup specializes in \"non-invasive\" \"mind-reading\" tech\u2014a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2255262571.jpg?w=1024",
+    "datetimestamp": "2026-04-28T13:19:34",
+    "source": "Techcrunch",
+    "category": "Tech News"
+  },
+  {
+    "title": "Red Hat's OpenClaw maintainer just made enterprise Claw deployments a lot safer | TechCrunch",
+    "link": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+    "description": "Tank OS puts OpenClaw AI agents into a container that let's it run reliably and more safely, especially for those running fleets of them.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Red-Hat-Sally-OMalley.jpg?w=960",
+    "datetimestamp": "2026-04-28T13:00:00",
+    "source": "Techcrunch",
+    "category": "Tech News"
+  },
+  {
+    "title": "Otter's new feature lets users search across their enterprise tools | TechCrunch",
+    "link": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
+    "description": "Otter is also releasing a new Windows app that can capture meeting notes without joining one",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Otter-feat.jpg?resize=1200,675",
+    "datetimestamp": "2026-04-28T12:00:00",
+    "source": "Techcrunch",
+    "category": "Tech News"
+  },
+  {
     "title": "Drizzle on top: a new high-end dog food brand is coming for the 1% | TechCrunch",
     "link": "https://techcrunch.com/2026/04/27/drizzle-on-top-a-new-high-end-dog-food-brand-is-coming-for-the-1/",
     "description": "Golden Child is launching with two \"five-star\" products: a fresh frozen meal system and, more intriguingly, a \"drizzle.\" It has also raised $37 million in funding.",

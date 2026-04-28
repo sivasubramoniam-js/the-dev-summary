@@ -1,5 +1,95 @@
 [
   {
+    "title": "Pitney Bowes the latest victim of ShinyHunters\u2019 breach-spree \u2022 The Register",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/pitney_bowes_is_the_latest/",
+    "description": ": Names, phone numbers, physical addresses also included in Shiny Hunters alleged data dump",
+    "image": "https://regmedia.co.uk/2024/01/18/leonardo_ai_email_leak.jpg",
+    "datetimestamp": "2026-04-28T14:15:07",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "NASA boss says: 'We haven't canceled anything yet' \u2022 The Register",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/despite_proposed_science_cuts_nasa/",
+    "description": ": That 'yet' is sure doing a lot of heavy lifting if the budget for science is slashed",
+    "image": "https://regmedia.co.uk/2024/07/16/nasa.jpg",
+    "datetimestamp": "2026-04-28T13:30:10",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Tenstorrent\u2019s Galaxy Blackhole AI servers are finally out \u2022 The Register",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/tenstorrent_galaxy_blackhole_ai_servers_ga/",
+    "description": ": RISC-V-based systems pack 32 Blackhole accelerators in a 6U, $110K chassis",
+    "image": "https://regmedia.co.uk/2024/08/27/tenstorrent_galaxy.jpg",
+    "datetimestamp": "2026-04-28T13:00:07",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Brussels to Google: share Android's platform with AI rivals \u2022 The Register",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/ai_competition_in_android_phones/",
+    "description": ": DMA enforcers want rival assistants to get same deep device access as Gemini",
+    "image": "https://regmedia.co.uk/2023/09/29/sandbox_shutterstock.jpg",
+    "datetimestamp": "2026-04-28T12:30:12",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "DCMS to new CDIO: Microsoft migration, overhaul ERP, survive \u2022 The Register",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/ukgov_seeks_cdio_to_lead/",
+    "description": ": \u00a3125k and a pension await whoever can herd 6 departments onto single platform without losing will to live",
+    "image": "https://regmedia.co.uk/2018/11/02/shutterstock_crying_business_man.jpg",
+    "datetimestamp": "2026-04-28T12:24:53",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Two men charged over series of arson attacks on 5G masts \u2022 The Register",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/5g_belfast_arrests/",
+    "description": ": Pair accused of creating literal flame war as bonkers conspiracy theories grow",
+    "image": "https://regmedia.co.uk/2019/11/22/shutterstock_fire.jpg",
+    "datetimestamp": "2026-04-28T11:14:28",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Service change takes down Microsoft Outlook for iOS \u2022 The Register",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/a_service_change_takes_down/",
+    "description": ": Sign-in failures, unexpected sign-outs... just another day for users",
+    "image": "https://regmedia.co.uk/2017/06/14/jenga_shutterstock.jpg",
+    "datetimestamp": "2026-04-28T10:32:32",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "A $6bn question hangs over SUSE's sovereignty pitch \u2022 The Register",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/sovereignty_its_all_about_the/",
+    "description": ": Linux vendor touts European independence at SUSECON as majority stakeholder quietly explores its options",
+    "image": "https://regmedia.co.uk/2018/02/07/globemagnify.jpg",
+    "datetimestamp": "2026-04-28T10:00:07",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Locked, stocked, and losing budget: AI vendor lock-in bites \u2022 The Register",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/locked_stocked_and_losing_budget/",
+    "description": "Opinion: Execs in the C-suite thought they could swap models in a week. They were hallucinating",
+    "image": "https://regmedia.co.uk/2023/01/06/lock.jpg",
+    "datetimestamp": "2026-04-28T09:15:10",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Document sent 'in error' by DWP being used to sue department \u2022 The Register",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/dwp_sent_document_in_error/",
+    "description": ": Comparison between 2 vendors was never meant to be seen ... or made",
+    "image": "https://regmedia.co.uk/2026/04/27/shutterstock_2049924494.jpg",
+    "datetimestamp": "2026-04-28T08:30:09",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
     "title": "Australia threatens tech companies with 2.25 percent tax \u2022 The Register",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/australia_news_bargaining_incentive/",
     "description": ": Last time an idea like this came up, Meta packed up its toys and went home",

@@ -1,5 +1,59 @@
 [
   {
+    "title": "OpenAI CEO\u2019s Identity Verification Company Announced Fake Bruno Mars Partnership Due To Mistaken Identity",
+    "link": "https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/",
+    "description": "Tools For Humanity announced it was partnering with Bruno Mars on his upcoming tour, but no one told Bruno Mars about it.",
+    "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/04/Bruno-Mars1.jpg?w=1200",
+    "datetimestamp": "2026-04-28T13:26:26",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "MiMo-V2.5-Pro Is Now Open Source and It's Sitting Right Next to Claude Opus 4.6 on Coding - Firethering",
+    "link": "https://firethering.com/mimo-v2-5-pro-xiaomi-coding-model/",
+    "description": "Peking University gives its computer science students a compiler project every semester. Build a complete SysY compiler in Rust including lexer, parser, abstract syntax tree, IR code generation, assembly backend, performance optimization. The whole thing. Students typically need several weeks. MiMo-V2.5-Pro finished it in 4.3 hours. Perfect score. 233 out of 233 tests passed on a hidden test suite it had never seen. That's a real university project and a model that scored higher than most students who spent weeks on it. Xiaomi built this, which is still a sentence that takes a moment to process. V2.5-Pro is the next step up from MiMo-V2-Flash and its closed source for now, but Xiaomi has confirmed open source is coming for the V2.5 series. What V2.5-Pro adds over Flash is meaningful. Better long-horizon coherence, stronger agentic capabilities, and the ability to sustain complex tasks across more than a thousand tool calls without losing the thread.",
+    "image": "https://firethering.com/wp-content/uploads/2026/04/mimo-v2.5-pro-open-source.jpg",
+    "datetimestamp": "2026-04-28T12:16:25",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "GitHub - microsoft/VibeVoice: Open-Source Frontier Voice AI \u00b7 GitHub",
+    "link": "https://github.com/microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI. Contribute to microsoft/VibeVoice development by creating an account on GitHub.",
+    "image": "https://opengraph.githubassets.com/bba84d85c6191678c273727c6c56a779e2fe392b80784737a9c991cc27417550/microsoft/VibeVoice",
+    "datetimestamp": "2026-04-28T11:56:04",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Just a moment...",
+    "link": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
+    "description": "<p>Article URL: <a href=\"https://legallayer.substack.com/p/who-owns-the-claude-code-wrote\">https://legallayer.substack.com/p/who-owns-the-claude-code-wrote</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47932937\">https://news.ycombinator.com/item?id=47932937</a></p>\n<p>Points: 46</p>\n<p># Comments: 84</p>",
+    "image": "",
+    "datetimestamp": "2026-04-28T11:24:52",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Locked, stocked, and losing budget: AI vendor lock-in bites \u2022 The Register",
+    "link": "https://www.theregister.com/2026/04/28/locked_stocked_and_losing_budget/",
+    "description": "Opinion: Execs in the C-suite thought they could swap models in a week. They were hallucinating",
+    "image": "https://regmedia.co.uk/2023/01/06/lock.jpg",
+    "datetimestamp": "2026-04-28T10:46:20",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "What Google thinks you're worth | Proton",
+    "link": "https://proton.me/blog/what-is-your-data-worth-to-google",
+    "description": "Proton analyzed 54,000 profiles using real ad auction data to determine your worth to Google. How valuable is your data?",
+    "image": "https://pmecdn.protonweb.com/image-transformation/?s=c&image=images%2Ff_auto%2Cq_auto%2Fv1777300919%2Fwp-pme%2F20260417-the-price-of-free-google-blog-cover%2F20260417-the-price-of-free-google-blog-cover.jpg%3F_i%3DAA",
+    "datetimestamp": "2026-04-28T09:07:02",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
     "title": "Scraping 241 UK council planning portals \u2013 2.6M decisions so far | Hacker News",
     "link": "https://news.ycombinator.com/item?id=47931470",
     "description": "<p>I've been scraping 241 UK council planning portals \u2013 2.6M decisions so far<p>UK planning data is technically public. In practice it's locked behind 400+ different council portals, some still running bespoke ASP.NET that looks like it dates from 2004, some behind AWS WAF, all with subtly different schemas. I've spent four months scraping them. I'm now at 241 councils and 2.6 million decisions across England, Scotland and Wales.<p>The scraping problem<p>Most UK councils run one of a handful of portal systems, Idox being the most common. In theory this makes things easy. In practice every council has configured theirs differently, some block non-browser requests via TLS fingerprinting, some have rate limits that will get you banned inside 10 minutes, and a handful are running the aforementioned bespoke ASP.NET.<p>I ended up writing several scrapers: a standard requests-based one, a Playwright-based one for councils that block anything that doesn't look like a real browser, and a curl_cffi one for TLS fingerprinting. Some councils I still can't get. Liverpool's portal sits behind AWS WAF with a JavaScript challenge. I have a working Playwright-based scraper that solves the challenge once and reuses cookies, but the WAF rate-limits the IP after about 10 requests and then blocks me for a day. So I have 60k Liverpool decisions from an old scrape and no easy way to add more.<p>What I found<p>The approval rate stuff is what most people come for. Nationally it's around 88%, but it varies wildly by ward within a council, not just between councils.<p>The more interesting finding came from the time-to-decision data. Across 119 English and Welsh councils, 36.5% of home extension applications missed the statutory 8-week target in 2025, up from 27.9% in 2019. Guildford is the worst at scale: 66% of decisions over target, averaging 13.3 weeks.<p>What it is now<p>A postcode checker (free) and paid PDF reports (\u00a319/\u00a379). Zero paying customers so far, which is fine. I've been heads down on data quality and coverage.<p>Site is planninglens.co.uk if you want to poke around. AMA on the scraping side \u2013 that's where the interesting problems are.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47931470\">https://news.ycombinator.com/item?id=47931470</a></p>\n<p>Points: 28</p>\n<p># Comments: 30</p>",
