@@ -9,6 +9,7 @@ from concurrent.futures import ThreadPoolExecutor
 from parser import scrape_custom, SCRAPE_CONFIGS
 import requests
 from bs4 import BeautifulSoup
+import random
 # import hashlib
 # from io import BytesIO
 
@@ -310,8 +311,11 @@ def main():
                     print(f"Error reading {filename} for aggregation: {e}")
 
     flat.sort(key=lambda x: x['datetimestamp'], reverse=True)
-    with open('news.json', 'w', encoding='utf-8') as f: 
-        json.dump(flat[:20], f, indent=2)
+    # merge all the jsons in 'feeds' directory into a single file 'news.json'
+    with open('news.json', 'w', encoding='utf-8') as f:
+        flat = [x for x in flat if datetime.strptime(x['datetimestamp'], "%Y-%m-%dT%H:%M:%S") > datetime.now() - timedelta(hours=24)]
+        random.shuffle(flat)
+        json.dump(flat, f, indent=2)
 
     print("Completed successfully!")
 
