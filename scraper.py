@@ -2,16 +2,15 @@ import feedparser
 import json
 import re
 import os
-import time
+# import time
 from datetime import datetime, timedelta
 from concurrent.futures import ThreadPoolExecutor
-from email.utils import parsedate_to_datetime
+# from email.utils import parsedate_to_datetime
 from parser import scrape_custom, SCRAPE_CONFIGS
 import requests
 from bs4 import BeautifulSoup
-import hashlib
-from io import BytesIO
-from PIL import Image
+# import hashlib
+# from io import BytesIO
 
 # Configuration
 DATA_DIR = "feeds"
