@@ -1,5 +1,14 @@
 [
   {
+    "title": "The MIT-IBM Computing Research Lab launches to shape the future of AI and quantum computing",
+    "link": "https://news.mit.edu/2026/mit-ibm-computing-research-lab-launches-0429",
+    "description": "IBM and MIT announced the launch of the MIT-IBM Computing Research Lab, advancing their long-standing collaboration to shape the next era of computing that combines AI, algorithms, and quantum computing. The new lab evolved from the MIT-IBM Watson AI Lab. ",
+    "image": "https://news.mit.edu/sites/default/files/images/202604/mit-dome-00_0.png",
+    "datetimestamp": "2026-04-29T10:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
     "title": "Enabling privacy-preserving AI training on everyday devices | MIT News | Massachusetts Institute of Technology",
     "link": "https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429",
     "description": "MIT researchers developed a technique that accelerates a privacy-preserving approach for training AI models on edge devices. Their new framework could enable more accurate, efficient, and secure AI models to be used in under-resourced settings.  ",

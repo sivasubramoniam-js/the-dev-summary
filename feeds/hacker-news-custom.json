@@ -1,5 +1,32 @@
 [
   {
+    "title": "Show HN: Rip.so \u2013 a graveyard for dead internet things",
+    "link": "https://rip.so",
+    "description": "rip.so :: the digital graveyard. A memorial to messengers, social networks, browsers, gadgets and websites the internet forgot.",
+    "image": "",
+    "datetimestamp": "2026-04-29T09:21:32",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Workers Training Meta's AI Could Be Laid Off",
+    "link": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs/",
+    "description": "More than 700 people working for a Meta contractor in Ireland are at risk of losing their jobs, documents show.",
+    "image": "https://media.wired.com/photos/69f0fa74964675db69fdce76/191:100/w_1280,c_limit/Hundreds-of-Workers-Training-Meta-AI-Are-Being-Laid-Off-Business-2272776906.jpg",
+    "datetimestamp": "2026-04-29T07:45:00",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Bugs Rust won't catch",
+    "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+    "description": "In April 2026, Canonical disclosed 44 CVEs in uutils, the Rust reimplementation of GNU coreutil\u2026",
+    "image": "https://corrode.dev/blog/bugs-rust-wont-catch/social.png",
+    "datetimestamp": "2026-04-29T02:19:11",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
     "title": "We Upgraded to a Frontier Model and Our Costs Went Down | Mendral",
     "link": "https://www.mendral.com/blog/frontier-model-lower-costs",
     "description": "We switched to a frontier model and our costs went down. Here's the architecture that made it possible.",

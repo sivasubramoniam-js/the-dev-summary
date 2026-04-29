@@ -1,5 +1,23 @@
 [
   {
+    "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+    "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+    "description": "CISA added two actively exploited CVEs to KEV after confirmed attacks, mandating FCEB patching by May 12, 2026.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifGMiUJH-3-Yk7Hnve0k2mPxHZecIbCTTN7z_CosJp8GhI7hira6707ALIDB4skUc8UbRdmWtbhz4n9fe8T-h3OGzul9awiw8DFsnsSORkjKfXr4dgEGX_ncQ7dWBYGAhyU3Efo8-z_YPCEFC_bUDH8eYeX_w6QcDrOWTnpRXqOF_IATm0t-xxMJp6uYWc/s1600/windows-logo.jpg",
+    "datetimestamp": "2026-04-29T08:46:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
+    "link": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
+    "description": "CVE-2026-42208 exploited within 36 hours of disclosure, exposing LiteLLM credentials, risking cloud account compromise.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgev8o8oELGzruYVoLF6t_fn8gZnmWpTXq4Xgoq5n4Tc1H4qmyLdYJ53-8pGelRL4BrBtZqpCCsSgo_He2ItCULVwwPIgOHuN6S6zn5s9RYFASTpWxIoX8vlPmigRngBNb0ucFElbHxiz8uPWa2OkasjaBTQAG8hqeHqi_llW4WMI_gIZHjx23jm-O3ccQx/s1600/lite.jpg",
+    "datetimestamp": "2026-04-29T05:34:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
     "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
     "link": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
     "description": "CVE-2026-3854 (CVSS 8.7) enabled GitHub RCE via git push, risking cross-tenant access to millions of repositories.",

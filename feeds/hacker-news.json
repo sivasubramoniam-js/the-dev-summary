@@ -1,5 +1,59 @@
 [
   {
+    "title": "Show HN: Rip.so \u2013 a graveyard for dead internet things",
+    "link": "https://rip.so",
+    "description": "rip.so :: the digital graveyard. A memorial to messengers, social networks, browsers, gadgets and websites the internet forgot.",
+    "image": "",
+    "datetimestamp": "2026-04-29T09:21:32",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Soft launch of open-source code platform for government",
+    "link": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+    "description": "Code.overheid.nl platform is now live, enabling government organisations to jointly develop and publish open-source software independently.",
+    "image": "https://www.nldigitalgovernment.nl/wp-content/uploads/sites/11/2026/04/pexels-mikhail-nilov-7988761.jpg",
+    "datetimestamp": "2026-04-29T09:14:37",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Why Law Is Law-Shaped",
+    "link": "https://lawvm.org/why-law-is-law-shaped/",
+    "description": "And why that shape demands a compiler.",
+    "image": "",
+    "datetimestamp": "2026-04-29T09:03:31",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Tell HN: An update from the new Tindie team",
+    "link": "https://news.ycombinator.com/item?id=47945522",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47945522\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-29T08:16:37",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3767295.3803591",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47944931\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-29T06:47:53",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "HardenedBSD Is Now Officially on Radicle",
+    "link": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47944864\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-29T06:38:44",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
     "title": "Bugs Rust Won't Catch | corrode Rust Consulting",
     "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
     "description": "In April 2026, Canonical disclosed 44 CVEs in uutils, the Rust reimplementation of GNU coreutil\u2026",

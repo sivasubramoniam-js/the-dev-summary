@@ -1,5 +1,23 @@
 [
   {
+    "title": "GitHub rushed to fix a critical vulnerability in less than six hours",
+    "link": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix",
+    "description": "A critical remote code execution vulnerability was discovered using an AI model and patched within hours.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/acastro_220504_STK121_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "datetimestamp": "2026-04-29T10:04:25",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "General Motors is adding Gemini to four million cars",
+    "link": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
+    "description": "It\u2019ll take a few months though.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Google-Gemini-AI-in-a-Chevrolet.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "datetimestamp": "2026-04-29T09:14:38",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
     "title": "Conspiracy videos about the WHCD shooting keep rolling in | The Verge",
     "link": "https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag",
     "description": "Conspiracists in cars getting views.",

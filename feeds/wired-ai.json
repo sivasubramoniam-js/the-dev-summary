@@ -1,5 +1,23 @@
 [
   {
+    "title": "When Robots Have Their ChatGPT Moment, Remember These Pincers",
+    "link": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+    "description": "From sorting chicken nuggets to screwing in light bulbs, Eka\u2019s robots are eerily lifelike. But do they have real physical smarts?",
+    "image": "https://media.wired.com/photos/69f11fc37df9442e8d9b4374/191:100/w_1280,c_limit/20260320-wired-eka-robotics-0429.jpg",
+    "datetimestamp": "2026-04-29T10:00:00",
+    "source": "Wired Ai",
+    "category": "AI"
+  },
+  {
+    "title": "How AI Could Help Combat Antibiotic Resistance",
+    "link": "https://www.wired.com/story/wired-health-2026-tackling-antimicrobial-resistance-ara-darzi/",
+    "description": "At WIRED Health, British surgeon Ara Darzi said AI is set to transform the diagnosis and treatment of drug-resistant infections. But a lack of incentives means innovation may not reach patients.",
+    "image": "https://media.wired.com/photos/69ea459b31b8426862a83c48/191:100/w_1280,c_limit/XT502056.jpg",
+    "datetimestamp": "2026-04-29T09:00:00",
+    "source": "Wired Ai",
+    "category": "AI"
+  },
+  {
     "title": "OpenAI Really Wants Codex to Shut Up About Goblins | WIRED",
     "link": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
     "description": "\u201cNever talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant,\u201d reads OpenAI\u2019s coding agent instructions.",

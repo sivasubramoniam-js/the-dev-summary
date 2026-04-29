@@ -1,5 +1,41 @@
 [
   {
+    "title": "GoDaddy customer claims registrar transferred 27-year-old domain without any security checks",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/godaddy_megagaffe_wrongly_transferred_27yearold/",
+    "description": ": 32 phone calls, 17 email chains, a 5-day ordeal, and no help during the daddy of all stuffups, claim those affected",
+    "image": "https://regmedia.co.uk/2019/04/26/shutterstock_dumpster_fire.jpg",
+    "datetimestamp": "2026-04-29T10:00:09",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "AI clause in new SAP API policy has partners worried over lock-in",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/new_sap_api_policy_provokes/",
+    "description": ": Expert says it could push customers and partners to work with undocumented APIs",
+    "image": "https://regmedia.co.uk/2021/03/09/christian-klein_3840x2160.jpg",
+    "datetimestamp": "2026-04-29T09:15:14",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Bork in Prague: SUSE's keynote gods demand their tribute",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/never_anger_the_keynote_demo/",
+    "description": "BORK!BORK!BORK!: Linux vendor touts European independence while rate limits, Chromium popups, and cold sparks steal the show",
+    "image": "https://regmedia.co.uk/2026/04/27/suse_bork_1.jpg",
+    "datetimestamp": "2026-04-29T08:30:10",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "30 ClawHub skills secretly turn AI agents into a crypto swarm",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/30_clawhub_skills_mine_crypto/",
+    "description": ": Yet another reason not to feast on OpenClaw",
+    "image": "https://regmedia.co.uk/2026/04/29/shutterstock_lobster_typing_on_laptop.jpg",
+    "datetimestamp": "2026-04-29T06:32:14",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
     "title": "Hashicorp co-founder Mitchell Hashimoto says GitHub \u2018no longer a place for serious work\u2019",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
     "description": ": Bemoans frequent outages that mean he\u2019ll move Ghostty elsewhere",

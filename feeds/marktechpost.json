@@ -1,5 +1,41 @@
 [
   {
+    "title": "Meta FAIR Releases NeuralSet: A Python Package for Neuro-AI That Supports fMRI, M/EEG, Spikes, and HuggingFace Embeddings",
+    "link": "https://www.marktechpost.com/2026/04/29/meta-fair-releases-neuralset-a-python-package-for-neuro-ai-that-supports-fmri-m-eeg-spikes-and-huggingface-embeddings/",
+    "description": "<p>Introducing NeuralSet: Meta's Simple, Fast, and Scalable Python Package That Bridges Neuroscience and AI</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/04/29/meta-fair-releases-neuralset-a-python-package-for-neuro-ai-that-supports-fmri-m-eeg-spikes-and-huggingface-embeddings/\">Meta FAIR Releases NeuralSet: A Python Package for Neuro-AI That Supports fMRI, M/EEG, Spikes, and HuggingFace Embeddings</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-29T07:56:02",
+    "source": "Marktechpost",
+    "category": "AI"
+  },
+  {
+    "title": "smol-audio: A Colab-Friendly Notebook Collection for Fine-Tuning Whisper, Parakeet, Voxtral, Granite Speech, and Audio Flamingo 3",
+    "link": "https://www.marktechpost.com/2026/04/29/smol-audio-a-colab-friendly-notebook-collection-for-fine-tuning-whisper-parakeet-voxtral-granite-speech-and-audio-flamingo-3/",
+    "description": "<p>smol-audio Is the Audio AI Cookbook Practitioners Have Been Waiting For</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/04/29/smol-audio-a-colab-friendly-notebook-collection-for-fine-tuning-whisper-parakeet-voxtral-granite-speech-and-audio-flamingo-3/\">smol-audio: A Colab-Friendly Notebook Collection for Fine-Tuning Whisper, Parakeet, Voxtral, Granite Speech, and Audio Flamingo 3</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-29T07:31:31",
+    "source": "Marktechpost",
+    "category": "AI"
+  },
+  {
+    "title": "A Coding Implementation on Document Parsing Benchmarking with LlamaIndex ParseBench Using Python, Hugging Face, and Evaluation Metrics",
+    "link": "https://www.marktechpost.com/2026/04/29/a-coding-implementation-on-document-parsing-benchmarking-with-llamaindex-parsebench-using-python-hugging-face-and-evaluation-metrics/",
+    "description": "<p>In this tutorial, we explore how to use the ParseBench dataset to evaluate document parsing systems in a structured, practical way. We begin by loading the dataset directly from Hugging Face, inspecting its multiple dimensions, such as text, tables, charts, and layout, and transforming it into a unified dataframe for deeper analysis. As we progress, [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/04/29/a-coding-implementation-on-document-parsing-benchmarking-with-llamaindex-parsebench-using-python-hugging-face-and-evaluation-metrics/\">A Coding Implementation on Document Parsing Benchmarking with LlamaIndex ParseBench Using Python, Hugging Face, and Evaluation Metrics</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-29T07:08:42",
+    "source": "Marktechpost",
+    "category": "AI"
+  },
+  {
+    "title": "Poolside AI Introduces Laguna XS.2 and M.1: Agentic Coding Models Reaching 68.2% and 72.5% on SWE-bench Verified",
+    "link": "https://www.marktechpost.com/2026/04/28/poolside-ai-introduces-laguna-xs-2-and-m-1-agentic-coding-models-reaching-68-2-and-72-5-on-swe-bench-verified/",
+    "description": "<p>Poolside Releases Laguna XS.2 and M.1: Open-Weight Agentic Coding Models Built for Long-Horizon Tasks</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/04/28/poolside-ai-introduces-laguna-xs-2-and-m-1-agentic-coding-models-reaching-68-2-and-72-5-on-swe-bench-verified/\">Poolside AI Introduces Laguna XS.2 and M.1: Agentic Coding Models Reaching 68.2% and 72.5% on SWE-bench Verified</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-29T05:45:42",
+    "source": "Marktechpost",
+    "category": "AI"
+  },
+  {
     "title": "How to Build Traceable and Evaluated LLM Workflows Using Promptflow,\u00a0Prompty, and OpenAI - MarkTechPost",
     "link": "https://www.marktechpost.com/2026/04/28/how-to-build-traceable-and-evaluated-llm-workflows-using-promptflow-prompty-and-openai/",
     "description": "How to Build Traceable and Evaluated LLM Workflows Using Promptflow,\u00a0Prompty, and OpenAI",

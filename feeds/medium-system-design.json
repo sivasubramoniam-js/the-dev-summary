@@ -1,5 +1,86 @@
 [
   {
+    "title": "Building an Inventory system From Scratch (Part 2): Designing Products and Variants",
+    "link": "https://medium.com/@harshitgpt41/building-an-inventory-system-from-scratch-part-2-designing-products-and-variants-2eb7b8214668?source=rss------system_design-5",
+    "description": "In the previous article, I started designing an inventory system and focused on thinking in terms of modules like product, warehouse and\u2026",
+    "image": "https://miro.medium.com/v2/resize:fit:788/1*mTbZixv8tpdThvt26QNulg.png",
+    "datetimestamp": "2026-04-29T09:08:52",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "Designing Uber at Scale: A Cloud Architect\u2019s Deep Dive into Ride-Hailing Infrastructure",
+    "link": "https://medium.com/@ikjot0611/designing-uber-at-scale-a-cloud-architects-deep-dive-into-ride-hailing-infrastructure-ae7838b99234?source=rss------system_design-5",
+    "description": "How I\u2019d architect Uber\u2019s backend on AWS \u2014 from API Gateway to geohashing, driver matching to DynamoDB.",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*rdEkP9A3437uUUwlvOrsFg.jpeg",
+    "datetimestamp": "2026-04-29T08:39:56",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "Design System as Infrastructure: How I\u2019m redesigning my design pipeline to automate it",
+    "link": "https://medium.com/@eduranfonseca/design-system-as-infrastructure-how-im-redesigning-my-design-pipeline-to-automate-it-ab8ff8df2a40?source=rss------system_design-5",
+    "description": "Every design professional today understands the complexity and effort hidden inside a design system. It\u2019s not a collection of components\u2026",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*TlTotoiE08nuH5z5w8ygFw.jpeg",
+    "datetimestamp": "2026-04-29T08:11:01",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "CAP Theorem Explained Like You\u2019re New to Microservices",
+    "link": "https://medium.com/@nihalsingh2082002/cap-theorem-explained-like-youre-new-to-microservices-6c2033f644af?source=rss------system_design-5",
+    "description": "No jargon. No assumed knowledge. Just the concept that every distributed systems interview will test you on \u2014 explained simply, with real\u2026",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*gNOibWUz8o-UvOIbaTJgtg.png",
+    "datetimestamp": "2026-04-29T08:10:24",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "What is a Human Dignity Architect?",
+    "link": "https://medium.com/@yoshimicode/what-is-a-human-dignity-architect-51c6a0807498?source=rss------system_design-5",
+    "description": "Designing how human value is recognized in the AI era",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*gAUkY_fMhumiv44D83E-fA@2x.jpeg",
+    "datetimestamp": "2026-04-29T08:01:01",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "Accessible by design (Part 4): How accessibility shaped every component in my design system",
+    "link": "https://medium.com/@leodesignstheworld/accessible-by-design-part-4-how-accessibility-shaped-every-component-in-my-design-system-9452b96c64d1?source=rss------system_design-5",
+    "description": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@leodesignstheworld/accessible-by-design-part-4-how-accessibility-shaped-every-component-in-my-design-system-9452b96c64d1?source=rss------system_design-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*53_3m-07dcdqcfLT0Xmgyg.png\" width=\"3104\" /></a></p><p class=\"medium-feed-snippet\">This is the final post in the Accessible by design series &#x2014; four articles documenting what I learned about accessibility while building&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@leodesignstheworld/accessible-by-design-part-4-how-accessibility-shaped-every-component-in-my-design-system-9452b96c64d1?source=rss------system_design-5\">Continue reading on Medium \u00bb</a></p></div>",
+    "image": "",
+    "datetimestamp": "2026-04-29T08:01:01",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "I built a design system in code instead of Figma. Here\u2019s what happened.",
+    "link": "https://medium.com/@ladansojudi2/i-built-a-design-system-in-code-instead-of-figma-heres-what-happened-6be0950f92c3?source=rss------system_design-5",
+    "description": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@ladansojudi2/i-built-a-design-system-in-code-instead-of-figma-heres-what-happened-6be0950f92c3?source=rss------system_design-5\"><img src=\"https://cdn-images-1.medium.com/max/1512/1*OwWWbKfdxWqmJb5yTrfNcA.png\" width=\"1512\" /></a></p><p class=\"medium-feed-snippet\">I&#x2019;m a product designer. I don&#x2019;t write production code for a living. But when it came time to build a design system for s4e.io &#x2014; a&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ladansojudi2/i-built-a-design-system-in-code-instead-of-figma-heres-what-happened-6be0950f92c3?source=rss------system_design-5\">Continue reading on Medium \u00bb</a></p></div>",
+    "image": "",
+    "datetimestamp": "2026-04-29T07:05:29",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "What\u2019s Broken About AI Design Tools (And What Comes After)",
+    "link": "https://uxpin.medium.com/whats-broken-about-ai-design-tools-and-what-comes-after-ede0f703e7f3?source=rss------system_design-5",
+    "description": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxpin.medium.com/whats-broken-about-ai-design-tools-and-what-comes-after-ede0f703e7f3?source=rss------system_design-5\"><img src=\"https://cdn-images-1.medium.com/max/1440/1*Ojcz0m-QrSgYT5q_-fKQGw.png\" width=\"1440\" /></a></p><p class=\"medium-feed-snippet\">A look at why AI-generated UI falls apart &#x2014; and how we approached it with Forge.</p><p class=\"medium-feed-link\"><a href=\"https://uxpin.medium.com/whats-broken-about-ai-design-tools-and-what-comes-after-ede0f703e7f3?source=rss------system_design-5\">Continue reading on Medium \u00bb</a></p></div>",
+    "image": "",
+    "datetimestamp": "2026-04-29T07:01:45",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "Your UX Research Is Only as Good as Your Questions",
+    "link": "https://medium.com/@mhd-ahsan-khan/your-ux-research-is-only-as-good-as-your-questions-f3aa188b4b11?source=rss------system_design-5",
+    "description": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mhd-ahsan-khan/your-ux-research-is-only-as-good-as-your-questions-f3aa188b4b11?source=rss------system_design-5\"><img src=\"https://cdn-images-1.medium.com/max/656/1*HFxdIl_7QsQC_nM-CgMeuw.png\" width=\"656\" /></a></p><p class=\"medium-feed-snippet\">In this article: I&#x2019;m breaking down the specific shift in questioning that turns a &#x201c;surface-level&#x201d; interview into a goldmine of data.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mhd-ahsan-khan/your-ux-research-is-only-as-good-as-your-questions-f3aa188b4b11?source=rss------system_design-5\">Continue reading on Medium \u00bb</a></p></div>",
+    "image": "",
+    "datetimestamp": "2026-04-29T06:48:02",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
     "title": "What UX design taught me about effectiveness, clear goals, and why good systems do not waste your\u2026",
     "link": "https://medium.com/@resonance.heals/what-ux-design-taught-me-about-effectiveness-clear-goals-and-why-good-systems-do-not-waste-your-9af8c5f62956?source=rss------system_design-5",
     "description": "The quiet relief of things that work",
