@@ -230,7 +230,7 @@
         /* Article Meta & Content */
         .news-meta {
             font-family: var(--font-mono);
-            font-size: 0.7rem;
+            font-size: 1rem;
             color: var(--accent);
             text-transform: uppercase;
             font-weight: 700;
@@ -273,7 +273,6 @@
         }
 
         .news-desc {
-            font-family: var(--font-sans);
             font-size: 1rem;
             color: var(--text-muted);
             line-height: 1.6;
@@ -490,24 +489,79 @@
             }
         }
 
-        .category-nav {
+        .category-nav,
+        .date-filter-nav {
             position: sticky;
             top: 0;
             background-color: var(--bg-page);
             border-top: 1px solid var(--border-color);
             border-bottom: 1px solid var(--border-color);
             z-index: 100;
+            padding: 8px 0;
+        }
+
+        .category-nav {
             overflow-x: auto;
             white-space: nowrap;
-            padding: 8px 0;
             -webkit-overflow-scrolling: touch;
             scrollbar-width: none;
-            /* Firefox */
         }
 
         .category-nav::-webkit-scrollbar {
             display: none;
-            /* Chrome/Safari */
+        }
+
+        .date-filter-nav {
+            display: none;
+            /* Hidden by default */
+        }
+
+        .filter-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            padding: 0 20px;
+            font-family: var(--font-mono);
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+
+        .date-input-group {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .date-input-group input {
+            padding: 4px 8px;
+            border: 1px solid var(--border-color);
+            background: var(--bg-page);
+            font-family: var(--font-mono);
+            font-size: 0.75rem;
+            outline: none;
+            cursor: pointer;
+        }
+
+        .date-input-group input:hover {
+            background: rgba(0, 0, 0, 0.03);
+        }
+
+        .filter-btn {
+            background: var(--text-main);
+            color: var(--bg-page);
+            border: none;
+            padding: 5px 15px;
+            cursor: pointer;
+            text-transform: uppercase;
+            font-size: 0.7rem;
+            transition: opacity 0.2s;
+        }
+
+        .filter-btn:hover {
+            opacity: 0.9;
         }
 
         .category-list {
@@ -541,6 +595,101 @@
             color: var(--accent);
             background: rgba(0, 0, 0, 0.03);
         }
+
+        /* ---------------- ARTICLE DIALOG ---------------- */
+        .dialog-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+            backdrop-filter: blur(5px);
+            padding: 20px;
+        }
+
+        .dialog-box {
+            background: var(--bg-page);
+            max-width: 800px;
+            width: 100%;
+            max-height: 90vh;
+            overflow-y: auto;
+            position: relative;
+            padding: 40px;
+            border: 2px solid var(--border-color);
+            box-shadow: 20px 20px 0px var(--border-color);
+            animation: dialogPop 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        @keyframes dialogPop {
+            from {
+                transform: scale(0.9);
+                opacity: 0;
+            }
+
+            to {
+                transform: scale(1);
+                opacity: 1;
+            }
+        }
+
+        .dialog-close {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            font-size: 1.5rem;
+            cursor: pointer;
+            color: var(--text-main);
+            transition: color 0.2s;
+        }
+
+        .dialog-close:hover {
+            color: var(--accent);
+        }
+
+        .dialog-content h2 {
+            /* font-family: var(--font-display); */
+            font-size: 2.5rem;
+            line-height: 1.1;
+            margin-bottom: 20px;
+            color: var(--text-main);
+        }
+
+        .dialog-image {
+            width: 100%;
+            height: auto;
+            max-height: 400px;
+            object-fit: cover;
+            margin-bottom: 25px;
+            border: 1px solid var(--border-color);
+        }
+
+        .dialog-desc {
+            font-family: var(--font-serif);
+            font-size: 1.2rem;
+            line-height: 1.7;
+            color: var(--text-main);
+        }
+
+        .read-more {
+            color: var(--accent);
+            cursor: pointer;
+            font-weight: 700;
+            text-transform: uppercase;
+            font-size: 0.75rem;
+            font-family: var(--font-mono);
+            margin-left: 5px;
+            border-bottom: 1px solid transparent;
+            transition: border-color 0.2s;
+        }
+
+        .read-more:hover {
+            border-bottom-color: var(--accent);
+        }
     </style>
 </head>
 
@@ -552,7 +701,7 @@
             <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
                 <select id="feedFilter" onchange="handleFilterChange(this.value)"
                     style="padding: 5px 10px; font-family: var(--font-mono); font-size: 0.8rem; border: 1px solid var(--border-color); background: var(--bg-page); outline: none; cursor: pointer; max-width: 300px;">
-                    <option value="news.json">All Headlines (Top 250)</option>
+                    <option value="news.json">Latest news (24 hours)</option>
                 </select>
                 <span id="google_translate_element"></span>
             </div>
@@ -568,11 +717,29 @@
         </div>
     </div>
 
-    <!-- Category Navigation Bar -->
+    <!-- Category Navigation Bar (Default) -->
     <nav class="category-nav" id="categoryNav">
         <ul class="category-list" id="categoryList">
             <!-- Categories will be injected here -->
         </ul>
+    </nav>
+
+    <!-- Date Filter Navigation Bar (For specific feeds) -->
+    <nav class="date-filter-nav" id="dateFilterNav">
+        <div class="filter-container">
+            <div class="date-input-group">
+                <span>Filter by Date:</span>
+                <input type="date" id="singleDate" onchange="applyDateFilter('single')">
+            </div>
+            <div style="height: 15px; width: 1px; background: var(--border-color);"></div>
+            <div class="date-input-group">
+                <span>Or Range:</span>
+                <input type="date" id="startDate" onchange="applyDateFilter('range')">
+                <span>to</span>
+                <input type="date" id="endDate" onchange="applyDateFilter('range')">
+            </div>
+            <button class="filter-btn" onclick="resetDateFilter()" style="margin-left: auto;">Reset</button>
+        </div>
     </nav>
 
     <main>
@@ -583,6 +750,16 @@
             <div class="loading-text">Fetching the latest dispatches...</div>
         </div>
     </main>
+
+    <!-- Article Dialog -->
+    <div id="articleDialog" class="dialog-overlay" onclick="if(event.target === this) closeArticleDialog()">
+        <div class="dialog-box">
+            <span class="dialog-close" onclick="closeArticleDialog()"><i class="fas fa-times"></i></span>
+            <div id="dialogContent" class="dialog-content">
+                <!-- Content injected via JS -->
+            </div>
+        </div>
+    </div>
 
     <footer>
         <p>The Dev Summary ©
@@ -652,7 +829,7 @@
                     }
                 };
 
-                const imgData = imgSrc ? await toBase64(`https://corsproxy.io?${encodeURIComponent(imgSrc)}`) : null;
+                const imgData = imgSrc ? await toBase64(`https://images.weserv.nl/?url=${encodeURIComponent(imgSrc)}`) : null;
 
                 // Programmatically construct a perfectly structured exact 4:5 offline poster div (1080x1350 resolution)
                 const poster = document.createElement('div');
@@ -737,20 +914,75 @@
         document.getElementById('dateDisplay').textContent = new Date().toLocaleDateString('en-US', options);
 
         // Categories Configuration
-        const categories = ['all', 'AI', 'AR/VR', 'Backend', 'Cloud', 'Cloud & DevOps', 'Cybersecurity', 'Database', 'Design', 'Design & UX', 'Dev Tools', 'DevOps', 'Engineering', 'Frontend', 'General Tech', 'GitHub Projects', 'Google', 'Metaverse', 'Mobile', 'Open Source', 'Productivity', 'Quantum', 'Research', 'Startup', 'System Design', 'Tech News', 'Testing', 'Web3'];
-        let currentCategory = 'all';
+        let categories = [];
+        let currentCategory = '';
         let allNewsData = []; // Store the full list for local filtering
+        let currentDisplayedData = []; // Store currently visible news for dialog lookup
+
+        function showArticleDialog(index) {
+            const item = currentDisplayedData[index];
+            if (!item) return;
+
+            let image_url = "";
+            if (item.image) {
+                image_url = item.image.startsWith("https") ? item.image : BASE_RAW_URL + item.image;
+            }
+
+            const dialogContent = document.getElementById('dialogContent');
+
+            dialogContent.innerHTML = `
+                ${item.image ? `<img src="${image_url}" class="dialog-image" alt="Article image">` : ''}
+                <div class="news-meta" style="margin-bottom: 15px;">
+                    <span style="color: var(--accent); font-family: var(--font-mono);">${item.category || 'Tech'}</span>
+                </div>
+                <h2>${item.title}</h2>
+                <div class="dialog-desc">${item.description}</div>
+                <div style="margin-top: 30px;">
+                    <a href="${item.link}" target="_blank" class="category-item active" style="text-decoration: none; display: inline-block;">Read Full Article <i class="fas fa-external-link-alt" style="margin-left: 8px;"></i></a>
+                </div>
+            `;
+
+            document.getElementById('articleDialog').style.display = 'flex';
+            document.body.style.overflow = 'hidden'; // Prevent scrolling
+        }
+
+        function closeArticleDialog() {
+            document.getElementById('articleDialog').style.display = 'none';
+            document.body.style.overflow = 'auto';
+        }
 
         function initCategoryNav() {
+            // Dynamically extract unique categories from the news data
+            const uniqueCategories = new Set();
+            allNewsData.forEach(item => {
+                let cat = item.category || 'Tech';
+                // Normalize "General Tech" to "Tech" if needed or keep as is
+                if (cat.toLowerCase() === 'general tech') cat = 'Tech';
+                uniqueCategories.add(cat);
+            });
+
+            // Sort alphabetically (removed 'all')
+            categories = Array.from(uniqueCategories).sort((a, b) => a.localeCompare(b));
+
+            // Set default category if not set, or if current category no longer exists in the data
+            if (!currentCategory || currentCategory === 'all' || !categories.includes(currentCategory)) {
+                currentCategory = categories[0] || 'Tech';
+            }
+
             const list = document.getElementById('categoryList');
             list.innerHTML = '';
             categories.forEach(cat => {
                 const li = document.createElement('li');
-                li.className = `category-item ${cat === currentCategory ? 'active' : ''}`;
+                li.className = `category-item ${cat.toLowerCase() === currentCategory.toLowerCase() ? 'active' : ''}`;
                 li.textContent = cat;
                 li.onclick = () => filterByCategory(cat);
                 list.appendChild(li);
             });
+
+            // Automatically trigger filtering for the default category if we just loaded the main feed
+            if (currentFeedUrl.includes('news.json')) {
+                filterByCategory(currentCategory);
+            }
         }
 
         function filterByCategory(category) {
@@ -765,11 +997,12 @@
             container.innerHTML = '<div class="loading-text">Filtering...</div>';
 
             let filteredData = allNewsData;
-            if (category !== 'all') {
+            if (category.toLowerCase() !== 'all') {
                 filteredData = allNewsData.filter(item => {
-                    const itemCat = (item.category || 'Tech').toLowerCase();
-                    return itemCat === category.toLowerCase() ||
-                        (category === 'General Tech' && itemCat === 'tech');
+                    let itemCat = item.category || 'Tech';
+                    if (itemCat.toLowerCase() === 'general tech') itemCat = 'Tech';
+
+                    return itemCat.toLowerCase() === category.toLowerCase();
                 });
             }
 
@@ -828,43 +1061,96 @@
 
         function handleFilterChange(value) {
             const categoryNav = document.getElementById('categoryNav');
+            const dateFilterNav = document.getElementById('dateFilterNav');
             const newsFeed = document.getElementById('news-feed');
             const marqueeText = document.getElementById('marqueeText');
 
             newsFeed.innerHTML = '<div class="loading-text">Fetching dispatches...</div>';
             marqueeText.textContent = '';
 
+            // Reset date filters
+            document.getElementById('singleDate').value = '';
+            document.getElementById('startDate').value = '';
+            document.getElementById('endDate').value = '';
+
             if (value === 'news.json') {
                 categoryNav.style.display = 'block';
+                dateFilterNav.style.display = 'none';
                 currentFeedUrl = BASE_RAW_URL + 'news.json';
             } else {
                 categoryNav.style.display = 'none';
-                currentFeedUrl = BASE_RAW_URL + value; // e.g. feeds/assemblyai.json
+                dateFilterNav.style.display = 'block';
+                currentFeedUrl = BASE_RAW_URL + value;
             }
             fetchNews(currentFeedUrl);
         }
+
+        let currentRawData = []; // Store the data before date filtering
 
         async function fetchNews(url = currentFeedUrl) {
             try {
                 const response = await fetch(url);
                 if (!response.ok) throw new Error('Network response was not ok');
                 const data = await response.json();
+                currentRawData = data;
 
-                // If it's the main feed, store it for filtering
                 if (url.includes('news.json')) {
                     allNewsData = data;
-                    currentCategory = 'all'; // Reset category state
                     initCategoryNav();
+                } else {
+                    renderNews(data);
                 }
-
-                renderNews(data);
             } catch (error) {
                 console.error('Error fetching news:', error);
                 document.getElementById('news-feed').innerHTML = '<div class="loading-text" style="color:var(--accent);">Error connecting to the printing press. Please try again.</div>';
             }
         }
 
+        function applyDateFilter(mode) {
+            let filtered = [...currentRawData];
+
+            const formatDate = (dateInput) => {
+                const d = new Date(dateInput);
+                if (isNaN(d)) return "";
+                return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
+            };
+
+            if (mode === 'single') {
+                const dateVal = document.getElementById('singleDate').value;
+                if (dateVal) {
+                    document.getElementById('startDate').value = '';
+                    document.getElementById('endDate').value = '';
+                    filtered = currentRawData.filter(item => {
+                        const itemDate = formatDate(item.datetimestamp || item.published);
+                        return itemDate === dateVal;
+                    });
+                }
+            } else if (mode === 'range') {
+                const start = document.getElementById('startDate').value;
+                const end = document.getElementById('endDate').value;
+                if (start || end) {
+                    document.getElementById('singleDate').value = '';
+                    filtered = currentRawData.filter(item => {
+                        const itemDate = formatDate(item.datetimestamp || item.published);
+                        if (start && end) return itemDate >= start && itemDate <= end;
+                        if (start) return itemDate >= start;
+                        if (end) return itemDate <= end;
+                        return true;
+                    });
+                }
+            }
+            renderNews(filtered);
+        }
+
+        function resetDateFilter() {
+            document.getElementById('singleDate').value = '';
+            document.getElementById('startDate').value = '';
+            document.getElementById('endDate').value = '';
+            renderNews(currentRawData);
+        }
+
         function renderNews(data) {
+            currentDisplayedData = data; // Update lookup reference
             const container = document.getElementById('news-feed');
             const marqueeText = document.getElementById('marqueeText');
 
@@ -899,10 +1185,22 @@
                 // Calculate reading time based on description length
                 const wordCount = item.description ? item.description.split(/\s+/).length : 0;
                 const readTime = Math.max(1, Math.ceil(wordCount / 200));
-                const image_url = item.image.startsWith("https") ? item.image : BASE_RAW_URL + item.image;
+
+                let image_url = "";
+                if (item.image) {
+                    image_url = item.image.startsWith("https") ? item.image : BASE_RAW_URL + item.image;
+                }
 
                 const pubDate = new Date(item.datetimestamp || item.published);
                 const formattedDate = isNaN(pubDate) ? "" : pubDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+
+                // Truncate description for "Read More"
+                let displayDesc = item.description || "";
+                let readMoreLink = "";
+                if (displayDesc.length > 200) {
+                    displayDesc = displayDesc.substring(0, 200);
+                    readMoreLink = `<span class="read-more" onclick="showArticleDialog(${index})">...more</span>`;
+                }
 
                 const cardHTML = `
                     <div class="news-card ${cardClass}" style="animation-delay: ${animDelay}s">
@@ -928,7 +1226,7 @@
                                     <span class="title-hover-effect">${item.title}</span>
                                 </a>
                             </h2>
-                            <p class="news-desc">${item.description}</p>
+                            <p class="news-desc">${displayDesc}${readMoreLink}</p>
                         </div>
                     </div>
                 `;

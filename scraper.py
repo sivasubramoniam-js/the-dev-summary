@@ -153,7 +153,7 @@ def phase1_fetch_feed(feed):
 
             if timestamp <= latest_timestamp:
                 continue
-
+            
             # Append the minimal data with empty image key
             item = {
                 "title": entry.get('title', ''),
@@ -242,9 +242,11 @@ def phase2_process_temp_file(filename):
         for item in new_items:
             if item.get('link'):
                 preview = get_link_preview(item['link'])
-                # Get the preview values and use those for title, description and image
-                if preview.get('title'):
+                # Use preview title ONLY if the original title from the feed is missing
+                if preview.get('title') and not item.get('title'):
                     item['title'] = preview['title']
+                
+                # Update description and image if they are better than what we have
                 if preview.get('description') and not preview.get('description').endswith('..'):
                     item['description'] = preview['description']
                 if preview.get('image'):
@@ -315,7 +317,7 @@ def main():
     with open('news.json', 'w', encoding='utf-8') as f:
         flat = [x for x in flat if datetime.fromisoformat(x['datetimestamp']) > datetime.now() - timedelta(hours=24)]
         random.shuffle(flat)
-        json.dump(flat[:50], f, indent=2)
+        json.dump(flat, f, indent=2)
 
     print("Completed successfully!")
 
