@@ -1,5 +1,14 @@
 [
   {
+    "title": "Cybersecurity in the Intelligence Age",
+    "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "description": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/64zhbS4FYJIaJ2TXQb6ztp/a538eb06a6e62b8964de2bf6d5a2e8a3/Cybersecurity_in_the_Intelligence_Age.png?w=1600&h=900&fit=fill",
+    "datetimestamp": "2026-04-29T04:00:00",
+    "source": "OpenAI Blog",
+    "category": "AI"
+  },
+  {
     "title": "OpenAI models, Codex, and Managed Agents come to AWS | OpenAI",
     "link": "https://openai.com/index/openai-on-aws",
     "description": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",

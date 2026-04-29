@@ -1,5 +1,32 @@
 [
   {
+    "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
+    "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
+    "description": "AI-driven attacks uncovered in February 2026 automate kill chain and seize Domain Admin credentials in minutes, forcing faster defenses.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8vcicU2DANrmyA4GRttWV5sb4GPYdppuZax9v279s90O_uXz10MvgxpTyOR9s-tZoccR96ph-c7hZOwXORyLBYdWEsn3zCkrT_ivf6ZVApdMY6TL6jarUO4rNjR9nfc7XPTnmc6ttcKs_9aGOsOK4RoEnliEqVYrcOtL_d7Zys-51KZosLtWtlsOX4mo/s1600/thn.jpg",
+    "datetimestamp": "2026-04-29T12:02:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
+    "link": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
+    "description": "Integrated exposure platforms validate exploitability, correlate paths, and reduce priorities to 2%, improving enterprise risk reduction.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEher9s_mKSWufl-S-lAJfV_7PalFTxuPLyiublEI1g0S4mOPLkr21X8SDIXB8fo-hbUXOf07J8lXp7esCsDNp3d5lJ33kZam2mnpQWQ5jG1S56U5WyfuB12Igvk2bFrUHxlDu7z4NVom_3yHR21GMcQHCoF6MEg8oXdkm4iJcygaRtcBwoTh0Sd7umE0cph/s1600/xmcyber.jpg",
+    "datetimestamp": "2026-04-29T11:30:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "Critical cPanel Authentication Vulnerability Identified \u2014 Update Your Server Immediately",
+    "link": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
+    "description": "cPanel patches authentication flaw across supported versions, prompting Namecheap port blocks and temporary access limits.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ54sVYryCG3V_ZjHJwzuKBteLhpf8FnX131rudu9bvgYGDupWYtJHLYxGPjVON072t-CWz4hyQmxQmwIW6ZZzTXsiJhcfRHPBj1ag1H0PeFGB4KkZIAsyhR0bT_DQqCj2uf_a5Yza7VbeBd3xRIvf4VUZ8UBRM2iEY10bk3me9zotLNcLExjSMaoY3y4l/s1600/cpanel.jpg",
+    "datetimestamp": "2026-04-29T09:37:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
     "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
     "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
     "description": "CISA added two actively exploited CVEs to KEV after confirmed attacks, mandating FCEB patching by May 12, 2026.",

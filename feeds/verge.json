@@ -1,5 +1,77 @@
 [
   {
+    "title": "The keyboard used to score Dune 2 is getting more affordable",
+    "link": "https://www.theverge.com/gadgets/920432/osmose-ce-mpe-midi-controller",
+    "description": "Osmose CE ditches the synth to become an expressive MIDI controller.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/osmosece49_00086407-1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "datetimestamp": "2026-04-29T14:07:53",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "Larry\u2019s risky business",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
+    "description": "It\u2019s risky business at Oracle.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/68456_ORACLE_BELLWEATHER7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "datetimestamp": "2026-04-29T13:57:16",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "Taylor Swift deepfakes are pushing scams on TikTok",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
+    "description": "No, Taylor Swift doesn\u2019t want you to sign up for \u201cTikTok Pay\u201d",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2267995710.jpg?quality=90&strip=all&crop=0%2C10.729716127092%2C100%2C78.540567745815&w=1200",
+    "datetimestamp": "2026-04-29T13:00:00",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "Electric air taxis are finally taking flight \u2014 just not with passengers",
+    "link": "https://www.theverge.com/transportation/919532/joby-aviation-electric-air-taxi-jfk-manhattan-faa",
+    "description": "Joby Aviation held several demonstrations of its electric air taxi in New York City, but is still waiting for regulatory approval to carry passengers.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DSC01562.jpg?quality=90&strip=all&crop=0%2C10.806933475316%2C100%2C78.386133049368&w=1200",
+    "datetimestamp": "2026-04-29T12:00:00",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "Saros reminded me how great the DualSense can be",
+    "link": "https://www.theverge.com/games/920070/saros-ps5-dualsense-controller-haptics-rumble",
+    "description": "The DualSense\u2019s haptics make the game incredibly immersive.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/saros-screenshot-02-en-14feb25.webp?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
+    "datetimestamp": "2026-04-29T12:00:00",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "Your PS5 can now transform into a Linux PC",
+    "link": "https://www.theverge.com/news/920322/ps5-linux-project-exploit-install",
+    "description": "It lets you run PC games on a PS5",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/ps5linux.jpg?quality=90&strip=all&crop=0%2C10.75385989963%2C100%2C78.49228020074&w=1200",
+    "datetimestamp": "2026-04-29T11:43:55",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "Meta isn\u2019t doing enough to keep kids off Facebook and Instagram, rules EU",
+    "link": "https://www.theverge.com/tech/920313/meta-facebook-instagram-eu-dsa-age-verification",
+    "description": "It could start by actually checking their age.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK043_META.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "datetimestamp": "2026-04-29T10:46:24",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "China freezes new robotaxi licenses after Baidu chaos",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+    "description": "Dozens of Baidu\u2019s Apollo Go robotaxis froze in traffic last month, sparking alarm in Beijing, Bloomberg reports.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+    "datetimestamp": "2026-04-29T10:39:21",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
     "title": "GitHub rushed to fix a critical vulnerability in less than six hours",
     "link": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix",
     "description": "A critical remote code execution vulnerability was discovered using an AI model and patched within hours.",

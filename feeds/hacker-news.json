@@ -1,5 +1,95 @@
 [
   {
+    "title": "Tangled \u2013 We need a federation of forges",
+    "link": "https://blog.tangled.org/federation/",
+    "description": "git is decentralized, but what of the rest?",
+    "image": "https://assets.tangled.network/blog/federation/Light.png",
+    "datetimestamp": "2026-04-29T14:00:59",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Facebook Has a Health Scam Problem",
+    "link": "https://www.nytimes.com/2026/04/27/well/facebook-supplements-health.html",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47948331\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-29T13:39:54",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Improving ICU handovers by learning from Scuderia Ferrari F1 team",
+    "link": "https://healthmanagement.org/c/icu/IssueArticle/improving-handovers-by-learning-from-scuderia-ferrari",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47947834\">Comments</a>",
+    "image": "https://healthmanagement.org/bundles/hmnewtheme/img/ICU_LOGO.png",
+    "datetimestamp": "2026-04-29T13:05:44",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Letting AI play my game \u2013 building an agentic test harness to help play-testing",
+    "link": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47947525\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-29T12:43:12",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
+    "link": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
+    "description": "Ask ChatGPT to estimate the carbs in your lunch. Now ask it again. And again. Five hundred times. You\u2019d expect the same answer each time. It\u2019s the same photo, the same model, the same question. But you won\u2019t get the same answer. Not even close \u2014 and the differences are large enough to cause a",
+    "image": "",
+    "datetimestamp": "2026-04-29T12:38:50",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Show HN: Adblock-rust Manager \u2013 Firefox extension to enable the Brave ad blocker",
+    "link": "https://github.com/electricant/adblock-rust-manager",
+    "description": "A Firefox extension that enables and manages Firefox's built-in adblock-rust engine - electricant/adblock-rust-manager",
+    "image": "https://opengraph.githubassets.com/e9fb6a0f3f0ba879cb1c0c8d3023008844608ee52202e1c7dfe45485dfe5ec4b/electricant/adblock-rust-manager",
+    "datetimestamp": "2026-04-29T12:24:53",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Coffee with a splash of physics: how to make the most out of your brew",
+    "link": "https://physicsworld.com/a/coffee-with-a-splash-of-physics-how-to-make-the-most-out-of-your-brew/",
+    "description": "With climate change impacting the world\u2019s coffee supplies, can physics help you reduce waste by brewing smarter? Michael Allen investigates",
+    "image": "https://physicsworld.com/wp-content/uploads/2026/04/2026-04-allen-espresso-machine-coffee-shot-2200892658-istock-hispanolistic.jpg",
+    "datetimestamp": "2026-04-29T12:18:59",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Stardex Is Hiring a Founding Customer Success Lead",
+    "link": "https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead",
+    "description": "Stardex is an AI-native ATS and CRM built for executive search and recruiting firms. We're backed by Y Combinator and\nserve some of the leading US based executive search firms. Our customers are operators, they make money when they make\nplacements, so every minute of downtime matters to them. We've been growing fast, and our founders have been handling\nsupport directly. We've hit the point where we need someone who owns it.\n\nThis is the first dedicated customer success hire at Stardex. You'll define how we support our customers, what processes\nlook like, and how we scale this function as we grow. You'll have real ownership and work directly with the founders.\n\nIdeally, you are based in the east coast and can make trips to NYC for in person team interaction initially.\n\n\ud83d\udd0d Who are you?\n\n  - You have 2\u20134 years of experience in customer support or success at a SaaS company. You've answered tickets, you've\n    talked to angry customers, you know what good looks like\n  - You're naturally curious about how products work. When something breaks, your first instinct is to figure out why,\n    not just escalate it\n  - You write clean, concise tickets. Engineers love working with you because you give them everything they need without\n    burying them in noise\n  - You can hold your own with sophisticated customers. Our users are recruiting firm owners and operators with strong\n    opinions \u2014 you stay calm, listen well, and push back thoughtfully when needed\n  - You're comfortable with ambiguity. We don't have a playbook yet. You'll be the one writing it\n  - You're proactive about systems. If you find yourself answering the same question three times, you build a doc, a\n    macro, or an automation\n  - You're comfortable using AI tools (Claude, ChatGPT, etc.) in your day-to-day workflow. You'd rather automate\n    something than do it manually\n\n\u2728 Bonus points if you...\n\n  - Have worked at an early-stage startup (Series A or earlier)\n  - Can read SQL or basic code well enough to debug small issues yourself (or leverage claude code and cursor)\n  - Have written help docs, set up a help center, or owned a knowledge base\n  - Have used Intercom, Plain, Linear, or similar tools\n  - Are familiar with the recruiting or HR tech space (not required, just a plus)\n\n\ud83c\udfaf What you'll own\n\n  - Frontline support: triaging tickets across Slack, email, and our help center\n  - Bug triage: figuring out what's a real bug vs user error vs doc gap, and writing tickets engineers can actually act\n    on\n  - Customer education: building the help center, onboarding flows, and email sequences that reduce ticket volume\n  - Customer relationships: being the trusted point of contact for our customers when things go wrong (and when they go\n    right)\n  - Process: defining how support, onboarding, and customer success work as we scale our customer base\n\n\ud83c\udf89 Why work with us?\n\n  - You'll be the first person in this role and have real ownership over how it evolves. The path from here to Head of\n    Customer Success is wide open\n  - You'll work directly with the founders. No layers, no politics, no waiting on someone else's roadmap\n  - You'll learn the executive search and recruiting space deeply, which is having a real moment right now with AI\n    changing how firms operate\n  - Remote-first, with flexibility on hours\n  - We'll give you whatever tools you need to be productive (and you'll probably get to pick most of them)\n\nCompensation: $70K\u2013$110K base + meaningful equity, depending on experience.\n\nInterested? Apply here or email Sanket directly at sanket(at)stardex.ai with a short note on what excites you about this\nrole and one example of a customer support process you built or improved.\n",
+    "image": "https://bookface-images.s3.amazonaws.com/logos/993e983475686dd8ebc20c8275fc1b05afdd3c92.png?1773957669",
+    "datetimestamp": "2026-04-29T12:00:17",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
+    "link": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
+    "description": ": Bemoans frequent outages that mean he\u2019ll move Ghostty elsewhere",
+    "image": "https://regmedia.co.uk/2025/07/24/shutterstock_editorial_only_goodbye_wall_hongkong_airport.jpg",
+    "datetimestamp": "2026-04-29T11:42:46",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "GitHub \u2013 DOS 1.0: Transcription of Tim Paterson's DOS Printouts",
+    "link": "https://github.com/DOS-History/Paterson-Listings",
+    "description": "Transcription of Tim Paterson's DOS printouts. Contribute to DOS-History/Paterson-Listings development by creating an account on GitHub.",
+    "image": "https://opengraph.githubassets.com/c8c9b9f945481bfd181312c3dbf0780d494d91aeb11cba63bcad339b8c9d0e92/DOS-History/Paterson-Listings",
+    "datetimestamp": "2026-04-29T11:25:12",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
     "title": "Show HN: Rip.so \u2013 a graveyard for dead internet things",
     "link": "https://rip.so",
     "description": "rip.so :: the digital graveyard. A memorial to messengers, social networks, browsers, gadgets and websites the internet forgot.",

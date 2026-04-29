@@ -1,5 +1,32 @@
 [
   {
+    "title": "Warp\u2019s gamble: Going open source to take on closed-source rivals",
+    "link": "https://thenewstack.io/warp-open-source-client/",
+    "description": "Warp open-sources its Rust-based agentic development environment client under AGPL, with OpenAI as founding sponsor of the new GitHub repository.",
+    "image": "https://cdn.thenewstack.io/media/2026/04/e89f8e2b-eva-corbisier-vqy4gzmrkyg-unsplash-scaled.jpg",
+    "datetimestamp": "2026-04-29T13:57:41",
+    "source": "The New Stack",
+    "category": "Tech News"
+  },
+  {
+    "title": "How AI transforms your role as a platform engineer",
+    "link": "https://thenewstack.io/platform-engineering-ai-agents/",
+    "description": "Discover how platform engineers can manage AI agent sprawl by providing developers with governed, self-serve building blocks.",
+    "image": "https://cdn.thenewstack.io/media/2026/04/7ce34570-adriandra-karuniawan-1kvwsbza_ba-unsplash-scaled.jpg",
+    "datetimestamp": "2026-04-29T13:05:00",
+    "source": "The New Stack",
+    "category": "Tech News"
+  },
+  {
+    "title": "How HPE is closing the loop on cloud and AI sprawl with agentic AI",
+    "link": "https://thenewstack.io/hpe-agentic-ops-copilot/",
+    "description": "Here's how HPE is using agentic AI, predictive analytics, and closed-loop operations to help understaffed enterprise ops teams handle hybrid cloud complexity.",
+    "image": "https://cdn.thenewstack.io/media/2026/04/18bdc962-david-palma-wlqpoh60tc8-unsplash-scaled.jpg",
+    "datetimestamp": "2026-04-29T13:00:00",
+    "source": "The New Stack",
+    "category": "Tech News"
+  },
+  {
     "title": "\"Developer loyalty is at zero right now\": Google doesn't care which AI coding tool you use - The New Stack",
     "link": "https://thenewstack.io/google-doesnt-care/",
     "description": "Google Cloud's Chief Evangelist Richard Seroter discusses developer loyalty, AI dev tools competition with AWS and Azure, and Google's platform strategy.",

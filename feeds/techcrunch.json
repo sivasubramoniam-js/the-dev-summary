@@ -1,5 +1,77 @@
 [
   {
+    "title": "Apple loses bid to pause App Store fee changes as case heads to Supreme Court",
+    "link": "https://techcrunch.com/2026/04/29/apple-epic-games-app-store-fees-pause-changes-supreme-court/",
+    "description": "Apple lost its bid to pause court-ordered App Store payment changes, keeping external purchase links in place as its case with Epic heads toward the Supreme Court.",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/12/fortnite-epic-games.jpg?w=1024",
+    "datetimestamp": "2026-04-29T14:06:58",
+    "source": "Techcrunch",
+    "category": "Tech News"
+  },
+  {
+    "title": "Earth AI is vertically integrating the search for critical minerals",
+    "link": "https://techcrunch.com/2026/04/29/earth-ai-is-vertically-integrating-the-search-for-critical-minerals/",
+    "description": "When Earth AI started hitting months-long delays in its search for critical minerals, it decided to take matters into its own hands.",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-157501301.jpeg?resize=1200,803",
+    "datetimestamp": "2026-04-29T14:00:00",
+    "source": "Techcrunch",
+    "category": "Tech News"
+  },
+  {
+    "title": "Sri Lanka discloses another missing payment, days after hackers stole $2.5M from its finance ministry",
+    "link": "https://techcrunch.com/2026/04/29/sri-lanka-discloses-another-missing-payment-days-after-hackers-stole-2-5m-from-its-finance-ministry/",
+    "description": "The government of Sri Lanka has lost more than $3 million in two recent, separate cybersecurity incidents as the country continues to recover from its 2022 debt crisis.",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-477672484.jpg?resize=1200,800",
+    "datetimestamp": "2026-04-29T13:23:57",
+    "source": "Techcrunch",
+    "category": "Tech News"
+  },
+  {
+    "title": "Firestorm Labs raises $82M to take drone factories into the field",
+    "link": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
+    "description": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/DSC07538.jpg?resize=1200,675",
+    "datetimestamp": "2026-04-29T13:10:57",
+    "source": "Techcrunch",
+    "category": "Tech News"
+  },
+  {
+    "title": "BMW i Ventures has a new $300M fund and AI is riding shotgun",
+    "link": "https://techcrunch.com/2026/04/29/bmw-i-ventures-has-a-new-300m-fund-and-ai-is-riding-shotgun/",
+    "description": "BMW i Ventures is interested in startups working on agentic AI and physical AI, as well as industrial software, advanced materials, and manufacturing and supply chain technologies.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/BMW-Portraits-BMW-i-Ventures-2026-03102660-copy.jpeg?resize=1200,800",
+    "datetimestamp": "2026-04-29T13:10:00",
+    "source": "Techcrunch",
+    "category": "Tech News"
+  },
+  {
+    "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
+    "link": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
+    "description": "Think Discord chats, but with AI characters in addition to humans.\u00a0",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2270785056.jpg?resize=1200,686",
+    "datetimestamp": "2026-04-29T13:00:00",
+    "source": "Techcrunch",
+    "category": "Tech News"
+  },
+  {
+    "title": "Google Translate now lets you practice pronunciation",
+    "link": "https://techcrunch.com/2026/04/29/google-translate-now-lets-you-practice-pronunciation/",
+    "description": "The feature is rolling out in the U.S. and India with support for English, Spanish, and Hindi.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/google-translate.jpg?resize=1200,800",
+    "datetimestamp": "2026-04-29T12:34:29",
+    "source": "Techcrunch",
+    "category": "Tech News"
+  },
+  {
+    "title": "Jack Dorsey-backed Vine reboot Divine launches to the public",
+    "link": "https://techcrunch.com/2026/04/29/jack-dorsey-backed-vine-reboot-divine-launches-to-public/",
+    "description": "Divine, a Vine reboot backed by Jack Dorsey\u2019s nonprofit, revives six-second looping videos.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/divine-featured-img.webp?w=1200",
+    "datetimestamp": "2026-04-29T12:00:00",
+    "source": "Techcrunch",
+    "category": "Tech News"
+  },
+  {
     "title": "Coby Adcock\u2019s Scout AI raises $100 million to train its models for war. We visited its bootcamp.",
     "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
     "description": "We visited Scout AI's training ground where it's working on AI agents that give individual soldiers control of fleets of autonomous vehicles.",

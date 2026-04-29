@@ -1,5 +1,50 @@
 [
   {
+    "title": "GitHub: Woah, a genuinely helpful AI-assisted bug report that isn't total slop. Here, Wiz, take this wad of cash",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/github_woah_a_genuinely_helpful/",
+    "description": ": Claude ploughs through months of work in rapid time, helps Wiz researchers nab lucrative award",
+    "image": "https://regmedia.co.uk/2021/02/24/cash.jpg",
+    "datetimestamp": "2026-04-29T13:02:16",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "AWS keynote hypes AI as magic. Its own engineers tell a different story",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/aws_keynote_hypes_ai_magic/",
+    "description": "Interview: No shortcuts, human-review everything, says internal team - and keep hiring junior developers",
+    "image": "https://regmedia.co.uk/2026/04/29/steve-tarcza.jpg",
+    "datetimestamp": "2026-04-29T12:51:27",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Microsoft opens door to the past by releasing 86-DOS and PC-DOS 1.00",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/microsoft_pc_dos_1_point_oh/",
+    "description": "Antiques code show: Back to a time when source repositories were printouts and commits were hand-written notes",
+    "image": "https://regmedia.co.uk/2023/12/07/shutterstock_pc.jpg",
+    "datetimestamp": "2026-04-29T12:13:55",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "EU waves through open source age-check tool to keep kids safe online",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/eu_adopts_open_source_ageverification/",
+    "description": ": 'Online platforms can rely on our app,' says Commish, 'there are no more excuses'",
+    "image": "https://regmedia.co.uk/2026/04/22/shutterstock_2716409083.jpg",
+    "datetimestamp": "2026-04-29T12:03:22",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "GitHub says sorry and vows to do better as uptime slips and devs complain",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/github_says_sorry_and_says/",
+    "description": ": After Hashicorp co-founder blasts the source shack and numbers slide",
+    "image": "https://regmedia.co.uk/2025/11/19/shutterstock_sorry.jpg",
+    "datetimestamp": "2026-04-29T11:00:22",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
     "title": "GoDaddy customer claims registrar transferred 27-year-old domain without any security checks",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/godaddy_megagaffe_wrongly_transferred_27yearold/",
     "description": ": 32 phone calls, 17 email chains, a 5-day ordeal, and no help during the daddy of all stuffups, claim those affected",

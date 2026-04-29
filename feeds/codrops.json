@@ -1,5 +1,14 @@
 [
   {
+    "title": "Between Human and Machine: Sofia Papadopoulou\u2019s Approach to Augmented Creativity",
+    "link": "https://tympanus.net/codrops/2026/04/29/between-human-and-machine-sofia-papadopoulous-approach-to-augmented-creativity/",
+    "description": "From painting to immersive design, Sofia Papadopoulou\u2019s path reflects a constant evolution across mediums.",
+    "image": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/04/sofia.webp?x85229",
+    "datetimestamp": "2026-04-29T10:25:46",
+    "source": "Codrops",
+    "category": "Tech News"
+  },
+  {
     "title": "More Than a Portfolio: Building a Scroll-Driven 3D World with Something to Say | Codrops",
     "link": "https://tympanus.net/codrops/2026/04/28/more-than-a-portfolio-building-a-scroll-driven-3d-world-with-something-to-say/",
     "description": "A scroll-driven 3D world built from scratch with Three.js, GSAP, and WebGL \u2014 where every technical decision serves a message worth sharing.",

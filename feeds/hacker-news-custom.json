@@ -1,5 +1,41 @@
 [
   {
+    "title": "Letting AI play my game \u2013 building an agentic test harness to help play-testing",
+    "link": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+    "description": "<p>Article URL: <a href=\"https://blog.jeffschomay.com/letting-ai-play-my-game\">https://blog.jeffschomay.com/letting-ai-play-my-game</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47947525\">https://news.ycombinator.com/item?id=47947525</a></p>\n<p>Points: 36</p>\n<p># Comments: 1</p>",
+    "image": "",
+    "datetimestamp": "2026-04-29T12:43:12",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
+    "link": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
+    "description": "Ask ChatGPT to estimate the carbs in your lunch. Now ask it again. And again. Five hundred times. You\u2019d expect the same answer each time. It\u2019s the same photo, the same model, the same question. But you won\u2019t get the same answer. Not even close \u2014 and the differences are large enough to cause a",
+    "image": "",
+    "datetimestamp": "2026-04-29T12:38:50",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Show HN: Adblock-rust Manager \u2013 Firefox extension to enable the Brave ad blocker",
+    "link": "https://github.com/electricant/adblock-rust-manager",
+    "description": "A Firefox extension that enables and manages Firefox's built-in adblock-rust engine - electricant/adblock-rust-manager",
+    "image": "https://opengraph.githubassets.com/e9fb6a0f3f0ba879cb1c0c8d3023008844608ee52202e1c7dfe45485dfe5ec4b/electricant/adblock-rust-manager",
+    "datetimestamp": "2026-04-29T12:24:53",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "GitHub \u2013 DOS 1.0: Transcription of Tim Paterson's DOS Printouts",
+    "link": "https://github.com/DOS-History/Paterson-Listings",
+    "description": "Transcription of Tim Paterson's DOS printouts. Contribute to DOS-History/Paterson-Listings development by creating an account on GitHub.",
+    "image": "https://opengraph.githubassets.com/ffa6bc2f5fc64f10ac93f0c892b4a83b328ea4b0766f0b6e8941a6a5655b846d/DOS-History/Paterson-Listings",
+    "datetimestamp": "2026-04-29T11:25:12",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
     "title": "Show HN: Rip.so \u2013 a graveyard for dead internet things",
     "link": "https://rip.so",
     "description": "rip.so :: the digital graveyard. A memorial to messengers, social networks, browsers, gadgets and websites the internet forgot.",

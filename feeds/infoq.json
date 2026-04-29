@@ -1,5 +1,32 @@
 [
   {
+    "title": "Presentation: Agents, Architecture, & Amnesia: Becoming AI-Native Without Losing Our Minds",
+    "link": "https://www.infoq.com/presentations/ai-autonomy-continuum/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "description": "Tracy Bannon shares a cautionary tale of \"The Sorcerer\u2019s Apprentice\" to illustrate the risks of unbridled AI autonomy. She discusses the shift from bots to autonomous agents, explaining how reckless speed leads to \"Architectural Amnesia.\" She provides a concrete framework for \"Minimum Viable Governance,\" focusing on identity, delegation, and ADRs to manage debt at machine speed across the SDLC.",
+    "image": "https://res.infoq.com/presentations/ai-autonomy-continuum/en/card_header_image/tracy-bannon-twitter-card-1776946730433.jpg",
+    "datetimestamp": "2026-04-29T14:15:00",
+    "source": "Infoq",
+    "category": "Tech News"
+  },
+  {
+    "title": "Sauce Labs Launches AI Agent to Automate Test Creation and Close the DevOps \u201cVelocity Gap\u201d",
+    "link": "https://www.infoq.com/news/2026/04/sauce-labs-ai-test-creation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "description": "Sauce Labs has announced the general availability of Sauce AI for Test Authoring, an AI-driven agent designed to translate business intent directly into executable test suites, marking a shift toward what the company calls Intent-Driven Testing.",
+    "image": "https://res.infoq.com/news/2026/04/sauce-labs-ai-test-creation/en/headerimage/generatedHeaderImage-1777279390184.jpg",
+    "datetimestamp": "2026-04-29T12:00:00",
+    "source": "Infoq",
+    "category": "Tech News"
+  },
+  {
+    "title": "Mistral AI Introduces Workflows for Orchestrating Enterprise AI Processes",
+    "link": "https://www.infoq.com/news/2026/04/mistral-ai-workflows/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "description": "Mistral AI has launched Workflows, an orchestration layer for enterprise AI that is now in public preview. This release addresses a significant challenge as AI models and agents become more advanced, while reliably deploying them in production remains difficult due to a lack of infrastructure for coordination, monitoring, and recovery.",
+    "image": "https://res.infoq.com/news/2026/04/mistral-ai-workflows/en/headerimage/generatedHeaderImage-1777456521946.jpg",
+    "datetimestamp": "2026-04-29T10:20:00",
+    "source": "Infoq",
+    "category": "Tech News"
+  },
+  {
     "title": "QCon AI Boston 2026 Schedule: Agents in Production, Inference Cost, and AI in the SDLC",
     "link": "https://www.infoq.com/news/2026/04/qconai-boston-2026-schedule-live/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
     "description": "The schedule for QCon AI Boston 2026 (June 1-2) is now live. The two-day program groups sessions around context engineering, inference economics, agent reliability, and how AI is changing the software development lifecycle. Speakers include engineers from DoorDash, LinkedIn, Netflix, Apple, and Red Hat.",

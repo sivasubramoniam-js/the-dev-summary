@@ -1,5 +1,14 @@
 [
   {
+    "title": "The state of AI in CNCF projects: A first look at the data",
+    "link": "https://www.cncf.io/blog/2026/04/29/the-state-of-ai-in-cncf-projects-a-first-look-at-the-data/",
+    "description": "At CNCF TAG Developer Experience, we recently set out to understand how Artificial Intelligence is shaping open-source development. The response from the community has been impressive in its scale\u2026",
+    "image": "https://www.cncf.io/wp-content/uploads/2026/04/Blog-Default-19.jpg",
+    "datetimestamp": "2026-04-29T11:00:00",
+    "source": "Cncf Blog",
+    "category": "Cloud & DevOps"
+  },
+  {
     "title": "Kubernetes for platform teams: Leveraging k0s and k0rdent | CNCF",
     "link": "https://www.cncf.io/blog/2026/04/27/kubernetes-for-platform-teams-leveraging-k0s-and-k0rdent/",
     "description": "In our previous blog, we explored a GitOps use case for on-premises infrastructure, managing multiple clusters hosted on the k3s Kubernetes distribution using k0rdent. But the platform engineering\u2026",

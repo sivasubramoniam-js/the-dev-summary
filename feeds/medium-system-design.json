@@ -1,5 +1,59 @@
 [
   {
+    "title": "WS2812B NeoPixel LED Projects That Turn Light Into Experience",
+    "link": "https://medium.com/@phd.hfchang/ws2812b-neopixel-led-projects-that-turn-light-into-experience-bd76a798d48f?source=rss------system_design-5",
+    "description": "Build dynamic visual feedback projects: color mood lamp, music visualizer, gaming peripheral, notification panel, and smart mirror frame",
+    "image": "https://miro.medium.com/v2/resize:fit:800/0*XhLbrxYsQR6vTChZ.png",
+    "datetimestamp": "2026-04-29T14:32:00",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "I Built My Own S3-Like Storage System From Scratch \u2014 Here\u2019s What I Learned",
+    "link": "https://medium.com/@mk4400320/i-built-my-own-s3-like-storage-system-from-scratch-heres-what-i-learned-90a46a58bdb9?source=rss------system_design-5",
+    "description": "Most developers use cloud storage.",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*bs5PkxdWCZdJubNuIKBVaw.png",
+    "datetimestamp": "2026-04-29T14:13:55",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "SQL Joins, Subqueries, and Execution Flow \u2014 How Data Actually Works in Real Systems",
+    "link": "https://medium.com/@harish1309159/sql-joins-subqueries-and-execution-flow-how-data-actually-works-in-real-systems-60ee0b09cddd?source=rss------system_design-5",
+    "description": "From writing queries to designing systems \u2014 a deep, structured, end-to-end breakdown of how SQL actually works in production",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*RH5trA7xJQj769wdtNM2pw.png",
+    "datetimestamp": "2026-04-29T13:21:42",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "Modern Sistemlerde Cache: RAG ile Ak\u0131ll\u0131 Veri Eri\u015fiminin Evrimi",
+    "link": "https://medium.com/@hibrahimar21/modern-sistemlerde-cache-rag-ile-ak%C4%B1ll%C4%B1-veri-eri%C5%9Fiminin-evrimi-80071b585271?source=rss------system_design-5",
+    "description": "Merhaba , AI projeleri geli\u015ftirirken \u015funu net bir \u015fekilde fark ettim: performans\u0131 ger\u00e7ekten art\u0131ran \u015fey, yaln\u0131zca algoritmalar de\u011fil, \u2018veri\u2026",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*dlZ8ikAvLwd6pzmdD7n2ww.jpeg",
+    "datetimestamp": "2026-04-29T13:00:28",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "Scaling Your Database: When to Go Up, Out, and Beyond",
+    "link": "https://thearnabsaha.medium.com/scaling-your-database-when-to-go-up-out-and-beyond-d19dd5e23a0f?source=rss------system_design-5",
+    "description": "Databases are the heartbeat of every modern application. As traffic surges, the single\u2011node setup that once felt \u201cjust right\u201d quickly\u2026",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*6Gu0TMwDaEuFatOVAw1CRw.png",
+    "datetimestamp": "2026-04-29T11:00:07",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "Good Design Isn\u2019t a Vibe -It\u2019s a System",
+    "link": "https://medium.com/andamp/good-design-isnt-a-vibe-it-s-a-system-a75617bdb0b5?source=rss------system_design-5",
+    "description": "Were you ever given a (design) task and couldn\u2019t help but think, \u201cWhy does this feel wrong, even though everything technically works?\u201d",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*Uyuzq9XQ4kX7o0RYVumrqA.png",
+    "datetimestamp": "2026-04-29T10:29:17",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
     "title": "Building an Inventory system From Scratch (Part 2): Designing Products and Variants",
     "link": "https://medium.com/@harshitgpt41/building-an-inventory-system-from-scratch-part-2-designing-products-and-variants-2eb7b8214668?source=rss------system_design-5",
     "description": "In the previous article, I started designing an inventory system and focused on thinking in terms of modules like product, warehouse and\u2026",
