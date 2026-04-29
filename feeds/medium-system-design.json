@@ -1,5 +1,23 @@
 [
   {
+    "title": "What UX design taught me about effectiveness, clear goals, and why good systems do not waste your\u2026",
+    "link": "https://medium.com/@resonance.heals/what-ux-design-taught-me-about-effectiveness-clear-goals-and-why-good-systems-do-not-waste-your-9af8c5f62956?source=rss------system_design-5",
+    "description": "The quiet relief of things that work",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*-BbEXVfDqzjQaUNNMLzmcQ.png",
+    "datetimestamp": "2026-04-29T05:06:01",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "Creating a Design System at a young SASS company\u200a\u2014\u200athe process, the lessons, and the tools.",
+    "link": "https://medium.com/@michaeldtodd/creating-a-design-system-at-a-young-sass-company-the-process-the-lessons-and-the-tools-91ce57f643b8?source=rss------system_design-5",
+    "description": "A Look Back at an 8-Year Journey as a UI Designer Within a Growing SaaS Company.",
+    "image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "datetimestamp": "2026-04-29T04:36:33",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
     "title": "Backend Architecture Series \u2014 Part 8 | by Oshadha Thrimavithana | Apr, 2026 | Medium",
     "link": "https://medium.com/@oshadhaj/backend-architecture-series-part-8-daeaf9fa4746?source=rss------system_design-5",
     "description": "Resiliency in backend systems \u2014 retries, timeouts, idempotency, and surviving failure without chaos",
