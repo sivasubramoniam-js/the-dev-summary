@@ -1,5 +1,23 @@
 [
   {
+    "title": "VoidZero\u2019s Experimental Oxc Angular Compiler with Up to 20x Faster Build Performance",
+    "link": "https://www.infoq.com/news/2026/04/angular-compiler-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "description": "VoidZero has released an experimental Angular compiler in Rust, promising improved build performance compared to Angular CLI. Benchmarks indicate it is up to 6.4x faster than Angular CLI, especially for larger applications. Developed over two months with AI collaboration, it integrates with Vite and offers significant reductions in build time. The initiative is for research purposes only.",
+    "image": "https://res.infoq.com/news/2026/04/angular-compiler-rust/en/headerimage/generatedHeaderImage-1777395050023.jpg",
+    "datetimestamp": "2026-04-29T15:32:00",
+    "source": "Infoq",
+    "category": "Tech News"
+  },
+  {
+    "title": "Microsoft Releases .NET 11 Preview 3 with Updates Across Runtime, SDK, MAUI, and ASP.NET Core",
+    "link": "https://www.infoq.com/news/2026/04/dotnet-11-preview-3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "description": "Microsoft has released .NET 11 Preview 3, the third preview of its upcoming Standard Term Support version due in November 2026. The update spans the runtime, SDK, libraries, ASP.NET Core, EF Core, and .NET MAUI, with Runtime Async leaving the preview-feature gate, new JIT optimizations, Zstandard compression in ASP.NET Core, and expanded MAUI Map controls.",
+    "image": "https://res.infoq.com/news/2026/04/dotnet-11-preview-3/en/card_header_image/generatedCard-1777466739460.jpg",
+    "datetimestamp": "2026-04-29T14:43:00",
+    "source": "Infoq",
+    "category": "Tech News"
+  },
+  {
     "title": "Presentation: Agents, Architecture, & Amnesia: Becoming AI-Native Without Losing Our Minds",
     "link": "https://www.infoq.com/presentations/ai-autonomy-continuum/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
     "description": "Tracy Bannon shares a cautionary tale of \"The Sorcerer\u2019s Apprentice\" to illustrate the risks of unbridled AI autonomy. She discusses the shift from bots to autonomous agents, explaining how reckless speed leads to \"Architectural Amnesia.\" She provides a concrete framework for \"Minimum Viable Governance,\" focusing on identity, delegation, and ADRs to manage debt at machine speed across the SDLC.",

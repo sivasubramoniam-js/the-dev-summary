@@ -1,5 +1,122 @@
 [
   {
+    "title": "Amazon RDS for MySQL announces Innovation Release 9.6 in Amazon RDS Database Preview Environment",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-mysql-innovation/",
+    "description": "Discover more about what's new at AWS with Amazon RDS for MySQL announces Innovation Release 9.6 in Amazon RDS Database Preview Environment",
+    "image": "",
+    "datetimestamp": "2026-04-29T20:37:00",
+    "source": "Aws",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Amazon DocumentDB (with MongoDB compatibility) is Now Available in the Canada West (Calgary) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-documentdb-available-in-canada-west-region/",
+    "description": "Discover more about what's new at AWS with Amazon DocumentDB (with MongoDB compatibility) is Now Available in the Canada West (Calgary) Region",
+    "image": "",
+    "datetimestamp": "2026-04-29T18:00:00",
+    "source": "Aws",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Amazon CloudFront now supports invalidation by cache tag",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/cloudfront-invalidation-cache-tag/",
+    "description": "Discover more about what's new at AWS with Amazon CloudFront now supports invalidation by cache tag",
+    "image": "",
+    "datetimestamp": "2026-04-29T17:06:00",
+    "source": "Aws",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Paraphrase-multilingual-MiniLM-L12-v2, Table Transformer Detection, and Bielik-11B-v3.0-Instruct are now available in Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/paraphrase-multilingual-table-transformer-bielik-on-sagemaker-jumpstart/",
+    "description": "Discover more about what's new at AWS with Paraphrase-multilingual-MiniLM-L12-v2, Table Transformer Detection, and Bielik-11B-v3.0-Instruct are now available in Amazon SageMaker JumpStart",
+    "image": "",
+    "datetimestamp": "2026-04-29T17:05:00",
+    "source": "Aws",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Gemma 4 models are now available in Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/gemma-4-models-on-sagemaker-jumpstart/",
+    "description": "Discover more about what's new at AWS with Gemma 4 models are now available in Amazon SageMaker JumpStart",
+    "image": "",
+    "datetimestamp": "2026-04-29T17:05:00",
+    "source": "Aws",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Amazon CloudWatch adds visual agent configuration to the EC2 console",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-agent-ec2/",
+    "description": "Discover more about what's new at AWS with Amazon CloudWatch adds visual agent configuration to the EC2 console",
+    "image": "",
+    "datetimestamp": "2026-04-29T17:00:00",
+    "source": "Aws",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "OpenAI GPT OSS and NVIDIA Nemotron Models Available on Amazon Bedrock in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/openai-gpt-oss-nvidia-nemotron-govcloud/",
+    "description": "Discover more about what's new at AWS with OpenAI GPT OSS and NVIDIA Nemotron Models Available on Amazon Bedrock in AWS GovCloud (US)",
+    "image": "",
+    "datetimestamp": "2026-04-29T15:18:00",
+    "source": "Aws",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Amazon Quick Adds Custom Sort for Filter Controls",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/quick-filter-control-sort/",
+    "description": "Discover more about what's new at AWS with Amazon Quick Adds Custom Sort for Filter Controls",
+    "image": "",
+    "datetimestamp": "2026-04-29T15:00:00",
+    "source": "Aws",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "AWS Transfer Family Terraform module now supports Okta and Microsoft Entra ID integration examples",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transfer-family-terraform-okta-microsoft-entra-id/",
+    "description": "Discover more about what's new at AWS with AWS Transfer Family Terraform module now supports Okta and Microsoft Entra ID integration examples",
+    "image": "",
+    "datetimestamp": "2026-04-29T10:00:00",
+    "source": "Aws",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Amazon RDS for Db2 is now available in the AWS GovCloud (US-East, US-West) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-db2-available-aws-govcloud-us-east-us-west-regions/",
+    "description": "Discover more about what's new at AWS with Amazon RDS for Db2 is now available in the AWS GovCloud (US-East, US-West) Regions",
+    "image": "",
+    "datetimestamp": "2026-04-29T07:21:00",
+    "source": "Aws",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Amazon EMR 7.13 now available with Python 3.11",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-emr-713-python-311/",
+    "description": "Discover more about what's new at AWS with Amazon EMR 7.13 now available with Python 3.11 ",
+    "image": "",
+    "datetimestamp": "2026-04-29T07:00:00",
+    "source": "Aws",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Amazon OpenSearch Service now supports JWKS URL configuration for JWT authentication",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-jwks-url-jwt/",
+    "description": "Discover more about what's new at AWS with Amazon OpenSearch Service now supports JWKS URL configuration for JWT authentication",
+    "image": "",
+    "datetimestamp": "2026-04-29T02:30:00",
+    "source": "Aws",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Amazon Bedrock AgentCore Runtime now supports Node.js for direct code deployment",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore-runtime/",
+    "description": "Discover more about what's new at AWS with Amazon Bedrock AgentCore Runtime now supports Node.js for direct code deployment",
+    "image": "",
+    "datetimestamp": "2026-04-28T19:44:00",
+    "source": "Aws",
+    "category": "Cloud & DevOps"
+  },
+  {
     "title": "AWS Glue 5.1 is now available in all AWS Commercial and AWS GovCloud (US) Regions - AWS",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-glue-5-1-all-govcloud-commercial-regions/",
     "description": "Discover more about what's new at AWS with AWS Glue 5.1 is now available in all AWS Commercial and AWS GovCloud (US) Regions",

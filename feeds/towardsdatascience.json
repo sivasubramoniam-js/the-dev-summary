@@ -1,5 +1,23 @@
 [
   {
+    "title": "4 YAML Files Instead of PySpark: How We Let Analysts Build Data Pipelines Without Engineers",
+    "link": "https://towardsdatascience.com/4-yaml-files-instead-of-pyspark-how-we-let-analysts-build-data-pipelines-without-engineers/",
+    "description": "<p>How we replaced Python pipelines with dlt, dbt, and Trino \u2014 and cut delivery time from weeks to one day.</p>\n<p>The post <a href=\"https://towardsdatascience.com/4-yaml-files-instead-of-pyspark-how-we-let-analysts-build-data-pipelines-without-engineers/\">4 YAML Files Instead of PySpark: How We Let Analysts Build Data Pipelines Without Engineers</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-29T16:30:00",
+    "source": "Towardsdatascience",
+    "category": "AI"
+  },
+  {
+    "title": "Ensembles of Ensembles of Ensembles: A Guide to Stacking",
+    "link": "https://towardsdatascience.com/ensembles-of-ensembles-of-ensembles/",
+    "description": "<p>The best machine learning model is not one model</p>\n<p>The post <a href=\"https://towardsdatascience.com/ensembles-of-ensembles-of-ensembles/\">Ensembles of Ensembles of Ensembles: A Guide to Stacking</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-04-29T15:00:00",
+    "source": "Towardsdatascience",
+    "category": "AI"
+  },
+  {
     "title": "Agentic AI: How to Save on\u00a0Tokens",
     "link": "https://towardsdatascience.com/agentic-ai-how-to-save-on-tokens/",
     "description": "<p>Caching, lazy-loading, routing, compaction, and more</p>\n<p>The post <a href=\"https://towardsdatascience.com/agentic-ai-how-to-save-on-tokens/\">Agentic AI: How to Save on\u00a0Tokens</a> appeared first on <a href=\"https://towardsdatascience.com\">Towards Data Science</a>.</p>",

@@ -1,5 +1,122 @@
 [
   {
+    "title": "Microsoft lifts 2026 AI spend by $25 billion to cover component price rises",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/microsoft_q3_2026/",
+    "description": ": Will write checks for $190 billion and even those megabucks may not satisfy demand",
+    "image": "https://regmedia.co.uk/2024/03/19/shutterstock_nadella.jpg",
+    "datetimestamp": "2026-04-30T01:15:56",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Linux cryptographic code flaw offers fast route to root",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/linux_cryptographic_code_flaw/",
+    "description": ": Patches land for authencesn flaw enabling local privilege escalation",
+    "image": "https://regmedia.co.uk/2026/04/30/shutterstock_penguin_fights_fur_seal.jpg",
+    "datetimestamp": "2026-04-30T00:01:50",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Amazon chips no longer just a side dish, they're a $20B biz",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/amazon_chips_20b_business/",
+    "description": ": The Trainium train keeps a-rollin'",
+    "image": "https://regmedia.co.uk/2025/12/04/aws_graviton_5.jpg",
+    "datetimestamp": "2026-04-29T23:47:45",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Researchers move in the right direction, develop powerful GPS interference alarm",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/boffins_new_gps_interference_alarm/",
+    "description": ": ORNL says portable detector kit can separate real GPS signals from fake ones even at equal strength",
+    "image": "https://regmedia.co.uk/2025/09/02/shutterstock_gps_glitch.jpg",
+    "datetimestamp": "2026-04-29T20:11:05",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Microsoft's patch for a 0-day exploited by Russian spies fell short. Another Windows flaw is under attack",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/microsoft_zero_click_exploit/",
+    "description": ": Second try's a charm?",
+    "image": "https://regmedia.co.uk/2022/03/18/russian_bear_shutterstock.jpg",
+    "datetimestamp": "2026-04-29T19:15:07",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Legacy TLS tour continues with Exchange Online blocking old versions from July 2026",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/exchange_online_blocks_old_versions/",
+    "description": ": Microsoft readies the axe once again for yesterday's security",
+    "image": "https://regmedia.co.uk/2023/12/20/shutterstock_switchoff.jpg",
+    "datetimestamp": "2026-04-29T18:35:11",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Databricks can't seem to shake authors' copyright claim that could result in 'extraordinary' damages",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/databricks_author_copyright_lawsuit_continues/",
+    "description": ": Authors say it acquired an LLM that was trained on their copyrighted data, and judge keeps asking for more info",
+    "image": "https://regmedia.co.uk/2026/04/29/angry_writer.jpg",
+    "datetimestamp": "2026-04-29T18:05:14",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Fedora 44 is out \u2013 countless versions of it",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/fedora_44_countless_versions/",
+    "description": ": New sealed bootable container images and Stratis storage, too",
+    "image": "https://regmedia.co.uk/2022/05/12/shutterstock_fedoras.jpg",
+    "datetimestamp": "2026-04-29T17:38:43",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Cloudflare says autocrats, wars and elections caged the internet in Q1",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/autocrats_war_elections_caused_internet/",
+    "description": ": Iran went dark twice, AWS got droned, oh and TalkTalk broke something it refuses to talk about",
+    "image": "https://regmedia.co.uk/2017/08/11/shutterstock_cables.jpg",
+    "datetimestamp": "2026-04-29T17:05:55",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Yet another experiment proves it's too damn simple to poison large language models",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/poisoning_large_language_models_6nimmt/",
+    "description": ": There is no 6 Nimmt! champion, but a $12 domain registration and one Wikipedia edit convinced several bots there was",
+    "image": "https://regmedia.co.uk/2022/12/16/shutterstock_house_of_cards.jpg",
+    "datetimestamp": "2026-04-29T17:00:18",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "NASA boss: Make Pluto A Planet Again",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/nasa_boss_make_pluto_a_planet_again/",
+    "description": ": Despite looming science cuts, Isaacman finds resources to poke the planetary hornet nest",
+    "image": "https://regmedia.co.uk/2015/07/14/pluto1.jpg",
+    "datetimestamp": "2026-04-29T16:10:12",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "CISA flags data-theft bug in NSA-built OT networking tool",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/cisa_flags_datatheft_bug_in/",
+    "description": ": GrassMarlin leaks sensitive information, provided your targeting phishing skills are sharp enough",
+    "image": "https://regmedia.co.uk/2024/05/07/data_shutterstock.jpg",
+    "datetimestamp": "2026-04-29T15:35:04",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "AWS plants more tombstones in the application graveyard",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/aws_whats_next_application_graveyard_corey_quinn/",
+    "description": ": Eleven up, ten down",
+    "image": "https://regmedia.co.uk/2026/04/29/zombie_hand_graveyard.jpg",
+    "datetimestamp": "2026-04-29T14:55:09",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
     "title": "GitHub: Woah, a genuinely helpful AI-assisted bug report that isn't total slop. Here, Wiz, take this wad of cash",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/github_woah_a_genuinely_helpful/",
     "description": ": Claude ploughs through months of work in rapid time, helps Wiz researchers nab lucrative award",

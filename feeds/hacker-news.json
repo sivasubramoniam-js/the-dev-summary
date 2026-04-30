@@ -1,5 +1,194 @@
 [
   {
+    "title": "A Grounded Conceptual Model for Ownership Types in Rust",
+    "link": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47957116\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-30T01:47:19",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Craig Venter has died",
+    "link": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47957101\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-30T01:44:56",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Claude.ai and API unavailable [fixed]",
+    "link": "https://status.claude.com/incidents/2gf1jpyty350",
+    "description": "Claude's Status Page - claude.ai and API unavailable.",
+    "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+    "datetimestamp": "2026-04-30T01:21:03",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Joby Kicks Off NYC Electric Air Taxi Demos with Historic JFK Flight",
+    "link": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47956781\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-30T01:01:55",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Mike: open-source legal AI",
+    "link": "https://mikeoss.com/",
+    "description": "An open-source alternative to Harvey and Legora. Feature parity, zero cost, self-hostable \u2014 built for law firms to own and extend.",
+    "image": "",
+    "datetimestamp": "2026-04-30T00:56:23",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
+    "link": "https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer",
+    "description": "Founding Growth Engineer \u2013 Gooseworks\n\nGooseworks is hiring a Founding Growth Engineer!\n\nThis is a builder role for someone who lives in Claude Code / Codex / OpenClaw / Hermes and is obsessed with growth as a\ncraft. Not a typical sales / marketer role.\n\nHalf your time goes to building, operating and tuning AI-powered growth engines for customers; the other half goes to\nR&D \u2014 turning what works into self-serve playbooks that Goose agents can run autonomously.\n\nWhat is Gooseworks\n\nGooseworks is the workspace where companies stand up and manage teams of AI coworkers that do real growth work \u2014\noutbound, content, SEO/AEO, Reddit growth, partnerships, UGC, influencer marketing, and more.\n\nEach coworker has its own computer, memory, files, channels, skills, and tools. Our thesis: Growth & GTM work is about\nto transform the way coding did three years ago. The bottleneck isn't the models \u2014 it's orchestration, context, and the\nworkspace these agents live in.\n\nWe sell two things:\n\n1.  The product \u2014 a workspace where AI coworkers run growth engines. PLG, self-serve.\n2.  Growth-as-a-service \u2014 bespoke growth engines we configure and run for B2B startups. This is also our learning loop:\n    every customer engine becomes a templatized playbook on the product.\n\nOur wedge ICP is founders, GTM engineers and growth operators at fast growing startups. People who know what good growth\nlooks like and want to execute 10x faster.\n\nAbout the team\n\nWe\u2019re a small team of 3 people that previously built Athina AI, an LLM observability & evaluation platform that was used\nby companies like Perplexity, You.com, Doximity, Meesho, and several public companies.\n\nGooseworks is new, only a couple of months old.\n\nIn the last couple of months itself, we\u2019ve:\n\n  - built and shipped a product with paying customers\n  - attracted thousands of signups and over 50 paying customers\n  - built a skill library with 100+ GTM skills that was featured in TLDR newsletter\n  - went viral on X over 5 times with 1.5M impressions on socials\n  - grown a subreddit to 30k monthly visitors and over 2,000 community members\n\nA large part of this was done by Goose, our AI coworker.\n\nNow we\u2019re scaling what works. More, bigger, better for ourselves and our customers.\n\nWhat you'll own\n\nTwo things, ~50/50:\n\n1. Customer growth engines (50%)\n\nYou own customer outcomes. End-to-end. Outbound campaigns, SEO content, Reddit growth, AEO, influencer sourcing \u2014\nwhatever moves the customer's KPI. You build the engine (skills, automations, context, integrations), run it, and\niterate weekly with the customer until the numbers move.\n\nThe bar isn't \"we shipped the engine.\" It's \"the customer hit their KPI.\"\n\n2. R&D for AI coworkers (50%)\n\nEvery customer engine you build becomes a templatized playbook in Gooseworks. You're the loop that turns one-off agency\nwork into self-serve product. You also push the boundaries of what Goose agents can do autonomously \u2014 new agent\narchitectures, new skills, new playbooks for channels we haven't cracked yet.\n\nYou'll contribute to our public skills repo, ship cornerstone agent systems, and help define what \"an AI coworker that\nruns growth\" actually means.\n\nFirst 7 days\n\n  - Onboard and get to know the team\n  - Create skills for our public repository\n  - Set up 1-2 useful growth engines end-to-end (for Gooseworks!)\n\nFirst 30 days\n\n  - Build more growth engines end-to-end.\n  - Templatize these into playbooks that customers can configure self-serve.\n  - Work with customers to tailor the growth engines for them, identify issues, help guide product feedback, and do\n    whatever is needed to help customers grow their business\n  - R&D to experiment with new playbooks we can configure\n\n3 months in\n\n  - You're orchestrating a fleet of AI coworkers to help us and our customers grow.\n  - You're helping to solve problems to unblock deals with larger customers\n\nWho you are\n\nIf you're one of these, you're probably a good fit.\n\nA. High-signal ex-founder\n\nYou raised a seed round and built something real, bootstrapped a profitable business, got acquired by a credible buyer,\nor personally drove material pipeline / revenue / audience growth at your own startup.\n\nViral launches and Product Hunt #1s don't clear the bar on their own \u2014 those are gameable and one-time. We want evidence\nof compounding work.\n\nB. AI-native, high-output growth IC\n\nYou've personally taken a startup from X \u2192 Y on growth, with measurable proof:\n\n  - Revenue you personally drove\n  - Audience that converts (not vanity metrics)\n  - Pipeline sourced and closed through engineered systems\n\nC. AI-native agency operator\n\nYou've run growth-as-a-service for multiple companies. You think in systems, not channels.\n\nAcross all archetypes \u2014 non-negotiable signals\n\n  - You live in Claude Code / OpenClaw / Hermes. Not \"I tried it once.\" You've built non-trivial agent systems on these\n    tools. This is the single strongest signal we evaluate.\n  - AI-native by default. Your first instinct on any task is \"how do I get an agent to do this?\"\n  - Customer-obsessed. You have specific examples of going to absurd lengths to get a customer a result.\n  - Adaptable. Priorities will shift week to week, sometimes day to day.\n  - High-output generalist. Good taste in design, growth, sales, content. Not a specialist.\n  - Hands dirty. Some things can't be automated. You roll up your sleeves and do the work.\n\nThis is not for you if...\n\n  - You haven't done real work inside Claude Code / OpenClaw / Hermes\n  - You'd rather do the work yourself than teach an agent to do it\n  - You want predictable hours roadmap\n  - You're optimizing for title or comp ladder over the work\n\nHow to apply\n\nWe want to know\n\n  - What\u2019s the most impressive growth result you've personally driven?\n  - Examples of agentic systems and / or growth engines you've built\n  - Anything else you think is impressive and you want us to see\n",
+    "image": "https://bookface-images.s3.amazonaws.com/logos/2a7957bec3c772d726f4cfaadb0d29e3f8446ea5.png?1773947033",
+    "datetimestamp": "2026-04-29T21:50:57",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Vera: a programming language designed for machines to write",
+    "link": "https://github.com/aallan/vera",
+    "description": "Vera: a programming language designed for LLMs to write - aallan/vera",
+    "image": "https://repository-images.githubusercontent.com/1164314533/d94a8b2c-5039-4781-9f76-8571855d08a6",
+    "datetimestamp": "2026-04-29T21:41:32",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "I benchmarked Claude Code's caveman plugin against \"be brief.\"",
+    "link": "https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
+    "description": "Solo developer writing about smart contracts, AI tooling, and the stack that earns daily use.",
+    "image": "",
+    "datetimestamp": "2026-04-29T21:11:57",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "I accidentally made law enforcement shut down their fake honeypot",
+    "link": "https://lina.sh/blog/ddos-honeypot",
+    "description": "How I stumbled across a fake booter site run by international police, and how they panicked when I started digging",
+    "image": "/assets/blog/cyberzap-pricing.png",
+    "datetimestamp": "2026-04-29T21:04:38",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "OpenTrafficMap",
+    "link": "https://opentrafficmap.org/",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47953541\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-29T19:49:30",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years",
+    "link": "https://jivx.com/kyoto-bloom",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47953275\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-29T19:32:36",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+    "link": "https://github.com/anthropics/claude-code/issues/53262",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47952722\">Comments</a>",
+    "image": "https://opengraph.githubassets.com/46d88b6a7707aa3bdcda1decaf626ba3ab1628ecad492a3b1dac752a160f2900/anthropics/claude-code/issues/53262",
+    "datetimestamp": "2026-04-29T18:54:31",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Copy Fail",
+    "link": "https://copy.fail/",
+    "description": "CVE-2026-31431. 100% Reliable Linux LPE \u2014 no race, no per-distro offsets, page-cache write that bypasses on-disk file-integrity tools and crosses containers. Found by Xint Code.",
+    "image": "https://copy.fail/og.png",
+    "datetimestamp": "2026-04-29T18:13:53",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Ramp's Sheets AI Exfiltrates Financials",
+    "link": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
+    "description": "Assess and monitor risk from AI in vendors with novel intelligence on emerging threats. Stay ahead of AI-driven third-party risk with continuous moitoring and adaptive insight.",
+    "image": "https://framerusercontent.com/images/K641b5bIV4NurO80mFXTXCf3h0.png?width=1508&height=1113",
+    "datetimestamp": "2026-04-29T17:44:21",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Laws of UX",
+    "link": "https://lawsofux.com/",
+    "description": "Laws of UX is a collection of best practices that designers can consider when building user interfaces.",
+    "image": "https://lawsofux.com/home/social.en.png",
+    "datetimestamp": "2026-04-29T16:58:13",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+    "link": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47950510\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-29T16:16:39",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Online age verification is the hill to die on",
+    "link": "https://x.com/GlennMeder/status/2049088498163216560",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47950091\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-29T15:49:57",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Cursor Camp",
+    "link": "https://neal.fun/cursor-camp/",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47949939\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-29T15:39:43",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
+    "link": "https://github.com/GliaX/Stethoscope",
+    "description": "A research-validated stethoscope whose plans are available Freely and openly. The cost of the entire stethoscope is between $2.5 to $5 to produce - GliaX/Stethoscope",
+    "image": "https://opengraph.githubassets.com/8a04378255c00db6025e4f8680fcf9f7c1ec2131434c86e2937e729fe35e131e/GliaX/Stethoscope",
+    "datetimestamp": "2026-04-29T14:47:31",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Zed 1.0",
+    "link": "https://zed.dev/blog/zed-1-0",
+    "description": "From the Zed Blog: The editor we set out to build is now 1.0.",
+    "image": "https://zed.dev/img/post/one-point-zero/thumbnail.webp",
+    "datetimestamp": "2026-04-29T14:34:19",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "How to Build the Future: Demis Hassabis [video]",
+    "link": "https://www.youtube.com/watch?v=JNyuX1zoOgU",
+    "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+    "image": "",
+    "datetimestamp": "2026-04-29T14:05:42",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
     "title": "Tangled \u2013 We need a federation of forges",
     "link": "https://blog.tangled.org/federation/",
     "description": "git is decentralized, but what of the rest?",

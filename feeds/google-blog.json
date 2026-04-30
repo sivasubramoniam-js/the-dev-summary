@@ -1,5 +1,41 @@
 [
   {
+    "title": "Q1 2026 earnings call: Remarks from our CEO",
+    "link": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q1-2026/",
+    "description": "Read Sundar Pichai\u2019s remarks during the Alphabet earnings call for Q1 2026.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2026q1_earnings_social.width-1300.png",
+    "datetimestamp": "2026-04-29T20:45:00",
+    "source": "Google Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "A new way to create a digital wardrobe from your Google Photos",
+    "link": "https://blog.google/products-and-platforms/products/photos/google-photos-wardrobe-feature/",
+    "description": "A new Google Photos feature catalogs the clothes in your wardrobe from your library.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/A80_Google_Photos_wardrobe_042426_Final.width-1300.png",
+    "datetimestamp": "2026-04-29T16:00:00",
+    "source": "Google Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "You can now easily generate files in Gemini.",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/generate-files-in-gemini/",
+    "description": "Move from a brainstorm to a polished document, sheet or PDF with a single prompt in Gemini.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/You_can_now_easily_generate_files_in_Gemini.max-1440x810.png",
+    "datetimestamp": "2026-04-29T16:00:00",
+    "source": "Google Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Enjoy new ways to create, search and stream on Google TV",
+    "link": "https://blog.google/products-and-platforms/platforms/google-tv/enjoy-new-ways-to-create-search-and-stream-on-google-tv/",
+    "description": "Google TV adds tools to create fun images and videos, fresh ways to showcase Google Photos \u2014 and soon a new row to stream short videos.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword_hero_image_-_dynamic_slideshows.width-1300.png",
+    "datetimestamp": "2026-04-29T15:00:00",
+    "source": "Google Blog",
+    "category": "Backend"
+  },
+  {
     "title": "Gemini launches new personalisation features in the UK",
     "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/gemini-launches-new-personalisation-features-in-the-uk/",
     "description": "Our vision for Gemini is to build an assistant that truly understands you\u2014one that evolves with your needs rather than providing one-size-fits-all responses. Today, we\u2019r\u2026",

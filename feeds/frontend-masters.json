@@ -1,5 +1,14 @@
 [
   {
+    "title": "AI Amplifies Everything: A Team Lead\u2019s Guide to AI-Assisted Development",
+    "link": "https://frontendmasters.com/blog/ai-amplifies-everything-a-team-leads-guide-to-ai-assisted-development/",
+    "description": "While AI for codegen is manageable, integrating AI into team workflows presents more challenges, such as maintaining quality long term and managing technical debt.",
+    "image": "https://frontendmasters.com/blog/wp-json/social-image-generator/v1/image/9480",
+    "datetimestamp": "2026-04-29T15:00:49",
+    "source": "Frontend Masters",
+    "category": "Frontend"
+  },
+  {
     "title": "AI-Assisted Coding: A Practical Guide for Software Engineers \u2013 Frontend Masters Blog",
     "link": "https://frontendmasters.com/blog/ai-assisted-coding-a-practical-guide-for-software-engineers/",
     "description": "Let's acknowledge that gap in AI-generated code between code that works and code that is production-ready. It's you.",

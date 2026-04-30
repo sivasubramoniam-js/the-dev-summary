@@ -1,5 +1,32 @@
 [
   {
+    "title": "Top 10 KV Cache Compression Techniques for LLM Inference: Reducing Memory Overhead Across Eviction, Quantization, and Low-Rank Methods",
+    "link": "https://www.marktechpost.com/2026/04/29/top-10-kv-cache-compression-techniques-for-llm-inference-reducing-memory-overhead-across-eviction-quantization-and-low-rank-methods/",
+    "description": "Top 10 KV Cache Compression Techniques for LLM Inference: Reducing Memory Overhead Across Eviction, Quantization, and Low-Rank Methods",
+    "image": "https://www.marktechpost.com/wp-content/uploads/2026/04/blog-1-23-1024x731.png",
+    "datetimestamp": "2026-04-29T19:28:32",
+    "source": "Marktechpost",
+    "category": "AI"
+  },
+  {
+    "title": "Qwen Team Releases FlashQLA: a High-Performance Linear Attention Kernel Library That Achieves Up to 3\u00d7 Speedup on NVIDIA Hopper GPUs",
+    "link": "https://www.marktechpost.com/2026/04/29/qwen-team-releases-flashqla-a-high-performance-linear-attention-kernel-library-that-achieves-up-to-3x-speedup-on-nvidia-hopper-gpus/",
+    "description": "Qwen Team Releases FlashQLA: a High-Performance Linear Attention Kernel Library That Achieves Up to 3\u00d7 Speedup on NVIDIA Hopper GPUs",
+    "image": "https://www.marktechpost.com/wp-content/uploads/2026/04/blog-89.png",
+    "datetimestamp": "2026-04-29T17:28:17",
+    "source": "Marktechpost",
+    "category": "AI"
+  },
+  {
+    "title": "Step by Step Guide to Build a Complete PII Detection and Redaction Pipeline with OpenAI Privacy Filter",
+    "link": "https://www.marktechpost.com/2026/04/29/step-by-step-guide-to-build-a-complete-pii-detection-and-redaction-pipeline-with-openai-privacy-filter/",
+    "description": "A Coding Implementation to Build a Complete PII Detection and Redaction Pipeline with OpenAI Privacy Filter",
+    "image": "https://www.marktechpost.com/wp-content/uploads/2026/04/blog-1-22.png",
+    "datetimestamp": "2026-04-29T16:38:30",
+    "source": "Marktechpost",
+    "category": "AI"
+  },
+  {
     "title": "Meta FAIR Releases NeuralSet: A Python Package for Neuro-AI That Supports fMRI, M/EEG, Spikes, and HuggingFace Embeddings",
     "link": "https://www.marktechpost.com/2026/04/29/meta-fair-releases-neuralset-a-python-package-for-neuro-ai-that-supports-fmri-m-eeg-spikes-and-huggingface-embeddings/",
     "description": "<p>Introducing NeuralSet: Meta's Simple, Fast, and Scalable Python Package That Bridges Neuroscience and AI</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/04/29/meta-fair-releases-neuralset-a-python-package-for-neuro-ai-that-supports-fmri-m-eeg-spikes-and-huggingface-embeddings/\">Meta FAIR Releases NeuralSet: A Python Package for Neuro-AI That Supports fMRI, M/EEG, Spikes, and HuggingFace Embeddings</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",

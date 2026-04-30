@@ -1,5 +1,14 @@
 [
   {
+    "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+    "link": "https://blog.cloudflare.com/agents-stripe-projects/",
+    "description": "Starting today, agents can now be Cloudflare customers. They can create a Cloudflare account, start a paid subscription, register a domain, and get back an API token to deploy code right away. Humans can be in the loop to grant permission, but there\u2019s no need to go to the dashboard, copy and paste API tokens, or enter credit card details.",
+    "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1z87ypuPVuagcw4apgVWEz/32925c589f5c49ea212c2b12359c3efc/BLOG-3288-OG.png",
+    "datetimestamp": "2026-04-30T13:00:00",
+    "source": "Cloudflare Blog",
+    "category": "Engineering"
+  },
+  {
     "title": "Shutdowns, power outages, and conflict: a review of Q1 2026 Internet disruptions",
     "link": "https://blog.cloudflare.com/q1-2026-internet-disruption-summary/",
     "description": "The first quarter of 2026 saw a surge in Internet disruptions, from nationwide shutdowns in Uganda and Iran to unprecedented drone strikes on cloud infrastructure. We explore the data behind these events using Cloudflare Radar.",

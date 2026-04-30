@@ -1,5 +1,14 @@
 [
   {
+    "title": "Kubernetes v1.36: Tiered Memory Protection with Memory QoS",
+    "link": "https://kubernetes.io/blog/2026/04/29/kubernetes-v1-36-memory-qos-tiered-protection/",
+    "description": "On behalf of SIG Node, we are pleased to announce updates to the Memory QoS feature (alpha) in Kubernetes v1.36. Memory QoS uses the cgroup v2 memory controller to give the kernel better guidance on how to treat container memory. It was first introduced in v1.22 and updated in v1.27. In Kubernetes v1.36, we're introducing: opt-in memory reservation, tiered protection by QoS class, observability metrics, and kernel-version warning for memory.high.",
+    "image": "",
+    "datetimestamp": "2026-04-29T18:35:00",
+    "source": "Kubernetes Blog",
+    "category": "Cloud"
+  },
+  {
     "title": "Kubernetes v1.36: Staleness Mitigation and Observability for Controllers | Kubernetes",
     "link": "https://kubernetes.io/blog/2026/04/28/kubernetes-v1-36-staleness-mitigation-for-controllers/",
     "description": "Staleness in Kubernetes controllers is a problem that affects many controllers, and is something may affect controller behavior in subtle ways. It is usually not until it is too late, when a controller in production has already taken incorrect action, that staleness is found to be an issue due to some underlying assumption made by the controller author. Some issues caused by staleness include controllers taking incorrect actions, controllers not taking action when they should, and controllers taking too long to take action.",

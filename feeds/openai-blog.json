@@ -1,5 +1,23 @@
 [
   {
+    "title": "Where the goblins came from",
+    "link": "https://openai.com/index/where-the-goblins-came-from",
+    "description": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4VaLYtAwgfUg82VF32O2gz/834e00a334c85794f329b2cb534e7a23/Goblins-SEO.jpg?w=1600&h=900&fit=fill",
+    "datetimestamp": "2026-04-29T20:00:00",
+    "source": "OpenAI Blog",
+    "category": "AI"
+  },
+  {
+    "title": "Building the compute infrastructure for the Intelligence Age",
+    "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+    "description": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/7uKjDcPGzOUdai1xJ3ADrz/e546afb6069a32f56d346a53c1093c74/Frame__5_.png?w=1600&h=900&fit=fill",
+    "datetimestamp": "2026-04-29T15:00:00",
+    "source": "OpenAI Blog",
+    "category": "AI"
+  },
+  {
     "title": "Cybersecurity in the Intelligence Age",
     "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
     "description": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",

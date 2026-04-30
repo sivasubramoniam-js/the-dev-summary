@@ -1,5 +1,86 @@
 [
   {
+    "title": "ABC can beat Trump FCC's license threat if owner Disney is willing to fight",
+    "link": "https://arstechnica.com/tech-policy/2026/04/abc-can-beat-trump-fccs-license-threat-if-owner-disney-is-willing-to-fight/",
+    "description": "Broadcast license renewals are \"all but automatic\" due to 1996 change in US law.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg",
+    "datetimestamp": "2026-04-29T19:14:44",
+    "source": "Ars Technica",
+    "category": "General Tech"
+  },
+  {
+    "title": "OpenAI Codex system prompt includes explicit directive to \"never talk about goblins\"",
+    "link": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
+    "description": "Directions also include system instructions to act like \"you have a vivid inner life.\"",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-935113346-1152x648.jpg",
+    "datetimestamp": "2026-04-29T19:00:58",
+    "source": "Ars Technica",
+    "category": "General Tech"
+  },
+  {
+    "title": "Howdy's dated $3/month ad-free streaming service said to have 1M subscribers",
+    "link": "https://arstechnica.com/gadgets/2026/04/howdys-dated-3-month-ad-free-streaming-service-said-to-have-1m-subscribers/",
+    "description": "Most are keeping their subscriptions after signing up, too, research firm says.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Raw-Deal-e1777484088809-1152x648.jpg",
+    "datetimestamp": "2026-04-29T18:02:20",
+    "source": "Ars Technica",
+    "category": "General Tech"
+  },
+  {
+    "title": "New Sam Bankman-Fried trial would be huge waste of court\u2019s time, judge says",
+    "link": "https://arstechnica.com/tech-policy/2026/04/new-sam-bankman-fried-trial-would-be-huge-waste-of-courts-time-judge-says/",
+    "description": "FTX fraudster came out as Republican, then tried to claim Biden's DOJ targeted him.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1258714334-1024x648.jpg",
+    "datetimestamp": "2026-04-29T17:52:52",
+    "source": "Ars Technica",
+    "category": "General Tech"
+  },
+  {
+    "title": "Drone strikes on data centers spook Big Tech, halting Middle East projects",
+    "link": "https://arstechnica.com/ai/2026/04/data-center-developer-pauses-middle-east-projects-after-war-damage/",
+    "description": "Uninsurable war damage is forcing tech companies to rethink Middle East plans.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2244357858-1024x648.jpg",
+    "datetimestamp": "2026-04-29T17:27:53",
+    "source": "Ars Technica",
+    "category": "General Tech"
+  },
+  {
+    "title": "Motorola reveals 2026 Razr lineup with modest upgrades and higher prices",
+    "link": "https://arstechnica.com/gadgets/2026/04/motorola-reveals-2026-razr-lineup-with-modest-upgrades-and-higher-prices/",
+    "description": "Motorola's foldable lineup is bigger and more spendy than ever.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/motorola-razr-ultra-2026_-Lifestyle-Imagery_0223-2560x1440.jpg",
+    "datetimestamp": "2026-04-29T16:55:58",
+    "source": "Ars Technica",
+    "category": "General Tech"
+  },
+  {
+    "title": "Nvidia fixes the 8GB RAM problem with one of its GPUs\u2014if you can pay for it",
+    "link": "https://arstechnica.com/gadgets/2026/04/nvidia-fixes-the-8gb-ram-problem-with-one-of-its-gpus-if-you-can-pay-for-it/",
+    "description": "Framework charges nearly double for the 12GB version of the mobile RTX 5070.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/geforce-rtx-50-series-laptop-hero-af360-p@2x-1152x648.jpg",
+    "datetimestamp": "2026-04-29T16:06:28",
+    "source": "Ars Technica",
+    "category": "General Tech"
+  },
+  {
+    "title": "Professional school grads from diverse classes get higher salaries",
+    "link": "https://arstechnica.com/science/2026/04/professional-school-grads-from-diverse-classes-get-higher-salaries/",
+    "description": "Study authors say courts should reconsider rulings in light of this new evidence.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1374727807-1152x648.jpg",
+    "datetimestamp": "2026-04-29T15:55:55",
+    "source": "Ars Technica",
+    "category": "General Tech"
+  },
+  {
+    "title": "Attempt to repeal Colorado's right-to-repair law fails",
+    "link": "https://arstechnica.com/tech-policy/2026/04/attempt-to-repeal-colorados-right-to-repair-law-fails/",
+    "description": "Manufacturers backed effort to repeal the law but ultimately failed.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/phonerepair-1152x648.jpg",
+    "datetimestamp": "2026-04-29T14:00:19",
+    "source": "Ars Technica",
+    "category": "General Tech"
+  },
+  {
     "title": "A Falcon 9 rocket will hit the Moon this summer at seven times the speed of sound",
     "link": "https://arstechnica.com/space/2026/04/a-falcon-9-upper-stage-will-strike-the-moon-in-august/",
     "description": "The object will be traveling at 2.43 km a second, or 5,400 mph, upon impact.",

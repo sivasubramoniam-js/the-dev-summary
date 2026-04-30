@@ -1,5 +1,23 @@
 [
   {
+    "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
+    "link": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
+    "description": "SAP npm packages poisoned on April 29, 2026 + AES-256-GCM encrypted credential theft + AI coding tools abused for spread.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7ILiV-4oJHtNRt3-K52GIsgOaNUuN9owB5ky-Mk8FvRE3QmcqDg33oV3sCrzjgWEyIUfwTtn110bcMYVU3Lp61ArknIlPAcmMvbgJJ5-WheKYivyblon2tp79ux9pJmnYNv_ShhIAA5of3Wx7QzQRZs2mNuSQs6lLG23LKMVonvElcNMy6MXp6yVZO73F/s16000/sap-npm-hacks.jpg",
+    "datetimestamp": "2026-04-29T16:26:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs",
+    "link": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html",
+    "description": "Claude Opus commit added malicious npm dependency in Feb 2026, enabling crypto theft and persistent RAT access.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoAi4Ild7Dz2KtvraUPjGBgNHYScbOo2DzPh9iUn8IirHe8VYws7uF0A4wf2803kNMgLzCWg0oOZwXcdzRUx5-sbBPiABEN05-RtXTa2vMqOSa52E4FPELQba8QcIQBPXl6hOHuyN7cHldbTMMvxnA4UhxDk1Huh2W85I0EJeWdscqF5NdwRLjbtOXn7Zj/s1600/korean-hackers.jpg",
+    "datetimestamp": "2026-04-29T14:43:00",
+    "source": "The Hacker News",
+    "category": "Cybersecurity"
+  },
+  {
     "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
     "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
     "description": "AI-driven attacks uncovered in February 2026 automate kill chain and seize Domain Admin credentials in minutes, forcing faster defenses.",

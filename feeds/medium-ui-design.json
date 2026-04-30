@@ -1,5 +1,77 @@
 [
   {
+    "title": "https://www.behance.net/gallery/247839311/Ai-landing-page-design",
+    "link": "https://medium.com/@aladeselujoshuaolusola/https-www-behance-net-gallery-247839311-ai-landing-page-design-76247216aaa0?source=rss------ui_design-5",
+    "description": "Real estate is one of the biggest financial decisions people make.",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*WDrkEN6UNlKNYvb3LqfbFA.jpeg",
+    "datetimestamp": "2026-04-30T01:16:45",
+    "source": "Medium Ui Design",
+    "category": "Design & UX"
+  },
+  {
+    "title": "\ufe0f 10 Ways of How Nielsen\u2019s Heuristics Can Fix Your Interface (With Concrete Example)",
+    "link": "https://medium.com/@wiryawdk/%EF%B8%8F-10-ways-of-how-nielsens-heuristics-can-fix-your-interface-with-concrete-example-afdb582c96c7?source=rss------ui_design-5",
+    "description": "Check your interface design right now! What do you think others would think?",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*J9eJ_-3yZk1NOjDJ2FsjTg.jpeg",
+    "datetimestamp": "2026-04-30T00:16:34",
+    "source": "Medium Ui Design",
+    "category": "Design & UX"
+  },
+  {
+    "title": "My AI workflow as Product Designer .",
+    "link": "https://medium.com/@hmimichiouukh/my-ai-workflow-as-product-designer-b9baa93fb1d8?source=rss------ui_design-5",
+    "description": "I started using AI in my design workflow back in 2023. Not because of hype. Because we had too many features, too little time, and I was\u2026",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*NdsoXr8YZcaDnDC9EA6vGw.png",
+    "datetimestamp": "2026-04-29T22:01:51",
+    "source": "Medium Ui Design",
+    "category": "Design & UX"
+  },
+  {
+    "title": "GUI Design Patterns",
+    "link": "https://medium.com/@heshandeemantha90/gui-design-patterns-e4a47cf65a67?source=rss------ui_design-5",
+    "description": "1. Introduction",
+    "image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "datetimestamp": "2026-04-29T19:50:00",
+    "source": "Medium Ui Design",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Mastering GUI Components: A Guide to Essential Design Patterns",
+    "link": "https://medium.com/@warapitiyalakshan/mastering-gui-components-a-guide-to-essential-design-patterns-cd6539f78571?source=rss------ui_design-5",
+    "description": "Every screen you\u2019ve ever loved was built from the same small vocabulary. Buttons, labels, tabs, menus etc. these are not just widgets. They\u2026",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*hwjwnhK8ExVWeUDemhaNwA.png",
+    "datetimestamp": "2026-04-29T19:39:22",
+    "source": "Medium Ui Design",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Mastering GUI Design Patterns for Intuitive Navigation",
+    "link": "https://medium.com/@renujaanravichandran/mastering-gui-design-patterns-for-intuitive-navigation-70e955dc9de5?source=rss------ui_design-5",
+    "description": "Proven interaction blueprints to help users find their way\u200a\u2014\u200awithout getting lost in your interface.",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*c_TrKR0uYBKz_u5CU_laxg.png",
+    "datetimestamp": "2026-04-29T19:09:38",
+    "source": "Medium Ui Design",
+    "category": "Design & UX"
+  },
+  {
+    "title": "That 120ms Frame Drop You Keep Blaming on React (But It\u2019s Your Layout Thrashing)",
+    "link": "https://medium.com/@pawarshivam8055/that-120ms-frame-drop-you-keep-blaming-on-react-but-its-your-layout-thrashing-13967283f9a5?source=rss------ui_design-5",
+    "description": "A real debugging session where Chrome DevTools exposed forced reflows killing FPS.",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*zgCeuPB_pMtT1Kj_V0DeCw.png",
+    "datetimestamp": "2026-04-29T18:15:29",
+    "source": "Medium Ui Design",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Designing SaaS in Figma like a product designer, not a pixel pusher.",
+    "link": "https://medium.muz.li/designing-saas-in-figma-like-a-product-designer-not-a-pixel-pusher-df044b9e2f42?source=rss------ui_design-5",
+    "description": "If you\u2019ve ever opened a fresh Figma file, stared at the blank canvas, and thought, \u201cThis is either going to be genius or a disaster,\u201d\u2026",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*YQcD7h8MUGg3lNOb9mGIoA.png",
+    "datetimestamp": "2026-04-29T16:49:58",
+    "source": "Medium Ui Design",
+    "category": "Design & UX"
+  },
+  {
     "title": "Digitalizing Academic Excellence: A UI/UX Case Study for a NAAC Accreditation System",
     "link": "https://medium.com/@pranjalsawant1301/digitalizing-academic-excellence-a-ui-ux-case-study-for-a-naac-accreditation-system-c0c0ecc99c57?source=rss------ui_design-5",
     "description": "The National Assessment and Accreditation Council (NAAC) process is a critical milestone for any educational institution. However, managing\u2026",

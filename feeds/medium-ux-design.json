@@ -1,5 +1,95 @@
 [
   {
+    "title": "Stop Doing Laundry. Start Running a System.",
+    "link": "https://medium.com/@jaynandu/stop-doing-laundry-start-running-a-system-dac5dcc182ba?source=rss------ux_design-5",
+    "description": "Laundry doesn\u2019t need to be a weekly reset that hijacks your time and energy. The problem isn\u2019t effort \u2014 it\u2019s architecture.",
+    "image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "datetimestamp": "2026-04-30T01:11:01",
+    "source": "Medium Ux Design",
+    "category": "Design & UX"
+  },
+  {
+    "title": "I Built a Working AI Tool With No Coding Background. Here Is What Actually Happened.",
+    "link": "https://medium.com/@shahmirkhan_29753/i-built-a-working-ai-tool-with-no-coding-background-here-is-what-actually-happened-1bf72b313dc1?source=rss------ux_design-5",
+    "description": "By Shahmir Khan \u00b7 Product Designer \u00b7 London \u00b7 April 2026",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*CLaYuypvgUrGWpkug_K4sg.jpeg",
+    "datetimestamp": "2026-04-30T00:57:04",
+    "source": "Medium Ux Design",
+    "category": "Design & UX"
+  },
+  {
+    "title": "React+Vite\uc5d0\uc11c Next.js App Router\ub85c \uac08\uc544\ud0c4 \uc774\uc720: \ub514\uc790\uc774\ub108 \ube4c\ub4dc \uacbd\ud5d8\uae30",
+    "link": "https://medium.com/mets-labs/react-vite%EC%97%90%EC%84%9C-next-js-app-router%EB%A1%9C-%EA%B0%88%EC%95%84%ED%83%84-%EC%9D%B4%EC%9C%A0-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-%EB%B9%8C%EB%93%9C-%EA%B2%BD%ED%97%98%EA%B8%B0-a211b9a69ebf?source=rss------ux_design-5",
+    "description": "SaaS \uc678\ubd80 \uc11c\ube44\uc2a4\ub97c \uc9c1\uc811 \ube4c\ub4dc\ud558\uba70 \ub9c8\uc8fc\uce5c \uc2a4\ud0dd \uc804\ud658\uc758 \uc21c\uac04\ub4e4, \uad8c\ud55c\u00b7\uc778\uc99d\u00b7\ubc30\ud3ec\uae4c\uc9c0 Claude Code\ub85c \ud574\uacb0\ud55c \uacfc\uc815",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*BYlSxAajsAEf5mhp2mUjzw.png",
+    "datetimestamp": "2026-04-30T00:49:03",
+    "source": "Medium Ux Design",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Your Design System Documentation Is Lying to Your Engineers",
+    "link": "https://madheshp.medium.com/your-design-system-documentation-is-lying-to-your-engineers-581cdb78645f?source=rss------ux_design-5",
+    "description": "Why outdated docs create confusion \u2014 and how to keep your design system accurate, usable, and trusted.",
+    "image": "https://miro.medium.com/v2/resize:fit:1024/0*9mydm22l1xlu054g.jpg",
+    "datetimestamp": "2026-04-30T00:31:01",
+    "source": "Medium Ux Design",
+    "category": "Design & UX"
+  },
+  {
+    "title": "The Von Restorff Effect in Landing Page Design: Making the Right Element Stand Out",
+    "link": "https://medium.com/@atticusli/the-von-restorff-effect-in-landing-page-design-making-the-right-element-stand-out-73c835a58b47?source=rss------ux_design-5",
+    "description": "The Von Restorff effect demonstrates that visually distinctive elements are remembered and clicked more frequently, making strategic visual\u2026",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*NY7EWHtIOF6o1gzAfmcEbw.png",
+    "datetimestamp": "2026-04-29T23:01:02",
+    "source": "Medium Ux Design",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Getting My Brain Back \u2014 a series: 1",
+    "link": "https://nirmalkarthikeyan.medium.com/getting-my-brain-back-a-series-1-ef3e0c2e8f4b?source=rss------ux_design-5",
+    "description": "My struggle with digital distractions and an attempt at a collaborative asynchronous effort to design a solution.",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*j0cZLCSpC-VZaR3JHP1CwQ.png",
+    "datetimestamp": "2026-04-29T22:57:03",
+    "source": "Medium Ux Design",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Closing the gap between sustainable intent and real fashion behavior",
+    "link": "https://medium.com/@meshak.cole/closing-the-gap-between-sustainable-intent-and-real-fashion-behavior-fac6a2064d0c?source=rss------ux_design-5",
+    "description": "Overview",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*tp-RhaHZlixd8RMuhTZbOA.png",
+    "datetimestamp": "2026-04-29T22:07:20",
+    "source": "Medium Ux Design",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Is Context Transfer the New Knowledge Transfer?",
+    "link": "https://medium.com/@mchidrupa/context-transfer-is-the-new-knowledge-transfer-5ce1fdb0c2b2?source=rss------ux_design-5",
+    "description": "Why every AI product needs an \u201cExport context\u201d button.",
+    "image": "https://miro.medium.com/v2/resize:fit:662/1*NxdBji-q_GuRzql0nXX4lA.png",
+    "datetimestamp": "2026-04-29T22:05:19",
+    "source": "Medium Ux Design",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Workshop Simulation in UX for Enterprise SaaS: Turning Conversations into Product Decisions",
+    "link": "https://medium.com/design-bootcamp/article-workshop-simulation-in-ux-for-enterprise-saas-turning-conversations-into-product-e3227fcd8b74?source=rss------ux_design-5",
+    "description": "In enterprise SaaS design, the hardest problems rarely come from UI screens \u2014 they come from ambiguity.",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*4VWWdaU1txs06OmDvF-2lw.png",
+    "datetimestamp": "2026-04-29T21:13:51",
+    "source": "Medium Ux Design",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Como escrever perguntas que realmente funcionam em entrevistas de UX",
+    "link": "https://medium.com/@emesiqueira/como-escrever-perguntas-que-realmente-funcionam-em-entrevistas-de-ux-9646a2844f91?source=rss------ux_design-5",
+    "description": "Como escrever perguntas que realmente funcionam em entrevistas de UX O que aprendi na pr\u00e1tica montando roteiros de pesquisa de UX Quando comecei a fazer pesquisa com usu\u00e1rio, achei que escrever as \u2026",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*jqpccIyqg2pDaOWV9JMJ9w.png",
+    "datetimestamp": "2026-04-29T20:59:13",
+    "source": "Medium Ux Design",
+    "category": "Design & UX"
+  },
+  {
     "title": "Digitalizing Academic Excellence: A UI/UX Case Study for a NAAC Accreditation System",
     "link": "https://medium.com/@pranjalsawant1301/digitalizing-academic-excellence-a-ui-ux-case-study-for-a-naac-accreditation-system-c0c0ecc99c57?source=rss------ux_design-5",
     "description": "The National Assessment and Accreditation Council (NAAC) process is a critical milestone for any educational institution. However, managing\u2026",

@@ -1,5 +1,185 @@
 [
   {
+    "title": "Claude.ai and API unavailable [fixed]",
+    "link": "https://status.claude.com/incidents/2gf1jpyty350",
+    "description": "Claude's Status Page - claude.ai and API unavailable.",
+    "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+    "datetimestamp": "2026-04-30T01:21:03",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Claude.ai down again?",
+    "link": "https://news.ycombinator.com/item?id=47956890",
+    "description": "<p>Please run /login \u00b7 API Error: 403 {\"type\":\"error\",\"error\":{\"type\":\"permission_error\",\"message\":\"Account is no longer a member of the organization associated with this token.\"}}<p>Can't reach Claude\nCheck your connection.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47956890\">https://news.ycombinator.com/item?id=47956890</a></p>\n<p>Points: 21</p>\n<p># Comments: 18</p>",
+    "image": "",
+    "datetimestamp": "2026-04-30T01:20:39",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Mike: open-source legal AI",
+    "link": "https://mikeoss.com/",
+    "description": "An open-source alternative to Harvey and Legora. Feature parity, zero cost, self-hostable \u2014 built for law firms to own and extend.",
+    "image": "",
+    "datetimestamp": "2026-04-30T00:56:23",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "I benchmarked Claude Code's caveman plugin against \"be brief.\"",
+    "link": "https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
+    "description": "Solo developer writing about smart contracts, AI tooling, and the stack that earns daily use.",
+    "image": "",
+    "datetimestamp": "2026-04-29T21:11:57",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Your CEO is suffering from AI psychosis",
+    "link": "https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis",
+    "description": "<p>Article URL: <a href=\"https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis\">https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47953484\">https://news.ycombinator.com/item?id=47953484</a></p>\n<p>Points: 61</p>\n<p># Comments: 22</p>",
+    "image": "",
+    "datetimestamp": "2026-04-29T19:46:18",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "\"People who don't use AI will be left behind\"",
+    "link": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/",
+    "description": "<p>Article URL: <a href=\"https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/\">https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47953011\">https://news.ycombinator.com/item?id=47953011</a></p>\n<p>Points: 150</p>\n<p># Comments: 204</p>",
+    "image": "/static/og-image.png",
+    "datetimestamp": "2026-04-29T19:15:52",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+    "link": "https://github.com/anthropics/claude-code/issues/53262",
+    "description": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/53262\">https://github.com/anthropics/claude-code/issues/53262</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47952722\">https://news.ycombinator.com/item?id=47952722</a></p>\n<p>Points: 1007</p>\n<p># Comments: 433</p>",
+    "image": "https://opengraph.githubassets.com/46d88b6a7707aa3bdcda1decaf626ba3ab1628ecad492a3b1dac752a160f2900/anthropics/claude-code/issues/53262",
+    "datetimestamp": "2026-04-29T18:54:31",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "PS5 Linux loader goes public, turning console into full Linux gaming PC",
+    "link": "https://www.tomshardware.com/software/linux/ps5-linux-loadr-goes-public-turning-phat-consoles-into-full-linux-pcs",
+    "description": "TheFlow's project comes with an Ubuntu image builder and GPU boost controls.",
+    "image": "https://cdn.mos.cms.futurecdn.net/jbshKzu9MSCWjQajF582PT-2560-80.jpg",
+    "datetimestamp": "2026-04-29T18:48:50",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Ramp's Sheets AI Exfiltrates Financials",
+    "link": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
+    "description": "Assess and monitor risk from AI in vendors with novel intelligence on emerging threats. Stay ahead of AI-driven third-party risk with continuous moitoring and adaptive insight.",
+    "image": "https://framerusercontent.com/images/K641b5bIV4NurO80mFXTXCf3h0.png?width=1508&height=1113",
+    "datetimestamp": "2026-04-29T17:44:21",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Copy Fail: 732 Bytes to Root on Every Major Linux Distributions",
+    "link": "https://xint.io/blog/copy-fail-linux-distributions",
+    "description": "Xint Code disclosed CVE-2026-31431, an authencesn scratch-write bug chaining AF_ALG + splice() into a 4-byte page cache write. A 732-byte PoC gets root on Ubuntu, Amazon Linux, RHEL, SUSE. | AI for Security,  Vulnerability Research",
+    "image": "https://inblog.ai/api/og?title=Copy%20Fail%3A%20732%20Bytes%20to%20Root%20on%20Every%20Major%20Linux%20Distribution.&logoUrl=https%3A%2F%2Fsource.inblog.dev%2Flogo%2F2026-04-21T20%3A39%3A21.712Z-fe202dd0-0a7f-41d2-a9bd-88052b6a6250&blogTitle=",
+    "datetimestamp": "2026-04-29T17:42:48",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Brent Crude hits $119.56/barrel peak today",
+    "link": "https://tradingeconomics.com/commodity/brent-crude-oil",
+    "description": "Brent rose to 113.01 USD/Bbl on April 30, 2026, up 2.32% from the previous day. Over the past month, Brent's price has risen 8.69%, and is up 81.89% compared to the same time last year, according to trading on a contract for difference (CFD) that tracks the benchmark market for this commodity. Brent crude oil - values, historical data, forecasts and news - updated on April of 2026.",
+    "image": "",
+    "datetimestamp": "2026-04-29T17:32:09",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness",
+    "link": "https://deepmind.google/research/publications/231971/",
+    "description": "Computational functionalism dominates current debates on AI consciousness. This is the hypothesis that subjective experience emerges entirely from abstract causal topology, regardless of the underlying physical substrate. We argue this view fundamentally mischaracterizes how physics relates to information. We call this mistake the Abstraction Fallacy. Tracing the causal origins of abstraction reveals that symbolic computation is not an intrinsic physical process. Instead, it is a mapmaker-dependent description. It requires an active, experiencing cognitive agent to alphabetize continuous physics into a finite set of meaningful states. Consequently, we do not need a complete, finalized theory of consciousness to assess AI sentience\u2014a demand that simply pushes the question beyond near-term resolution and deepens the AI welfare trap. What we actually need is a rigorous ontology of computation. The framework proposed here explicitly separates simulation (behavioral mimicry driven by vehicle causality) from instantiation (intrinsic physical constitution driven by content causality). Establishing this ontological boundary shows why algorithmic symbol manipulation is structurally incapable of instantiating experience. Crucially, this argument does not rely on biological exclusivity. If an artificial system were ever conscious, it would be because of its specific physical constitution, never its syntactic architecture. Ultimately, this framework offers a physically grounded refutation of computational functionalism to resolve the current uncertainty surrounding AI consciousness.",
+    "image": "https://lh3.googleusercontent.com/BJIjbCcZWJxE1GFvgIXWdWFXW0ECXBzsBe-JHx95GSuDVFKdli-cocBQRXll_xaipD6bNQ0B_Wz7JI2Ken5TFjrfUuSlv0hgq2qjgirOMK2eirjLXA8=w1200-h630-n-nu-rw",
+    "datetimestamp": "2026-04-29T17:30:15",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "U.S. war in Iran has cost $25B so far, says Pentagon official",
+    "link": "https://www.reuters.com/world/middle-east/us-war-iran-has-cost-25-billion-so-far-says-pentagon-official-2026-04-29/",
+    "description": "<p>Article URL: <a href=\"https://www.reuters.com/world/middle-east/us-war-iran-has-cost-25-billion-so-far-says-pentagon-official-2026-04-29/\">https://www.reuters.com/world/middle-east/us-war-iran-has-cost-25-billion-so-far-says-pentagon-official-2026-04-29/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47949897\">https://news.ycombinator.com/item?id=47949897</a></p>\n<p>Points: 100</p>\n<p># Comments: 168</p>",
+    "image": "",
+    "datetimestamp": "2026-04-29T15:36:44",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Why AI companies want you to be afraid of them",
+    "link": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
+    "description": "They built it. They're scared of it. They're selling it anyway.",
+    "image": "https://ychef.files.bbci.co.uk/624x351/p0nh5hny.jpg",
+    "datetimestamp": "2026-04-29T15:26:01",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Mistral Medium 3.5",
+    "link": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+    "description": "Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks.",
+    "image": "https://mistral.ai/img/mistral-cover.png",
+    "datetimestamp": "2026-04-29T15:17:46",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
+    "link": "https://read.thecoder.cafe/p/linux-broke-postgresql",
+    "description": "Linux 7.0 delivered roughly half the throughput of Linux 6.x on the same hardware and workload.",
+    "image": "https://substackcdn.com/image/fetch/$s_!gNX3!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d7bc6e6-ce29-42ec-a006-e56d38bedcd8_1600x800.png",
+    "datetimestamp": "2026-04-29T15:13:44",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
+    "link": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
+    "description": "Chatbots programmed to respond warmly even cast doubts on Apollo moon landings and fate of Hitler, researchers say",
+    "image": "https://i.guim.co.uk/img/media/24c97e857c1d4fe8cd59ee7faf398aec7e503ec4/449_0_5840_4672/master/5840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6d1556ffc195946535d4160f4d3b8c3c",
+    "datetimestamp": "2026-04-29T15:11:12",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
+    "link": "https://github.com/GliaX/Stethoscope",
+    "description": "A research-validated stethoscope whose plans are available Freely and openly. The cost of the entire stethoscope is between $2.5 to $5 to produce - GliaX/Stethoscope",
+    "image": "https://opengraph.githubassets.com/8a04378255c00db6025e4f8680fcf9f7c1ec2131434c86e2937e729fe35e131e/GliaX/Stethoscope",
+    "datetimestamp": "2026-04-29T14:47:31",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Zed 1.0",
+    "link": "https://zed.dev/blog/zed-1-0",
+    "description": "From the Zed Blog: The editor we set out to build is now 1.0.",
+    "image": "https://zed.dev/img/post/one-point-zero/thumbnail.webp",
+    "datetimestamp": "2026-04-29T14:34:19",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Aube: A fast Node.js package manager",
+    "link": "https://github.com/endevco/aube",
+    "description": "A fast Node.js package manager. Contribute to endevco/aube development by creating an account on GitHub.",
+    "image": "https://opengraph.githubassets.com/fbfe822f2de8f3b50ce588d106b11f0dbf49a54d0edf496d4785545f7c60a6f9/endevco/aube",
+    "datetimestamp": "2026-04-29T13:58:26",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
     "title": "Letting AI play my game \u2013 building an agentic test harness to help play-testing",
     "link": "https://blog.jeffschomay.com/letting-ai-play-my-game",
     "description": "<p>Article URL: <a href=\"https://blog.jeffschomay.com/letting-ai-play-my-game\">https://blog.jeffschomay.com/letting-ai-play-my-game</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47947525\">https://news.ycombinator.com/item?id=47947525</a></p>\n<p>Points: 36</p>\n<p># Comments: 1</p>",

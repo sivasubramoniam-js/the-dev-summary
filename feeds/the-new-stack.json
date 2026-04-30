@@ -1,5 +1,41 @@
 [
   {
+    "title": "Cut AI token usage by 96%? Here\u2019s how AWS Strands Agents does it.",
+    "link": "https://thenewstack.io/strands-agents-tool-design/",
+    "description": "AWS developer advocate Morgan Willis on Strands Agents, intent-based tools, MCP gateways, and how smarter tool design cut agent token usage from 52K to 2K.",
+    "image": "https://cdn.thenewstack.io/media/2026/04/ae4ea96a-for-thumbnail-5.png",
+    "datetimestamp": "2026-04-29T18:52:32",
+    "source": "The New Stack",
+    "category": "Tech News"
+  },
+  {
+    "title": "Anaconda acquires Outerbounds to rein in the buggy code AI agents keep shipping",
+    "link": "https://thenewstack.io/anaconda-ai-outerbounds-python-metaflow/",
+    "description": "Anaconda's acquisition of Outerbounds brings Metaflow's production-grade orchestration under one roof with Python's most trusted dependency stack \u2014 and makes the case that governing AI-generated code is now the enterprise's hardest problem",
+    "image": "https://cdn.thenewstack.io/media/2026/04/74145b68-milhad-rdka6zjwmga-unsplash-scaled.jpg",
+    "datetimestamp": "2026-04-29T16:43:08",
+    "source": "The New Stack",
+    "category": "Tech News"
+  },
+  {
+    "title": "Anthropic wants to be the AWS of agentic AI",
+    "link": "https://thenewstack.io/anthropic-agents-managed-aws-claude/",
+    "description": "Anthropic's Managed Agents platform bundles sandboxing, checkpointing, and persistent memory into a single API layer \u2014 and the company's ambitions look a lot less like a model provider and a lot more like AWS.",
+    "image": "https://cdn.thenewstack.io/media/2026/04/81cd4b15-greg-daines-pxlbhkn9n78-unsplash.jpg",
+    "datetimestamp": "2026-04-29T15:00:00",
+    "source": "The New Stack",
+    "category": "Tech News"
+  },
+  {
+    "title": "AWS lands OpenAI on Bedrock, but Trainium is the real story",
+    "link": "https://thenewstack.io/openai-bedrock-trainium-silicon/",
+    "description": "AWS launched OpenAI models, Codex, and managed agents on Bedrock, locking OpenAI and Anthropic into multi-gigawatt Trainium silicon commitments.",
+    "image": "https://cdn.thenewstack.io/media/2026/04/57245e0e-rezza-alam-fv5hjpkgboe-unsplash-scaled.jpg",
+    "datetimestamp": "2026-04-29T14:54:40",
+    "source": "The New Stack",
+    "category": "Tech News"
+  },
+  {
     "title": "Warp\u2019s gamble: Going open source to take on closed-source rivals",
     "link": "https://thenewstack.io/warp-open-source-client/",
     "description": "Warp open-sources its Rust-based agentic development environment client under AGPL, with OpenAI as founding sponsor of the new GitHub repository.",

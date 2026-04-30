@@ -1,5 +1,14 @@
 [
   {
+    "title": "Solving the \u201cWhac-a-mole dilemma\u201d: A smarter way to debias AI vision models",
+    "link": "https://news.mit.edu/2026/smarter-way-to-debias-ai-vision-models-0429",
+    "description": "A new debiasing approach called WRING resolves the &quot;Whac-a-Mole dilemma&quot; of existing debiasing approaches that can create or amplify existing biases.",
+    "image": "https://news.mit.edu/sites/default/files/images/202604/mit-jameel-clinic-WRING-bias.jpg",
+    "datetimestamp": "2026-04-29T21:40:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
     "title": "The MIT-IBM Computing Research Lab launches to shape the future of AI and quantum computing",
     "link": "https://news.mit.edu/2026/mit-ibm-computing-research-lab-launches-0429",
     "description": "IBM and MIT announced the launch of the MIT-IBM Computing Research Lab, advancing their long-standing collaboration to shape the next era of computing that combines AI, algorithms, and quantum computing. The new lab evolved from the MIT-IBM Watson AI Lab. ",

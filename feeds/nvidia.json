@@ -1,5 +1,14 @@
 [
   {
+    "title": "NVIDIA Sets Conference Call for First-Quarter Financial Results",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-first-quarter-financial-results-6919947",
+    "description": "NVIDIA will host a conference call on Wednesday, May 20, at 2 p.m. PT (5 p.m. ET) to discuss its financial results for the first quarter of fiscal year 2027, which ended April 26, 2026.",
+    "image": "https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038-prv.jpg",
+    "datetimestamp": "2026-04-29T21:00:00",
+    "source": "Nvidia",
+    "category": "AI"
+  },
+  {
     "title": "NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents | NVIDIA Blog",
     "link": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
     "description": "Best-in-class open omni-modal reasoning model delivers the highest efficiency and accuracy to power agentic workflows such as computer use, document intelligence and audio-video reasoning.",

@@ -1,5 +1,14 @@
 [
   {
+    "title": "Compressing LSTM Models for Retail Edge Deployment: A Practical Comparison",
+    "link": "https://www.analyticsvidhya.com/blog/2026/04/compressing-lstm-models-for-retail-edge-deployment/",
+    "description": "Compress LSTM models for retail edge deployment using pruning, quantization, and architecture sizing with benchmark results.",
+    "image": "https://cdn.analyticsvidhya.com/wp-content/uploads/2026/04/LSTM.webp",
+    "datetimestamp": "2026-04-29T15:55:47",
+    "source": "Analytics Vidhya",
+    "category": "AI"
+  },
+  {
     "title": "MCP vs Agent Skills: Different Altogether",
     "link": "https://www.analyticsvidhya.com/blog/2026/04/mcp-vs-agent-skills/",
     "description": "Confused by MCP vs Agent Skills? Learn the fundamental differences between Model Context Protocol infrastructure and Agent Skills playbooks.",

@@ -1,5 +1,14 @@
 [
   {
+    "title": "The Tech Stack Powering Wise",
+    "link": "https://blog.bytebytego.com/p/the-tech-stack-powering-wise",
+    "description": "AI inference: 24,240 TPS vs 1,863 TPS H100 (Sponsored)",
+    "image": "https://substackcdn.com/image/fetch/$s_!W3jo!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f6bf8d9-a9a5-4765-877a-745b746734e9_1200x1200.png",
+    "datetimestamp": "2026-04-29T15:31:30",
+    "source": "ByteByteGo (Alex Xu)",
+    "category": "System Design"
+  },
+  {
     "title": "How Stripe Detects Fraudulent Transactions Within 100 ms",
     "link": "https://blog.bytebytego.com/p/how-stripe-detects-fraudulent-transactions",
     "description": "In this article, we will look at how Stripe\u2019s Radar does this effectively and the architectural decisions the team took while building it.",

@@ -1,5 +1,122 @@
 [
   {
+    "title": "Mark Zuckerberg says Meta is working on AI agents for personal and business use",
+    "link": "https://www.engadget.com/2160792/mark-zuckerberg-says-meta-is-working-on-ai-agents-for-personal-and-business-use/",
+    "description": "The CEO wants to make an agent so easy even his mom can use it.",
+    "image": "https://www.engadget.com/img/gallery/mark-zuckerberg-says-meta-is-working-on-ai-agents-for-personal-and-business-use/l-intro-1777504334.jpg",
+    "datetimestamp": "2026-04-29T23:00:36",
+    "source": "Engadget",
+    "category": "Tech News"
+  },
+  {
+    "title": "Gemini can now generate files, including Microsoft Word and LaTeX documents",
+    "link": "https://www.engadget.com/2160619/gemini-can-now-generate-files-including-microsoft-word-and-latex-documents/",
+    "description": "No need to copy and paste Gemini's outputs anymore.",
+    "image": "https://www.engadget.com/img/gallery/gemini-can-now-generate-files-including-microsoft-word-and-latex-documents/l-intro-1777492434.jpg",
+    "datetimestamp": "2026-04-29T19:55:13",
+    "source": "Engadget",
+    "category": "Tech News"
+  },
+  {
+    "title": "Humanoid robots will work as baggage handlers at Tokyo airport",
+    "link": "https://www.engadget.com/2160602/humanoid-robots-will-work-as-baggage-handlers-at-tokyo-airport/",
+    "description": "Has nobody watched Terminator?",
+    "image": "https://www.engadget.com/img/gallery/humanoid-robots-will-work-as-baggage-handlers-at-tokyo-airport/l-intro-1777491125.jpg",
+    "datetimestamp": "2026-04-29T19:34:26",
+    "source": "Engadget",
+    "category": "Tech News"
+  },
+  {
+    "title": "Families of Tumbler Ridge shooting victims sue OpenAI",
+    "link": "https://www.engadget.com/2160596/families-of-tumbler-ridge-shooting-victims-sue-openai/",
+    "description": "Sam Altman apologized for not notifying local authorities last week.",
+    "image": "https://www.engadget.com/img/gallery/families-of-tumbler-ridge-shooting-victims-sue-openai/l-intro-1777490550.jpg",
+    "datetimestamp": "2026-04-29T19:25:24",
+    "source": "Engadget",
+    "category": "Tech News"
+  },
+  {
+    "title": "The EU thinks Meta isn't doing enough to protect children",
+    "link": "https://www.engadget.com/2160520/the-eu-thinks-meta-isnt-doing-enough-to-protect-children/",
+    "description": "A preliminary investigation found the company isn't adequately keeping minors off of Instagram and Facebook.",
+    "image": "https://www.engadget.com/img/gallery/the-eu-thinks-meta-isnt-doing-enough-to-protect-children/l-intro-1777489680.jpg",
+    "datetimestamp": "2026-04-29T18:21:28",
+    "source": "Engadget",
+    "category": "Tech News"
+  },
+  {
+    "title": "The Google TV platform will soon display YouTube Shorts videos directly on the home page",
+    "link": "https://www.engadget.com/2160469/the-google-tv-platform-will-soon-display-youtube-shorts-videos/",
+    "description": "There are also new generative AI tools, because they must be stuffed into everything.",
+    "image": "https://www.engadget.com/img/gallery/the-google-tv-platform-will-soon-display-youtube-shorts-videos-directly-on-the-home-page/l-intro-1777484167.jpg",
+    "datetimestamp": "2026-04-29T17:38:03",
+    "source": "Engadget",
+    "category": "Tech News"
+  },
+  {
+    "title": "May's PlayStation Plus lineup includes Nine Sols, EA FC 26, Wuchang",
+    "link": "https://www.engadget.com/2160452/may-playstation-plus-lineup-nine-sols-ea-fc-26-wuchang/",
+    "description": "Start your downloads on May 5.",
+    "image": "https://www.engadget.com/img/gallery/may-playstation-plus-lineup-nine-sols-ea-fc-26-wuchang/l-intro-1777494971.jpg",
+    "datetimestamp": "2026-04-29T17:26:31",
+    "source": "Engadget",
+    "category": "Tech News"
+  },
+  {
+    "title": "Google Photos Wardrobe will scan your pictures to compile a digital version of your closet",
+    "link": "https://www.engadget.com/2160407/google-photos-wardrobe-scan-pictures-clothes-build-digital-closet/",
+    "description": "At least now you can figure out what to wear without physically going to your closet?",
+    "image": "https://www.engadget.com/img/gallery/google-photos-wardrobe-will-scan-your-pictures-to-compile-a-digital-version-of-your-closet/l-intro-1777481169.jpg",
+    "datetimestamp": "2026-04-29T16:58:38",
+    "source": "Engadget",
+    "category": "Tech News"
+  },
+  {
+    "title": "Vine reboot app Divine arrives with a ban on AI slop",
+    "link": "https://www.engadget.com/2160396/vine-reboot-app-divine-arrives-with-a-ban-on-ai-slop/",
+    "description": "Do it for Divine all over again.",
+    "image": "https://www.engadget.com/img/gallery/vine-reboot-app-divine-arrives-with-a-ban-on-ai-slop/l-intro-1777481261.jpg",
+    "datetimestamp": "2026-04-29T16:49:58",
+    "source": "Engadget",
+    "category": "Tech News"
+  },
+  {
+    "title": "Motorola's latest family of Razrs includes its first book-style foldable",
+    "link": "https://www.engadget.com/2160356/motorolas-latest-family-of-razrs-includes-its-first-book-style-foldable/",
+    "description": "The new Razr Fold even has native stylus support, unlike Samsung's most recent flagship.",
+    "image": "https://www.engadget.com/img/gallery/motorolas-latest-family-of-razrs-includes-its-first-book-style-foldable/l-intro-1777478960.jpg",
+    "datetimestamp": "2026-04-29T16:11:20",
+    "source": "Engadget",
+    "category": "Tech News"
+  },
+  {
+    "title": "YouTube TV gets a fully customizable multiview feature, with availability for all channels",
+    "link": "https://www.engadget.com/2160303/youtube-tv-gets-a-fully-customizable-multiview-feature/",
+    "description": "Only live content is supported right now.",
+    "image": "https://www.engadget.com/img/gallery/youtube-tv-gets-a-fully-customizable-multiview-feature-with-availability-for-all-channels/l-intro-1777476562.jpg",
+    "datetimestamp": "2026-04-29T15:34:21",
+    "source": "Engadget",
+    "category": "Tech News"
+  },
+  {
+    "title": "It runs Doom: AI chatbot edition",
+    "link": "https://www.engadget.com/2160249/it-runs-doom-ai-chatbot-edition/",
+    "description": "The latest answer to the always-relevant question: \"Can it run Doom?\"",
+    "image": "https://www.engadget.com/img/gallery/it-runs-doom-ai-chatbot-edition/l-intro-1777475092.jpg",
+    "datetimestamp": "2026-04-29T15:08:23",
+    "source": "Engadget",
+    "category": "Tech News"
+  },
+  {
+    "title": "You can now book a hotel via the Uber app",
+    "link": "https://www.engadget.com/2160224/you-can-now-book-a-hotel-via-the-uber-app/",
+    "description": "Uber is adding a host of features to its app for when you're away from home.",
+    "image": "https://www.engadget.com/img/gallery/you-can-now-book-a-hotel-via-the-uber-app/l-intro-1777474176.jpg",
+    "datetimestamp": "2026-04-29T15:00:00",
+    "source": "Engadget",
+    "category": "Tech News"
+  },
+  {
     "title": "Texas Instruments made a new flagship graphing calculator: the TI-84 Evo",
     "link": "https://www.engadget.com/mobile/texas-instruments-made-a-new-flagship-graphing-calculator-the-ti-84-evo-201903438.html?src=rss",
     "description": "There's nothing here to distract you other than \"58008.\"",
