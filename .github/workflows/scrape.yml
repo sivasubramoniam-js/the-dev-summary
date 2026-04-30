@@ -5,7 +5,8 @@ on:
     branches:
       - main
   schedule:
-    - cron: '30 0,12 * * *' # 6am and 6pm IST (00:30 and 12:30 UTC)
+    - cron: '20 6,18 * * *' # 06:20am and 06:20pm IST (00:20 and 18:20 UTC)
+      timezone: 'Asia/Kolkata'
   workflow_dispatch:
 
 jobs:
@@ -33,5 +34,5 @@ jobs:
           git config --global user.email "122598293+sivasubramoniam-js@users.noreply.github.com"
           git add news.json || true
           if ls feeds/*.json 1> /dev/null 2>&1; then git add -f feeds/*.json; fi
-          git commit -m "daily update $(TZ='Asia/Kolkata' date +'%d-%b-%Y %I %P')" || echo "No changes"
+          git commit -m "daily update $(date +'%d-%b-%Y %I %P')" || echo "No changes"
           git push
