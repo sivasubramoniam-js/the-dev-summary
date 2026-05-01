@@ -1,5 +1,32 @@
 [
   {
+    "title": "Show HN: My Private GitHub on Postgres",
+    "link": "https://github.com/calebwin/gitgres",
+    "description": "My private GitHub on Postgres. Contribute to calebwin/gitgres development by creating an account on GitHub.",
+    "image": "https://opengraph.githubassets.com/3f13813b44d9e7d94fd26e913e0fe5883aa4e201b5f01aa78de5814406c1e2ab/calebwin/gitgres",
+    "datetimestamp": "2026-05-01T17:40:15",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "AWS stops billing Middle East cloud customers as repairs to war damage drag on",
+    "link": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
+    "description": "AWS stops billing Middle East cloud customers as repairs to war damage drag on.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2264958756-1024x648.jpg",
+    "datetimestamp": "2026-05-01T17:28:45",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Understand Anything",
+    "link": "https://github.com/Lum1104/Understand-Anything",
+    "description": "Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Cl...",
+    "image": "https://opengraph.githubassets.com/d543550b683f398149936d47dcf29c7e2d618993fab1682e2536c213f30c1f64/Lum1104/Understand-Anything",
+    "datetimestamp": "2026-05-01T17:27:03",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
     "title": "Flock cameras keep telling police a man who doesn't have a warrant has a warrant",
     "link": "https://www.youtube.com/watch?v=nHwxV0Sd9V8",
     "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
