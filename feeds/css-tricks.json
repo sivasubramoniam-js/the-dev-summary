@@ -1,5 +1,14 @@
 [
   {
+    "title": "The Importance of Native Randomness in CSS",
+    "link": "https://css-tricks.com/the-importance-of-native-randomness-in-css/",
+    "description": "We're getting new functions for generating random numbers in CSS! But the road to get here has been a long and winding one.",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/xUDzcUCN.png",
+    "datetimestamp": "2026-04-30T15:26:18",
+    "source": "CSS-Tricks",
+    "category": "Frontend"
+  },
+  {
     "title": "contrast()",
     "link": "https://css-tricks.com/almanac/functions/c/contrast/",
     "description": "The contrast() filter function increases or decreases the contrast of an element.",

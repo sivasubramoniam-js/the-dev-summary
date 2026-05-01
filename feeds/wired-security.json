@@ -1,5 +1,14 @@
 [
   {
+    "title": "OpenAI Rolls Out \u2018Advanced\u2019 Security Mode for At-Risk Accounts",
+    "link": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
+    "description": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attacks.",
+    "image": "https://media.wired.com/photos/69f3851f013dbae7ce7c178e/191:100/w_1280,c_limit/security_chatgpt_GettyImages-2271059989.jpg",
+    "datetimestamp": "2026-04-30T17:30:39",
+    "source": "Wired Security",
+    "category": "Cybersecurity"
+  },
+  {
     "title": "90,000 Screenshots of One Celebrity's Phone Were Exposed Online",
     "link": "https://www.wired.com/story/exposed-data-illustrates-the-nightmare-scenario-for-a-stalkerware-victim/",
     "description": "Extremely sensitive personal data from a European celebrity that appears to have been compiled using spyware was publicly accessible until a researcher flagged the exposure.",

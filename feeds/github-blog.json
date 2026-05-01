@@ -1,5 +1,14 @@
 [
   {
+    "title": "GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode",
+    "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/",
+    "description": "Learn the difference between CLI interactive v. non-interactive modes.",
+    "image": "https://github.blog/wp-content/uploads/2026/04/Episode-2.png",
+    "datetimestamp": "2026-04-30T16:09:02",
+    "source": "GitHub Blog",
+    "category": "GitHub Projects"
+  },
+  {
     "title": "GitHub for Beginners: Getting started with Markdown - The GitHub Blog",
     "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/",
     "description": "Discover how to format and edit your comments and posts using Markdown.",

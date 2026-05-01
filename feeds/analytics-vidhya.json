@@ -1,5 +1,14 @@
 [
   {
+    "title": "Grok Voice Think Fast 1.0: Build Voice AI Agents That Actually Think",
+    "link": "https://www.analyticsvidhya.com/blog/2026/05/grok-voice-think-fast-1-0/",
+    "description": "Learn how to build intelligent real-time voice agents with xAI's Grok Voice Think Fast 1.0. This hands-on guide covers its full capabilities.",
+    "image": "https://cdn.analyticsvidhya.com/wp-content/uploads/2026/04/Grok-Voice-Think-Fast.webp",
+    "datetimestamp": "2026-04-30T19:08:44",
+    "source": "Analytics Vidhya",
+    "category": "AI"
+  },
+  {
     "title": "Compressing LSTM Models for Retail Edge Deployment: A Practical Comparison",
     "link": "https://www.analyticsvidhya.com/blog/2026/04/compressing-lstm-models-for-retail-edge-deployment/",
     "description": "Compress LSTM models for retail edge deployment using pruning, quantization, and architecture sizing with benchmark results.",

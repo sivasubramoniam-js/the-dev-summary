@@ -1,5 +1,95 @@
 [
   {
+    "title": "Why Innovation Fails, And What It Actually Takes to Build Something That Works",
+    "link": "https://medium.com/@nish_81716/why-innovation-fails-and-what-it-actually-takes-to-build-something-that-works-f6f0ff29dce4?source=rss------system_design-5",
+    "description": "When people think about innovation, they often imagine a breakthrough moment.",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*2hmQiXzmN97UDuRUzdPuIw.png",
+    "datetimestamp": "2026-04-30T20:16:42",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "How to Position System-Level Design Work So It Actually Gets Funded",
+    "link": "https://medium.com/@shadi.abdsh/how-to-position-system-level-design-work-so-it-actually-gets-funded-307bf643c6e1?source=rss------system_design-5",
+    "description": "If Your Design Initiative Needs Approval, You\u2019re Probably Framing It Wrong",
+    "image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "datetimestamp": "2026-04-30T19:30:42",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "Typography Foundations: Building With a Learner\u2019s Mindset",
+    "link": "https://medium.com/tap-to-dismiss/typography-foundations-building-with-a-learners-mindset-86c31b997d17?source=rss------system_design-5",
+    "description": "How to navigate a year-long typography rebrand with curiosity",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*7hVXd5rvuyrzGDOTfgoECw.jpeg",
+    "datetimestamp": "2026-04-30T18:20:23",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "Breaking the \u201cBlack Box\u201d: Building an Explainable, Real-Time Fraud Engine",
+    "link": "https://medium.com/@shindeadityau/breaking-the-black-box-building-an-explainable-real-time-fraud-engine-14de532990a3?source=rss------system_design-5",
+    "description": "In high-frequency financial systems, we have two competing goals: predictive accuracy and operational speed. If an ML model identifies a\u2026",
+    "image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "datetimestamp": "2026-04-30T17:43:11",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "Stop Blaming the AI. You Left the Keys in the Door",
+    "link": "https://rasha-salim.medium.com/stop-blaming-the-ai-you-left-the-keys-in-the-door-95fe055de831?source=rss------system_design-5",
+    "description": "One API call wiped a startup\u2019s production database and every backup. Here is the exact architecture that would have stopped it \u2014 in five\u2026",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*8auDu4IIG6_CrAFe8S58Xg.png",
+    "datetimestamp": "2026-04-30T16:56:22",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "Your Design system + AI is the most powerful combo no one is talking about",
+    "link": "https://medium.com/@hmimichiouukh/your-design-system-ai-is-the-most-powerful-combo-no-one-is-talking-about-880d7014f119?source=rss------system_design-5",
+    "description": "Most designers build a design system and call it done. The smart ones connect it to AI \u2014 and that\u2019s where it gets interesting.",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*J1h3RpBTNtby_uBKp9QagQ.png",
+    "datetimestamp": "2026-04-30T16:54:00",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "Think Like an Architect: Designing a ChatGPT-like Web App",
+    "link": "https://hammansamuel.medium.com/think-like-an-architect-designing-a-chatgpt-like-web-app-20198925b962?source=rss------system_design-5",
+    "description": "Here is one way to architect a web app where users chat with a large language model (LLM). The actual coding of an LLM chat app has become\u2026",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*Ctws1yftvqoiEWhIUxjOAw.png",
+    "datetimestamp": "2026-04-30T16:22:31",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "Manual Input Was the Right First Version, Not the Final Architecture",
+    "link": "https://medium.com/@khalidalhabibie/manual-input-was-the-right-first-version-not-the-final-architecture-78e72cd6691b?source=rss------system_design-5",
+    "description": "What a travel project taught me about third-party readiness, product reality, and building systems step by step",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*ZQjFh_u9KVoVkOWeV9Cm3w.png",
+    "datetimestamp": "2026-04-30T15:46:01",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "Database-per-Service and Polyglot Persistence: A Pattern Guide for Backend Devs",
+    "link": "https://medium.com/@nagarajvela/database-per-service-and-polyglot-persistence-a-pattern-guide-for-backend-devs-046a0296e79e?source=rss------system_design-5",
+    "description": "One database for everything is the easy choice. It\u2019s not always the right one.",
+    "image": "https://miro.medium.com/v2/resize:fit:1060/1*9swFdDr-llNPROhP3VEySw.png",
+    "datetimestamp": "2026-04-30T15:01:02",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
+    "title": "Why People Are Misrecognized in the Age of AI",
+    "link": "https://medium.com/@yoshimicode/why-people-are-misrecognized-in-the-age-of-ai-b91e30f63f9f?source=rss------system_design-5",
+    "description": "    It\u2019s not a visibility problem. It\u2019s a recognition problem.",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*NfpyYOqY8u_mIqBs4ZeqVg@2x.jpeg",
+    "datetimestamp": "2026-04-30T14:57:25",
+    "source": "Medium System Design",
+    "category": "System Design"
+  },
+  {
     "title": "Amazon SQS: The Serverless Messaging Guide for Modern Applications",
     "link": "https://medium.com/@kartikeykumarsrivastava/amazon-sqs-the-serverless-messaging-guide-for-modern-applications-dc0cdfad3df8?source=rss------system_design-5",
     "description": "Everything you need to know about building scalable, cost-effective messaging systems with SQS",

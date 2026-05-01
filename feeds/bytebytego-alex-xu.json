@@ -1,5 +1,14 @@
 [
   {
+    "title": "A Beginner\u2019s Guide to Kubernetes",
+    "link": "https://blog.bytebytego.com/p/a-beginners-guide-to-kubernetes",
+    "description": "In this article, we will learn how Kubernetes is a system of promises, and that every piece of it is a small program keeping one of those promises.",
+    "image": "https://substackcdn.com/image/fetch/$s_!TkDK!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd719977-77b0-4374-8783-d78b6e0217cc_2250x2624.png",
+    "datetimestamp": "2026-04-30T15:31:10",
+    "source": "ByteByteGo (Alex Xu)",
+    "category": "System Design"
+  },
+  {
     "title": "The Tech Stack Powering Wise",
     "link": "https://blog.bytebytego.com/p/the-tech-stack-powering-wise",
     "description": "AI inference: 24,240 TPS vs 1,863 TPS H100 (Sponsored)",

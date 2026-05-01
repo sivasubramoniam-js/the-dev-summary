@@ -1,5 +1,113 @@
 [
   {
+    "title": "ICANN opens applications for new generic top-level domains for the first time since 2012",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/icann_new_gtld_applications/",
+    "description": ": $227k gets you a hearing for your dot.vanity project, or strings in one of 27 scripts",
+    "image": "https://regmedia.co.uk/2019/11/27/shutterstock_dot_org.jpg",
+    "datetimestamp": "2026-05-01T02:15:40",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "The never-ending supply chain attacks worm into SAP npm packages, other dev tools",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/supply_chain_attacks_sap_npm_packages/",
+    "description": ": Mini Shai-Hulud caught spreading credential-stealing malware",
+    "image": "https://regmedia.co.uk/2017/07/19/computer_worm_photo_via_shutterstock.jpg",
+    "datetimestamp": "2026-04-30T23:21:53",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Govern your bots carefully or chaos could ensue",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/good_ai_governance_is_good/",
+    "description": ": Stop the sprawl!",
+    "image": "https://regmedia.co.uk/2026/04/30/shutterstock_2769448621.jpg",
+    "datetimestamp": "2026-04-30T21:27:22",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Firefox maker torches Google for building Prompt API into browser",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/mozilla_pushes_back_against_googles/",
+    "description": "Updated: Mozilla fears wiring an AI API into Chrome will make the web less open",
+    "image": "https://regmedia.co.uk/2022/09/30/chrome_with_chains.jpg",
+    "datetimestamp": "2026-04-30T20:49:00",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Bot her emails: most modern phishing campaigns are AI-enabled",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/modern_phishing_campaigns_ai/",
+    "description": ": KnowBe4 says 86% of phishing it tracked used AI, and inboxes are only the start",
+    "image": "https://regmedia.co.uk/2023/02/20/shutterstock_400106332.jpg",
+    "datetimestamp": "2026-04-30T20:26:27",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "FBI cyber boss: China's hacker-for-hire ecosystem 'out of control'",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/fbi_cyber_boss_chinas_hackerforhire/",
+    "description": ": One alleged cyber contractor was extradited to the US over the weekend",
+    "image": "https://regmedia.co.uk/2018/09/21/hacker_shutterstock.jpg",
+    "datetimestamp": "2026-04-30T19:30:53",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Phone users know when to hold \u2019em, delay upgrades amid inflation",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/phone_buyers_opt_to_wait/",
+    "description": ": Analyst says handsets now stay in pockets for 4.2 years on average",
+    "image": "https://regmedia.co.uk/2025/10/28/shutterstock_2576345183.jpg",
+    "datetimestamp": "2026-04-30T18:54:07",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Bandwidth hogs rejoice, Celestica's latest switch is bristling with 64 ports of 1.6 Tbps Ethernet",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/bandwith_hogs_rejoice_celesticas_latest/",
+    "description": ": Networking kit arrives just in time for Nvidia's 1.6 Tbps ConnectX-9 NICs",
+    "image": "https://regmedia.co.uk/2024/02/23/shutterstock_wifi_speed.jpg",
+    "datetimestamp": "2026-04-30T18:18:26",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Google's fix for critical Gemini CLI bug might break your CI/CD pipelines",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/googles_fix_for_critical_gemini/",
+    "description": ": This CVSS 10.0 RCE vuln has been patched, automatically for some, so better check those workflows",
+    "image": "https://regmedia.co.uk/2026/04/30/shutterstock_2652360739.jpg",
+    "datetimestamp": "2026-04-30T17:15:13",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "French prosecutors link 15-year-old to mega-breach at state\u2019s secure document agency",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/french_gov_mega_breach_suspect/",
+    "description": ": Two computer crime allegations follow up to 18M lines of data surfacing online",
+    "image": "https://regmedia.co.uk/2022/02/10/shutterstock_paris_france.jpg",
+    "datetimestamp": "2026-04-30T16:39:22",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "Zed team releases version 1.0 of Rust-built editor: Traditional editor and AI tool",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/zed_team_releases_version_10/",
+    "description": ": Team wins praise for adding 'disable all AI features' setting for devs who want a code editor to be only a code editor",
+    "image": "https://regmedia.co.uk/2026/04/30/shutterstock_2769110807.jpg",
+    "datetimestamp": "2026-04-30T16:17:46",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
+    "title": "AWS says acute server memory shortage is driving customers to the cloud",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/server_memory_shortage_pushing_you/",
+    "description": ": When you can't get 'em with a 'transformation plan,' supply chain pain will do the job",
+    "image": "https://regmedia.co.uk/2018/08/10/shutterstock_690171136.jpg",
+    "datetimestamp": "2026-04-30T15:02:53",
+    "source": "The Register",
+    "category": "General Tech"
+  },
+  {
     "title": "Survey says no, American workers are not keen on Microsoft's AI",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/survey_us_workers_e7_ms_ai/",
     "description": ": Lock-in worries threaten to dampen the E7 launch party",

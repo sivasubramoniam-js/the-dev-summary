@@ -1,5 +1,95 @@
 [
   {
+    "title": "The craziest part of Musk v. Altman happened while the jury was out of the room",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
+    "description": "Jared Birchall, Musk\u2019s money manager, answered a question he wasn\u2019t supposed to. It\u2019s unclear what the consequences will be.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia4.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "datetimestamp": "2026-04-30T22:59:51",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "Roblox\u2019s daily users continue to drop as age checks slow growth",
+    "link": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
+    "description": "What\u2019s next for Roblox?",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24369732/STK146_Roblox_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "datetimestamp": "2026-04-30T21:25:15",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "Congress keeps kicking surveillance reform down the road",
+    "link": "https://www.theverge.com/policy/921652/congress-fisa-section-702-45-day-extension",
+    "description": "\u2018This is no way to run a banana stand.\u2019",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK471_Government_Surveillance_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "datetimestamp": "2026-04-30T20:59:58",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "Apple&#8217;s iPhone revenue jumps to $57 billion despite chip shortages",
+    "link": "https://www.theverge.com/tech/921527/apple-iphone-revenue-q2-2026-earnings",
+    "description": "Apple still had a record quarter.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DSC_5479.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "datetimestamp": "2026-04-30T20:58:22",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "Rivian\u2019s revenue is up as R2 production kicks into gear",
+    "link": "https://www.theverge.com/transportation/921295/rivian-q1-2026-earnings-revenue-profit-r2",
+    "description": "The company maintains it will achieve positive gross profits by the end of the year.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/260422_JEFF-OGDEN_R2-START-OF-PRODUCTION_L1040019.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "datetimestamp": "2026-04-30T20:05:00",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "Rivian downsizes new EV factory after Trump\u2019s DOE slashes loan agreement",
+    "link": "https://www.theverge.com/transportation/921585/rivian-georgia-factory-capacity-doe-loan",
+    "description": "The change comes as a result of a smaller loan \u2014 $4.5 billion, instead of $6.6 billion \u2014 from the Department of Energy.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/SSN_Aerial_Rendering_-_Updated_11Sep2025_.jpg?quality=90&strip=all&crop=0,3.5026456994597,100,92.994708601081",
+    "datetimestamp": "2026-04-30T20:05:00",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "The logic of the racist Supreme Court isn\u2019t adding up",
+    "link": "https://www.theverge.com/policy/921597/callais-louisiana-voting-rights-act",
+    "description": "SCOTUS hates math",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25301215/STK463_SCOTUS_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+    "datetimestamp": "2026-04-30T19:52:29",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "Microsoft\u2019s Xbox mode is now available for all Windows 11 PCs",
+    "link": "https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11",
+    "description": "The Xbox mode aims to bridge the gap between Windows and Xbox consoles.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmode_d8bb69.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "datetimestamp": "2026-04-30T19:14:23",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "Meta threatens to pull its apps from New Mexico if forced to make \u2018technologically impractical\u2019 changes",
+    "link": "https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico",
+    "description": "Leaving could be the \u201conly feasible means of compliance,\u201d according to Meta.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "datetimestamp": "2026-04-30T19:05:01",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
+    "title": "With Saros, Housemarque makes a case for doing next-gen games differently",
+    "link": "https://www.theverge.com/games/921391/housemarque-interview-saros-ps5",
+    "description": "The Finnish studio diverges from its peers.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/SAROS_KEYART_HORIZONTAL_nologo.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "datetimestamp": "2026-04-30T19:00:45",
+    "source": "Verge",
+    "category": "Tech News"
+  },
+  {
     "title": "How Adam Scott became an accidental horror movie star",
     "link": "https://www.theverge.com/entertainment/920921/adam-scott-interview-hokum-horror",
     "description": "From Hellraiser to Hokum.",

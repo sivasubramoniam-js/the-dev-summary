@@ -1,5 +1,14 @@
 [
   {
+    "title": "From Security Blocked to Prod Ready: ClickHouse on Docker Hardened Images",
+    "link": "https://www.docker.com/blog/from-security-blocked-to-prod-ready-clickhouse-on-docker-hardened-images/",
+    "description": "Learn how Docker Hardened Images help run ClickHouse in production by reducing CVEs and improving container security without changing your workflow.",
+    "image": "https://www.docker.com/app/uploads/2025/03/image.png",
+    "datetimestamp": "2026-04-30T15:55:07",
+    "source": "Docker Blog",
+    "category": "Cloud"
+  },
+  {
     "title": "Trivy, KICS, and the shape of supply chain attacks so far in 2026 | Docker",
     "link": "https://www.docker.com/blog/trivy-kics-and-the-shape-of-supply-chain-attacks-so-far-in-2026/",
     "description": "We caught a malicious image pushed to checkmarx/kics on Docker Hub, the image was quarantined, and we coordinated response with Socket and Checkmarx. This blog walks through what happened and why we believe open, fast collaboration is the key to responding to this new pattern of emerging supply chain attacks.",

@@ -1,5 +1,23 @@
 [
   {
+    "title": "[Launched] Generally Available: Prefix-scoped access for User Delegation SAS",
+    "link": "https://azure.microsoft.com/updates?id=561257",
+    "description": "Subscribe to Microsoft Azure today for service updates, all in one place. Check out the new Cloud Platform roadmap to see our latest product plans.",
+    "image": "",
+    "datetimestamp": "2026-04-30T18:00:11",
+    "source": "Azure Updates",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "[In preview] Generally Available: Azure Functions support for Java 25",
+    "link": "https://azure.microsoft.com/updates?id=560879",
+    "description": "Subscribe to Microsoft Azure today for service updates, all in one place. Check out the new Cloud Platform roadmap to see our latest product plans.",
+    "image": "",
+    "datetimestamp": "2026-04-30T17:15:44",
+    "source": "Azure Updates",
+    "category": "Cloud & DevOps"
+  },
+  {
     "title": "[Launched] Generally Available: Microsoft Azure Red Hat OpenShift is now available in Austria East",
     "link": "https://azure.microsoft.com/updates?id=561135",
     "description": "Subscribe to Microsoft Azure today for service updates, all in one place. Check out the new Cloud Platform roadmap to see our latest product plans.",

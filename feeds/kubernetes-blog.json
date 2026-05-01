@@ -1,5 +1,14 @@
 [
   {
+    "title": "Kubernetes v1.36: In-Place Vertical Scaling for Pod-Level Resources Graduates to Beta",
+    "link": "https://kubernetes.io/blog/2026/04/30/kubernetes-v1-36-inplace-pod-level-resources-beta/",
+    "description": "Following the graduation of Pod-Level Resources to Beta in v1.34 and the General Availability (GA) of In-Place Pod Vertical Scaling in v1.35, the Kubernetes community is thrilled to announce that In-Place Pod-Level Resources Vertical Scaling has graduated to Beta in v1.36!\nThis feature is now enabled by default via the InPlacePodLevelResourcesVerticalScaling feature gate. It allows users to update the aggregate Pod resource budget (.spec.resources) for a running Pod, often without requiring a container restart.",
+    "image": "",
+    "datetimestamp": "2026-04-30T18:35:00",
+    "source": "Kubernetes Blog",
+    "category": "Cloud"
+  },
+  {
     "title": "Kubernetes v1.36: Tiered Memory Protection with Memory QoS",
     "link": "https://kubernetes.io/blog/2026/04/29/kubernetes-v1-36-memory-qos-tiered-protection/",
     "description": "On behalf of SIG Node, we are pleased to announce updates to the Memory QoS feature (alpha) in Kubernetes v1.36. Memory QoS uses the cgroup v2 memory controller to give the kernel better guidance on how to treat container memory. It was first introduced in v1.22 and updated in v1.27. In Kubernetes v1.36, we're introducing: opt-in memory reservation, tiered protection by QoS class, observability metrics, and kernel-version warning for memory.high.",

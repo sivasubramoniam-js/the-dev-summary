@@ -1,5 +1,32 @@
 [
   {
+    "title": "Moonshot AI Open-Sources FlashKDA: CUTLASS Kernels for Kimi Delta Attention with Variable-Length Batching and H20 Benchmarks",
+    "link": "https://www.marktechpost.com/2026/04/30/moonshot-ai-open-sources-flashkda-cutlass-kernels-for-kimi-delta-attention-with-variable-length-batching-and-h20-benchmarks/",
+    "description": "Moonshot AI Open-Sources FlashKDA: CUTLASS Kernels for Kimi Delta Attention with Variable-Length Batching and H20 Benchmarks",
+    "image": "https://www.marktechpost.com/wp-content/uploads/2026/04/blog-92.png",
+    "datetimestamp": "2026-05-01T01:16:07",
+    "source": "Marktechpost",
+    "category": "AI"
+  },
+  {
+    "title": "Microsoft Research\u2019s World-R1 Uses Flow-GRPO and 3D-Aware Rewards to Inject Geometric Consistency Into Wan 2.1 Without Architectural Changes",
+    "link": "https://www.marktechpost.com/2026/04/30/microsoft-researchs-world-r1-uses-flow-grpo-and-3d-aware-rewards-to-inject-geometric-consistency-into-wan-2-1-without-architectural-changes/",
+    "description": "Microsoft Research's World-R1 Uses Flow-GRPO and 3D-Aware Rewards to Inject Geometric Consistency Into Wan 2.1 Without Architectural Changes",
+    "image": "https://www.marktechpost.com/wp-content/uploads/2026/04/blog-91.png",
+    "datetimestamp": "2026-05-01T00:40:01",
+    "source": "Marktechpost",
+    "category": "AI"
+  },
+  {
+    "title": "A Coding Implementation on Pyright Type Checking Covering Generics, Protocols, Strict Mode, Type Narrowing, and Modern Python Typing",
+    "link": "https://www.marktechpost.com/2026/04/30/a-coding-implementation-on-pyright-type-checking-covering-generics-protocols-strict-mode-type-narrowing-and-modern-python-typing/",
+    "description": "A Coding Implementation on Pyright Type Checking Covering Generics, Protocols, Strict Mode, Type Narrowing, and Modern Python Typing",
+    "image": "https://www.marktechpost.com/wp-content/uploads/2026/04/blog-2-7.png",
+    "datetimestamp": "2026-04-30T15:33:36",
+    "source": "Marktechpost",
+    "category": "AI"
+  },
+  {
     "title": "IBM Releases Two Granite Speech 4.1 2B Models: Autoregressive ASR with Translation and Non-Autoregressive Editing for Fast Inference",
     "link": "https://www.marktechpost.com/2026/04/30/ibm-releases-two-granite-speech-4-1-2b-models-autoregressive-asr-with-translation-and-non-autoregressive-editing-for-fast-inference/",
     "description": "IBM Releases Two Granite Speech 4.1 2B Models: Autoregressive ASR with Translation and Non-Autoregressive Editing for Fast Inference",

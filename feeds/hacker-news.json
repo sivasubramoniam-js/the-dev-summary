@@ -1,5 +1,149 @@
 [
   {
+    "title": "Show HN: Winpodx \u2013 run Windows apps on Linux as native windows",
+    "link": "https://github.com/kernalix7/winpodx",
+    "description": "Windows pod system for Linux. Contribute to kernalix7/winpodx development by creating an account on GitHub.",
+    "image": "https://opengraph.githubassets.com/5e680ca6288af69b16f10ef8c13c33223f06344d93147585a994f215981ecc82/kernalix7/winpodx",
+    "datetimestamp": "2026-05-01T02:23:43",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "OpenWarp",
+    "link": "https://openwarp.zerx.dev",
+    "description": "OpenWarp \u662f Warp \u7684\u5f00\u653e\u5f0f\u589e\u5f3a\u9879\u76ee\u3002\u81ea\u7531\u63a5\u5165\u4efb\u4f55 OpenAI \u517c\u5bb9\u6a21\u578b,\u81ea\u5b9a\u4e49\u7cfb\u7edf\u63d0\u793a\u8bcd,\u4eab\u53d7\u771f\u6b63\u5c5e\u4e8e\u4f60\u7684\u667a\u80fd\u7ec8\u7aef\u3002",
+    "image": "",
+    "datetimestamp": "2026-05-01T02:10:46",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "CPanel and WHM Authentication Bypass \u2013 CVE-2026-41940",
+    "link": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+    "description": "Hello! Yes, it's all a disaster again!\n\nLet's get this party started:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n0:00\n\n/0:12\n\n\n1\u00d7\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo comments today, so imagine this:\n\n * We wrote something that we find very funny,\n * Nobody else gets it,\n * But everyone humors us\n\nJust like a typical watchTowr Labs blog introduction.\n\nAs with all",
+    "image": "https://storage.ghost.io/c/a0/dc/a0dcbbe4-0ae7-4d7e-90f7-ebbc3a0f5a84/content/images/size/w1200/2026/04/Group-8730--2-.png",
+    "datetimestamp": "2026-04-30T22:48:51",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
+    "link": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
+    "description": "During the Sturtian glacial period during the Neoproterozoic Era, Earth underwent periods of global glaciation, which have been described as either \"Snowball\" and \"Slushball\" Earth scenarios. In Snowball Earth models, the planet was completely covered in ice for around 56 million years. In the Slushball models, portions of thin or patchy ice or even open water still existed in the tropics. However, there are some inconsistencies between these models and geological and biological evidence.",
+    "image": "https://scx2.b-cdn.net/gfx/news/2018/5af0afa4a666b.jpg",
+    "datetimestamp": "2026-04-30T22:18:57",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Can I disable all data collection from my vehicle?",
+    "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+    "description": "Vehicle connectivity is a core feature of Rivian vehicles. If you choose to disable all vehicle connectivity, it will prevent data from leaving the vehicle, but it will also limit or disable certain functionality in the vehicle (e.g., navigation, lane keeping assistance, and over-the-air updates, which provide new features, better performance, safety enhancements, and bug fixes).\n\nTo disable all cellular connectivity of the vehicle in Canadian vehicles, use the toggle in the \u201cData and Privacy\u201d screen of the vehicle\u2019s Settings menu. For non-Canadian vehicles, you may reach out to Rivian Service to request that we disable the eSIM card in the vehicle through a service appointment. Note that disabling connectivity will have no impact on any Rivian subscriptions you may have (e.g., Connect+) -- those will need to be cancelled separately.",
+    "image": "https://media.rivian.com/image/upload/f_auto,q_auto/v1695930282/rivian-com/default-riv-com-sharing-image_gjg8mw.jpg",
+    "datetimestamp": "2026-04-30T20:27:22",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Vercel\u2019s pricing page",
+    "link": "https://theupsellgame.com/",
+    "description": "An investigation in 8 parts of the pricing of Vercel hosting.",
+    "image": "https://theupsellgame.com/og.png",
+    "datetimestamp": "2026-04-30T20:02:35",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Follow-up to Carrot disclosure: Forgejo",
+    "link": "https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html",
+    "description": "Personal blog of Julien (jvoisin) Voisin",
+    "image": "",
+    "datetimestamp": "2026-04-30T19:22:55",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Does Postgres Scale?",
+    "link": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
+    "description": "Benchmarking the workflow execution and workflow queueing scalability of a single Postgres server.",
+    "image": "https://cdn.prod.website-files.com/672411cbf038560468c9e68f/69ea2ef1c3fc50d09e3def99_Workflow-Execution-on-Postgres-Benchmark.png",
+    "datetimestamp": "2026-04-30T18:45:22",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Full-Text Search with DuckDB",
+    "link": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
+    "description": "Pete Doherty is a NYC based software developer",
+    "image": "",
+    "datetimestamp": "2026-04-30T18:14:18",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "I built a Game Boy emulator in F#",
+    "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+    "description": "Hundreds of hours, many late nights, and a working Game Boy emulator in F# with sound, running on desktop and web.",
+    "image": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/images/pokemon.gif",
+    "datetimestamp": "2026-04-30T17:14:21",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+    "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47965108\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-30T16:43:47",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+    "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47965060\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-30T16:41:00",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+    "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+    "description": "The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini Shai-Hulud themed malicious code to execute credential-stealing malware on import.",
+    "image": "https://semgrep.dev/assets/blog/semgrep-blog-pytorch-lightning-advisory.png",
+    "datetimestamp": "2026-04-30T16:09:26",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+    "link": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47964034\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-30T15:31:40",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Honker \u2013 Durable queues, streams, pub/sub, and cron scheduler in a SQLite file",
+    "link": "https://honker.dev/",
+    "description": "Durable queues, streams, pub/sub, and scheduler on SQLite. One file, zero servers.",
+    "image": "/og-image.png",
+    "datetimestamp": "2026-04-30T14:43:02",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "link": "https://twitter.com/theo/status/2049645973350363168",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47963204\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-04-30T14:36:58",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
     "title": "How an Oil Refinery Works",
     "link": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
     "description": "Though wind and solar continue to carve out larger and larger shares of world energy supply, the modern world still runs on petroleum, and will continue to do so for the foreseeable future.",

@@ -1,5 +1,32 @@
 [
   {
+    "title": "Beacon Biosignals is mapping the brain during sleep",
+    "link": "https://news.mit.edu/2026/beacon-biosignals-maps-brain-during-sleep-0501",
+    "description": "Beacon Biosignals is creating a model to help diagnose and treat brain disorders, based on data collected while people sleep at home. The firm was founded by MIT alumnus Jake Donoghue and former MIT researcher Jarrett Revels.",
+    "image": "https://news.mit.edu/sites/default/files/images/202604/MIT_Beacon-Bio-Signals-01-press.jpg",
+    "datetimestamp": "2026-05-01T04:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Improving understanding with language",
+    "link": "https://news.mit.edu/2026/improving-understanding-language-olivia-honeycutt-0501",
+    "description": "MIT senior Olivia Honeycutt studies the brain and linguistics to explore how cognition, education, language, language learning, education, policy, and the ways we communicate can shape our views of the world. ",
+    "image": "https://news.mit.edu/sites/default/files/images/202603/mit-shass-Olivia-Honeycutt.jpg",
+    "datetimestamp": "2026-05-01T04:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
+    "title": "Making the case for curiosity-driven science",
+    "link": "https://news.mit.edu/2026/making-case-curiosity-driven-science",
+    "description": "President Sally Kornbluth spoke in front of a packed crowd about growing challenges to the U.S. research ecosystem as funding for America\u2019s top research universities becomes increasingly strained",
+    "image": "https://news.mit.edu/sites/default/files/images/202604/Sally%20Slate.png",
+    "datetimestamp": "2026-04-30T04:00:00",
+    "source": "Mit Ai News",
+    "category": "AI"
+  },
+  {
     "title": "Solving the \u201cWhac-a-mole dilemma\u201d: A smarter way to debias AI vision models",
     "link": "https://news.mit.edu/2026/smarter-way-to-debias-ai-vision-models-0429",
     "description": "A new debiasing approach called WRING resolves the &quot;Whac-a-Mole dilemma&quot; of existing debiasing approaches that can create or amplify existing biases.",

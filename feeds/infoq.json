@@ -1,5 +1,23 @@
 [
   {
+    "title": "NVIDIA Launches Ising Open Models for Quantum Computing",
+    "link": "https://www.infoq.com/news/2026/04/nvidia-ising-quantum/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "description": "NVIDIA has announced a new family of open models called NVIDIA Ising, designed to address quantum processor calibration and quantum error correction. These are two of the main engineering challenges limiting the scalability of current quantum systems, where noise and instability in qubits reduce the reliability of computations.",
+    "image": "https://res.infoq.com/news/2026/04/nvidia-ising-quantum/en/headerimage/generatedHeaderImage-1777556888537.jpg",
+    "datetimestamp": "2026-04-30T20:44:00",
+    "source": "Infoq",
+    "category": "Tech News"
+  },
+  {
+    "title": "NestJS v12 Roadmap: Full ESM Migration, Standard Schema Validation and Modernised Toolchain",
+    "link": "https://www.infoq.com/news/2026/04/nestjs-12-roadmap-esm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "description": "NestJS has announced a draft pull request for its upcoming v12.0.0 release, scheduled for early Q3 2026. Key changes include a transition from CommonJS to ESM, native Standard Schema support in route decorators, and shifts in testing and linting tools. Vitest will replace Jest, and oxlint will replace ESLint, while Rspack will replace Webpack for bundling.",
+    "image": "https://res.infoq.com/news/2026/04/nestjs-12-roadmap-esm/en/headerimage/generatedHeaderImage-1777478248947.jpg",
+    "datetimestamp": "2026-04-30T16:00:00",
+    "source": "Infoq",
+    "category": "Tech News"
+  },
+  {
     "title": "Driving and Measuring the Impact of Platform Engineering",
     "link": "https://www.infoq.com/news/2026/04/measure-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
     "description": "Platform engineering has to be approached from a socio-technical perspective, and shaped by all stakeholders, not just developers, Sergiu Petean said in his talk Driving the Future of Insurance through Platform Engineering. Platform success depends on written principles that endure change while embracing change as the main design force, to enable teams to build, run, and release software.",

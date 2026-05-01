@@ -1,5 +1,50 @@
 [
   {
+    "title": "A nine-point checklist for shipping production-ready AI",
+    "link": "https://thenewstack.io/production-ready-ai-platforms/",
+    "description": "A guide to taking AI agents from prototype to production using retrieval, guardrails, observability, and platform engineering best practices.",
+    "image": "https://cdn.thenewstack.io/media/2026/04/737f4d34-mohammad-bazar-gezrt0vltao-unsplash-scaled.jpg",
+    "datetimestamp": "2026-04-30T18:00:00",
+    "source": "The New Stack",
+    "category": "Tech News"
+  },
+  {
+    "title": "The OpenAI-Microsoft reset, decoded: Why AWS may come out ahead",
+    "link": "https://thenewstack.io/openai-aws-bedrock-integration/",
+    "description": "OpenAI's models, Codex, and agents are now available on AWS Bedrock, following a reset of the Microsoft partnership that ended Azure exclusivity.",
+    "image": "https://cdn.thenewstack.io/media/2026/04/c6b68521-boliviainteligente-bhsnfyep7-e-unsplash-1.jpg",
+    "datetimestamp": "2026-04-30T17:17:41",
+    "source": "The New Stack",
+    "category": "Tech News"
+  },
+  {
+    "title": "Anthropic\u2019s Claude Security emerges from closed preview to scan your codebases for vulnerabilities",
+    "link": "https://thenewstack.io/anthropics-claude-security-beta/",
+    "description": "Anthropic's AI-powered security scanner traces data flows across codebases to catch vulnerabilities that rule-based tools miss.",
+    "image": "https://cdn.thenewstack.io/media/2026/04/88e49de1-img_0987-2-scaled.jpg",
+    "datetimestamp": "2026-04-30T17:00:00",
+    "source": "The New Stack",
+    "category": "Tech News"
+  },
+  {
+    "title": "Meta abandons open-source Llama for proprietary Muse Spark",
+    "link": "https://thenewstack.io/meta-abandons-llama-spark/",
+    "description": "Meta has shifted from Llama to its new proprietary AI model Muse Spark, leaving open-source developers searching for alternatives and migration paths.",
+    "image": "https://cdn.thenewstack.io/media/2026/04/5d227269-chloe-hlmb4k6gm8o-unsplash-scaled.jpg",
+    "datetimestamp": "2026-04-30T15:05:45",
+    "source": "The New Stack",
+    "category": "Tech News"
+  },
+  {
+    "title": "Quickbase\u2019s Pave targets vibe coding\u2019s notorious 80% problem",
+    "link": "https://thenewstack.io/quickbase-pave-vibe-coding/",
+    "description": "Quickbase launches Pave, a full-stack AI app builder aiming to take vibe coding projects from prototype to production-ready enterprise apps.",
+    "image": "https://cdn.thenewstack.io/media/2026/04/cbbb007f-arturo-portillo-tsyzlwzejpe-unsplash-scaled.jpg",
+    "datetimestamp": "2026-04-30T15:00:00",
+    "source": "The New Stack",
+    "category": "Tech News"
+  },
+  {
     "title": "Cut AI token usage by 96%? Here\u2019s how AWS Strands Agents does it.",
     "link": "https://thenewstack.io/strands-agents-tool-design/",
     "description": "AWS developer advocate Morgan Willis on Strands Agents, intent-based tools, MCP gateways, and how smarter tool design cut agent token usage from 52K to 2K.",

@@ -1,5 +1,167 @@
 [
   {
+    "title": "Show HN: Winpodx \u2013 run Windows apps on Linux as native windows",
+    "link": "https://github.com/kernalix7/winpodx",
+    "description": "Windows pod system for Linux. Contribute to kernalix7/winpodx development by creating an account on GitHub.",
+    "image": "https://opengraph.githubassets.com/5e680ca6288af69b16f10ef8c13c33223f06344d93147585a994f215981ecc82/kernalix7/winpodx",
+    "datetimestamp": "2026-05-01T02:23:43",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Utah's New Law Targeting VPNs Goes into Effect Next Week",
+    "link": "https://www.eff.org/deeplinks/2026/04/utahs-new-law-regulating-vpns-goes-effect-next-week",
+    "description": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/04/utahs-new-law-regulating-vpns-goes-effect-next-week\">https://www.eff.org/deeplinks/2026/04/utahs-new-law-regulating-vpns-goes-effect-next-week</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47969868\">https://news.ycombinator.com/item?id=47969868</a></p>\n<p>Points: 31</p>\n<p># Comments: 3</p>",
+    "image": "https://www.eff.org/files/banner_library/secret-identity-2_0.png",
+    "datetimestamp": "2026-04-30T23:57:30",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "AI discovery reveals DNA isn\u2019t locked away in cells after all",
+    "link": "https://gladstone.org/news/ai-discovery-reveals-dna-isnt-locked-away-cells-after-all",
+    "description": "A new study upends long-held view about how DNA is stored, explaining how subtle shifts in gene activity contribute to cancer, aging, and other complex diseases.",
+    "image": "",
+    "datetimestamp": "2026-04-30T22:45:44",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Show HN: Pu.sh \u2013 a full coding-agent harness in 400 lines of shell",
+    "link": "https://pu.dev/",
+    "description": "A full coding-agent harness in 400 lines of shell. No npm. No pip. No Docker. Just curl, awk, and an API key.",
+    "image": "https://pu.dev/logo.png",
+    "datetimestamp": "2026-04-30T20:55:12",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+    "link": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+    "description": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
+    "datetimestamp": "2026-04-30T20:45:19",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Vercel\u2019s pricing page",
+    "link": "https://theupsellgame.com/",
+    "description": "An investigation in 8 parts of the pricing of Vercel hosting.",
+    "image": "https://theupsellgame.com/og.png",
+    "datetimestamp": "2026-04-30T20:02:35",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets",
+    "link": "https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd",
+    "description": "<p>Article URL: <a href=\"https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd\">https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47967289\">https://news.ycombinator.com/item?id=47967289</a></p>\n<p>Points: 286</p>\n<p># Comments: 96</p>",
+    "image": "",
+    "datetimestamp": "2026-04-30T19:42:33",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Does Postgres Scale?",
+    "link": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
+    "description": "Benchmarking the workflow execution and workflow queueing scalability of a single Postgres server.",
+    "image": "https://cdn.prod.website-files.com/672411cbf038560468c9e68f/69ea2ef1c3fc50d09e3def99_Workflow-Execution-on-Postgres-Benchmark.png",
+    "datetimestamp": "2026-04-30T18:45:22",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "The Human Creativity Benchmark \u2013 Evaluating Generative AI in Creative Work",
+    "link": "https://contralabs.com/research/human-creativity-benchmark",
+    "description": "The frontier human data and evaluation lab for creative AI. 1.5M+ verified creative experts setting the benchmark for style, tone, and taste with next-gen creative tools. ",
+    "image": "https://framerusercontent.com/assets/3VWbqj3oSlaixwW5FS0stUsdR7g.png",
+    "datetimestamp": "2026-04-30T18:33:03",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "You're probably taking the wrong painkiller: acetaminophen vs. ibuprofen",
+    "link": "https://dynomight.substack.com/p/painkillers",
+    "description": "<p>Article URL: <a href=\"https://dynomight.substack.com/p/painkillers\">https://dynomight.substack.com/p/painkillers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47965878\">https://news.ycombinator.com/item?id=47965878</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
+    "image": "",
+    "datetimestamp": "2026-04-30T17:44:59",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Kubereboot/Kured: Kubernetes Reboot Daemon",
+    "link": "https://github.com/kubereboot/kured",
+    "description": "Kubernetes Reboot Daemon. Contribute to kubereboot/kured development by creating an account on GitHub.",
+    "image": "https://opengraph.githubassets.com/0edfa09aa2d65c13f8c8849e61a4052e59dfbd0111b15d4a114d8b6acadda07b/kubereboot/kured",
+    "datetimestamp": "2026-04-30T16:53:44",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+    "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+    "description": "<p>Recent: <i>Copy Fail</i> - <a href=\"https://news.ycombinator.com/item?id=47952181\">https://news.ycombinator.com/item?id=47952181</a> - April 2026 (466 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47965108\">https://news.ycombinator.com/item?id=47965108</a></p>\n<p>Points: 415</p>\n<p># Comments: 324</p>",
+    "image": "",
+    "datetimestamp": "2026-04-30T16:43:47",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Dotcl: Common Lisp Implementation on .NET",
+    "link": "https://github.com/dotcl/dotcl",
+    "description": "Contribute to dotcl/dotcl development by creating an account on GitHub.",
+    "image": "https://opengraph.githubassets.com/b6af7bb06bd0e41c17245d65890d7a5b80c49b97826b26fae5c88340d494d72b/dotcl/dotcl",
+    "datetimestamp": "2026-04-30T16:33:24",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+    "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+    "description": "The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini Shai-Hulud themed malicious code to execute credential-stealing malware on import.",
+    "image": "https://semgrep.dev/assets/blog/semgrep-blog-pytorch-lightning-advisory.png",
+    "datetimestamp": "2026-04-30T16:09:26",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Honker \u2013 Durable queues, streams, pub/sub, and cron scheduler in a SQLite file",
+    "link": "https://honker.dev/",
+    "description": "Durable queues, streams, pub/sub, and scheduler on SQLite. One file, zero servers.",
+    "image": "/og-image.png",
+    "datetimestamp": "2026-04-30T14:43:02",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "link": "https://twitter.com/theo/status/2049645973350363168",
+    "description": "<p><a href=\"https://xcancel.com/theo/status/2049645973350363168\" rel=\"nofollow\">https://xcancel.com/theo/status/2049645973350363168</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47963204\">https://news.ycombinator.com/item?id=47963204</a></p>\n<p>Points: 1026</p>\n<p># Comments: 573</p>",
+    "image": "",
+    "datetimestamp": "2026-04-30T14:36:58",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "The More Young People Use AI, the More They Hate It",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
+    "description": "\ufeffCaught between fears of job loss and social stigma, Gen Z\u2019s opinions of AI are hitting new lows.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "datetimestamp": "2026-04-30T14:34:36",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens",
+    "link": "https://burla-cloud.github.io/examples/airbnb-burla-demo/",
+    "description": "119 cities x 4 quarterly snapshots of Inside Airbnb data. 1.7M photos through CLIP, the most suspicious shortlists double-checked with Claude Haiku Vision, 50.7M reviews scored through Haiku, all parallelized on Burla.",
+    "image": "",
+    "datetimestamp": "2026-04-30T14:26:38",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
     "title": "The FCC is about to ban 21% of its test labs today. I mapped them all",
     "link": "https://markready.io/blog/fcc-accredited-test-labs-complete-guide",
     "description": "591 FCC-accredited test labs mapped across 28 countries. Location, accreditation status, TCB capability, and which labs face the Bad Labs ban.",

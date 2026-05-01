@@ -1,5 +1,86 @@
 [
   {
+    "title": "AWS Outposts racks now support LagStatus CloudWatch metric",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-outposts-lagstatus-cloudwatch/",
+    "description": "Discover more about what's new at AWS with AWS Outposts racks now support LagStatus CloudWatch metric",
+    "image": "",
+    "datetimestamp": "2026-04-30T20:17:00",
+    "source": "Aws Whats New",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Amazon ECS Managed Instances now supports NVIDIA GPU metrics",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-mi-gpu-metrics/",
+    "description": "Discover more about what's new at AWS with Amazon ECS Managed Instances now supports NVIDIA GPU metrics",
+    "image": "",
+    "datetimestamp": "2026-04-30T19:00:00",
+    "source": "Aws Whats New",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Amazon MQ for RabbitMQ now supports Prometheus metrics",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mq-rabbitmq-prometheus-metrics/",
+    "description": "Discover more about what's new at AWS with Amazon MQ for RabbitMQ now supports Prometheus metrics",
+    "image": "",
+    "datetimestamp": "2026-04-30T18:10:00",
+    "source": "Aws Whats New",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Amazon Bedrock AgentCore Identity now supports On-Behalf-Of (OBO) token exchange",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore/",
+    "description": "Discover more about what's new at AWS with Amazon Bedrock AgentCore Identity now supports On-Behalf-Of (OBO) token exchange",
+    "image": "",
+    "datetimestamp": "2026-04-30T17:00:00",
+    "source": "Aws Whats New",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "AWS Neuron SDK now available with Neuron Agentic Development for NKI kernel development on Trainium",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/announcing-neuron-agentic-development/",
+    "description": "Discover more about what's new at AWS with AWS Neuron SDK now available with Neuron Agentic Development for NKI kernel development on Trainium",
+    "image": "",
+    "datetimestamp": "2026-04-30T15:00:00",
+    "source": "Aws Whats New",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Amazon Bedrock AgentCore launches capabilities for optimizing agent performance in preview",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/bedrock-agentcore-optimization-preview/",
+    "description": "Discover more about what's new at AWS with Amazon Bedrock AgentCore launches capabilities for optimizing agent performance in preview",
+    "image": "",
+    "datetimestamp": "2026-04-30T15:00:00",
+    "source": "Aws Whats New",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "AWS Lambda adds support for Ruby 4.0",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-adds-ruby/",
+    "description": "Discover more about what's new at AWS with AWS Lambda adds support for Ruby 4.0",
+    "image": "",
+    "datetimestamp": "2026-04-30T13:00:00",
+    "source": "Aws Whats New",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Amazon Quick adds Microsoft Excel, PowerPoint extensions and updates the Word extension (Preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-microsoft-excel/",
+    "description": "Discover more about what's new at AWS with Amazon Quick adds Microsoft Excel, PowerPoint extensions and updates the Word extension (Preview)",
+    "image": "",
+    "datetimestamp": "2026-04-30T11:30:00",
+    "source": "Aws Whats New",
+    "category": "Cloud & DevOps"
+  },
+  {
+    "title": "Amazon OpenSearch Service now supports index-level encryption",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-service-supports-index-level-encryption/",
+    "description": "Discover more about what's new at AWS with Amazon OpenSearch Service now supports index-level encryption",
+    "image": "",
+    "datetimestamp": "2026-04-30T02:30:00",
+    "source": "Aws Whats New",
+    "category": "Cloud & DevOps"
+  },
+  {
     "title": "Amazon RDS for MySQL announces Innovation Release 9.6 in Amazon RDS Database Preview Environment",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-mysql-innovation/",
     "description": "Discover more about what's new at AWS with Amazon RDS for MySQL announces Innovation Release 9.6 in Amazon RDS Database Preview Environment",

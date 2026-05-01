@@ -1,5 +1,50 @@
 [
   {
+    "title": "How Shivon Zilis Operated as Elon Musk\u2019s OpenAI Insider",
+    "link": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
+    "description": "Messages presented at trial reveal how Zilis, the mother of four of Musk\u2019s children, acted as an intermediary between him and OpenAI.",
+    "image": "https://media.wired.com/photos/69f3d20465348cc78c80dfb1/191:100/w_1280,c_limit/Model-Behavior-Why-Everything-in-Musk-v-Altman-Leads-Back-to-Shivon-Zelis-Business-2258844337.jpg",
+    "datetimestamp": "2026-05-01T00:51:18",
+    "source": "Wired Ai",
+    "category": "AI"
+  },
+  {
+    "title": "Good Luck Getting a Mac Mini for the Next \u2018Several Months\u2019",
+    "link": "https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/",
+    "description": "Apple CEO Tim Cook told analysts that AI adoption has happened faster than expected.",
+    "image": "https://media.wired.com/photos/69f3d1f6fd3259b38c3421e7/191:100/w_1280,c_limit/You-Bought-All-MacMinis-Business.jpg",
+    "datetimestamp": "2026-04-30T23:00:51",
+    "source": "Wired Ai",
+    "category": "AI"
+  },
+  {
+    "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
+    "description": "In this episode of \u201cUncanny Valley,\u201d we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large.",
+    "image": "https://media.wired.com/photos/69f2663444afef60af143aae/191:100/w_1280,c_limit/Uncanny-Valley-Musk-v-Altman-Business-2272923137.jpg",
+    "datetimestamp": "2026-04-30T18:54:54",
+    "source": "Wired Ai",
+    "category": "AI"
+  },
+  {
+    "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI\u2019s Models to Train Its Own",
+    "link": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
+    "description": "While answering questions under oath, Musk argued it\u2019s standard practice for AI labs to use their competitors\u2019 models.",
+    "image": "https://media.wired.com/photos/69f3848c17e0528daa0ec80c/191:100/w_1280,c_limit/Musk-Admits-to-Partly-Distilling-OpenAI-Models-Business-2273133893.jpg",
+    "datetimestamp": "2026-04-30T17:41:14",
+    "source": "Wired Ai",
+    "category": "AI"
+  },
+  {
+    "title": "OpenAI Rolls Out \u2018Advanced\u2019 Security Mode for At-Risk Accounts",
+    "link": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
+    "description": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attacks.",
+    "image": "https://media.wired.com/photos/69f3851f013dbae7ce7c178e/191:100/w_1280,c_limit/security_chatgpt_GettyImages-2271059989.jpg",
+    "datetimestamp": "2026-04-30T17:30:39",
+    "source": "Wired Ai",
+    "category": "AI"
+  },
+  {
     "title": "These Men Allegedly Profit Off Teaching People How to Make AI Porn",
     "link": "https://www.wired.com/story/ai-porn-lawsuit-arizona/",
     "description": "Three Arizona women have filed a lawsuit against a group of men that alleges they used the women\u2019s photos to make AI porn influencers, then offered online courses showing others how to do it.",
