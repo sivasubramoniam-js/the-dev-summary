@@ -1,5 +1,77 @@
 [
   {
+    "title": "Ask.com has closed",
+    "link": "https://www.ask.com/",
+    "description": "<p>Article URL: <a href=\"https://www.ask.com/\">https://www.ask.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47983226\">https://news.ycombinator.com/item?id=47983226</a></p>\n<p>Points: 95</p>\n<p># Comments: 39</p>",
+    "image": "",
+    "datetimestamp": "2026-05-02T04:12:35",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Good developers learn to program. Most courses teach a language",
+    "link": "https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language",
+    "description": "<p>Article URL: <a href=\"https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language\">https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47981995\">https://news.ycombinator.com/item?id=47981995</a></p>\n<p>Points: 84</p>\n<p># Comments: 49</p>",
+    "image": "https://evilgeniuslabs.ca/img/og-default.png",
+    "datetimestamp": "2026-05-02T00:14:33",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "U.S. to Withdraw 5k Troops from Germany, Pentagon Says",
+    "link": "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html",
+    "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html\">https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47981856\">https://news.ycombinator.com/item?id=47981856</a></p>\n<p>Points: 42</p>\n<p># Comments: 24</p>",
+    "image": "",
+    "datetimestamp": "2026-05-01T23:52:36",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Amazon Powers ICE. Its Workers Aren't Happy",
+    "link": "https://www.motherjones.com/politics/2026/05/amazon-powers-ice-its-workers-arent-happy/",
+    "description": "<p>Article URL: <a href=\"https://www.motherjones.com/politics/2026/05/amazon-powers-ice-its-workers-arent-happy/\">https://www.motherjones.com/politics/2026/05/amazon-powers-ice-its-workers-arent-happy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47980057\">https://news.ycombinator.com/item?id=47980057</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+    "image": "https://www.motherjones.com/wp-content/uploads/2026/05/amazon-rally-2026.jpg?w=1200&h=630&crop=1",
+    "datetimestamp": "2026-05-01T20:45:30",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Show HN: Destiny \u2013 Claude Code's fortune Teller skill",
+    "link": "https://github.com/xodn348/destiny",
+    "description": "<p>Destiny is the Claude Code's plugin that gives you a real fortune reading.<p>Type /destiny to see today's destiny!<p>It uses the actual classical East Asian astrology system. You enter your birthday once, then /destiny gives you today's reading anytime.<p>Two layers, kept honest:<p>1. The numbers (your eight-character birth chart, today's day pillar, the hexagram for the moment, five-element relationships) are computed by a Python script. Same person + same day = identical output. You can verify against any traditional calendar source.<p>2. The prose (today's stars, character sketch, life arc, advice) is written by Claude, applying centuries-old reading conventions to that fixed data. Not LLM-hallucinated horoscope.<p>If you have fun with it, a star would mean a lot.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47979438\">https://news.ycombinator.com/item?id=47979438</a></p>\n<p>Points: 41</p>\n<p># Comments: 34</p>",
+    "image": "https://opengraph.githubassets.com/b90e775473ca522ab734396f230097b5c7fd298239ec79ca83538e93aee78115/xodn348/destiny",
+    "datetimestamp": "2026-05-01T19:56:18",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "IBM Granite 4.1 family of models",
+    "link": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
+    "description": "<p>Article URL: <a href=\"https://research.ibm.com/blog/granite-4-1-ai-foundation-models\">https://research.ibm.com/blog/granite-4-1-ai-foundation-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47978414\">https://news.ycombinator.com/item?id=47978414</a></p>\n<p>Points: 17</p>\n<p># Comments: 0</p>",
+    "image": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_Granitev4_1release_ddf20c71b2.png&w=1200&q=85",
+    "datetimestamp": "2026-05-01T18:41:18",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Show HN: AI CAD Harness",
+    "link": "https://fusion.adam.new/install",
+    "description": "<p>Hi HN, I'm Zach, one of the co-founders of Adam (<a href=\"https://adam.new\">https://adam.new</a>).<p>We've been on HN twice before with text-to-CAD/3D experiments [1][2]. The honest takeaway from those threads: prompt-to-3D model web apps are fun, but serious mechanical engineers don't want a black box that spits out an STL. They want help inside the CAD tool they already use, with full visibility and control over the feature tree.<p>So we built that. Adam is now a harness that integrates directly with your CAD. It reads your parts, understands the existing feature tree, and edits it for you agentically. We are now live in beta on Onshape and Fusion! [3]:<p>Install link Autodesk Fusion: <a href=\"https://fusion.adam.new/install\">https://fusion.adam.new/install</a><p>Install link PTC Onshape:\n<a href=\"https://cad.onshape.com/appstore/apps/Design%20&amp;%20Documentation/690a8dc864e816c112aa66a0\" rel=\"nofollow\">https://cad.onshape.com/appstore/apps/Design%20&%20Documenta...</a><p>Things people are using it for today: - \"Merge redundant features and clean up my tree\" - \"Rename every feature so the tree is actually readable\" - \"Round all internal edges with a 2mm fillet\" - \u201cParametrize my model\u201d - Along with of course, using Adam to generate CAD end-to-end!<p>A few things we care about that aren't obvious from the listing:<p>1. From the start we have always believed in CAD as code as the right abstraction. Our harness leverages Onshape's FeatureScript and Python in Fusion heavily.<p>2. We run an internal CAD benchmark across frontier models. There has been a massive jump in the spatial reasoning capabilities of recent models, particularly GPT 5.5 and Opus 4.7 [4] [5]<p>3. We open-sourced our earlier text-to-CAD work [6]<p>A note on the Anthropic Autodesk connector that shipped a couple days ago [7]: We think it's great for the space and validates the direction.<p>Where Adam is different: - Model-agnostic. We pick whichever frontier model is winning on each task type from our own internal bench, instead of being tied to one lab. - We live natively in your CAD apps and are actively building integrations across all programs<p>What would you want an in-CAD agent to do that nothing does today?<p>[1] <a href=\"https://news.ycombinator.com/item?id=44182206\">https://news.ycombinator.com/item?id=44182206</a><p>[2] <a href=\"https://news.ycombinator.com/item?id=45140921\">https://news.ycombinator.com/item?id=45140921</a><p>[3] <a href=\"https://x.com/adamdotnew/status/2050264512230719980?s=20\" rel=\"nofollow\">https://x.com/adamdotnew/status/2050264512230719980?s=20</a><p>[4] <a href=\"https://x.com/adamdotnew/status/2044859329329893376?s=20\" rel=\"nofollow\">https://x.com/adamdotnew/status/2044859329329893376?s=20</a><p>[5] <a href=\"https://x.com/adamdotnew/status/2047795078912172122?s=20\" rel=\"nofollow\">https://x.com/adamdotnew/status/2047795078912172122?s=20</a><p>[6] <a href=\"https://github.com/Adam-CAD/CADAM\" rel=\"nofollow\">https://github.com/Adam-CAD/CADAM</a><p>[7] <a href=\"https://x.com/claudeai/status/2049143440508616863?s=20\" rel=\"nofollow\">https://x.com/claudeai/status/2049143440508616863?s=20</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977694\">https://news.ycombinator.com/item?id=47977694</a></p>\n<p>Points: 75</p>\n<p># Comments: 74</p>",
+    "image": "https://fusion.adam.new/opengraph-image?bfdae25aab0c7a47",
+    "datetimestamp": "2026-05-01T17:43:53",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
+    "title": "Show HN: My Private GitHub on Postgres",
+    "link": "https://github.com/calebwin/gitgres",
+    "description": "<p>Article URL: <a href=\"https://github.com/calebwin/gitgres\">https://github.com/calebwin/gitgres</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977659\">https://news.ycombinator.com/item?id=47977659</a></p>\n<p>Points: 36</p>\n<p># Comments: 21</p>",
+    "image": "https://opengraph.githubassets.com/e4f5278e2ebcd3372860ea78d9ba12988afde6abe7b8df50ff36e9589876c05b/calebwin/gitgres",
+    "datetimestamp": "2026-05-01T17:40:15",
+    "source": "Hacker News (Custom)",
+    "category": "Frontend"
+  },
+  {
     "title": "AWS stops billing Middle East cloud customers as repairs to war damage drag on",
     "link": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
     "description": "<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/\">https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977498\">https://news.ycombinator.com/item?id=47977498</a></p>\n<p>Points: 24</p>\n<p># Comments: 4</p>",

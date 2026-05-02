@@ -1,5 +1,14 @@
 [
   {
+    "title": "Upcoming deprecation of GPT-5.2 and GPT-5.2-Codex",
+    "link": "https://github.blog/changelog/2026-05-01-upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex",
+    "description": "<p>We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions), with the exception of GPT-5.2-Codex in Copilot&#8230;</p>\n<p>The post <a href=\"https://github.blog/changelog/2026-05-01-upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex\">Upcoming deprecation of GPT-5.2 and GPT-5.2-Codex</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "image": "",
+    "datetimestamp": "2026-05-01T21:30:12",
+    "source": "Github",
+    "category": "Tech News"
+  },
+  {
     "title": "GitHub Copilot in Visual Studio \u2014 April update",
     "link": "https://github.blog/changelog/2026-04-30-github-copilot-in-visual-studio-april-update",
     "description": "The April 2026 update to Visual Studio centers on agentic workflows: cloud agent sessions launch directly from the IDE, custom agents gain user-level support, and a new Debugger agent validates\u2026",

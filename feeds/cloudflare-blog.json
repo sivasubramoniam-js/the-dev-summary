@@ -1,5 +1,14 @@
 [
   {
+    "title": "Code Orange: Fail Small is complete. The result is a stronger Cloudflare network",
+    "link": "https://blog.cloudflare.com/code-orange-fail-small-complete/",
+    "description": "We have completed a massive engineering effort to make our infrastructure more resilient. Through new tools like Snapstone and the Engineering Codex, we've implemented safer configuration changes and automated best practices to prevent future incidents.",
+    "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4jmuJjPlgOaXJe4N4pFII6/e727b99cf584fbf177d86e5785078957/Copy_of_OG_Share_2024-2025-2026.png",
+    "datetimestamp": "2026-05-01T21:07:30",
+    "source": "Cloudflare Blog",
+    "category": "Engineering"
+  },
+  {
     "title": "Introducing Dynamic Workflows: durable execution that follows the tenant",
     "link": "https://blog.cloudflare.com/dynamic-workflows/",
     "description": "Dynamic Workflows is a library that lets you route durable execution to tenant-provided code on the fly. Built on Dynamic Workers, it enables platforms to serve millions of unique workflows at near-zero idle cost.",

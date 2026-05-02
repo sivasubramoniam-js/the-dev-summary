@@ -1,5 +1,41 @@
 [
   {
+    "title": "AI agents are running wild on developer machines. Incredibuild has a fix.",
+    "link": "https://thenewstack.io/incredibuild-ai-agents-sandbox-coding/",
+    "description": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"683\" src=\"https://cdn.thenewstack.io/media/2026/05/a2be03c6-willian-reis-o6avr7ma15q-unsplash-1024x683.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>Somewhere out there, a developer is walking around with their laptop half-open, so their AI coding agent doesn&#8217;t die. That&#8217;s</p>\n<p>The post <a href=\"https://thenewstack.io/incredibuild-ai-agents-sandbox-coding/\">AI agents are running wild on developer machines. Incredibuild has a fix.</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+    "image": "https://cdn.thenewstack.io/media/2026/05/a2be03c6-willian-reis-o6avr7ma15q-unsplash.jpg",
+    "datetimestamp": "2026-05-01T20:21:31",
+    "source": "The New Stack",
+    "category": "Tech News"
+  },
+  {
+    "title": "Fresh data has us asking, does AI demand Kubernetes?",
+    "link": "https://thenewstack.io/does-ai-demand-kubernetes/",
+    "description": "<img alt=\"Bob Killen, CNCF &amp; Liam Bollmann-Dodd, SlashData share insights from recent CNCF and SlashData reports highlight that success with AI still depends on strong engineering fundamentals, particularly internal developer platforms and developer experience.\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2026/05/874b352c-for-thumbnail-8-1024x576.png\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>Kubernetes is becoming the de facto operating system for AI. Two-thirds of organizations running generative AI models use Kubernetes for</p>\n<p>The post <a href=\"https://thenewstack.io/does-ai-demand-kubernetes/\">Fresh data has us asking, does AI demand Kubernetes?</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+    "image": "https://cdn.thenewstack.io/media/2026/05/874b352c-for-thumbnail-8.png",
+    "datetimestamp": "2026-05-01T20:18:11",
+    "source": "The New Stack",
+    "category": "Tech News"
+  },
+  {
+    "title": "How SUSE positions itself as the infrastructure layer for the AI era",
+    "link": "https://thenewstack.io/suse-ai-infrastructure-kubernetes/",
+    "description": "<img alt=\"In this episode of The New Stack Makers, Pete Smails outlines how SUSE is evolving from its Linux roots into an AI-native infrastructure platform.\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2026/04/ee6ed6c7-for-thumbnail-7-1024x576.png\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>For this edition of The New Stack Makers, we sat down with Pete Smails, SVP and general manager for cloud-native</p>\n<p>The post <a href=\"https://thenewstack.io/suse-ai-infrastructure-kubernetes/\">How SUSE positions itself as the infrastructure layer for the AI era</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+    "image": "https://cdn.thenewstack.io/media/2026/04/ee6ed6c7-for-thumbnail-7.png",
+    "datetimestamp": "2026-05-01T20:16:22",
+    "source": "The New Stack",
+    "category": "Tech News"
+  },
+  {
+    "title": "IBM Bob hits 80,000 developers with 45% productivity gains",
+    "link": "https://thenewstack.io/ibm-bob-agentic-development/",
+    "description": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"683\" src=\"https://cdn.thenewstack.io/media/2026/05/9560241d-sayyam-abbasi-5dcnacdz_fs-unsplash-1024x683.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>IBM is betting that the next competitive frontier in AI-assisted development isn&#8217;t raw code-generation&#160;speed &#8212; it&#8217;s governance, auditability, and the</p>\n<p>The post <a href=\"https://thenewstack.io/ibm-bob-agentic-development/\">IBM Bob hits 80,000 developers with 45% productivity gains</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+    "image": "https://cdn.thenewstack.io/media/2026/05/9560241d-sayyam-abbasi-5dcnacdz_fs-unsplash.jpg",
+    "datetimestamp": "2026-05-01T19:06:02",
+    "source": "The New Stack",
+    "category": "Tech News"
+  },
+  {
     "title": "Mistral, Europe\u2019s answer to OpenAI and Anthropic, pushes its coding agents to the cloud",
     "link": "https://thenewstack.io/mistral-vibe-cloud-agents/",
     "description": "Paris-based AI startup pushes is Vibe coding agent into the cloud, launches a new model, and keeps the heat on the major AI labs.",

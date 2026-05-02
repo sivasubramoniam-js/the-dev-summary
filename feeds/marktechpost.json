@@ -1,5 +1,41 @@
 [
   {
+    "title": "A New NVIDIA Research Shows Speculative Decoding in NeMo RL Achieves 1.8\u00d7 Rollout Generation Speedup at 8B and Projects 2.5\u00d7 End-to-End Speedup at 235B",
+    "link": "https://www.marktechpost.com/2026/05/01/a-new-nvidia-research-shows-speculative-decoding-in-nemo-rl-achieves-1-8x-rollout-generation-speedup-at-8b-and-projects-2-5x-end-to-end-speedup-at-235b/",
+    "description": "<p>A new paper from NVIDIA Research integrates speculative decoding directly into NeMo RL with a vLLM backend, delivering lossless rollout acceleration at both 8B and projected 235B model scales.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/01/a-new-nvidia-research-shows-speculative-decoding-in-nemo-rl-achieves-1-8x-rollout-generation-speedup-at-8b-and-projects-2-5x-end-to-end-speedup-at-235b/\">A New NVIDIA Research Shows Speculative Decoding in NeMo RL Achieves 1.8\u00d7 Rollout Generation Speedup at 8B and Projects 2.5\u00d7 End-to-End Speedup at 235B</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
+    "image": "https://www.marktechpost.com/wp-content/uploads/2026/05/blog-4.png",
+    "datetimestamp": "2026-05-02T03:47:47",
+    "source": "Marktechpost",
+    "category": "AI"
+  },
+  {
+    "title": "A Coding Implementation of End-to-End Brain Decoding from MEG Signals Using NeuralSet and Deep Learning for Predicting Linguistic Features",
+    "link": "https://www.marktechpost.com/2026/05/01/a-coding-implementation-of-end-to-end-brain-decoding-from-meg-signals-using-neuralset-and-deep-learning-for-predicting-linguistic-features/",
+    "description": "<p>In this tutorial, we explore how we can decode linguistic features directly from brain signals using a modern neuroAI pipeline. We work with MEG data and build an end-to-end system that transforms raw neural activity into meaningful predictions, in this case, estimating word length from brain responses. We set up the environment, load and process [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/01/a-coding-implementation-of-end-to-end-brain-decoding-from-meg-signals-using-neuralset-and-deep-learning-for-predicting-linguistic-features/\">A Coding Implementation of End-to-End Brain Decoding from MEG Signals Using NeuralSet and Deep Learning for Predicting Linguistic Features</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
+    "image": "https://www.marktechpost.com/wp-content/uploads/2026/05/blog-3-1024x731.png",
+    "datetimestamp": "2026-05-01T23:09:48",
+    "source": "Marktechpost",
+    "category": "AI"
+  },
+  {
+    "title": "Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation",
+    "link": "https://www.marktechpost.com/2026/05/01/meta-introduces-autodata-an-agentic-framework-that-turns-ai-models-into-autonomous-data-scientists-for-high-quality-training-data-creation/",
+    "description": "<p>Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/01/meta-introduces-autodata-an-agentic-framework-that-turns-ai-models-into-autonomous-data-scientists-for-high-quality-training-data-creation/\">Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
+    "image": "https://www.marktechpost.com/wp-content/uploads/2026/05/blog-2.png",
+    "datetimestamp": "2026-05-01T22:24:02",
+    "source": "Marktechpost",
+    "category": "AI"
+  },
+  {
+    "title": "A Coding Guide on LLM Post Training with TRL from Supervised Fine Tuning to DPO and GRPO Reasoning",
+    "link": "https://www.marktechpost.com/2026/05/01/a-coding-guide-on-llm-post-training-with-trl-from-supervised-fine-tuning-to-dpo-and-grpo-reasoning/",
+    "description": "<p>In this tutorial, we walk through a complete, hands-on journey of post-training large language models using the powerful TRL (Transformer Reinforcement Learning) library ecosystem. We start from a lightweight base model and progressively apply four key techniques: Supervised Fine-Tuning (SFT), Reward Modeling (RM), Direct Preference Optimization (DPO), and Group Relative Policy Optimization (GRPO). Also, we [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/01/a-coding-guide-on-llm-post-training-with-trl-from-supervised-fine-tuning-to-dpo-and-grpo-reasoning/\">A Coding Guide on LLM Post Training with TRL from Supervised Fine Tuning to DPO and GRPO Reasoning</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
+    "image": "https://www.marktechpost.com/wp-content/uploads/2026/05/blog-1-1024x731.png",
+    "datetimestamp": "2026-05-01T20:52:08",
+    "source": "Marktechpost",
+    "category": "AI"
+  },
+  {
     "title": "Qwen AI Releases Qwen-Scope: An Open-Source Sparse AutoEncoders (SAE) Suite That Turns LLM Internal Features into Practical Development Tools",
     "link": "https://www.marktechpost.com/2026/05/01/qwen-ai-releases-qwen-scope-an-open-source-sparse-autoencoders-sae-suite-that-turns-llm-internal-features-into-practical-development-tools/",
     "description": "Qwen AI Releases Qwen-Scope: An Open-Source Sparse AutoEncoders (SAE) Suite That Turns LLM Internal Features into Practical Development Tools",

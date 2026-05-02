@@ -1,5 +1,14 @@
 [
   {
+    "title": "Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers",
+    "link": "https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/",
+    "description": "The exploit, dubbed CopyFail and tracked as CVE-2026-31431, allows hackers to take over PCs and data center servers. The Linux vulnerabilities have been patched\u2014but many machines remain at risk.",
+    "image": "",
+    "datetimestamp": "2026-05-01T20:30:00",
+    "source": "Wired Security",
+    "category": "Cybersecurity"
+  },
+  {
     "title": "OpenAI Rolls Out \u2018Advanced\u2019 Security Mode for At-Risk Accounts",
     "link": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
     "description": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attacks.",

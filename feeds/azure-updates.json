@@ -1,5 +1,14 @@
 [
   {
+    "title": "[Launched] Update: Egress and data transfer with Azure in the United Kingdom",
+    "link": "https://azure.microsoft.com/updates?id=561392",
+    "description": "We support customer choice, including the choice to transfer\nyour data between Azure and environments outside of Azure. Azure has offered free egress\nand at-cost data\ntransfer for customers and CSP partners in Europe transferring data via the\ninternet bet",
+    "image": "",
+    "datetimestamp": "2026-05-01T21:45:13",
+    "source": "Azure Updates",
+    "category": "Cloud & DevOps"
+  },
+  {
     "title": "[Launched] Generally Available: Prefix-scoped access for User Delegation SAS",
     "link": "https://azure.microsoft.com/updates?id=561257",
     "description": "Subscribe to Microsoft Azure today for service updates, all in one place. Check out the new Cloud Platform roadmap to see our latest product plans.",

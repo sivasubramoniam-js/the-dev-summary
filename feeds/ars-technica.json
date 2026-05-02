@@ -1,5 +1,41 @@
 [
   {
+    "title": "Study: AI models that consider user's feeling are more likely to make errors",
+    "link": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+    "description": "Overtuning can cause models to \"prioritize user satisfaction over truthfulness.\u201d...",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1338190481-1152x648.jpg",
+    "datetimestamp": "2026-05-01T22:23:36",
+    "source": "Ars Technica",
+    "category": "General Tech"
+  },
+  {
+    "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS",
+    "link": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",
+    "description": "Op-ed: Valve has made a dent in Windows' gaming share, but can it keep going?",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/press_oled_orb-1-1152x648.jpeg",
+    "datetimestamp": "2026-05-01T22:00:59",
+    "source": "Ars Technica",
+    "category": "General Tech"
+  },
+  {
+    "title": "Man dies covered in necrotic lesions after amoebas eat him alive",
+    "link": "https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/",
+    "description": "Doctors suspect three factors, each unremarkable on its own, contributed to his fate.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2163390042-1152x648.jpg",
+    "datetimestamp": "2026-05-01T21:05:37",
+    "source": "Ars Technica",
+    "category": "General Tech"
+  },
+  {
+    "title": "Ubuntu infrastructure has been down for more than a day",
+    "link": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+    "description": "The outage has hampered communication concerning a critical vulnerability that gives root.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/error-503-1000x648.jpg",
+    "datetimestamp": "2026-05-01T19:12:26",
+    "source": "Ars Technica",
+    "category": "General Tech"
+  },
+  {
     "title": "Senators ban themselves from prediction markets after candidates bet on own races",
     "link": "https://arstechnica.com/tech-policy/2026/05/senators-ban-themselves-from-prediction-markets-after-candidates-bet-on-own-races/",
     "description": "Senator decries \"blatant, brazen corruption,\" wants to target Trump admin next.",

@@ -1,5 +1,122 @@
 [
   {
+    "title": "CollectWise (YC F24) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer",
+    "description": "About Us\n\nCollectWise is a fast growing and well funded Y Combinator-backed startup. We\u2019re using generative AI to automate debt\ncollection, a $35B market in the US alone. Our AI agents are already outperforming human collectors by 2X, and we\u2019re\ndoing so at a fraction of the cost.\n\nWith a team of five, we scaled to a $2 million annualized run rate in just a few months, and we are now hiring a Senior\nForward Deployed Engineer to help us reach $10 million within the next year.\n\nRole\n\nWe are hiring a Senior Forward Deployed Engineer to lead customer implementations end-to-end. You\u2019ll work at the\nintersection of engineering and operations, building the integrations and technical systems that bring clients into\nproduction.\n\nThis role blends software engineering with hands-on customer work. You\u2019ll thrive here if you enjoy ambiguity, love\nshipping quickly, and can translate business requirements into robust, testable systems. This is a highly visible,\nhigh-ownership role working closely with the founder and clients.\n\nResponsibilities\n\n  - Build and maintain custom integrations with client systems.\n  - Configure and productionize AI agents for each client (prompts, workflows, data transfers).\n  - Develop and implement client solutions using modern back-end frameworks.\n  - Translate vague customer requirements into clear technical specs and ship solutions quickly.\n  - Build internal tools to make implementations faster and more repeatable.\n\nDesired Qualifications\n\n  - Experience with Node.js, React.js, AWS, SQL, and GPT-5 or other LLMs.\n  - Experience building products in a production environment (your own startup, working at an early-stage startup, or a\n    meaningful project from scratch).\n  - Very strong communication skills and work ethic.\n  - Experience or interest in voice AI.\n  - Versatility across disciplines.\n\nCompensation\n\n  - Salary range: $240,000 to $300,000, based on relevant experience and qualifications.\n  - Significant equity compensation.\n",
+    "image": "https://bookface-images.s3.amazonaws.com/logos/a5be02a3378f664e1f80f2a84997514d00f9fc1f.png?1731452013",
+    "datetimestamp": "2026-05-02T04:43:20",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Ask.com has closed",
+    "link": "https://www.ask.com/",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47983226\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-05-02T04:12:35",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Governor \u2013 a Claude Code plugin to reduce token/context waste",
+    "link": "https://github.com/0xhimanshu/governor",
+    "description": "Claude Code usage governor: compact professional output, context slimming, tool-output filtering, telemetry, and drift guardrails. - 0xhimanshu/governor",
+    "image": "https://opengraph.githubassets.com/db6629e005d2e4269274b0b26e6e5cbfdfb6d53281594cb83656fcae913e7a1b/0xhimanshu/governor",
+    "datetimestamp": "2026-05-02T02:19:58",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "I built the Playwright for desktop apps. 80% token savings",
+    "link": "https://github.com/lahfir/agent-desktop",
+    "description": "Native desktop automation CLI for AI agents. Control any application through OS accessibility trees with structured JSON output and deterministic element refs. - lahfir/agent-desktop",
+    "image": "https://opengraph.githubassets.com/d5b3a1351ca3190b98cceb5d33c04ca2e97465fd50363e69d5361fd790228577/lahfir/agent-desktop",
+    "datetimestamp": "2026-05-02T02:18:24",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Job Postings for Software Engineers Are Rapidly Rising",
+    "link": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47982512\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-05-02T01:46:24",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Good developers learn to program. Most courses teach a language",
+    "link": "https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language",
+    "description": "A bootcamp can teach you the syntax of a language in six weeks. The part that takes a decade is everything else: where the seams go, where the data flows, which decisions you are stuck with for the life of the codebase. This is a senior developer's argument for what learners should actually be looking for, after thirty years of watching the difference.",
+    "image": "https://evilgeniuslabs.ca/img/og-default.png",
+    "datetimestamp": "2026-05-02T00:14:33",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
+    "link": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47981669\">Comments</a>",
+    "image": "",
+    "datetimestamp": "2026-05-01T23:24:10",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Ti-84 Evo",
+    "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+    "description": "The TI-84 Evo is the most advanced graphing calculator in the TI-84 series. Ideal for algebra, geometry, calculus, and advanced math courses in secondary schools. Learn more.",
+    "image": "https://education.ti.com/-/media/ti/education/images/global-images/logos/ti-edtech-og-social-400x.png?rev=ec2fd198-6664-4265-951e-8d68e29d91b5",
+    "datetimestamp": "2026-05-01T20:06:59",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Whimsical Animations Course Open House",
+    "link": "https://courses.joshwcomeau.com/wham/open-house/00-introduction",
+    "description": "Welcome, prospective student! This small collection of lessons is designed to give you a feel for my teaching style, and the way the content is structured. I hope it helps give you a sense of what the course is like!",
+    "image": "https://courses.joshwcomeau.com/open-house/og-open-house.png",
+    "datetimestamp": "2026-05-01T19:35:39",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
+    "link": "https://github.com/microsoft/lib0xc",
+    "description": "Safe(ish) C programming library. Contribute to microsoft/lib0xc development by creating an account on GitHub.",
+    "image": "https://opengraph.githubassets.com/abf700e2f2d8a06832ec517e102ec318602d132f35373bc1a1586e984277e269/microsoft/lib0xc",
+    "datetimestamp": "2026-05-01T19:10:56",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+    "link": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+    "description": "Residents of Dunwoody, Georgia are furious about the city's surveillance contract with Flock. Do their elected officials care?",
+    "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/CleanShot-2026-04-30-at-06.17.39@2x.png",
+    "datetimestamp": "2026-05-01T18:37:47",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "New research suggests people can communicate and practice skills while dreaming",
+    "link": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+    "description": "Learning while sleeping had long been relegated to the realm of quackery, but new studies suggest that we may be able to problem-solve and practice skills in our dreams.",
+    "image": "https://media.newyorker.com/photos/69f38c2c92c2d134aec145ec/16:9/w_1280,c_limit/image2%20(4).jpeg",
+    "datetimestamp": "2026-05-01T17:47:42",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
+    "title": "Show HN: AI CAD Harness",
+    "link": "https://fusion.adam.new/install",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=47977694\">Comments</a>",
+    "image": "https://fusion.adam.new/opengraph-image?bfdae25aab0c7a47",
+    "datetimestamp": "2026-05-01T17:43:53",
+    "source": "Hacker News",
+    "category": "General Tech"
+  },
+  {
     "title": "Show HN: My Private GitHub on Postgres",
     "link": "https://github.com/calebwin/gitgres",
     "description": "My private GitHub on Postgres. Contribute to calebwin/gitgres development by creating an account on GitHub.",
