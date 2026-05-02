@@ -307,6 +307,19 @@
             scroll-behavior: smooth;
         }
 
+        /* Prevent Google Translate hover highlights/shadows */
+        .goog-text-highlight, 
+        .goog-text-highlight:hover {
+            background-color: transparent !important;
+            box-shadow: none !important;
+            border: none !important;
+        }
+        
+        font {
+            background-color: transparent !important;
+            box-shadow: none !important;
+        }
+
         :root {
             --bg-page: #f9f8f4;
             /* High-end magazine paper texture approximation */
@@ -769,84 +782,7 @@
             color: white;
         }
 
-        /* ---------------- ARTICLE DIALOG ---------------- */
-        .dialog-overlay {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0, 0, 0, 0.8);
-            display: none;
-            justify-content: center;
-            align-items: center;
-            z-index: 1000;
-            backdrop-filter: blur(5px);
-            padding: 20px;
-        }
 
-        .dialog-box {
-            background: var(--bg-page);
-            max-width: 800px;
-            width: 100%;
-            max-height: 90vh;
-            overflow-y: auto;
-            position: relative;
-            padding: 40px;
-            border: 2px solid var(--border-color);
-            box-shadow: 20px 20px 0px var(--border-color);
-            animation: dialogPop 0.4s cubic-bezier(0.16, 1, 0.3, 1);
-        }
-
-        @keyframes dialogPop {
-            from {
-                transform: scale(0.9);
-                opacity: 0;
-            }
-
-            to {
-                transform: scale(1);
-                opacity: 1;
-            }
-        }
-
-        .dialog-close {
-            position: absolute;
-            top: 20px;
-            right: 20px;
-            font-size: 1.5rem;
-            cursor: pointer;
-            color: var(--text-main);
-            transition: color 0.2s;
-        }
-
-        .dialog-close:hover {
-            color: var(--accent);
-        }
-
-        .dialog-content h2 {
-            /* font-family: var(--font-display); */
-            font-size: 2.5rem;
-            line-height: 1.1;
-            margin-bottom: 20px;
-            color: var(--text-main);
-        }
-
-        .dialog-image {
-            width: 100%;
-            height: auto;
-            max-height: 400px;
-            object-fit: cover;
-            margin-bottom: 25px;
-            border: 1px solid var(--border-color);
-        }
-
-        .dialog-desc {
-            font-family: var(--font-serif);
-            font-size: 1.2rem;
-            line-height: 1.7;
-            color: var(--text-main);
-        }
 
         .read-more {
             color: var(--accent);
@@ -1039,15 +975,6 @@
         </div>
     </main>
 
-    <!-- Article Dialog -->
-    <div id="articleDialog" class="dialog-overlay" onclick="if(event.target === this) closeArticleDialog()">
-        <div class="dialog-box">
-            <span class="dialog-close" onclick="closeArticleDialog()"><i class="fas fa-times"></i></span>
-            <div id="dialogContent" class="dialog-content">
-                <!-- Content injected via JS -->
-            </div>
-        </div>
-    </div>
 
     <footer>
         <p>The Dev Summary ©
@@ -1214,35 +1141,6 @@
         let allNewsData = []; // Store the full list for local filtering
         let currentDisplayedData = []; // Store currently visible news for dialog lookup
         let isInitialLoad = true; // Flag to prevent scroll on first load
-
-        function showArticleDialog(index) {
-            const item = currentDisplayedData[index];
-            if (!item) return;
-
-            let image_url = item.image;
-
-            const dialogContent = document.getElementById('dialogContent');
-
-            dialogContent.innerHTML = `
-                ${item.image ? `<img src="${image_url}" class="dialog-image" alt="Article image">` : ''}
-                <div class="news-meta" style="margin-bottom: 15px;">
-                    <span style="color: var(--accent); font-family: var(--font-mono);">${item.category || 'Tech'}</span>
-                </div>
-                <h2>${item.title}</h2>
-                <div class="dialog-desc">${item.description}</div>
-                <div style="margin-top: 30px;">
-                    <a href="${item.link}" target="_blank" class="category-item active" style="text-decoration: none; display: inline-block;">Read Full Article <i class="fas fa-external-link-alt" style="margin-left: 8px;"></i></a>
-                </div>
-            `;
-
-            document.getElementById('articleDialog').style.display = 'flex';
-            document.body.style.overflow = 'hidden'; // Prevent scrolling
-        }
-
-        function closeArticleDialog() {
-            document.getElementById('articleDialog').style.display = 'none';
-            document.body.style.overflow = 'auto';
-        }
 
         async function initCategoryNav() {
             // Dynamically extract unique categories from the news data
@@ -1478,7 +1376,7 @@
                 let readMoreLink = "";
                 if (displayDesc.length > 200) {
                     displayDesc = displayDesc.substring(0, 200);
-                    readMoreLink = `<span class="read-more" onclick="showArticleDialog(${index})">...more</span>`;
+                    readMoreLink = `<span class="read-more" onclick="window.open('${item.link}', '_blank')">...more</span>`;
                 }
 
                 const isSaved = await db.isSaved(item.link);
