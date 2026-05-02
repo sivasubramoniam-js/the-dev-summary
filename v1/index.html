@@ -13,6 +13,15 @@
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://sivasubramoniam-js.github.io/the-dev-summary/">
 
+    <!-- Favicon / Branding -->
+    <link rel="icon" type="image/png" href="https://sivasubramoniam-js.github.io/the-dev-summary/logo.png">
+    <link rel="shortcut icon" href="https://sivasubramoniam-js.github.io/the-dev-summary/logo.png">
+    <link rel="apple-touch-icon" href="https://sivasubramoniam-js.github.io/the-dev-summary/logo.png">
+    <meta name="apple-mobile-web-app-title" content="The Dev Summary">
+    <meta name="application-name" content="The Dev Summary">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://sivasubramoniam-js.github.io/the-dev-summary/">
@@ -1070,9 +1079,11 @@
         <div class="masthead-meta">
             <span id="dateDisplay"></span>
             <div style="display: flex; gap: 15px; align-items: center; justify-content: center; flex-wrap: wrap;">
-                <div class="archive-container" style="display: flex; align-items: center; gap: 8px; font-family: var(--font-mono); font-size: 0.75rem; border: 1px solid var(--border-color); padding: 4px 8px; font-weight: 700;">
+                <div class="archive-container"
+                    style="display: flex; align-items: center; gap: 8px; font-family: var(--font-mono); font-size: 0.75rem; border: 1px solid var(--border-color); padding: 4px 8px; font-weight: 700;">
                     <i class="fas fa-calendar-alt"></i>
-                    <select id="archivePicker" style="background: transparent; border: none; font-family: inherit; font-size: inherit; font-weight: inherit; color: inherit; cursor: pointer; outline: none; padding: 0;">
+                    <select id="archivePicker"
+                        style="background: transparent; border: none; font-family: inherit; font-size: inherit; font-weight: inherit; color: inherit; cursor: pointer; outline: none; padding: 0;">
                         <option value="">Loading Archive...</option>
                     </select>
                 </div>
@@ -1486,8 +1497,7 @@
                     document.getElementById('marqueeText').textContent = 'Your library is empty.';
                     return;
                 }
-            } else if (category.toLowerCase() === 'all') {
-                dataToRender = allNewsData;
+
             } else {
                 dataToRender = allNewsData.filter(item => {
                     let itemCat = item.category || 'Tech';
@@ -1587,15 +1597,14 @@
         async function initArchive() {
             const picker = document.getElementById('archivePicker');
             try {
-                // Adjust path for v1
-                const response = await fetch('../feeds/index.json');
+                const response = await fetch('feeds/index.json');
                 if (!response.ok) throw new Error('Index not found');
                 const archive = await response.json();
-                
+
                 picker.innerHTML = '';
                 archive.forEach((item, index) => {
                     const option = document.createElement('option');
-                    option.value = '../feeds/' + item.file;
+                    option.value = 'feeds/' + item.file;
                     option.textContent = item.date;
                     if (index === 0) option.selected = true;
                     picker.appendChild(option);
@@ -1608,25 +1617,24 @@
                 });
             } catch (error) {
                 console.error('Archive index load failed:', error);
-                picker.innerHTML = '<option value="../news.json">Latest News</option>';
+                picker.innerHTML = '<option value="news.json">Latest News</option>';
             }
         }
 
-        async function fetchNews(url = '../news.json') {
+        async function fetchNews(url = 'news.json') {
             const container = document.getElementById('news-feed');
             container.innerHTML = '<div class="loading-text" style="color:var(--accent);">Opening the archives...</div>';
-            
+
             try {
                 const response = await fetch(url);
                 if (!response.ok) throw new Error('Network response was not ok');
                 const data = await response.json();
 
+                allNewsData = data;
                 if (url.includes('news.json')) {
-                    allNewsData = data;
                     initCategoryNav();
-                } else {
-                    renderNews(data);
                 }
+                filterByCategory(currentCategory || (categories[0] || 'Tech'));
             } catch (error) {
                 console.error('Error fetching news:', error);
                 document.getElementById('news-feed').innerHTML = '<div class="loading-text" style="color:var(--accent);">Error connecting to the printing press. Please try again.</div>';
@@ -1688,8 +1696,7 @@
                     image_url = item.image.startsWith("https") ? item.image : BASE_RAW_URL + item.image;
                 }
 
-                const pubDate = new Date(item.datetimestamp || item.published);
-                const formattedDate = isNaN(pubDate) ? "" : pubDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+
 
                 const rawDesc = stripHTML(item.description || "");
                 let displayDesc = rawDesc;
@@ -1713,7 +1720,7 @@
                         <div class="news-content">
                             <div class="news-meta" style="margin-bottom: 6px;">
                                 <span style="color: var(--accent); padding-right: 8px;">${item.category || 'Tech'}</span>
-                                <span style="color: var(--text-muted);">${formattedDate}</span>
+                                <span style="font-size: 0.8rem;"><span style="color: crimson; font-weight: 700;">Source:</span> <span style="color: var(--text-muted);">${item.source || 'General'}</span></span>
                             </div>
                             <div class="news-meta">
                                 <span class="action-icons" style="font-size: 1.1rem; color: var(--text-muted);">
