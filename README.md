@@ -5,6 +5,18 @@
 
 ![The Dev Summary](screenshot.png)
 
+### 🌍 Global Multi-language Support
+The Dev Summary automatically adapts to your preferred language, ensuring tech news is accessible to everyone.
+
+| English | Spanish | French |
+| :---: | :---: | :---: |
+| ![English](preview/screenshot-en.png) | ![Spanish](preview/screenshot-es.png) | ![French](preview/screenshot-fr.png) |
+
+| Hindi | Tamil | Telugu | Chinese |
+| :---: | :---: | :---: | :---: |
+| ![Hindi](preview/screenshot-hi.png) | ![Tamil](preview/screenshot-ta.png) | ![Telugu](preview/screenshot-te.png) | ![Chinese](preview/screenshot-zh-TW.png) |
+
+
 ---
 
 ## 🚀 What is The Dev Summary?
