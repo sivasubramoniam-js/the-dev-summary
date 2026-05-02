@@ -682,7 +682,7 @@
                 </span>
                 <select id="feedFilter" onchange="handleFilterChange(this.value)"
                     style="padding: 5px 10px; font-family: var(--font-mono); font-size: 0.8rem; border: 1px solid var(--border-color); background: var(--bg-page); outline: none; cursor: pointer; max-width: 300px;">
-                    <option value="news.json">All Headlines (Top 250)</option>
+
                 </select>
                 <span id="google_translate_element"></span>
             </div>
@@ -988,71 +988,91 @@
 
         const BASE_RAW_URL = 'https://raw.githubusercontent.com/sivasubramoniam-js/the-dev-summary/main/';
 
+        // --- News Flow Manager ---
+        let allNewsData = [];
+        let activeFilter = null;
+
         async function fetchFeedsList() {
             try {
                 const response = await fetch('../feeds.json');
                 const feeds = await response.json();
                 const select = document.getElementById('feedFilter');
-                feeds.forEach(feed => {
-                    let slug = feed.feedname.toLowerCase().replace(/[^\w\s-]/g, '').replace(/[-\s]+/g, '-').replace(/^-+|-+$/g, '');
+                feeds.forEach((feed, index) => {
                     const option = document.createElement('option');
-                    option.value = `../feeds/${slug}.json`;
+                    option.value = feed.feedname;
                     option.textContent = feed.feedname;
                     select.appendChild(option);
+                    if (index === 0 && !activeFilter) {
+                        activeFilter = feed.feedname;
+                    }
                 });
             } catch (err) { console.error("Failed to load feed list", err); }
         }
 
         function handleFilterChange(value) {
-            document.getElementById('news-feed').innerHTML = '<div class="loading-text">Fetching...</div>';
-            fetchNews(value);
+            activeFilter = value;
+            renderNews();
         }
 
         async function fetchNews(url = '../news.json') {
+            document.getElementById('news-feed').innerHTML = '<div class="loading-text">Fetching latest dispatches...</div>';
             try {
                 const response = await fetch(url);
-                const data = await response.json();
-                const container = document.getElementById('news-feed');
-                const marqueeText = document.getElementById('marqueeText');
-                container.innerHTML = '';
-                marqueeText.textContent = '';
+                allNewsData = await response.json();
+                renderNews();
+            } catch (error) { 
+                console.error('Fetch error:', error);
+                document.getElementById('news-feed').innerHTML = '<div class="loading-text">Error connecting to the archives.</div>';
+            }
+        }
 
-                data.forEach((item, index) => {
-                    let cardClass = index === 0 ? 'card-featured' : (index < 5 ? 'card-wide' : 'card-regular');
-                    marqueeText.textContent += item.title + ' | ';
+        function renderNews() {
+            const container = document.getElementById('news-feed');
+            const marqueeText = document.getElementById('marqueeText');
+            container.innerHTML = '';
+            marqueeText.textContent = '';
 
+            const filteredData = allNewsData.filter(item => item.source === activeFilter);
 
-                    const scrapedAt = item.scraped_at ? new Date(item.scraped_at).toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' }) : null;
+            if (filteredData.length === 0) {
+                container.innerHTML = `<div class="loading-text">No articles found for ${activeFilter}.</div>`;
+                return;
+            }
 
-                    const cardHTML = `
-                        <div class="news-card ${cardClass}">
-                            ${item.image ? `<div class="news-image-wrapper"><img src="${item.image.startsWith('http') ? item.image : BASE_RAW_URL + item.image}" class="news-image"></div>` : ''}
-                            <div class="news-content">
-                                <div class="news-meta">
-                                    <span style="color:var(--accent); font-weight: 700;">${item.category || 'Tech'}</span>
-                                    <span style="font-size: 0.75rem;"><span style="color: crimson; font-weight: 700;">• Source:</span> <span style="opacity: 0.7;">${item.source || 'General'}</span></span>
-                                </div>
-                                <div class="news-meta">
-                                    <span>
-                                        <i class="fas fa-copy" onclick="copyToClipboard(event)" style="cursor:pointer;margin-right:10px"></i>
-                                        <i class="fas fa-download" onclick="downloadAsImage(event)" style="cursor:pointer"></i>
-                                    </span>
-                                    <span style="font-size:0.6rem; opacity:0.7">
-                                        ${scrapedAt ? `Scraped at ${scrapedAt}` : ''}
-                                    </span>
-                                </div>
-                                <h2 class="news-title">
-                                    <a href="${item.link}" target="_blank" style="text-decoration:none;color:inherit">
-                                        <span class="title-hover-effect">${item.title}</span>
-                                    </a>
-                                </h2>
-                                <p class="news-desc">${item.description}</p>
+            filteredData.forEach((item, index) => {
+                let cardClass = index === 0 ? 'card-featured' : (index < 5 ? 'card-wide' : 'card-regular');
+                marqueeText.textContent += item.title + ' | ';
+
+                const scrapedAt = item.scraped_at ? new Date(item.scraped_at).toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' }) : null;
+
+                const cardHTML = `
+                    <div class="news-card ${cardClass}">
+                        ${item.image ? `<div class="news-image-wrapper"><img src="${item.image.startsWith('http') ? item.image : BASE_RAW_URL + item.image}" class="news-image"></div>` : ''}
+                        <div class="news-content">
+                            <div class="news-meta">
+                                <span style="color:var(--accent); font-weight: 700;">${item.category || 'Tech'}</span>
+                                <span style="font-size: 0.75rem;"><span style="color: crimson; font-weight: 700;">• Source:</span> <span style="opacity: 0.7;">${item.source || 'General'}</span></span>
                             </div>
+                            <div class="news-meta">
+                                <span>
+                                    <i class="fas fa-copy" onclick="copyToClipboard(event)" style="cursor:pointer;margin-right:10px"></i>
+                                    <i class="fas fa-download" onclick="downloadAsImage(event)" style="cursor:pointer"></i>
+                                </span>
+                                <span style="font-size:0.6rem; opacity:0.7">
+                                    ${scrapedAt ? `Scraped at ${scrapedAt}` : ''}
+                                </span>
+                            </div>
+                            <h2 class="news-title">
+                                <a href="${item.link}" target="_blank" style="text-decoration:none;color:inherit">
+                                    <span class="title-hover-effect">${item.title}</span>
+                                </a>
+                            </h2>
+                            <p class="news-desc">${item.description}</p>
                         </div>
-                    `;
-                    container.innerHTML += cardHTML;
-                });
-            } catch (error) { console.error('Fetch error:', error); }
+                    </div>
+                `;
+                container.insertAdjacentHTML('beforeend', cardHTML);
+            });
         }
 
         initArchive();

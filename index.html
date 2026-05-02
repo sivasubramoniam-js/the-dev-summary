@@ -1488,8 +1488,7 @@
                     document.getElementById('marqueeText').textContent = 'Your library is empty.';
                     return;
                 }
-            } else if (category.toLowerCase() === 'all') {
-                dataToRender = allNewsData;
+
             } else {
                 dataToRender = allNewsData.filter(item => {
                     let itemCat = item.category || 'Tech';
@@ -1622,12 +1621,11 @@
                 if (!response.ok) throw new Error('Network response was not ok');
                 const data = await response.json();
 
+                allNewsData = data;
                 if (url.includes('news.json')) {
-                    allNewsData = data;
                     initCategoryNav();
-                } else {
-                    renderNews(data);
                 }
+                filterByCategory(currentCategory || (categories[0] || 'Tech'));
             } catch (error) {
                 console.error('Error fetching news:', error);
                 document.getElementById('news-feed').innerHTML = '<div class="loading-text" style="color:var(--accent);">Error connecting to the printing press. Please try again.</div>';
