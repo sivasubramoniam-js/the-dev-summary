@@ -32,7 +32,7 @@ jobs:
         run: |
           git config --global user.name "sivasubramoniam-js"
           git config --global user.email "122598293+sivasubramoniam-js@users.noreply.github.com"
-          git add news.json || true
+          git add news.json index.html v1/index.html sitemap.xml || true
           if ls feeds/*.json 1> /dev/null 2>&1; then git add -f feeds/*.json; fi
           git commit -m "daily update $(date +'%d-%b-%Y %I %P')" || echo "No changes"
           git pull --rebase --autostash
