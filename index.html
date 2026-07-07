@@ -1298,7 +1298,7 @@
         /* Image Display */
         .news-image-wrapper {
             width: 100%;
-            height: 220px;
+            min-height: 220px;
             overflow: hidden;
             margin-bottom: 20px;
             background: #e0e0e0;
@@ -1310,6 +1310,15 @@
             height: 480px;
             margin-bottom: 0;
         }
+
+        .card-featured .news-image-wrapper>span {
+            font-size: 1.75rem !important;
+        }
+
+        .card-wide .news-image-wrapper>span {
+            font-size: 1.5rem !important;
+        }
+
 
         .card-featured .news-content {
             flex: 2;
@@ -2445,7 +2454,7 @@
             ];
             const chosen = palettes[Math.floor(Math.random() * palettes.length)];
             let displayTitle = (title || 'The Dev Summary').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-            return `<div class="news-image-wrapper" style="background: ${chosen.bg}; display: flex; align-items: center; justify-content: center; padding: 20px; text-align: center; overflow: hidden; box-sizing: border-box;">
+            return `<div class="news-image-wrapper" style="background: ${chosen.bg}; display: flex; height: 100%; align-items: center; justify-content: center; padding: 20px; text-align: center; overflow: hidden; box-sizing: border-box;">
                 <span style="color: ${chosen.text}; font-family: inherit; font-size: 1.15rem; font-weight: 700; line-height: 1.4; text-shadow: 0 2px 4px rgba(0,0,0,0.3); display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden;">${displayTitle}</span>
             </div>`;
         }
