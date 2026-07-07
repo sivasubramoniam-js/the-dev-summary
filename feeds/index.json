@@ -1,35 +1,31 @@
 [
   {
     "date": "07-Jul-2026",
-    "file": "feed-07-Jul-2026.json"
-  },
-  {
-    "date": "07-Jul-2026",
     "file": "2026/Jul/07/feed-07-Jul-2026.json"
   },
   {
     "date": "06-Jul-2026",
-    "file": "feed-06-Jul-2026.json"
+    "file": "2026/Jul/06/feed-06-Jul-2026.json"
   },
   {
     "date": "05-Jul-2026",
-    "file": "feed-05-Jul-2026.json"
+    "file": "2026/Jul/05/feed-05-Jul-2026.json"
   },
   {
     "date": "04-Jul-2026",
-    "file": "feed-04-Jul-2026.json"
+    "file": "2026/Jul/04/feed-04-Jul-2026.json"
   },
   {
     "date": "03-Jul-2026",
-    "file": "feed-03-Jul-2026.json"
+    "file": "2026/Jul/03/feed-03-Jul-2026.json"
   },
   {
     "date": "02-Jul-2026",
-    "file": "feed-02-Jul-2026.json"
+    "file": "2026/Jul/02/feed-02-Jul-2026.json"
   },
   {
     "date": "01-Jul-2026",
-    "file": "feed-01-Jul-2026.json"
+    "file": "2026/Jul/01/feed-01-Jul-2026.json"
   },
   {
     "date": "30-Jun-2026",
@@ -136,20 +132,16 @@
     "file": "feed-05-Jun-2026.json"
   },
   {
-    "date": "04-Jun-2026",
-    "file": "feed-04-Jun-2026.json"
-  },
-  {
     "date": "03-Jun-2026",
-    "file": "feed-03-Jun-2026.json"
+    "file": "2026/Jun/03/feed-03-Jun-2026.json"
   },
   {
     "date": "02-Jun-2026",
-    "file": "feed-02-Jun-2026.json"
+    "file": "2026/Jun/02/feed-02-Jun-2026.json"
   },
   {
     "date": "01-Jun-2026",
-    "file": "feed-01-Jun-2026.json"
+    "file": "2026/Jun/01/feed-01-Jun-2026.json"
   },
   {
     "date": "31-May-2026",
@@ -277,34 +269,34 @@
   },
   {
     "date": "30-Apr-2026",
-    "file": "feed-30-Apr-2026.json"
+    "file": "2026/Apr/30/feed-30-Apr-2026.json"
   },
   {
     "date": "29-Apr-2026",
-    "file": "feed-29-Apr-2026.json"
+    "file": "2026/Apr/29/feed-29-Apr-2026.json"
   },
   {
     "date": "28-Apr-2026",
-    "file": "feed-28-Apr-2026.json"
+    "file": "2026/Apr/28/feed-28-Apr-2026.json"
   },
   {
     "date": "27-Apr-2026",
-    "file": "feed-27-Apr-2026.json"
+    "file": "2026/Apr/27/feed-27-Apr-2026.json"
   },
   {
     "date": "26-Apr-2026",
-    "file": "feed-26-Apr-2026.json"
+    "file": "2026/Apr/26/feed-26-Apr-2026.json"
   },
   {
     "date": "25-Apr-2026",
-    "file": "feed-25-Apr-2026.json"
+    "file": "2026/Apr/25/feed-25-Apr-2026.json"
   },
   {
     "date": "24-Apr-2026",
-    "file": "feed-24-Apr-2026.json"
+    "file": "2026/Apr/24/feed-24-Apr-2026.json"
   },
   {
     "date": "23-Apr-2026",
-    "file": "feed-23-Apr-2026.json"
+    "file": "2026/Apr/23/feed-23-Apr-2026.json"
   }
 ]
