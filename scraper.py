@@ -5,8 +5,6 @@ import json
 import re
 import os
 from datetime import datetime, timedelta
-from parser import scrape_custom, SCRAPE_CONFIGS
-from bs4 import BeautifulSoup
 import random
 
 # Configuration
@@ -44,29 +42,89 @@ async def fetch_url(session, url):
             print(f"Error fetching {url}: {e}")
             return None
 
+def extract_image_from_entry(entry):
+    # 1. Check media_content
+    if 'media_content' in entry and entry.media_content:
+        for media in entry.media_content:
+            url = media.get('url')
+            media_type = media.get('type', '')
+            if url and ('image' in media_type or any(url.lower().split('?')[0].endswith(ext) for ext in ['.jpg', '.jpeg', '.png', '.gif', '.webp', '.svg'])):
+                return url
+        if entry.media_content[0].get('url'):
+            return entry.media_content[0].get('url')
+
+    # 2. Check media_thumbnail
+    if 'media_thumbnail' in entry and entry.media_thumbnail:
+        url = entry.media_thumbnail[0].get('url')
+        if url:
+            return url
+
+    # 3. Check enclosures / links
+    if 'links' in entry:
+        for link in entry.links:
+            if link.get('rel') == 'enclosure' or 'image' in link.get('type', ''):
+                url = link.get('href') or link.get('url')
+                if url:
+                    return url
+
+    # 4. Extract from summary or content HTML
+    html_content = entry.get('summary', '')
+    if 'content' in entry and entry.content:
+        for c in entry.content:
+            html_content += " " + c.get('value', '')
+    
+    if html_content:
+        img_tags = re.findall(r'<img\s+[^>]*?>', html_content, re.IGNORECASE)
+        for tag in img_tags:
+            for attr in ['src', 'data-src', 'data-original']:
+                match = re.search(attr + r'=["\']([^"\']+)["\']', tag, re.IGNORECASE)
+                if match:
+                    src = match.group(1)
+                    if src.startswith('http'):
+                        return src
+
+    return ""
+
 async def get_link_preview(session, url):
     content = await fetch_url(session, url)
     if not content:
-        return {"title": None, "description": None, "image": None, "url": url, "textContent": ""}
+        return {"title": None, "description": None, "image": None, "url": url, "original_url": url, "textContent": ""}
 
     try:
-        soup = BeautifulSoup(content, 'lxml')
+        html = content.decode('utf-8', errors='ignore')
+        meta_tags = re.findall(r'<meta\s+[^>]*?>', html, re.IGNORECASE)
 
         def get_meta(name):
-            tag = soup.find("meta", property=name) or soup.find("meta", attrs={"name": name})
-            return tag['content'] if tag and 'content' in tag.attrs else None
+            name_lower = name.lower()
+            for tag in meta_tags:
+                prop_match = re.search(r'(?:property|name)=["\']([^"\']+)["\']', tag, re.IGNORECASE)
+                if prop_match and prop_match.group(1).lower() == name_lower:
+                    content_match = re.search(r'content=["\']([^"\']*)["\']', tag, re.IGNORECASE)
+                    if content_match:
+                        return content_match.group(1)
+            return None
+
+        title_match = re.search(r'<title[^>]*>([^<]+)</title>', html, re.IGNORECASE)
+        title = title_match.group(1).strip() if title_match else (get_meta("og:title") or "")
+        description = get_meta("og:description") or get_meta("description") or ""
+        og_url = get_meta("og:url") or url
+
+        text_content = re.sub(r'<(script|style)[^>]*>.*?</\1>', ' ', html, flags=re.IGNORECASE | re.DOTALL)
+        text_content = re.sub(r'<[^>]+>', ' ', text_content)
+        text_content = re.sub(r'\s+', ' ', text_content).strip()[:1000]
 
         preview = {
-            "title": (soup.title.string if soup.title else get_meta("og:title")) or "",
-            "description": (get_meta("og:description") or get_meta("description")) or "",
-            "image": get_meta("og:image"),
-            "url": get_meta("og:url") or url,
-            "textContent": soup.get_text()[:1000]
+            "title": title,
+            "description": description,
+            "image": None,
+            "url": og_url,
+            "original_url": url,
+            "textContent": text_content
         }
         return preview
     except Exception as e:
         print(f"Error parsing preview for {url}: {e}")
-        return {"title": None, "description": None, "image": None, "url": url, "textContent": ""}
+        return {"title": None, "description": None, "image": None, "url": url, "original_url": url, "textContent": ""}
 
 def slugify(text):
     return re.sub(r'[-\s]+', '-', re.sub(r'[^\w\s-]', '', text.lower())).strip('-')
@@ -78,8 +136,12 @@ def get_existing_links_and_latest_timestamp():
     
     # Check last 3 days of files
     for i in range(3):
-        date_str = (datetime.now() - timedelta(days=i)).strftime(DATE_FORMAT)
-        path = os.path.join(DATA_DIR, f"feed-{date_str}.json")
+        date_obj = datetime.now() - timedelta(days=i)
+        date_str = date_obj.strftime(DATE_FORMAT)
+        year_str = date_obj.strftime("%Y")
+        month_str = date_obj.strftime("%b")
+        day_str = date_obj.strftime("%d")
+        path = os.path.join(DATA_DIR, year_str, month_str, day_str, f"feed-{date_str}.json")
         if os.path.exists(path):
             try:
                 with open(path, 'r', encoding='utf-8') as f:
@@ -117,7 +179,7 @@ async def fetch_feed(session, feed, existing_links, latest_timestamp):
                 "title": entry.get('title', ''),
                 "link": entry.get('link', ''),
                 "description": entry.get('summary', ''),
-                "image": "",
+                "image": extract_image_from_entry(entry),
                 "datetimestamp": timestamp,
                 "scraped_at": datetime.now().isoformat(),
                 "source": feed_name,
@@ -139,10 +201,14 @@ async def process_temp_file(session, filename):
         with open(temp_path, 'r', encoding='utf-8') as f:
             new_items = json.load(f)
         
-        print(f"Phase 2 - Processing previews for: {filename}")
-        preview_tasks = [get_link_preview(session, item['link']) for item in new_items if item.get('link')]
+        items_needing_preview = [
+            item for item in new_items 
+            if item.get('link') and (not item.get('title') or not item.get('description') or len(item['description']) < 50)
+        ]
+        print(f"Phase 2 - Processing previews for {len(items_needing_preview)}/{len(new_items)} items in: {filename}")
+        preview_tasks = [get_link_preview(session, item['link']) for item in items_needing_preview]
         previews = await asyncio.gather(*preview_tasks)
-        preview_map = {p['url']: p for p in previews}
+        preview_map = {p.get('original_url', p['url']): p for p in previews}
         
         for item in new_items:
             preview = preview_map.get(item['link'])
@@ -151,8 +217,6 @@ async def process_temp_file(session, filename):
                     item['title'] = preview['title']
                 if preview.get('description') and (not item.get('description') or len(item['description']) < 50):
                     item['description'] = preview['description']
-                if preview.get('image'):
-                    item['image'] = preview['image']
 
         return new_items
     except Exception as e:
@@ -168,33 +232,19 @@ async def main_async():
         except: pass
 
     existing_links, latest_timestamp = get_existing_links_and_latest_timestamp()
-    today_str = datetime.now().strftime(DATE_FORMAT)
-    today_file = os.path.join(DATA_DIR, f"feed-{today_str}.json")
+    today_obj = datetime.now()
+    today_str = today_obj.strftime(DATE_FORMAT)
+    year_str = today_obj.strftime("%Y")
+    month_str = today_obj.strftime("%b")
+    day_str = today_obj.strftime("%d")
+    today_file = os.path.join(DATA_DIR, year_str, month_str, day_str, f"feed-{today_str}.json")
+    os.makedirs(os.path.dirname(today_file), exist_ok=True)
 
     async with aiohttp.ClientSession() as session:
         # Phase 1: RSS Feeds
         print("--- Phase 1: RSS Feeds ---")
         await asyncio.gather(*(fetch_feed(session, feed, existing_links, latest_timestamp) for feed in FEEDS))
         
-        # Phase 1.5: Custom Scrapers
-        print("--- Phase 1.5: Custom Scrapers ---")
-        for site in SCRAPE_CONFIGS:
-            try:
-                # Note: scrape_custom is synchronous in parser.py, but we can wrap it or just run it
-                print(f"Scraping custom site: {site['source_name']}")
-                items = scrape_custom(site['url'], site['config'])
-                new_items = []
-                for item in items:
-                    if item['link'] not in existing_links and item['datetimestamp'] > latest_timestamp:
-                        new_items.append(item)
-                
-                if new_items:
-                    temp_path = os.path.join(TEMP_DIR, f"custom-{slugify(site['source_name'])}.json")
-                    with open(temp_path, 'w', encoding='utf-8') as f:
-                        json.dump(new_items[:50], f, indent=2)
-            except Exception as e:
-                print(f"Error scraping {site['source_name']}: {e}")
-
         # Phase 2: Link Previews
         print("--- Phase 2: Link Previews ---")
         temp_files = [f for f in os.listdir(TEMP_DIR) if f.endswith('.json')]
@@ -230,9 +280,16 @@ async def main_async():
 
     # Phase 4: Update Index and news.json
     print("--- Phase 4: Updating Index and news.json ---")
-    all_files = [f for f in os.listdir(DATA_DIR) if f.startswith('feed-') and f.endswith('.json')]
+    all_files = []
+    for root, dirs, files in os.walk(DATA_DIR):
+        for f in files:
+            if f.startswith('feed-') and f.endswith('.json'):
+                rel_path = os.path.relpath(os.path.join(root, f), DATA_DIR).replace('\\', '/')
+                all_files.append((f, rel_path))
+
     # Sort files by date (extracting date from filename)
-    def extract_date(filename):
+    def extract_date(item):
+        filename = item[0]
         try:
             d_str = filename.replace('feed-', '').replace('.json', '')
             return datetime.strptime(d_str, DATE_FORMAT)
@@ -241,9 +298,9 @@ async def main_async():
     
     all_files.sort(key=extract_date, reverse=True)
     index_data = []
-    for f in all_files:
-        d_str = f.replace('feed-', '').replace('.json', '')
-        index_data.append({"date": d_str, "file": f})
+    for filename, rel_path in all_files:
+        d_str = filename.replace('feed-', '').replace('.json', '')
+        index_data.append({"date": d_str, "file": rel_path})
     
     with open(INDEX_FILE, 'w', encoding='utf-8') as f:
         json.dump(index_data, f, indent=2)

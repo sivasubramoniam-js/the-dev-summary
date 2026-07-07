@@ -2425,6 +2425,28 @@
             }
         }
 
+        function getPlaceholderHTML(title) {
+            const palettes = [
+                { bg: 'linear-gradient(135deg, #1f4037 0%, #99f2c8 100%)', text: '#ffffff' },
+                { bg: 'linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%)', text: '#e0f7fa' },
+                { bg: 'linear-gradient(135deg, #3a1c71 0%, #d76d77 50%, #ffaf7b 100%)', text: '#ffffff' },
+                { bg: 'linear-gradient(135deg, #23074d 0%, #cc5333 100%)', text: '#fff8e7' },
+                { bg: 'linear-gradient(135deg, #114357 0%, #f29492 100%)', text: '#ffffff' },
+                { bg: 'linear-gradient(135deg, #2b5876 0%, #4e4376 100%)', text: '#f3e5f5' },
+                { bg: 'linear-gradient(135deg, #000428 0%, #004e92 100%)', text: '#e3f2fd' },
+                { bg: 'linear-gradient(135deg, #141e30 0%, #243b55 100%)', text: '#f5f5f5' },
+                { bg: 'linear-gradient(135deg, #42275a 0%, #734b6d 100%)', text: '#fce4ec' },
+                { bg: 'linear-gradient(135deg, #1d2671 0%, #c33764 100%)', text: '#ffffff' },
+                { bg: 'linear-gradient(135deg, #373b44 0%, #4286f4 100%)', text: '#ffffff' },
+                { bg: 'linear-gradient(135deg, #8e2de2 0%, #4a00e0 100%)', text: '#ffffff' }
+            ];
+            const chosen = palettes[Math.floor(Math.random() * palettes.length)];
+            let displayTitle = (title || 'The Dev Summary').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+            return `<div class="news-image-wrapper" style="background: ${chosen.bg}; display: flex; align-items: center; justify-content: center; padding: 20px; text-align: center; overflow: hidden; box-sizing: border-box;">
+                <span style="color: ${chosen.text}; font-family: inherit; font-size: 1.15rem; font-weight: 700; line-height: 1.4; text-shadow: 0 2px 4px rgba(0,0,0,0.3); display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden;">${displayTitle}</span>
+            </div>`;
+        }
+
         function renderNews(data) {
             currentDisplayedData = data; // Update lookup reference
             const container = document.getElementById('news-feed');
@@ -2490,11 +2512,11 @@
 
                 const cardHTML = `
                     <article class="news-card ${cardClass}" id="news-card-${index}" style="animation-delay: ${animDelay}s">
-                        ${item.image ? `
+                        ${item.image && item.image.trim() !== "" ? `
                             <div class="news-image-wrapper">
-                                <img src="${image_url}" class="news-image" alt="${item.title}" loading="lazy">
+                                <img src="${image_url}" class="news-image" alt="${(item.title || '').replace(/"/g, '&quot;')}" loading="lazy" onerror="this.onerror=null; this.parentElement.outerHTML=getPlaceholderHTML(this.getAttribute('alt'));">
                             </div>
-                        ` : `<div class="news-image-wrapper" style="background:#222;display:flex;align-items:center;justify-content:center;color:#fff;font-family:var(--font-mono)"><i class="fas fa-newspaper fa-2x"></i></div>`}
+                        ` : getPlaceholderHTML(item.title)}
                         <div class="news-content">
                             <div class="news-meta" style="margin-bottom: 6px;">
                                 <span style="color: var(--accent); padding-right: 8px;">${item.category || 'Tech'}</span>
