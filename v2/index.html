@@ -447,6 +447,7 @@
         .sidebar-section {
             display: flex;
             flex-direction: column;
+            padding-bottom: 20px;
         }
 
         .section-title {
@@ -469,37 +470,61 @@
         .category-list {
             padding: 5px 0;
             list-style: none;
+            padding-bottom: 30px;
         }
 
         .category-item {
-            padding: 4px 20px;
-            font-size: 13px;
+            padding: 5px 12px;
+            font-size: 12px;
             color: var(--text-muted);
             cursor: pointer;
             display: flex;
             align-items: center;
-            gap: 8px;
-            transition: background 0.1s;
+            gap: 9px;
+            transition: background 0.15s, color 0.15s, transform 0.15s;
             white-space: nowrap;
+            border-radius: 3px;
+            margin: 1px 6px;
         }
 
         .category-item:hover {
-            background: #2a2d2e;
+            background: rgba(255, 255, 255, 0.05);
             color: var(--text-main);
+            transform: translateX(2px);
         }
 
         .category-item.active {
-            background: #37373d;
+            background: rgba(255, 255, 255, 0.07);
             color: white;
             border-left: 2px solid var(--accent);
-            padding-left: 18px;
-            /* Offset for border */
+            padding-left: 10px;
         }
 
-        .category-item i {
-            width: 16px;
-            text-align: center;
-            font-size: 14px;
+        .category-item.active .cat-icon {
+            box-shadow: 0 0 8px var(--cat-color, var(--accent));
+        }
+
+        /* Icon pill badge */
+        .cat-icon {
+            width: 24px;
+            height: 24px;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            background: color-mix(in srgb, var(--cat-color, #007acc) 18%, transparent);
+            border: 1px solid color-mix(in srgb, var(--cat-color, #007acc) 35%, transparent);
+            transition: background 0.2s, box-shadow 0.2s;
+        }
+
+        .category-item:hover .cat-icon {
+            background: color-mix(in srgb, var(--cat-color, #007acc) 28%, transparent);
+        }
+
+        .cat-icon i {
+            font-size: 11px;
+            color: var(--cat-color, #007acc);
         }
 
         /* ---------------- MAIN EDITOR AREA ---------------- */
@@ -675,6 +700,20 @@
             background: #000;
         }
 
+        .news-image-gradient {
+            background: #1a1a2e;
+            /* fallback; overridden inline per-card */
+            overflow: hidden;
+        }
+
+        .news-image-gradient span {
+            display: -webkit-box;
+            -webkit-line-clamp: 5;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
         .card-featured .news-image-wrapper {
             width: 40%;
             height: 350px;
@@ -800,8 +839,141 @@
 
 
 
-        /* Mobile Hacks */
+        /* Hamburger toggle button (visible only on mobile/tablet) */
+        .sidebar-toggle-btn {
+            display: none;
+            background: none;
+            border: none;
+            color: var(--text-muted);
+            font-size: 16px;
+            cursor: pointer;
+            padding: 4px 8px;
+            border-radius: 4px;
+            transition: color 0.2s, background 0.2s;
+        }
+
+        .sidebar-toggle-btn:hover {
+            color: var(--text-main);
+            background: rgba(255, 255, 255, 0.07);
+        }
+
+        /* Mobile overlay backdrop */
+        .sidebar-backdrop {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.55);
+            z-index: 900;
+            backdrop-filter: blur(2px);
+        }
+
+        .sidebar-backdrop.visible {
+            display: block;
+        }
+
+        /* Calendar date picker in footer */
+        .archive-calendar-wrap {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 2px 8px;
+            border-radius: 3px;
+            margin-left: 12px;
+        }
+
+        .archive-calendar-wrap i {
+            font-size: 10px;
+            color: rgba(255, 255, 255, 0.7);
+        }
+
+        #archiveDatePicker {
+            background: transparent;
+            border: none;
+            color: white;
+            font-size: 11px;
+            font-family: inherit;
+            cursor: pointer;
+            outline: none;
+            width: 110px;
+        }
+
+        #archiveDatePicker::-webkit-calendar-picker-indicator {
+            filter: invert(1) opacity(0.6);
+            cursor: pointer;
+        }
+
+        /* ---- Tablet (769 – 1024px) ---- */
+        @media (max-width: 1024px) {
+            .card-wide {
+                grid-column: span 6;
+            }
+
+            .card-regular {
+                grid-column: span 6;
+            }
+
+            .card-side {
+                grid-column: span 6;
+            }
+        }
+
+        /* ---- Mobile / small tablet (≤ 768px) ---- */
         @media (max-width: 768px) {
+            body {
+                overflow: hidden;
+            }
+
+            /* Hide the VS-code-style activity bar on mobile to save space */
+            .activity-bar {
+                display: none;
+            }
+
+            /* Show hamburger in masthead */
+            .sidebar-toggle-btn {
+                display: flex;
+                align-items: center;
+            }
+
+            /* Masthead layout tweak */
+            .masthead {
+                flex-direction: row;
+                align-items: center;
+                justify-content: space-between;
+                padding: 8px 12px;
+            }
+
+            .masthead h1 {
+                text-align: left;
+                font-size: 12px;
+            }
+
+            /* Sidebar becomes a slide-over overlay */
+            .sidebar {
+                position: fixed;
+                top: 0;
+                left: 0;
+                height: 100%;
+                width: 260px;
+                z-index: 950;
+                transform: translateX(-100%);
+                transition: transform 0.3s ease, width 0.3s ease;
+                border-right: 1px solid var(--border-color);
+            }
+
+            .sidebar.mobile-open {
+                transform: translateX(0);
+            }
+
+            /* When sidebar.collapsed is set on mobile, keep it off-screen */
+            .sidebar.collapsed {
+                width: 260px;
+                /* override the desktop width:0 collapse */
+                transform: translateX(-100%);
+                border-right: 1px solid var(--border-color);
+            }
+
+            /* Cards all full-width on mobile */
             .card-featured {
                 flex-direction: column;
             }
@@ -817,14 +989,38 @@
             .card-side {
                 grid-column: span 12;
             }
+
+            /* Footer compact */
+            footer {
+                font-size: 10px;
+                padding: 4px 10px;
+                flex-wrap: wrap;
+                gap: 4px;
+            }
+
+            footer>div:last-child {
+                display: none;
+            }
+
+            /* hide UTF-8 / JS / version on mobile */
+            #dateDisplay {
+                display: none;
+            }
         }
     </style>
 </head>
 
 <body>
-    <header class="masthead">
+    <!-- Sidebar backdrop (mobile overlay) -->
+    <div class="sidebar-backdrop" id="sidebarBackdrop" onclick="closeMobileSidebar()"></div>
 
+    <header class="masthead">
+        <button class="sidebar-toggle-btn" id="sidebarToggleBtn" onclick="toggleMobileSidebar()"
+            aria-label="Toggle categories">
+            <i class="fas fa-bars"></i>
+        </button>
         <h1>The Dev Summary</h1>
+        <span style="width:40px;"></span><!-- spacer to center the title -->
     </header>
 
 
@@ -883,13 +1079,9 @@
                 <i class="fas fa-exchange-alt" style="font-size: 10px;"></i>
                 <span>v1</span>
             </a>
-            <div class="archive-container"
-                style="margin-left: 15px; background: rgba(255,255,255,0.1); padding: 0 5px; border-radius: 2px;">
-                <i class="fas fa-history" style="font-size: 10px; margin-right: 4px;"></i>
-                <select id="archivePicker"
-                    style="background: transparent; color: white; border: none; font-size: 11px; font-family: inherit; cursor: pointer; outline: none;">
-                    <option value="news.json" style="color: black;">Latest Feed</option>
-                </select>
+            <div class="archive-calendar-wrap">
+                <input type="date" id="archiveDatePicker" min="2026-04-23" title="Pick an archive date"
+                    aria-label="Select archive date">
             </div>
         </div>
         <div id="dateDisplay"></div>
@@ -1078,19 +1270,53 @@
                 const li = document.createElement('li');
                 li.className = `category-item ${cat.toLowerCase() === currentCategory.toLowerCase() ? 'active' : ''}`;
 
-                // Comprehensive icon mapping
-                let iconClass = 'fa-folder';
+                // Expressive icon + accent color mapping
                 const c = cat.toLowerCase();
-                if (c.includes('ai') || c.includes('intelligence')) iconClass = 'fa-robot';
-                else if (c.includes('frontend') || c.includes('web') || c.includes('react')) iconClass = 'fa-code';
-                else if (c.includes('backend') || c.includes('cloud') || c.includes('server')) iconClass = 'fa-server';
-                else if (c.includes('mobile') || c.includes('android') || c.includes('ios')) iconClass = 'fa-mobile-alt';
-                else if (c.includes('devops') || c.includes('docker') || c.includes('git')) iconClass = 'fa-infinity';
-                else if (c.includes('security') || c.includes('hacker')) iconClass = 'fa-shield-alt';
-                else if (c.includes('database') || c.includes('sql')) iconClass = 'fa-database';
-                else if (c.includes('language') || c.includes('python') || c.includes('js')) iconClass = 'fa-terminal';
+                let iconClass = 'fa-layer-group';
+                let catColor = '#858585';
 
-                li.innerHTML = `<i class="fas ${iconClass}"></i> ${cat}`;
+                if (c.includes('ai') || c.includes('intelligence') || c.includes('machine')) {
+                    iconClass = 'fa-microchip'; catColor = '#a78bfa';
+                } else if (c.includes('frontend') || c.includes('react') || c.includes('vue') || c.includes('css') || c.includes('html')) {
+                    iconClass = 'fa-pen-nib'; catColor = '#38bdf8';
+                } else if (c.includes('web') || c.includes('browser') || c.includes('dom')) {
+                    iconClass = 'fa-globe'; catColor = '#22d3ee';
+                } else if (c.includes('backend') || c.includes('server') || c.includes('api') || c.includes('node')) {
+                    iconClass = 'fa-plug'; catColor = '#34d399';
+                } else if (c.includes('cloud') || c.includes('aws') || c.includes('azure') || c.includes('gcp')) {
+                    iconClass = 'fa-cloud'; catColor = '#60a5fa';
+                } else if (c.includes('mobile') || c.includes('android') || c.includes('ios') || c.includes('flutter')) {
+                    iconClass = 'fa-mobile-screen-button'; catColor = '#fb923c';
+                } else if (c.includes('devops') || c.includes('docker') || c.includes('k8s') || c.includes('kubernetes') || c.includes('ci') || c.includes('cd')) {
+                    iconClass = 'fa-gears'; catColor = '#e879f9';
+                } else if (c.includes('git') || c.includes('version')) {
+                    iconClass = 'fa-code-branch'; catColor = '#f472b6';
+                } else if (c.includes('security') || c.includes('hacker') || c.includes('cyber') || c.includes('vuln')) {
+                    iconClass = 'fa-lock'; catColor = '#f87171';
+                } else if (c.includes('database') || c.includes('sql') || c.includes('mongo') || c.includes('redis')) {
+                    iconClass = 'fa-hard-drive'; catColor = '#fbbf24';
+                } else if (c.includes('python') || c.includes('language') || c.includes('rust') || c.includes('go') || c.includes('java')) {
+                    iconClass = 'fa-terminal'; catColor = '#4ade80';
+                } else if (c.includes('design') || c.includes('ui') || c.includes('ux') || c.includes('figma')) {
+                    iconClass = 'fa-wand-magic-sparkles'; catColor = '#f9a8d4';
+                } else if (c.includes('open source') || c.includes('github') || c.includes('community')) {
+                    iconClass = 'fa-code-fork'; catColor = '#86efac';
+                } else if (c.includes('data') || c.includes('analytics') || c.includes('ml') || c.includes('model')) {
+                    iconClass = 'fa-chart-scatter'; catColor = '#67e8f9';
+                } else if (c.includes('news') || c.includes('tech') || c.includes('general')) {
+                    iconClass = 'fa-bolt'; catColor = '#fde68a';
+                } else if (c.includes('job') || c.includes('career') || c.includes('hire')) {
+                    iconClass = 'fa-briefcase'; catColor = '#a3e635';
+                } else if (c.includes('startup') || c.includes('business') || c.includes('product')) {
+                    iconClass = 'fa-rocket'; catColor = '#fb7185';
+                } else if (c.includes('tool') || c.includes('software') || c.includes('app')) {
+                    iconClass = 'fa-screwdriver-wrench'; catColor = '#c4b5fd';
+                } else if (c.includes('tutorial') || c.includes('learn') || c.includes('guide') || c.includes('course')) {
+                    iconClass = 'fa-graduation-cap'; catColor = '#6ee7b7';
+                }
+
+                li.style.setProperty('--cat-color', catColor);
+                li.innerHTML = `<span class="cat-icon"><i class="fas ${iconClass}"></i></span><span class="cat-label">${cat}</span>`;
                 li.dataset.category = cat;
                 li.onclick = () => filterByCategory(cat);
                 list.appendChild(li);
@@ -1104,6 +1330,11 @@
 
         async function filterByCategory(category) {
             currentCategory = category;
+
+            // Auto-close sidebar on mobile when a category is selected
+            if (isMobile()) {
+                closeMobileSidebar();
+            }
 
             // Sync Activity Bar
             const explorerIcon = document.getElementById('activity-explorer');
@@ -1230,8 +1461,11 @@
         const BASE_RAW_URL = 'https://raw.githubusercontent.com/sivasubramoniam-js/the-dev-summary/main/';
         let currentFeedUrl = 'news.json';
 
+        // Map: 'YYYY-MM-DD' -> 'feeds/filename.json'
+        let archiveDateMap = {};
+
         async function initArchive() {
-            const picker = document.getElementById('archivePicker');
+            const picker = document.getElementById('archiveDatePicker');
             if (!picker) return;
 
             try {
@@ -1239,28 +1473,64 @@
                 if (!response.ok) throw new Error('Index not found');
                 const archive = await response.json();
 
-                picker.innerHTML = ''; // Clear picker
+                // Build date→file map and collect available date strings
+                const availableDates = new Set();
+
+                // Month abbreviation → zero-padded number
+                const MONTHS = {
+                    Jan: '01', Feb: '02', Mar: '03', Apr: '04', May: '05', Jun: '06',
+                    Jul: '07', Aug: '08', Sep: '09', Oct: '10', Nov: '11', Dec: '12'
+                };
 
                 archive.forEach((item, index) => {
-                    const option = document.createElement('option');
-                    option.value = 'feeds/' + item.file;
-                    option.textContent = item.date;
-                    option.style.color = 'black';
-                    if (index === 0) {
-                        option.selected = true;
-                        // Automatically fetch the first archive as it's now our "Latest"
-                        fetchNews(option.value);
+                    let isoDate = '';
+                    if (/^\d{4}-\d{2}-\d{2}$/.test(item.date)) {
+                        // Already ISO
+                        isoDate = item.date;
+                    } else {
+                        // 'DD-Mon-YYYY'  e.g. '20-Aug-2026'
+                        const m = item.date.match(/^(\d{1,2})-([A-Za-z]{3})-(\d{4})$/);
+                        if (m) {
+                            const mm = MONTHS[m[2].charAt(0).toUpperCase() + m[2].slice(1).toLowerCase()];
+                            if (mm) isoDate = `${m[3]}-${mm}-${m[1].padStart(2, '0')}`;
+                        } else {
+                            // Fallback: 'May 01, 2026' etc.
+                            const parsed = new Date(item.date);
+                            if (!isNaN(parsed)) isoDate = parsed.toISOString().slice(0, 10);
+                        }
                     }
-                    picker.appendChild(option);
+                    if (isoDate) {
+                        archiveDateMap[isoDate] = 'feeds/' + item.file;
+                        availableDates.add(isoDate);
+                    }
+
+                    if (index === 0 && isoDate) {
+                        // Set calendar to the latest date and load its feed
+                        picker.value = isoDate;
+                        picker.max = isoDate; // Don't allow future dates past latest archive
+                        fetchNews('feeds/' + item.file);
+                    }
                 });
 
+                // Store available dates globally so we can validate in the change handler
+                picker.dataset.available = JSON.stringify([...availableDates]);
+
                 picker.addEventListener('change', (e) => {
-                    if (e.target.value) {
-                        fetchNews(e.target.value);
+                    const selected = e.target.value; // 'YYYY-MM-DD'
+                    const feedUrl = archiveDateMap[selected];
+                    if (feedUrl) {
+                        fetchNews(feedUrl);
+                    } else {
+                        // Date picked but no archive available — show friendly message
+                        const container = document.getElementById('news-feed');
+                        container.innerHTML = '<div class="loading-text" style="color:var(--syntax-string);">No archive available for this date. Try another day.</div>';
                     }
                 });
+
             } catch (error) {
+                // Fallback: just fetch news.json if the index fails
                 console.error('Archive index load failed:', error);
+                fetchNews('news.json');
             }
         }
 
@@ -1322,6 +1592,31 @@
 
                 let image_url = item.image || "";
 
+                // Generate a deterministic gradient from the article title
+                const gradientIndex = (function (str) {
+                    let hash = 0;
+                    for (let i = 0; i < str.length; i++) {
+                        hash = (hash * 31 + str.charCodeAt(i)) & 0xffffffff;
+                    }
+                    return Math.abs(hash);
+                })(item.title || '');
+                const gradients = [
+                    'linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%)',
+                    'linear-gradient(135deg, #0d1b2a 0%, #1b4332 50%, #0a3622 100%)',
+                    'linear-gradient(135deg, #1c0f1f 0%, #3b0764 50%, #4c1d95 100%)',
+                    'linear-gradient(135deg, #1a0a00 0%, #7c2d12 50%, #9a3412 100%)',
+                    'linear-gradient(135deg, #0c1821 0%, #1b4965 50%, #062a40 100%)',
+                    'linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 50%, #404040 100%)',
+                    'linear-gradient(135deg, #0f172a 0%, #1e3a5f 50%, #0c2340 100%)',
+                    'linear-gradient(135deg, #14113a 0%, #1e1b6e 50%, #312e94 100%)'
+                ];
+                const cardGradient = gradients[gradientIndex % gradients.length];
+                const truncatedTitle = (item.title || '').length > 80 ? (item.title || '').substring(0, 80) + '…' : (item.title || '');
+                const gradientFallbackHTML = `<div class="news-image-wrapper news-image-gradient" style="background:${cardGradient};display:flex;flex-direction:column;align-items:center;justify-content:center;padding:16px;gap:10px;">
+                    <i class="fas fa-newspaper" style="font-size:1.4rem;color:rgba(255,255,255,0.25);"></i>
+                    <span style="color:rgba(255,255,255,0.75);font-family:var(--font-mono);font-size:0.72rem;line-height:1.4;text-align:center;max-width:90%;word-break:break-word;">${truncatedTitle}</span>
+                </div>`;
+
                 const rawDesc = stripHTML(item.description || "");
                 let displayDesc = rawDesc;
                 let readMoreLink = "";
@@ -1350,9 +1645,9 @@
                     <article class="news-card ${cardClass} ${gitStatusClass}" id="news-card-${index}" style="animation-delay: ${animDelay}s">
                         ${item.image ? `
                             <div class="news-image-wrapper">
-                                <img src="${image_url}" class="news-image" alt="${item.title}" loading="lazy">
+                                <img src="${image_url}" class="news-image" alt="${item.title}" loading="lazy" onerror="this.closest('.news-image-wrapper').outerHTML=\`${gradientFallbackHTML.replace(/`/g, '\\`')}\`">
                             </div>
-                        ` : `<div class="news-image-wrapper" style="background:#222;display:flex;align-items:center;justify-content:center;color:#fff;font-family:var(--font-mono)"><i class="fas fa-newspaper fa-2x"></i></div>`}
+                        ` : gradientFallbackHTML}
                         <div class="news-content">
                             <div class="news-meta" style="margin-bottom: 6px;">
                                 <span style="color: var(--accent); padding-right: 8px;">${item.category || 'Tech'}</span>
@@ -1388,12 +1683,51 @@
 
         }
 
+        function isMobile() {
+            return window.innerWidth <= 768;
+        }
+
+        function openMobileSidebar() {
+            const sidebar = document.getElementById('sidebar');
+            const backdrop = document.getElementById('sidebarBackdrop');
+            sidebar.classList.add('mobile-open');
+            sidebar.classList.remove('collapsed');
+            backdrop.classList.add('visible');
+        }
+
+        function closeMobileSidebar() {
+            const sidebar = document.getElementById('sidebar');
+            const backdrop = document.getElementById('sidebarBackdrop');
+            sidebar.classList.remove('mobile-open');
+            backdrop.classList.remove('visible');
+        }
+
+        function toggleMobileSidebar() {
+            const sidebar = document.getElementById('sidebar');
+            if (sidebar.classList.contains('mobile-open')) {
+                closeMobileSidebar();
+            } else {
+                openMobileSidebar();
+            }
+        }
+
         function toggleSidebar() {
+            if (isMobile()) {
+                toggleMobileSidebar();
+                return;
+            }
             const sidebar = document.getElementById('sidebar');
             sidebar.classList.toggle('collapsed');
         }
 
         function handleActivityClick(el, type) {
+            if (isMobile()) {
+                if (type === 'saved') {
+                    filterByCategory('Saved Items');
+                }
+                return;
+            }
+
             const sidebar = document.getElementById('sidebar');
             const wasActive = el.classList.contains('active');
             const isCollapsed = sidebar.classList.contains('collapsed');
@@ -1411,7 +1745,7 @@
                 }
             } else if (type === 'saved') {
                 el.classList.add('active');
-                sidebar.classList.add('collapsed'); // Hide explorer when in saved mode
+                sidebar.classList.add('collapsed');
                 filterByCategory('Saved Items');
             }
         }
