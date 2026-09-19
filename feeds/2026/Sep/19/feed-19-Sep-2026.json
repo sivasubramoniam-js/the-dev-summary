@@ -1,5 +1,1005 @@
 [
   {
+    "title": "Adding it all up: The math behind designing your career",
+    "link": "https://www.figma.com/blog/adding-it-all-up-the-math-behind-designing-your-career/",
+    "description": "Kylie offers a framework for how to approach the 90,000 hours that make up the average career, including reflections on her own path.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838739",
+    "scraped_at": "2026-09-19T12:26:08.838748",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Meet us in the browser",
+    "link": "https://www.figma.com/blog/meet-us-in-the-browser/",
+    "description": "As we celebrate five years of Figma, Dylan reflects on the journey and its surprises, and the power of the browser to make design accessible to all.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838728",
+    "scraped_at": "2026-09-19T12:26:08.838737",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Redesigning Dropbox\u2019s ways of working",
+    "link": "https://www.figma.com/blog/redesigning-dropbox-ways-of-working/",
+    "description": "Take a look at Dropbox\u2019s move to a virtual-first working model, and how the team uses Figma to brainstorm and build remotely.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838717",
+    "scraped_at": "2026-09-19T12:26:08.838727",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Inside Figma: a case study on strict null checks",
+    "link": "https://www.figma.com/blog/inside-figma-a-case-study-on-strict-null-checks/",
+    "description": "A look at how we identify and address bugs in a systematic way, through the lens of a recent sprint.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838707",
+    "scraped_at": "2026-09-19T12:26:08.838716",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Inside Figma: tips from the team that builds Figma",
+    "link": "https://www.figma.com/blog/inside-figma-tips-from-the-team-that-builds-figma/",
+    "description": "In a recent livestream, Figmates across teams shared their favorite tips for using Figma, including keyboard shortcuts and templates for every skill level.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838696",
+    "scraped_at": "2026-09-19T12:26:08.838705",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Behind the feature: comments, contextually",
+    "link": "https://www.figma.com/blog/behind-the-feature-figma-community-comments/",
+    "description": "Engineer Emily Zhong shares insight into how we introduced commenting on files in the Figma Community: interactions, edge cases, and a new paradigm for sharing and connecting.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838685",
+    "scraped_at": "2026-09-19T12:26:08.838694",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "By the numbers: One year of remote work",
+    "link": "https://www.figma.com/blog/by-the-numbers-one-year-of-remote-work/",
+    "description": "Growth Data Scientist Wendy Lu shares a look at how collaboration has changed over the past year, including how teams at Dropbox and Atlassian are moving offline processes online.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838674",
+    "scraped_at": "2026-09-19T12:26:08.838683",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Completing a transit map",
+    "link": "https://www.figma.com/blog/completing-a-transit-map/",
+    "description": "Build on a work-in-progress Figma Community file and help complete a transit map of the San Francisco Bay Area.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838664",
+    "scraped_at": "2026-09-19T12:26:08.838673",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Behind the scenes of creating the official Figma kit for Tailwind UI",
+    "link": "https://www.figma.com/blog/behind-the-scenes-of-creating-the-official-figma-kit-for-tailwind-ui/",
+    "description": "How the team at Tailwind Labs created a set of fully responsive components, and what they learned along the way.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838654",
+    "scraped_at": "2026-09-19T12:26:08.838662",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Behind the feature: building multi-account",
+    "link": "https://www.figma.com/blog/behind-the-feature-building-multi-account/",
+    "description": "Today we\u2019re launching an account switcher, allowing you to easily toggle between different workspaces in Figma. Product Manager Ben Stern shares what it took to build and ship a (seemingly) simple user request.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838643",
+    "scraped_at": "2026-09-19T12:26:08.838652",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "About Figma\u2019s new Starter plan",
+    "link": "https://www.figma.com/blog/about-figmas-new-starter-plan/",
+    "description": "On April 21, we\u2019ll be making some updates to Figma\u2019s free Starter plan. Ahead of that rollout, we\u2019re sharing what\u2019s changing and what you can expect.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838632",
+    "scraped_at": "2026-09-19T12:26:08.838641",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "How Repsol rethinks the way the world interacts with energy",
+    "link": "https://www.figma.com/blog/how-repsol-rethinks-the-way-the-world-interacts-with-energy/",
+    "description": "Repsol, Spain's largest multi-energy company, set out to unify their designs in Figma while making energy more approachable to consumers.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838621",
+    "scraped_at": "2026-09-19T12:26:08.838630",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Introducing FigJam",
+    "link": "https://www.figma.com/blog/introducing-figjam/",
+    "description": "Today, we\u2019re introducing FigJam, an online whiteboard for teams to brainstorm and ideate together.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838610",
+    "scraped_at": "2026-09-19T12:26:08.838619",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Coming together at Config 2021",
+    "link": "https://www.figma.com/blog/coming-together-at-config-2021/",
+    "description": "Everything we announced at Config 2021, including new spaces for creators to imagine and iterate, brainstorm, and build\u2014together.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838598",
+    "scraped_at": "2026-09-19T12:26:08.838608",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Introducing branching: space to iterate and explore freely",
+    "link": "https://www.figma.com/blog/introducing-branching-space-to-iterate-and-explore-freely/",
+    "description": "Announcing branching in beta to better enable collaboration at scale.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838587",
+    "scraped_at": "2026-09-19T12:26:08.838597",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Q&amp;A with Robyn Kanner",
+    "link": "https://www.figma.com/blog/qanda-with-robyn-kanner/",
+    "description": "At Config 2021, Robyn Kanner detailed her time as Creative Director of the Biden-Harris campaign. Here, we're sharing her keynote, plus 25 quick questions so you can get to know her\u2014beyond the work.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838567",
+    "scraped_at": "2026-09-19T12:26:08.838576",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Shifting team culture at Config 2021",
+    "link": "https://www.figma.com/blog/shifting-team-culture-at-config-2021/",
+    "description": "Last month, we came together at Config 2021, Figma\u2019s two-day virtual design conference. Watch the videos from day one, and read on for some of our favorite moments from the conference.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838556",
+    "scraped_at": "2026-09-19T12:26:08.838566",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Inside Maker Week: more than a hackathon",
+    "link": "https://www.figma.com/blog/inside-maker-week-more-than-a-hackathon/",
+    "description": "Starting today, it's Maker Week at Figma, a time for Figmates across teams to explore projects outside of their day-to-day work. To document the projects (and festivities!), a different Figmate will take over our Twitter and Instagram accounts each day this week. Learn more about this Figma tradition, take a look back at our favorite moments, and stay tuned for more to come throughout the week.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838545",
+    "scraped_at": "2026-09-19T12:26:08.838554",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "In the file at Config 2021",
+    "link": "https://www.figma.com/blog/in-the-file-at-config-2021/",
+    "description": "Watch all of the breakout sessions from Config 2021, and read on for a deep dive into the tactics, processes, and systems that keep the teams at Coda and Stripe running.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838534",
+    "scraped_at": "2026-09-19T12:26:08.838543",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Q&amp;A with Dantley Davis",
+    "link": "https://www.figma.com/blog/qanda-with-dantley-davis/",
+    "description": "Dantley Davis closed out day two of Config 2021 by detailing his journey to Chief Design Officer at Twitter, and how he channels adversity into impact. Here, we ask Dantley 25 questions, so you can get to know him, beyond the work.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838524",
+    "scraped_at": "2026-09-19T12:26:08.838533",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Embracing the mess at Config 2021",
+    "link": "https://www.figma.com/blog/embracing-the-mess-at-config-2021/",
+    "description": "Watch all of the videos from Config 2021, and read on for some of our favorite moments about what it means to celebrate failure, move through obstacles, and embrace the tough parts of product development.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838513",
+    "scraped_at": "2026-09-19T12:26:08.838522",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Pride 2021: Getting back out there",
+    "link": "https://www.figma.com/blog/pride-2021-getting-back-out-there/",
+    "description": "Clancy Slack, Data Scientist and lead of the Pride Employee Resource Group at Figma, reflects on Pride month. Learn how we\u2019re celebrating at Figma, and participate by creating a Pride poster in Figma.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838502",
+    "scraped_at": "2026-09-19T12:26:08.838512",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Inside Figma: How our product management team uses FigJam",
+    "link": "https://www.figma.com/blog/inside-figma-how-our-pm-team-uses-figjam/",
+    "description": "At Config 2021, Figma\u2019s virtual design conference, we announced FigJam, our new whiteboarding space. Long before we launched FigJam in beta, teams across Figma had been using it for everything from user research to Maker Week projects. Here, Product Manager Emily Lin shares how she and the product management team at Figma use FigJam for everything from brainstorms to retrospectives, along with templates to get started.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838489",
+    "scraped_at": "2026-09-19T12:26:08.838500",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Collaborating and connecting in FigJam",
+    "link": "https://www.figma.com/blog/collaborating-and-connecting-in-figjam/",
+    "description": "Last week, we launched a timer in FigJam, allowing you to stop, start, and pause\u2014together. Take a look at some activities we facilitate with teams across Figma, and how you can get started.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838478",
+    "scraped_at": "2026-09-19T12:26:08.838488",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "The five stages of an effective brainstorm",
+    "link": "https://www.figma.com/blog/the-five-stages-of-an-effective-brainstorm/",
+    "description": "It can be tough to bridge the gap between generating moonshot ideas and executing on tactical solutions. Last week, we shared how our PM team uses FigJam for every aspect of their team\u2019s process, from idea to retrospective. FigJam was built as a space for teams to ideate together, so we wanted to dive a bit deeper into the earliest stage of collaboration: brainstorming. Read on for our tips on how to prepare, run, and follow up on a\u00a0brainstorm.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838465",
+    "scraped_at": "2026-09-19T12:26:08.838476",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Figma's Series E",
+    "link": "https://www.figma.com/blog/figmas-series-e/",
+    "description": "We have closed a new round of funding led by Durable Capital Partners, along with new investors like Morgan Stanley's Counterpoint Global.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838455",
+    "scraped_at": "2026-09-19T12:26:08.838464",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "How News UK developed a multi-brand design system",
+    "link": "https://www.figma.com/blog/how-news-uk-developed-a-multi-brand-design-system/",
+    "description": "The team at News UK shares their experience creating a design system across print, online, radio, and TV. Learn how they overcame some tough challenges and ultimately created a successful system at scale.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838445",
+    "scraped_at": "2026-09-19T12:26:08.838454",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Introducing Figma\u2019s New York City hub",
+    "link": "https://www.figma.com/blog/introducing-figmas-new-york-city-hub/",
+    "description": "Product Manager Katie Szeto shares why we\u2019ve opened an office in New York City, and her reflections on being part of the landing team.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838435",
+    "scraped_at": "2026-09-19T12:26:08.838444",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Behind the plugin: Cards for Humanity",
+    "link": "https://www.figma.com/blog/behind-the-plugin-cards-for-humanity/",
+    "description": "We interviewed the creative team behind Cards for Humanity, a tool for inclusive and accessible design.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838424",
+    "scraped_at": "2026-09-19T12:26:08.838433",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Keeping creativity flowing when times are tough",
+    "link": "https://www.figma.com/blog/keeping-creativity-flowing/",
+    "description": "Building a culture where everyone feels safe and encouraged to contribute is no small task. We are always interested in the ways teams use Figma to do just that\u2014brainstorm, ideate, team-build\u2014and it\u2019s one of the many reasons we launched FigJam. Here, Senior Illustrator Alek Mackie shares how he stays creative and productive.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838412",
+    "scraped_at": "2026-09-19T12:26:08.838422",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Inside Figma: a Q&amp;A with our global sales team",
+    "link": "https://www.figma.com/blog/inside-figma-a-qanda-with-our-global-sales-team/",
+    "description": "We sit down with a few Figmates to learn what it\u2019s like to be a member of our global sales team.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838401",
+    "scraped_at": "2026-09-19T12:26:08.838410",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "How the Figma PM team builds products and processes",
+    "link": "https://www.figma.com/blog/how-the-figma-pm-team-builds-products-and-processes/",
+    "description": "A behind-the-scenes look at how the Figma PM team brainstorms, builds, and reflects, and what it means to open their process up to cross-functional partners along the way.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838390",
+    "scraped_at": "2026-09-19T12:26:08.838400",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "30 updates: recent features and fixes in Figma",
+    "link": "https://www.figma.com/blog/30-updates-recent-features-and-fixes-in-figma/",
+    "description": "Last month, we launched 30 updates on everything from typography fixes to UX improvements, all to enhance your workflow in Figma.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838379",
+    "scraped_at": "2026-09-19T12:26:08.838388",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "A Q&amp;A with Figma\u2019s VP of Product",
+    "link": "https://www.figma.com/blog/figjam-chat-with-figmas-vp-of-product/",
+    "description": "We sit down with Yuhki Yamashita to hear about the road to building FigJam, how things continue to change, and what it means for the future of design and product development.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838368",
+    "scraped_at": "2026-09-19T12:26:08.838377",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Securing internal web apps",
+    "link": "https://www.figma.com/blog/inside-figma-securing-internal-web-apps/",
+    "description": "The Figma security team built out a system to securely provide access to internal applications. Security Engineer Max Burkhardt shares how we built the system, what we learned, and how this fits into our broader approach to security at Figma.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838357",
+    "scraped_at": "2026-09-19T12:26:08.838366",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Inside Figma: a Q&amp;A with our 2021 interns and new grads",
+    "link": "https://www.figma.com/blog/inside-figma-a-qanda-with-our-2021-interns-and-new-grads/",
+    "description": "Beez Africa sits down with four interns and new grad Figmates to hear their advice, learnings, and reflections on joining Figma.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838346",
+    "scraped_at": "2026-09-19T12:26:08.838355",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Building a more collaborative design process",
+    "link": "https://www.figma.com/blog/inside-figma-building-a-more-collaborative-design-process/",
+    "description": "We asked our product design team how they use FigJam to work closer together as a team, and with their cross-functional partners.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838336",
+    "scraped_at": "2026-09-19T12:26:08.838345",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Bringing the power of our open platform to FigJam",
+    "link": "https://www.figma.com/blog/bringing-the-power-of-our-open-platform-to-figjam/",
+    "description": "We are opening up our platform and inviting all builders to create the first plugins and widgets for FigJam.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838325",
+    "scraped_at": "2026-09-19T12:26:08.838334",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Rethinking a design thinking workshop for good",
+    "link": "https://www.figma.com/blog/rethinking-a-design-thinking-workshop-for-good/",
+    "description": "How Design the Future used FigJam to bring one hundred high school students together to solve challenges for people with disabilities.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838314",
+    "scraped_at": "2026-09-19T12:26:08.838323",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "FIT\u2019s principles for fostering a collaborative classroom",
+    "link": "https://www.figma.com/blog/fits-principles-for-fostering-a-collaborative-classroom/",
+    "description": "Best practices from professors at the Fashion Institute of Technology on how to construct a virtual classroom in Figma.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838303",
+    "scraped_at": "2026-09-19T12:26:08.838313",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "What\u2019s new in Figma: August 2021",
+    "link": "https://www.figma.com/blog/whats-new-in-figma-august-2021/",
+    "description": "A round-up of new features, fixes, and capabilities that we\u2019ve added to Figma and FigJam.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838292",
+    "scraped_at": "2026-09-19T12:26:08.838302",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Figma for students and educators",
+    "link": "https://www.figma.com/blog/figma-for-students-and-educators/",
+    "description": "As students and educators start the new school year, Designer Advocate Miggi Cardona shares how Figma can help.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838282",
+    "scraped_at": "2026-09-19T12:26:08.838291",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Talk it out in Figma and FigJam",
+    "link": "https://www.figma.com/blog/talk-it-out-in-figma-and-figjam/",
+    "description": "Today, we launched audio and cursor chat, introducing two new ways to communicate without leaving Figma and FigJam. Now, you can quickly add a question to your cursor or hop on a call to chat with your teammates while you\u2019re working together in the same file. And if you\u2019re jamming in FigJam, you can even high-five.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838264",
+    "scraped_at": "2026-09-19T12:26:08.838280",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Inside Figma: getting out of the (secure) shell",
+    "link": "https://www.figma.com/blog/inside-figma-getting-out-of-the-secure-shell/",
+    "description": "Security Engineer Hongyi Hu explains how the Figma security team built a simple solution for zero-trust shell access on AWS.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838254",
+    "scraped_at": "2026-09-19T12:26:08.838263",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Announcing Schema, Figma\u2019s design systems conference",
+    "link": "https://www.figma.com/blog/announcing-schema-figmas-design-systems-conference/",
+    "description": "Today, we\u2019re opening registration for Schema, Figma\u2019s user conference on all things design systems.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838242",
+    "scraped_at": "2026-09-19T12:26:08.838252",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "How Elsewhen builds digital products for their clients",
+    "link": "https://www.figma.com/blog/how-elsewhen-builds-digital-products-for-their-clients/",
+    "description": "Learn about how Elsewhen helped their clients, Spotify and Inmarsat, improve their productivity through collaboration in Figma.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838231",
+    "scraped_at": "2026-09-19T12:26:08.838240",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "What\u2019s new in Figma: September 2021",
+    "link": "https://www.figma.com/blog/whats-new-in-figma-september-2021/",
+    "description": "A round-up of new features, fixes, and capabilities that we\u2019ve added to Figma and FigJam recently.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838219",
+    "scraped_at": "2026-09-19T12:26:08.838229",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "How (and why) we built branching",
+    "link": "https://www.figma.com/blog/how-and-why-we-built-branching/",
+    "description": "In April, we introduced branching as a way to enable collaboration at scale. Today, branching is broadly available on our Organization plan.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838208",
+    "scraped_at": "2026-09-19T12:26:08.838218",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "GraphQL, meet LiveGraph: a real-time data system at scale",
+    "link": "https://www.figma.com/blog/livegraph-real-time-data-fetching-at-figma/",
+    "description": "Software Engineers Rudi Chen and Slava Kim shares an inside look at how we empower engineers to build real-time data views, while abstracting the complexity of pushing data back and forth.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838196",
+    "scraped_at": "2026-09-19T12:26:08.838206",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "Introducing new FigJam prices and a more open platform",
+    "link": "https://www.figma.com/blog/introducing-new-figjam-prices-and-a-more-open-platform/",
+    "description": "Today, we\u2019re announcing a number of changes that will help you bring more people into FigJam.",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:26:08.838171",
+    "scraped_at": "2026-09-19T12:26:08.838192",
+    "source": "Figma Blog",
+    "category": "Design & UX"
+  },
+  {
+    "title": "new.website joins forces with v0",
+    "link": "https://vercel.com/blog/new-website-joins-forces-with-v0",
+    "description": "<p>v0 and new.website have joined forces to accelerate our vision of helping anyone ship complete, production-ready software with AI.</p><p>new.website was founded to make it effortless to create beautiful websites with all the tools included, from built-in forms to SEO. They\u2019re joining the v0 team to help shape our built-in tools and integrations. </p><h2><b>Why new.website</b></h2><p>The team at new.website built thoughtful primitives that exposed configuration for critical website features instead of requiring users to implement them with multiple prompts and code checks. </p><div></div><p>Here are examples of their built-in tooling: </p><ul><li><p><b>Built-in forms and databases</b>. Every site came with forms by default and every submission was automatically stored without any setup. </p></li><li><p><b>Simple SEO features</b>. Website generation included core SEO configuration like meta tags and structure, and those settings were exposed in the UI for direct configuration. </p></li><li><p><b>Content management.</b> Content could be edited outside the website, even when generated by an agent, which was a better user experience for long-form entries like blogs. </p></li></ul><p>The goal of every primitive was to reduce the amount of prompting required to implement and configure baseline website functionality. </p><h2>Why v0</h2><p>new.website\u2019s focus on built-in primitives and high-quality design output maps directly to our vision for v0. Bani and her team are joining v0 to help build out our agent capabilities, so look for core features like forms, content, and data to feel native and fully agent-aware soon. </p><p>Together with the new.website team, we're making it easier for anyone to build and deploy real software. </p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/blog/new-website-joins-forces-with-v0\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940394",
+    "scraped_at": "2026-09-19T12:25:54.940406",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Elastic build machines now available in beta",
+    "link": "https://vercel.com/changelog/elastic-build-machines-are-available-in-beta",
+    "description": "<p>Elastic build machines are now available in beta for all paid plans, giving teams control over build performance without project-level micromanagement. You can configure elastic builds at the team or project level.</p><p>Rather than a one-size-fits-all approach, Vercel evaluates each project individually and assigns the right machine for its actual needs. Smaller, simpler projects may benefit from cost-efficient <a href=\"https://vercel.com/docs/builds/managing-builds#larger-build-machines\">Standard</a> build machines while more complex workloads can automatically scale up to <a href=\"https://vercel.com/changelog/enhanced-builds-now-have-double-the-compute\">Enhanced</a> or <a href=\"https://vercel.com/changelog/turbo-build-machines-by-default-for-new-pro-projects\">Turbo</a> machines.</p><p>This smart assignment prevents over-provisioning, with teams automatically getting optimal performance at the right cost for every project.</p><p>Enable elastic builds in your <a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F~%2Fsettings%2Fbuild-and-deployment%23build-machines\">team settings</a> or <a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Fbuild-and-deployment%23build-machine\">project settings</a>, or read the <a href=\"https://vercel.com/docs/builds\">builds documentation</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/elastic-build-machines-are-available-in-beta\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940380",
+    "scraped_at": "2026-09-19T12:25:54.940392",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Chat SDK now supports scheduled Slack messages",
+    "link": "https://vercel.com/changelog/chat-sdk-now-supports-scheduled-slack-messages",
+    "description": "<p><a href=\"https://chat-sdk.dev/\">Chat SDK</a> now supports scheduled messages on Slack, allowing you to deliver a message at a future time.</p><p>Use <code>thread.schedule()</code> and pass your message and a <code>postAt</code> date, like:</p><div></div><p>Read the <a href=\"https://chat-sdk.dev/docs/api/thread#schedule\">documentation</a> to get started, and learn more about the <a href=\"https://chat-sdk.dev/adapters/official/slack\">Slack adapter</a>.</p><div></div><p></p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/chat-sdk-now-supports-scheduled-slack-messages\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940368",
+    "scraped_at": "2026-09-19T12:25:54.940378",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Chat SDK now supports concurrent message handling",
+    "link": "https://vercel.com/changelog/chat-sdk-now-supports-concurrent-message-handling",
+    "description": "<p><a href=\"https://chat-sdk.dev/\">Chat SDK</a> now lets you control what happens when a new message arrives before a previous one finishes processing, with the new <code>concurrency</code> option for the Chat class.</p><div></div><p>Four strategies are available:</p><ul><li><p><code>drop</code> (default): discards incoming messages</p></li><li><p><code>queue</code>: processes the latest message after the handler finishes</p></li><li><p><code>debounce</code>: waits for a pause in conversation, processes only the final message</p></li><li><p><code>concurrent</code>: processes every message immediately, no locking</p></li></ul><p>Read the <a href=\"https://chat-sdk.dev/docs/concurrency\">documentation</a> to get started.</p><div></div><p></p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/chat-sdk-now-supports-concurrent-message-handling\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940354",
+    "scraped_at": "2026-09-19T12:25:54.940366",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Unified reporting for all AI Gateway usage",
+    "link": "https://vercel.com/blog/unified-reporting-for-your-ai-spend",
+    "description": "<p>If you're shipping AI features, you already have usage data. The problem is that it's split across providers, keys, and dashboards, so it's hard to answer basic questions before the bill shows up.</p><p>You've probably felt the drift into after-the-fact reconciliation. Provider consoles only show their own slice, so you end up exporting CSVs, rebuilding views in spreadsheets, and still missing the context that matters, like your tags, feature boundaries, and internal user IDs. When BYOK enters the picture, it gets worse because spend and usage scatter across whatever keys your users bring.</p><p>The Custom Reporting API for\u00a0<a href=\"https://vercel.com/ai-gateway\">AI Gateway</a>\u00a0is now available in beta for teams on the Pro and Enterprise plans. It gives you programmatic access to cost, token usage, and request volume across your AI Gateway traffic, including BYOK requests.</p><p>You can break down spend by model, provider, user ID, custom tag, or credential type. That makes it possible to track costs and usage per feature, per end customer, and per pricing tier from a single endpoint. You can also query it live via Claude Code.</p><h3>How a platform saved $80K</h3><p>One AI platform aggregating models for 200K+ users previously relied on a separate proxy layer to track costs across providers. During the Custom Reporting private beta, they consolidated cost tracking and request management into a single system, replacing their third-party proxy entirely and saving over $80K.</p><p>With Advanced Reporting, they now use custom tags and user IDs to track customers' usage and costs across models, gaining programmatic access to spend data in the same place their inference already runs.</p><h3>Implement the reporting API</h3><p>Tag requests with <code>user</code> and <code>tags</code> so you can attribute cost in terms your product and finance teams recognize. If you run a customer-facing AI feature, you can tag each request with the customer ID, their plan, and the feature they are using.</p><div></div><p>Tagging works with the AI SDK, Chat Completions API, Responses API, OpenResponses API, and Anthropic Messages API. No matter which interface or language you use, the data lands in the same reporting endpoint.</p><div></div><p>Query the custom reporting endpoint to get answers:</p><div></div><p>This is where reporting stops being an exercise in reconciliation and starts being something you can run as part of how you operate. You can measure the cost of a single feature across all Enterprise teams, see which free-tier users are nearing the point where they should upgrade, and calculate per-request unit economics before you change pricing.</p><p>Everything below works across both BYOK and system credentials. Whether your users bring their own API keys or you pay through AI Gateway credits, the reporting API captures it in one place.</p><p>With the results, you can track per-customer and per-feature costs to understand where spend is actually going, monitor internal usage across models and providers to catch spikes before they appear on the bill, and use the data to set budgets, calculate margins, and make pricing decisions based on real unit economics.</p><div></div><p>Once your traffic runs through a single reporting endpoint, you can treat AI spend like any other production metric. Tag requests the way your product works, query the reporting endpoint on a schedule, and use the results to set budgets, price features, and catch changes in usage before they turn into surprises.</p><p>Read the <a href=\"https://vercel.com/docs/ai-gateway/capabilities/custom-reporting\">AI Gateway documentation</a> and view <a href=\"https://vercel.com/ai-gateway/models\">supported models and providers</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/blog/unified-reporting-for-your-ai-spend\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940338",
+    "scraped_at": "2026-09-19T12:25:54.940353",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Vercel Sandboxes now allow unique, customizable names",
+    "link": "https://vercel.com/changelog/vercel-sandboxes-now-allow-unique-customizable-names",
+    "description": "<p><a href=\"https://vercel.com/docs/vercel-sandbox\">Vercel Sandboxes</a> created with the latest beta package will now have a unique, customizable name within your project, replacing the previous ID-based identification. Names make sandboxes easy to find and reference:</p><div></div><p>The beta CLI adds configuration management and session inspection:</p><div></div><p>Named sandboxes are the mechanism for identifying <a href=\"https://vercel.com/changelog/vercel-sandbox-persistent-sandboxes-beta\">automatic persistence</a>, which allows your session to be more easily identified for at both time of creation resumption. </p><p>Install the beta packages to try named sandboxes today: <code>pnpm install @vercel/sandbox@beta</code> for the SDK, and<code> pnpm install -g sandbox@beta</code> for the CLI.</p><p>Learn more in the <a href=\"https://vercel.com/docs/vercel-sandbox/concepts/persistent-sandboxes\">documentation</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/vercel-sandboxes-now-allow-unique-customizable-names\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940319",
+    "scraped_at": "2026-09-19T12:25:54.940335",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Automatic persistence now in beta on Vercel Sandbox",
+    "link": "https://vercel.com/changelog/vercel-sandbox-persistent-sandboxes-beta",
+    "description": "<p><a href=\"https://vercel.com/docs/vercel-sandbox\">Vercel Sandboxes</a> can now automatically save their filesystem state when stopped and restore it when resumed. This removes the need for manual snapshots, making it easier to run long-running, durable sandboxes that continue where you left off.</p><h3>How it works</h3><p>A <b>sandbox</b> is the durable identity, now identified <a href=\"https://vercel.com/changelog/vercel-sandboxes-now-allow-unique-customizable-names\">by a name</a>, its filesystem state, and configuration options. A <b>session</b> is the compute tied to that state, invoked as needed.</p><p><b>Automatic persistence</b> introduces orchestration that separates storage from compute, reducing the need for manual snapshotting, so:</p><ul><li><p>when you stop a sandbox, the session shuts down but the filesystem is automatically snapshotted.</p></li><li><p>when you resume, a new session boots from that snapshot. This state storage is not charged, so you pay when your setting is active.</p></li></ul><div></div><p>Persistence is enabled by default in the beta SDK, can be disabled between sessions with <code>persistent: false</code>. When disabled, the sandbox still exists after being stopped and can be resumed by its name, but each session starts with a clean filesystem.</p><p>If a sandbox is stopped and you run a command, the SDK will transparently create a new session, so you don't need to check state or manually restart</p><div></div><p>The beta SDK adds methods for managing sandboxes over their lifetime:</p><div></div><p>The beta CLI adds configuration management and session inspection:</p><div></div><p>This feature is in beta and requires upgrading to the beta <a href=\"https://www.npmjs.com/package/@vercel/sandbox\">SDK</a> and <a href=\"https://www.npmjs.com/package/sandbox\">CLI</a> packages.</p><p>Install the beta packages to try persistent sandboxes today: <code>pnpm install @vercel/sandbox@beta</code> for the SDK, and<code> pnpm install -g sandbox@beta</code> for the CLI.</p><p>Persistent sandboxes are available in beta on all plans.</p><p>Learn more in the <a href=\"https://vercel.com/docs/vercel-sandbox/concepts/persistent-sandboxes\">documentation</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/vercel-sandbox-persistent-sandboxes-beta\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940303",
+    "scraped_at": "2026-09-19T12:25:54.940317",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Vercel plugin now supported on OpenAI Codex and Codex CLI",
+    "link": "https://vercel.com/changelog/vercel-plugin-openai-codex-and-codex-cli-support",
+    "description": "<p>The <a href=\"https://vercel.com/changelog/introducing-vercel-plugin-for-coding-agents\">Vercel plugin</a> now supports OpenAI Codex and the Codex CLI.</p><p>With the plugin, teams can access over 39 platform skills, three specialist agents, and real-time code validation to assist with their development workflow.</p><p>Install it in the <a href=\"https://openai.com/codex/\">Codex app</a> or from the Codex CLI:</p><div></div><p>Learn more about the plugin in the <a href=\"https://vercel.com/docs/agent-resources/vercel-plugin\">documentation</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/vercel-plugin-openai-codex-and-codex-cli-support\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940288",
+    "scraped_at": "2026-09-19T12:25:54.940299",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Vercel CDN now respects Cache-Control headers from external origins by default",
+    "link": "https://vercel.com/changelog/vercels-cdn-now-respects-cache-control-headers-from-external-origins-by-default",
+    "description": "<p>New Vercel projects will honor <code>cache-control</code> <a href=\"https://vercel.com/docs/caching/cache-control-headers#behavior\">headers</a> by default when proxying requests to external origins, starting April 6th.</p><p>Previously, responses served through rewrites to external origins were uncached by default, and enabling caching required the <code>x-vercel-enable-rewrite-caching</code> header in <code>vercel.json</code>. Now, Vercel's CDN automatically respects your origin's caching headers.</p><p><b>What's changing:</b></p><ul><li><p>For new projects, Vercel will cache responses from external origins according to upstream <code>Cache-Control</code>, <code>CDN-Cache-Control </code>and <code>Vercel-CDN-Cache-Control</code> headers by default.</p></li><li><p>You can use <a href=\"https://vercel.com/docs/caching/cdn-cache/purge#cache-tags\">Cache Tags</a> (<code>Vercel-Cache-Tag</code> header) from your origins to purge cached content.</p></li><li><p>Existing projects can opt in to the new caching behavior from the <a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Fadvanced\">project dashboard</a>.</p></li><li><p>You can opt out of caching for specific request paths by setting the <code>x-vercel-enable-rewrite-caching</code> header to <code>0</code>.</p></li></ul><p>Review your upstream cache headers before April 6th when creating a new project that proxies to external origins without caching, ensuring they reflect your intended caching strategy.</p><p>Learn more about <a href=\"https://vercel.com/docs/routing/rewrites#rewrites-to-external-origins\">Rewrites to External Origins</a> and configure routing in the <a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fcdn%2Frouting\">CDN tab</a> of your project settings.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/vercels-cdn-now-respects-cache-control-headers-from-external-origins-by-default\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940272",
+    "scraped_at": "2026-09-19T12:25:54.940286",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Making Turborepo 96% faster with agents, sandboxes, and humans",
+    "link": "https://vercel.com/blog/making-turborepo-ninety-six-percent-faster-with-agents-sandboxes-and-humans",
+    "description": "<p><a href=\"https://turborepo.dev/blog/2-9\">Turborepo</a> is now 81-91% faster to compute its task graph in our repositories, scaling with repo size. On our 1,000+ package monorepo, <code>turbo run</code> now feels instant. Time to First Task is now 11x faster.</p><div></div><p>After testing my changes with some open source Turborepos and asking Vercel customers to try canary releases on their repositories, I found the performance improvement could get as high as 96% depending on the size and complexity of the repository.</p><p>The process behind earning these performance gains is worth sharing, because it wasn't one optimization or one technique. It was eight days of mixing AI agents, Vercel Sandboxes, and typical, boring engineering practices.</p><h2>How Turborepo schedules your tasks</h2><p>Every <code>turbo run</code> starts by analyzing your monorepo's structure, scripts, and dependencies to build a task graph. That graph determines execution order, creates parallelism, and powers caching so you never repeat the same work twice.</p><div></div><p>Building the task graph is overhead you pay before your repository's work begins. The larger the repo, the higher the cost. On our 1,000-package monorepo, that cost was around 10 seconds on an M4 Pro Max. I don't know about you, but I found that unacceptable.</p><h2>Starting with unattended agents</h2><p>I wanted to see what agents could do about this without much guidance. I spun up 8 background coding agents from my phone before bed, each targeting a different part of the Rust codebase I suspected was too slow.</p><div></div><p>In each prompt, I replaced the part of the codebase I was interested in with a new target. I was curious what the agents would accomplish with plenty of ambiguity, as a baseline.</p><p>By morning, 3 of the 8 had produced outputs that I could turn into shippable wins:</p><ul><li><p><a href=\"https://github.com/vercel/turborepo/pull/11872\">PR #11872</a> netted a ~25% reduction in wall-clock time, reducing allocation pressure through hashing by reference instead of cloning an entire <code>HashMap</code>.</p></li><li><p><a href=\"https://github.com/vercel/turborepo/pull/11874\">PR #11874</a> replaced <code>twox-hash</code>, one of our Rust dependency crates, with <code>xxhash-rust</code>. A near 1:1 replacement that uses a faster hashing algorithm, creating a ~6% win.</p></li><li><p><a href=\"https://github.com/vercel/turborepo/pull/11878\">PR #11878</a> came from an existing <code>TODO</code> comment that we hadn't gotten to yet. We needed to replace an unnecessary <a href=\"https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm\">Floyd-Warshall algorithm</a> with a multi-source depth-first search (DFS). This wasn't on the hot path of <code>turbo run</code>, but my prompts didn't specify <i>which hot path</i>, did they? Fair.</p></li></ul><p>These are undoubtedly meaningful successes, but reviewing all 8 chat sessions and code outputs taught me just as much about where unattended, state-of-the-art agents without proper context engineering will fall short today.</p><ul><li><p>The agent never realized it could benchmark the improvements on the Turborepo codebase itself. Turborepo dogfoods Turborepo, so it could have easily built a binary and run it right on the source code to get end-to-end results.</p></li><li><p>The agent would hyperfixate on the first idea that it came up with and force it to work, rather than backing up and thinking abstractly about the problem (even though the chat logs showed it trying to do so).</p></li><li><p>The agent would chase the biggest number it could get, creating microbenchmarks that were relatively meaningless when it came to real-world performance. It would then crank out a 97% improvement for the benchmark, which actually amounted to a 0.02% real-world improvement.</p></li><li><p>Never once did an agent write a regression test.</p></li><li><p>Never once did an agent use the <code>--profile</code> flag in the <code>turbo</code> CLI.</p></li></ul><p>The agents running unattended produced some good wins, but I could tell this wouldn't be sustainable. We needed stronger testing, and a better verification loop. I had to be more involved.</p><h2>Making profiling work for agents and humans</h2><p>The first normal engineering thing I did was take a profile. Shocking, I know.</p><p>I ran <code>turbo run build --profile</code> on our largest repo and opened the trace in <a href=\"https://ui.perfetto.dev/\">Perfetto</a>.</p><div></div><p>Flame graphs are informative, but can be slow to work with. As much as I do enjoy reading flame graphs and grinding out a win, Turborepo has a lot of shipping to do. I have a duty to users of Turborepo to work efficiently and effectively, using the best tools that I have at my disposal.</p><h3>Maybe Chrome Tracing JSON isn't the best format</h3><p>Turborepo's profiles are JSON files in Chrome Trace Event Format.</p><div></div><p>An LLM can theoretically read through and parse all this, but...well...just look at it. Function identifiers split across lines, irrelevant metadata mixed in with timing data, not grep-friendly. I pointed an agent at the file and watched it struggle through <code>grep</code> calls, trying to piece together function names from different lines, unsuccessfully trying to filter out noise. It was fumbling through this file in the same way I would.</p><p>One of my favorite heuristics for working with coding agents is that if something is poorly designed for me to work with, it's poorly designed for an agent, too. This isn't necessarily a comment about work quantity, but more so about interfaces. If something is hard for me to read, it stands to reason it's hard for an agent to read, too. This idea has its limits, but you'll see it quickly pay dividends in a moment.</p><h3>Building LLM-friendly profiles</h3><p>A week prior, I saw <a href=\"https://x.com/jarredsumner/status/2013915593683132607?s=20\">a tweet from Jarred Sumner</a> about how Bun shipped a new flag: <a href=\"https://bun.com/docs/project/benchmarking#markdown-output\"><code>--cpu-prof-md</code></a>. It outputs profiles as Markdown, which easily fits into my view of how agents work best.</p><p>In <a href=\"https://github.com/vercel/turborepo/pull/11880\">#11880</a>, I added a new <code>turborepo-profile-md</code> crate that generates a companion <code>.md</code> file alongside every trace. Hot functions sorted by self-time, call trees sorted by total-time, caller/callee relationships. All greppable, all on single lines.</p><div></div><p>The difference in the agent's output quality was dramatic. Same model, same codebase, same data, same agent harness. Different format, <b>radically</b> better optimization suggestions. The profile data was finally in a format that both I and the agent could read at a glance.</p><h3>The iterative loop</h3><p>With Markdown profiles, I settled into a rhythm.</p><ol><li><p>Put the agent in Plan Mode with instructions to create a profile and find hotspots in the Markdown output</p></li><li><p>Review the proposed optimizations and decide which ones were worth pursuing</p></li><li><p>Have the agent implement the good proposal(s)</p></li><li><p>Validate with end-to-end <code>hyperfine</code> benchmarks</p></li><li><p>Make a PR</p></li><li><p>Repeat</p></li></ol><p>This loop produced over 20 performance PRs in four days. The wins fell into three categories. I'll give some examples.</p><p><b>Parallelization</b> was the largest. Building the git index, walking the filesystem for glob matches, parsing lockfiles, and loading <code>package.json</code> files were all sequential operations that could run concurrently. PRs <a href=\"https://github.com/vercel/turborepo/pull/11889\">#11889</a>, <a href=\"https://github.com/vercel/turborepo/pull/11902\">#11902</a>, <a href=\"https://github.com/vercel/turborepo/pull/11927\">#11927</a>, and <a href=\"https://github.com/vercel/turborepo/pull/11918\">#11918</a> parallelized these hot paths.</p><p><b>Allocation elimination</b> removed redundant copies and clones throughout the pipeline, including reference-based hashing in SCM operations (<a href=\"https://github.com/vercel/turborepo/pull/11916\">#11916</a>), pre-compiling glob exclusion filters (<a href=\"https://github.com/vercel/turborepo/pull/11891\">#11891</a>), and using a shared HTTP client instead of constructing a new one per request (<a href=\"https://github.com/vercel/turborepo/pull/11929\">#11929</a>).</p><p><b>Syscall reduction</b> batched per-package git subprocess calls into a single repo-wide index (<a href=\"https://github.com/vercel/turborepo/pull/11887\">#11887</a>), replaced git subprocesses with <code>libgit2</code> library calls (<a href=\"https://github.com/vercel/turborepo/pull/11938\">#11938</a>), and then replaced <code>libgit2</code> with the faster <code>gix-index</code> altogether (<a href=\"https://github.com/vercel/turborepo/pull/11950\">#11950</a>).</p><p>Again, it's typical, normal, boring software engineering stuff. I did try to turn this into a <a href=\"https://ghuntley.com/ralph/\">Ralph Wiggum loop</a> but it repeatedly made too many mistakes. The combination of the model, the harness, and the loop simply weren't dependable enough, and could move so much code out from underneath me too quickly. Maybe if I were working on a sideproject, I would have accepted it, but Turborepo powers some of the largest repositories in the world. I have to be fast <b>and</b> responsible.</p><h3>Your source code is the best feedback loop</h3><p>The most interesting pattern I noticed during this phase was how the codebase itself served as the agent's strongest feedback mechanism.</p><p>I'd point out a performance issue in code the agent was working on. We'd fix it together. Then I'd ask, \"Do you see anywhere else where we can improve in the same way?\" The agent would find more instances of the same pattern across the codebase. Depending on the size of the changes, I would either add the change to the PR or write it down to do later.</p><p>In places where the existing code had a sloppy pattern, the agent would write new code in the same style. Once I corrected one instance, the agent followed the correction going forward. In future conversations, without any memory or context carrying across chats, the agent would see the merged improvements in the source and stop reproducing the old patterns.</p><p>Over time, I noticed the agent spontaneously writing tests when I wasn't expecting it to. I saw it creating abstractions that matched what I would have done, which wasn't happening before.  I would revisit a place in the codebase where the agent had previously been ineffective, and, with no changes to model or harness, it would produce better code outputs.</p><p>It turns out your own source code is the best reinforcement learning out there.</p><h3>Hitting a wall at 85%</h3><p>By the end of the week, Turborepo was roughly 85% faster on our largest repo. Before I started, I had arbitrarily set a goal of 95% better. The remaining gains were feeling within reach.</p><p>The problem became measurement. I had been running all benchmarks on my MacBook, and the <a href=\"https://github.com/sharkdp/hyperfine\"><code>hyperfine</code></a> reports were getting increasingly noisy. As the code gets faster, system noise matters more. Syscalls, memory, and disk I/O all have their variance.</p><p>The profiles were noisy too. I had gotten the codebase to a point where the individual functions were fast enough that background activity on my laptop was drowning out any good signal.</p><p>Was the change I made <i>really</i> 2% faster, or did I just get lucky with a quiet run?  I couldn't confidently distinguish real improvements from noise. I needed a quieter lab for my science.</p><h2>Vercel Sandbox for benchmarking</h2><p><a href=\"https://vercel.com/sandbox\">Vercel Sandboxes</a> are ephemeral Linux containers that only have what you put in them. No background daemons, no Slack notifications pulling CPU, no background programs making network requests. The machine's resources are entirely focused on what you're running.</p><p>I wrote a bash script that automated the entire benchmarking workflow. I'll put an abbreviated version of <a href=\"https://gist.github.com/anthonyshew/e949bce0932fbc520cb3ee0a1ad59de1\">the full gist</a> below.</p><div></div><p>You'll notice that, at the end of this script, I'm downloading the profiles back to my laptop. My agent could then inspect the benchmark results and Markdown profiles locally, and I could confidently tell whether a change was a real improvement or noise.</p><div></div><h3>Breaking through the wall</h3><p>With clean signal from Sandbox, I could see real breakthroughs in low-level changes that were invisible on my noisy laptop.</p><p><b>Stack-allocated git OIDs (</b><a href=\"https://github.com/vercel/turborepo/pull/11984\">#11984</a><b>)</b></p><p>Every file in the git index stored its 40-character SHA-1 hash as a heap-allocated <code>String</code>. On our largest repo, <code>new_from_gix_index</code> alone was creating over 10,000 individual 40-byte heap allocations.</p><div></div><p><code>OidHash</code> implements <code>Deref&lt;Target=str&gt;</code> so existing consumers work unchanged, and <code>Copy</code> means cloning is a 40-byte <code>memcpy</code> on the stack instead of a heap allocation. Profile data showed <code>new_from_gix_index</code> self-time dropped 15% and <code>get_package_file_hashes_from_index</code> dropped 17%.</p><table><tr><th><p><b>Repo size</b></p></th><th><p><b>Before</b></p></th><th><p><b>After</b></p></th><th><p><b>Change</b></p></th></tr><tr><td><p>~1,000 packages</p></td><td><p>1.463s \u00b1 0.052s</p></td><td><p>1.466s \u00b1 0.027s</p></td><td><p>Same speed, 48% less variance</p></td></tr><tr><td><p>~125 packages</p></td><td><p>658.6ms \u00b1 144.6ms</p></td><td><p>592.1ms \u00b1 62.9ms</p></td><td><p>10% faster, 57% less variance</p></td></tr><tr><td><p>6 packages</p></td><td><p>96.8ms \u00b1 46.7ms</p></td><td><p>75.0ms \u00b1 18.4ms</p></td><td><p>22% faster, 61% less variance</p></td></tr></table><p>The most notable improvement across all three sizes was the reduction in run-to-run variance, which agrees with our theory of less allocator pressure and more predictable performance.</p><p><b>Syscall elimination (</b><a href=\"https://github.com/vercel/turborepo/pull/11985\">#11985</a><b>)</b></p><p>Every cache fetch was performing three syscalls: <code>stat(.tar)</code>, which returned <code>ENOENT</code>, then <code>stat(.tar.zst)</code>, then <code>open(.tar.zst)</code>. Weird pattern.</p><p>After some digging, I figured out that the <code>.tar</code> fallback existed for cache artifacts from Turborepo's Golang era (2021-2022). No modern version writes uncompressed cache entries, and cache entries rotate out constantly.</p><div></div><p>Across 962 cache fetches on our largest repo, <code>fetch</code> self-time dropped from 200.5ms to 129.6ms, a 35% reduction.</p><p><b>Move instead of clone (</b><a href=\"https://github.com/vercel/turborepo/pull/11986\">#11986</a><b>)</b></p><p>The visitor dispatch loop was deep-cloning a <code>(String, HashMap&lt;String, String&gt;)</code> from a precomputed map for each of roughly 1,700 tasks. Since each task ID appears exactly once in the dispatch stream, <code>HashMap::remove()</code> can move the value out at zero cost instead of cloning.</p><h2>Results</h2><p>After eight days, Time to First Task on our largest repo dropped from 8.1 seconds to 716 milliseconds.</p><table><tr><th><p><b>Repo size</b></p></th><th><p><b>v2.8.0</b></p></th><th><p><b>v2.9.0</b></p></th><th><p><b>Improvement</b></p></th></tr><tr><td><p>~1,000 packages</p></td><td><p>8.1s</p></td><td><p>0.716s</p></td><td><p>91% faster</p></td></tr><tr><td><p>132 packages</p></td><td><p>1.9s</p></td><td><p>0.361s</p></td><td><p>81% faster</p></td></tr><tr><td><p>6 packages</p></td><td><p>0.676s</p></td><td><p>0.132s</p></td><td><p>80% faster</p></td></tr></table><p>I estimate this would have taken at least two months without agents, but I hope this article shows you that they didn't do the work for me. I was leading the entire time, deciding what to profile, which proposals to pursue, when to change tools, and when to change strategy. But the combination of my existing engineering knowledge, giving agents better tooling, and a clean benchmarking environment let me move at a pace that wouldn't have been possible six months ago.</p><h2>Released in Turborepo 2.9</h2><p>These performance gains are now stable and ready for you to use. <a href=\"https://turborepo.dev/blog/2-9\">Visit the Turborepo 2.9 release post</a> to learn more about the latest in Turborepo.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/blog/making-turborepo-ninety-six-percent-faster-with-agents-sandboxes-and-humans\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940232",
+    "scraped_at": "2026-09-19T12:25:54.940270",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Agent responsibly",
+    "link": "https://vercel.com/blog/agent-responsibly",
+    "description": "<p><i>The following is based on an internal talk given at Vercel. We're sharing it publicly because the problem it describes isn't unique to us, and the framework is useful for any team shipping with agents.</i></p><hr /><p>Coding agents generate code at unprecedented speeds. In the hands of disciplined engineers, they are a productivity multiplier. But without rigorous judgment, they are a highly efficient way to ship bad assumptions directly to production.</p><p>When teams deploy agent-generated code blindly, the fallout can be immediate and severe. A flawless-looking pull request can ship a query that passes tests, but scans every row in production. Retry logic that seems correct can cause a thundering herd on a downstream service. And a cache with no TTL can quietly grow until Redis dies.</p><p>Green CI is no longer proof of safety. In an agentic world, passing CI is merely a reflection of the agent's ability to persuade your pipeline that a change is safe, even if it will immediately degrade your infrastructure at scale.</p><h2>False confidence</h2><p>Agent-generated code is dangerously convincing. It comes with a polished PR description, passes static analysis, follows repository conventions, and includes reasonable test coverage. On the surface, it looks like it was written by an experienced engineer.</p><p>But an agent doesn't understand your production environment. It doesn't know your traffic patterns, your failure modes, or the implicit constraints of your shared infrastructure. It doesn't know that a Redis instance is near capacity, that a database is hardcoded to a specific region, or that a feature flag rollout will fundamentally change the load profile of a downstream system.</p><p>The gap between \"this PR looks correct\" and \"this PR is safe to ship\" has always existed. Agents widen that gap by producing code that looks more flawless than ever, while remaining entirely blind to production realities.</p><h2>Leveraging vs. relying</h2><p>There is a fundamental difference between relying on AI and leveraging it.</p><ul><li><p><b>Relying</b> means assuming that if the agent wrote it and the tests pass, it's ready to ship. The author never builds a mental model of the change. The result is massive PRs full of hidden assumptions that are impossible to review because neither the author nor the reviewer has a clear picture of what the code actually does.</p></li><li><p><b>Leveraging</b> means using agents to iterate quickly while maintaining complete ownership of the output. You know exactly how the code behaves under load. You understand the associated risks. You're comfortable owning them.</p></li></ul><p>Putting your name on a pull request means \"I have read this and I understand what it does.\" If you have to re-read your own PR to explain how it might impact production, the engineering process has failed.</p><p>The litmus test is simple: would you be comfortable owning a production incident tied to this pull request?</p><h2>Guarding production</h2><p>The answer isn't to stop using agents. The productivity gains are undeniable and models will only get better. AI-assisted code review and analysis are incredibly powerful tools that catch bugs and surface risks humans miss.</p><p>But relying solely on review, whether human or synthetic, is a losing battle against the sheer volume of agent-generated code. We've hit an inflection point where implementation is abundant. The scarce resource is no longer writing code, it's the judgment of what is safe to ship. All infrastructure must match that new reality.</p><p>This isn't about wrapping the development lifecycle in red tape. It's about building a closed-loop system where agents can act with high autonomy because their environment is standardized, verification is easy, and deployment is safe by default.</p><p>The organizing principle is simple: make the right thing easy to do.</p><p><b>Self-driving deployments.</b> Every change rolls out incrementally through gated pipelines. If a canary deployment degrades, the rollout stops and rolls back automatically. The system doesn't rely on an engineer babysitting a dashboard. It catches the problem, contains it to a fraction of traffic, and reverses it. When something goes wrong, it goes wrong in isolation, not globally.</p><p><b>Continuous validation.</b> The infrastructure tests itself continuously, not just at deploy. Load tests, chaos experiments, and disaster recovery exercises run on an ongoing basis. At Vercel, the database failover <a href=\"https://vercel.com/blog/preparing-for-the-worst-our-core-database-failover-test\">we rehearsed in production last summer</a> is the reason a real Azure outage this year was a non-event for our customers. The systems that hold up under pressure are the ones that have been deliberately stressed.</p><p><b>Executable guardrails.</b> At Vercel, we are encoding operational knowledge as runnable tools instead of documentation. A <code>safe-rollout</code> skill isn't a Notion page explaining how feature flags work. It's a tool that wires the flag, generates a rollout plan with rollback conditions, and specifies how to verify expected behavior. When guardrails are executable, agents follow them autonomously and humans don't have to memorize them.</p><p>The endgame isn't a world where engineers apply extraordinary rigor to every change. It's a world where the infrastructure itself is rigorous. Where shipping fast is safe by default because the system contains the blast radius, validates continuously, degrades gracefully, and encodes best practices as executable defaults.</p><h2>What we're investing in</h2><p>We aren't just theorizing. Our core platform team is actively building these guardrails into shared infrastructure:</p><ul><li><p>Stronger guardrails around shared infra, with runtime validation at every stage of the deployment pipeline</p></li><li><p>Stricter static checks at PR time, especially around feature flags</p></li><li><p>Production-mirroring end-to-end testing in staging</p></li><li><p>Read-only agents that continuously verify system invariants in production, using specialized agents to audit the assumptions made by generative agents</p></li><li><p>Metrics like defect-commit vs. defect-escape ratios to surface when risk is increasing across the platform</p></li></ul><h2>Leverage agents, own the risk</h2><p>Our bar: leverage agents, don't rely on them.</p><p>Low-quality code used to look like low-quality code. That's not the case anymore. AI tools are only going to get more powerful. The diffs will get larger, the code will get more convincing, and the temptation to blindly trust the output will grow. The engineers who thrive won't be the ones who generate the most code. They'll be the ones who maintain ruthless judgment over what they ship.</p><p>Before you open your next PR, ask yourself:</p><ul><li><p>What does this do? How does it behave once rolled out?</p></li><li><p>How can this adversely impact production or customers?</p></li><li><p>Am I comfortable owning an incident tied to this code?</p></li></ul><p>If the answer is yes, you're leveraging AI. Ship it.</p><p>If the answer is no, you have more work to do.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/blog/agent-responsibly\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940211",
+    "scraped_at": "2026-09-19T12:25:54.940230",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Transfer Marketplace resources between teams",
+    "link": "https://vercel.com/changelog/transfer-marketplace-resources-between-teams",
+    "description": "<p>You can now transfer Marketplace resources between teams directly from the Vercel dashboard without relying on the API. This simplifies resource management during team or project changes. Both owner and member roles on the source and destination teams can initiate transfers.</p><p>The destination team must have the corresponding integration installed before receiving a resource. The feature currently supports transfer databases from <a href=\"https://vercel.com/marketplace/prisma\">Prisma</a>, <a href=\"https://vercel.com/marketplace/neon\">Neon</a> and <a href=\"https://vercel.com/marketplace/supabase\">Supabase</a> , with additional providers and product support coming soon.</p><p>Start from your database settings in the dashboard, or learn more in the <a href=\"http://vercel.com/docs/integrations/install-an-integration/product-integration#transfer-a-resource-to-another-team\">documentation</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/transfer-marketplace-resources-between-teams\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940196",
+    "scraped_at": "2026-09-19T12:25:54.940209",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "How FLORA shipped a creative agent on Vercel's AI stack",
+    "link": "https://vercel.com/blog/how-flora-shipped-a-creative-agent-on-vercels-ai-stack",
+    "description": "<h3>FLORA on Vercel</h3><ul><li><p>2x faster to production with their generation system</p></li><li><p>Zero infrastructure debates after migration</p></li><li><p>50+ image models orchestrated</p></li></ul><hr /><p>A seasonal fashion launch is a story, not a single frame.</p><p>Crafting that story is a process of exploration: It\u2019s the same piece, worn by different models. The same pose, with different lighting and angles. The same set, with a background that shifts from glossy to gritty.</p><div></div><p>FLORA was built to make that kind of visual iteration available to anyone through a digital canvas. Their new creative agent FAUNA acts like a design partner, turning ideas into a map of creative directions. </p><h2>From FLORA to FAUNA: a creative agent</h2><p>Flora started as a node-based creative workflow canvas. For advanced users, that canvas is powerful: you can create steps and branches, adding detailed prompts at each stage to hone every detail of the images.</p><div></div><p>But the canvas also came with a tradeoff: it asked every creative to think like a workflow designer. You had to configure each state of an exploration with prompts and model choices, interrupting the creative process.  </p><p>That\u2019s why they built FAUNA. </p><p>The agent removes the setup burden, but keeps the full power of AI. Instead of starting with a blank canvas and a pile of example images, designers can start with their ideas. Users tell FAUNA what they want to create, like a campaign visuals, moodboards, or a lookbook direction, and the agent will pull references, choose models, and automatically generate variations to explore and refine.  </p><p>Under the hood, FAUNA is a long-running, highly parallel agent. Alec Jo, Head of Applied AI at FLORA, leads the effort. </p><div></div><p>As Alec and his team were building it, they faced the same pain as their early canvas users, spending too much time configuring AI tech instead of iterating on the agent itself. That's when they started exploring Vercel. </p><h2>Infrastructure makes the agent</h2><p>If you use AI mainly for text-based tasks, it's easy to underestimate the additional demands of visual workflows for professional creatives. </p><p>Image and video generations can take minutes, and a single creative session can fan out into many concurrent jobs: different angles, backgrounds, styling directions, model providers, and \u201cwhat if\u201d branches. </p><div></div><p>Those jobs need to run simultaneously, will finish at different times, and still need to roll up into a coherent exploration path the user can navigate.</p><p>Early on, Alec's team used LangChain building blocks for agent primitives and considered Temporal for orchestration. It worked, but it came with a cost: two separate systems to maintain, two sets of abstractions to keep in sync, and too much AI plumbing to keep the product moving.</p><p>FLORA migrated to the Vercel AI Stack to simplify building and deploying their agent:</p><ul><li><p><a href=\"https://ai-sdk.dev/\">AI SDK</a> and its <a href=\"https://ai-sdk.dev/docs/agents\">agent framework</a> provides out-of-the-box primitives that power FAUNA's behavior (models, tool calling, and the interface layer for agent logic). </p></li><li><p><a href=\"https://useworkflow.dev/docs/api-reference/workflow-ai/durable-agent\">Workflow SDK\u2019s <code>DurableAgent</code></a> adds durable orchestration to AI SDK's agent framework, so each step in the loop persists, retries on failure, and can run for any length of time without losing state.</p></li><li><p><a href=\"https://vercel.com/docs/fluid-compute\">Fluid compute</a> runs jobs cost-efficiently as the agent fans out into many concurrent tasks, which is critical for parallel, long-running image generations. </p></li></ul><div></div><p>The point wasn\u2019t just swapping tools for simplicity. It was moving to a single, integrated AI stack where the primitives, orchestration, and compute are designed to work as a system, not individual components. </p><h2>The process is the product</h2><p>FLORA's ultimate goal is to support all design work that isn\u2019t UI/UX, and FAUNA is their first step in orchestrating visual ideation end-to-end. </p><p>But building FAUNA had an unexpected impact on Alec's team: it helped understand their users on a deeper level. In creative work, the process is the product. And the longer you can maintain a flow state, the better the outcome. </p><div></div><p>Just like new visual ideas require new cycles of iteration, new image models and capabilities launch every week, and now FLORA can take advantage of them without plumbing or infrastructure getting in the way. </p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/blog/how-flora-shipped-a-creative-agent-on-vercels-ai-stack\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940177",
+    "scraped_at": "2026-09-19T12:25:54.940194",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Axios package compromise and remediation steps",
+    "link": "https://vercel.com/changelog/axios-package-compromise-and-remediation-steps",
+    "description": "<p>The <code>axios</code> npm package was compromised in an <a href=\"https://socket.dev/blog/axios-npm-package-compromised\">active supply chain attack</a> discovered on March 31, 2026. Vercel investigated this issue and implemented remediation actions to protect the platform. No Vercel systems were affected.</p><p>The npm registry removed the compromised package versions, and the latest tag now points to the safe <code>axios@1.14.0</code> release.</p><ul><li><p>We\u2019ve blocked outgoing access from our build infrastructure to the Command &amp; Control hostname <code>sfrclak</code>.com.</p></li><li><p>The malicious version of the package has been blocked and unpublished from npm.</p></li><li><p>Vercel\u2019s own infrastructure and applications have been unaffected. We recommend checking your supply chain for exposure.</p></li></ul><h3>Affected versions</h3><p>Projects using <code>axios@1.14.1</code> or <code>axios@0.30.4</code> in their build environments are affected by this vulnerability.</p><ul><li><p>Check your dependencies and lockfiles for:</p><ul><li><p><a href=\"https://socket.dev/npm/package/axios/overview/1.14.1\"><code><b>axios@1.14.1</b></code></a></p></li><li><p><a href=\"https://socket.dev/npm/package/axios/overview/0.30.4\"><code><b>axios@0.30.4</b></code></a></p></li><li><p><a href=\"https://socket.dev/npm/package/plain-crypto-js/overview/4.2.1\"><code><b>plain-crypto-js@4.2.1</b></code></a></p></li></ul></li></ul><h3>Resolution</h3><p>If your deployments used the malicious package version listed above in your build environment, take the following actions:</p><ul><li><p>Search your lockfiles and <code>node_modules</code> for <code>plain-crypto-js</code> to identify compromised installations</p></li><li><p>Redeploy your project to ensure your build uses a clean version of <code>axios</code></p></li><li><p>Rotate API keys, database credentials, tokens, and any other sensitive values present in your build environment</p></li><li><p>Review your dependency tree for references to <code>axios@1.14.1</code> or <code>axios@0.30.4</code> and update them to <code>axios@1.14.0</code></p></li></ul><p></p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/axios-package-compromise-and-remediation-steps\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940159",
+    "scraped_at": "2026-09-19T12:25:54.940176",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "How Waldium made a blog platform work for humans and AI alike",
+    "link": "https://vercel.com/blog/how-waldium-made-a-blog-platform-work-for-humans-and-ai-alike",
+    "description": "<p><a href=\"https://www.waldium.com\">Waldium</a> is a two-person, YC-backed startup that built an agentic CMS for businesses. Co-founded by Amrutha Gujjar and CTO Shivam Singhal, the platform automates content research and creation, and gives every customer blog its own MCP server endpoint so AI agents can query it directly. Today, it all runs from a single <a href=\"https://nextjs.org\">Next.js</a> deployment on Vercel.</p><p>Amrutha spent years building software where the infrastructure kept getting in the way. \"I was never stuck on the part I was excited to build,\" she says. \"It was always the infrastructure friction around it.\" That frustration became a design principle for Waldium. The infrastructure needed to disappear so the product could stay focused on what made it interesting.</p><p><b>Waldium on Vercel</b></p><ul><li><p><b>500+</b> customer blogs served from a single Vercel deployment</p></li><li><p>New customers get MCP endpoints live in under 5 minutes</p></li><li><p>AI query response times consistently under 50ms globally</p></li><li><p><b>45%</b> lower infrastructure cost vs. per-customer deployment model</p></li><li><p>One customer generated 1,000+ posts in a single month; research time cut from weeks to hours</p></li></ul><div></div><h2>When agents became part of the audience</h2><p>Waldium started the way most content platforms do, building blogs for humans to read. But something Amrutha kept noticing was quietly changing who, and what, showed up to read them.</p><div></div><p>Developers and technical teams were pulling blog content into their coding environments, into Claude Desktop, into ChatGPT, using it as live context in the tools where they actually worked. The browser tab was still part of the picture, but it wasn't the whole story anymore. Content that couldn't travel into those environments was leaving reach on the table.</p><p>That insight pointed Waldium toward <a href=\"https://modelcontextprotocol.io\">MCP (Model Context Protocol)</a> as the right primitive. If every customer blog had its own MCP server endpoint, an AI assistant could search, retrieve, and interact with that content directly, without anyone leaving their workflow. A developer could ask an agent to find a specific code snippet across an entire blog archive and get an answer in the same window where they were building.</p><p>For technical founders who don't think of themselves as marketers, it opened up something new entirely. \"Being able to use MCP,\" Amrutha says, \"allows you to create a blog post from the same place you're building a feature.\"</p><p>The vision was clear, but the infrastructure question was harder.</p><h2>A thousand front pages, one codebase</h2><p>Supporting hundreds of customer blogs across custom domains is already a serious engineering challenge. Give every one of those blogs its own branded MCP server, with subdomain generation, SSL certificates, and a live install page, and you quickly outgrow the DIY approach.</p><p>Waldium had started by assembling their own pipeline on AWS Amplify, wiring GitHub Actions, managing deployment configs, and handling SSL manually. As the number of tenants grew, the complexity grew faster, and the team found themselves spending more time maintaining infrastructure than building their product. They moved to Vercel early, and the difference was immediate.</p><p>\"The developer experience is so seamless,\" Amrutha says. \"It allows our team to focus on what we do best.\"</p><div></div><p>The unlock for Waldium's MCP infrastructure specifically was <a href=\"https://vercel.com/docs/multi-tenant\">Vercel for Platforms</a>. With a single Next.js application, the team now serves every customer blog, every MCP endpoint, and every custom domain from one unified deployment. <a href=\"https://vercel.com/docs/functions/edge-middleware\">Vercel Middleware</a> handles routing dynamically so that when an AI agent sends a query, the request reaches the right tenant automatically.</p><p>The <a href=\"https://vercel.com/docs/multi-tenant/domain-management\">Vercel Domains API</a> provisions custom domains in seconds, with SSL certificates issued and renewed without any manual work. When Waldium evaluated MCP-specific hosting tools, the subdomain limits weren't close. Competitors capped out in the dozens. Vercel handles tens of thousands.</p><div></div><p>Shivam points to the overall mental model as the thing that's proved stickiest. \"It's very simple now: push to a particular git branch, get a preview deployment, get a production deployment. It works cleanly with authentication, with our databases. It just works.\" The integrated storage layer, with <a href=\"https://vercel.com/marketplace/neon\">Neon</a> and <a href=\"https://vercel.com/marketplace/upstash\">Upstash</a> sitting alongside the application rather than off in a separate console, gave the team what he calls \"a single pane of glass into all the parts of our system.\"</p><div></div><p>Today, a new customer signs up, gets a unique subdomain generated during onboarding, and walks away with a sitemap, <a href=\"https://llmstxt.org\">LLMs.txt</a>, robots.txt, an MCP install page, and a live MCP endpoint, all in under five minutes.</p><h2>From weeks of research to a thousand posts</h2><p>Because Waldium could give every customer a dedicated MCP endpoint without per-tenant infrastructure work, their customers got a distribution channel that simply didn't exist before. Their content became queryable directly inside AI assistants, not just discoverable through search.</p><p>Take <a href=\"https://saphira.ai\">Saphira AI</a>, a safety compliance company that publishes highly technical educational content. Previously, their team faced weeks of manual research for every content push, with someone reading through thousands of pages of ISO standards to identify what would actually be useful to customers. With Waldium, a team of research agents handles that work continuously, building company and industry profiles, flagging newsworthy developments, and generating content at a volume no traditional content team could match. Saphira AI produced over 1,000 posts in a single month. The research timeline went from weeks to hours.</p><p>Amrutha sees this as the new table stakes.</p><div></div><p>Waldium is building that path, and <a href=\"https://vercel.com/docs/multi-tenant\">Vercel for Platforms</a> is what makes it possible to hand it to hundreds of customers at once, without rebuilding it for each one.</p><p>\"Once you understand how good things can be,\" Amrutha says, \"it's really hard to go back to a product that hasn't given as much intentional thought toward good design.\"</p><p>That's what happens when good engineers pick the right foundation. Waldium is still a two-person team, and 500+ businesses are publishing through their platform every day.</p><hr /><p><i>About Waldium: </i><a href=\"https://www.waldium.com\">Waldium</a><i> is a YC-backed platform founded by Amrutha Gujjar and Shivam Singhal. Learn more at </i><a href=\"https://www.waldium.com\">waldium.com</a><i>.</i></p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/blog/how-waldium-made-a-blog-platform-work-for-humans-and-ai-alike\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940138",
+    "scraped_at": "2026-09-19T12:25:54.940157",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "GLM 5V Turbo on AI Gateway",
+    "link": "https://vercel.com/changelog/glm-5v-turbo-on-ai-gateway",
+    "description": "<p>GLM 5V Turbo from Z.ai is now available on <a href=\"https://vercel.com/ai-gateway\">Vercel AI Gateway</a>.</p><p>GLM 5V Turbo is a multimodal coding model that turns screenshots and designs into code, debugs visually, and operates GUIs autonomously. It's strong at design-to-code generation, visual code generation, and navigating real GUI environments, at a smaller parameter size than comparable models.</p><p>To use GLM 5V Turbo, set model to <code>zai/glm-5v-turbo</code> in the <a href=\"https://ai-sdk.dev/\">AI SDK</a>.</p><div></div><p>AI Gateway provides a unified API for calling models, tracking usage and cost, and configuring retries, failover, and performance optimizations for higher-than-provider uptime. It includes built-in <a href=\"https://vercel.com/docs/ai-gateway/capabilities/custom-reporting\">custom reporting</a>, <a href=\"https://vercel.com/docs/observability/ai-sdk-observability\">observability</a>, <a href=\"https://vercel.com/docs/ai-gateway#bring-your-own-key\">Bring Your Own Key</a> support, and intelligent provider routing with automatic retries.</p><p>Learn more about <a href=\"https://vercel.com/docs/ai-gateway\">AI Gateway</a>, view the <a href=\"https://vercel.com/ai-gateway/leaderboards\">AI Gateway model leaderboard</a> or try it in our <a href=\"https://vercel.com/ai-gateway/models/glm-5v-turbo\">model playground</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/glm-5v-turbo-on-ai-gateway\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940125",
+    "scraped_at": "2026-09-19T12:25:54.940136",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Vercel Queues now supports 7-day message TTL",
+    "link": "https://vercel.com/changelog/queues-now-supports-7-day-ttl",
+    "description": "<p>Vercel Queues now supports a maximum message TTL and delivery delay of 7 days, up from 24 hours. The default message TTL of 24 hours and delivery delay of 0 seconds remain unchanged.</p><p>These expanded limits enable longer retention windows and support background work patterns for delayed tasks, scheduled workflows, and long-running jobs.</p><p><b>Send message example</b></p><div></div><p>Explore the <a href=\"https://vercel.com/docs/queues\">documentation</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/queues-now-supports-7-day-ttl\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940112",
+    "scraped_at": "2026-09-19T12:25:54.940123",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Chat SDK adds Zernio support",
+    "link": "https://vercel.com/changelog/chat-sdk-adds-zernio-support",
+    "description": "<p>Chat SDK now supports <a href=\"https://zernio.com/\">Zernio</a>, a unified social media API, with the new <a href=\"https://chat-sdk.dev/adapters/vendor-official/zernio\">Zernio adapter</a>. This is an official vendor adapter built and maintained by the Zernio team.</p><p>Teams can build bots that work across Instagram, Facebook, Telegram, WhatsApp, X/Twitter, Bluesky, and Reddit<b> </b>through a single integration.</p><p><b>Try the Zernio adapter today:</b></p><div></div><p>Feature support varies by platform; rich cards work on Facebook, Instagram, Telegram, and WhatsApp, while editing and streaming are currently limited to Telegram.</p><p>Read the <a href=\"https://docs.zernio.com/resources/integrations/chat-sdk\">documentation</a> to get started, browse the <a href=\"https://chat-sdk.dev/adapters\">directory</a>, or build your own <a href=\"https://chat-sdk.dev/docs/contributing/building\">adapter</a>.</p><div></div><p></p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/chat-sdk-adds-zernio-support\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940098",
+    "scraped_at": "2026-09-19T12:25:54.940111",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Optimizing Vercel Sandbox snapshots",
+    "link": "https://vercel.com/blog/optimizing-vercel-sandbox-snapshots",
+    "description": "<p>When we recently shipped\u00a0<a href=\"https://vercel.com/changelog/filesystem-snapshots-supported-on-vercel-sandboxes\">filesystem snapshots</a>\u00a0in Vercel Sandbox to let teams capture and restore a sandbox's entire filesystem state, our initial engineering focus was entirely on reliability, making sure the system would never fail to snapshot or lose data.</p><p>Once that foundation was stable, our attention turned to performance. p75 snapshot restores were taking over 40 seconds, and through parallelization and local caching, we brought that under one second.</p><h2>What a snapshot looks like on disk</h2><p>Vercel Sandbox runs on the same infrastructure as our internal builds product, <a href=\"https://vercel.com/blog/a-deep-dive-into-hive-vercels-builds-infrastructure\">Hive</a>. Each sandbox is an isolated container inside a Firecracker microVM.</p><p>A snapshot is a compressed copy of the sandbox's disk. We're working with two different files:</p><ul><li><p>The raw disk image (<code>.img</code>), which can be several GBs</p></li><li><p>A compressed version in our custom <code>VHS</code> format (Vercel Hive Snapshot), which is what gets uploaded to and downloaded from S3</p></li></ul><p>When you call <code>sandbox.snapshot()</code>, we compress the <code>.img</code> into a <code>.vhs</code> and upload it to S3. When you call <code>Sandbox.create()</code> with a snapshot, we download the <code>.vhs</code> and decompress it back. Without compression, every snapshot operation transfers hundreds of MBs to low GBs over the network, adding seconds to tens of seconds to every restore.</p><h2>Parallelize you shall</h2><p>With reliability in place, we turned to the restore path, which was painfully sequential. We'd download the entire <code>.vhs</code> file from S3 in a single request, wait for it to finish, then decompress it in a single thread.</p><div></div><p>Snapshots range from 200MB to a few GBs, so that single S3 download alone could take several seconds to tens of seconds. We used the <code>Range</code> HTTP header to <a href=\"https://docs.aws.amazon.com/AmazonS3/latest/userguide/optimizing-performance-guidelines.html\">download chunks in parallel</a> instead, with the AWS Go SDK's <code>transfermanager</code> API handling the orchestration. After benchmarking different concurrency levels and chunk sizes, we ended up with 2-5x faster downloads.</p><div></div><p>We applied the same thinking to decompression. Our <code>.vhs</code> format stores a header and a frame for each allocated region of the disk image, so instead of decoding and decompressing frames one by one, we switched to one decoder feeding N decompression goroutines. That made the <code>.vhs</code> to <code>.img</code> restore 2-4x faster, depending on snapshot size.</p><div></div><p>Even with both downloading and decompressing parallelized, the pipeline still wrote downloaded data to disk before decompression could begin. Piping S3 range request streams directly into decompression eliminated that intermediary step, cutting end-to-end restore time by another 2x.</p><div></div><h2>We\u2026 didn't cache?</h2><p>As you might have noticed, we so far only talked about improving the slow path, when we need to retrieve a snapshot from S3 on a cache miss. Well, we actually didn't have a fast path, so it was all cache misses. Yeah, we really didn't focus on performance at first.</p><p>Our sandboxes run on metal instances with NVMe disks, giving us several terabytes of fast local storage that was mostly sitting unused. We put it to work with a local disk cache using LRU (least recently used) eviction, sized by total disk space rather than number of entries. We cache the decompressed <code>.img</code> directly rather than the compressed <code>.vhs</code>, so a cache hit skips both the download and the decompression. Once the cache fills up, the least recently used snapshots get evicted to make room.</p><p>Most customers reuse a \"base\" snapshot across many sandboxes, which gives us a 95% cache hit rate. On those hits, boot time is bounded only by starting the microVM and container.</p><div></div><h2>From 40 seconds to sub-second</h2><p>p75 dropped from 40s to sub-second, and p95 went from 50s to 5s. With our cache hit rate, most sandbox boots skip the download and decompression pipeline entirely.</p><div></div><p>There's more we can do. Cache affinity, for example, would route sandboxes to metal instances that already have the requested snapshot cached, potentially eliminating the cold path for popular snapshots. But that risks creating thundering herds and hotspotting certain machines, so we're being deliberate about it.</p><p>Long term, we want the cold path fast enough that caching is a bonus, not a requirement.</p><p>These optimizations already power <a href=\"https://vercel.com/changelog/vercel-sandbox-persistent-sandboxes-beta\">Automatic Persistence</a>, now in beta, which automatically snapshots a named sandbox's filesystem when you stop it and restores everything on resume. With sub-second restores, that stop-and-resume cycle feels instant.</p><p>Filesystem snapshots are available today for all Vercel Sandboxes. Check the <a href=\"https://vercel.com/docs/vercel-sandbox/concepts/snapshots\">Sandbox documentation</a> to get started.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/blog/optimizing-vercel-sandbox-snapshots\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940076",
+    "scraped_at": "2026-09-19T12:25:54.940096",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Zero-configuration Go backend support",
+    "link": "https://vercel.com/changelog/zero-configuration-go-backend-support",
+    "description": "<p>Go API backends can now be deployed on Vercel with zero-configuration deployment.</p><div></div><p>Vercel now recognizes Go servers as first-class backends and automatically provisions the right resources and configures your application without redirects in <code>vercel.json</code> or the <code>/api</code> folder convention.</p><p>Backends on Vercel use <a href=\"https://vercel.com/fluid\">Fluid compute</a> with <a href=\"https://vercel.com/blog/introducing-active-cpu-pricing-for-fluid-compute\">Active CPU pricing</a> by default. Your Go API scales automatically with traffic, and you pay only for active CPU time rather than idle capacity.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/zero-configuration-go-backend-support\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940062",
+    "scraped_at": "2026-09-19T12:25:54.940074",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Gemma 4 on AI Gateway",
+    "link": "https://vercel.com/changelog/gemma-4-on-ai-gateway",
+    "description": "<p>Gemma 4 26B (MoE) and 31B (Dense) from Google are now available on <a href=\"https://vercel.com/ai-gateway\">Vercel AI Gateway</a>.</p><p>Built on the same architecture as Gemini 3, both open models support function-calling, agentic workflows, structured JSON output, and system instructions. Both support up to 256K context, 140+ languages, and native vision. </p><ul><li><p>26B (MoE): Activates only 3.8B of its 26B total parameters during inference, optimized for lower latency and faster tokens-per-second.</p></li><li><p>31B (Dense): All parameters are active during inference, targeting higher output quality. Better suited as a foundation for fine-tuning.</p></li></ul><p>To use Gemma 4, set model to <code>google/gemma-4-31b-it</code> or <code>google/gemma-4-26b-a4b-it</code> in the <a href=\"https://ai-sdk.dev/\">AI SDK</a>.</p><div></div><p>AI Gateway provides a unified API for calling models, tracking usage and cost, and configuring retries, failover, and performance optimizations for higher-than-provider uptime. It includes built-in <a href=\"https://vercel.com/docs/ai-gateway/capabilities/custom-reporting\">custom reporting</a>, <a href=\"https://vercel.com/docs/observability/ai-sdk-observability\">observability</a>, <a href=\"https://vercel.com/docs/ai-gateway#bring-your-own-key\">Bring Your Own Key</a> support, and intelligent provider routing with automatic retries.</p><p>Learn more about <a href=\"https://vercel.com/docs/ai-gateway\">AI Gateway</a>, view the <a href=\"https://vercel.com/ai-gateway/leaderboards\">AI Gateway model leaderboard</a> or try it in our <a href=\"https://vercel.com/ai-gateway/models/gemma-4-31b-it\">model playground</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/gemma-4-on-ai-gateway\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940047",
+    "scraped_at": "2026-09-19T12:25:54.940059",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Qwen 3.6 Plus on AI Gateway",
+    "link": "https://vercel.com/changelog/qwen-3.6-plus-on-ai-gateway",
+    "description": "<p>Qwen 3.6 Plus from Alibaba is now available on <a href=\"https://vercel.com/ai-gateway\">Vercel AI Gateway</a>.</p><p>Compared to Qwen 3.5 Plus, this model adds stronger agentic coding capabilities, from frontend development to repository-level problem solving, along with improved multimodal perception and reasoning. It features a 1M context window and improved performance on tool-calling, long-horizon planning, and multilingual tasks.</p><p>To use Qwen 3.6 Plus, set model to <code>qwen/qwen3.6-plus</code> in the <a href=\"https://ai-sdk.dev/\">AI SDK</a>.</p><div></div><p>AI Gateway provides a unified API for calling models, tracking usage and cost, and configuring retries, failover, and performance optimizations for higher-than-provider uptime. It includes built-in <a href=\"https://vercel.com/docs/ai-gateway/capabilities/custom-reporting\">custom reporting</a>, <a href=\"https://vercel.com/docs/observability/ai-sdk-observability\">observability</a>, <a href=\"https://vercel.com/docs/ai-gateway#bring-your-own-key\">Bring Your Own Key</a> support, and intelligent provider routing with automatic retries.</p><p>Learn more about <a href=\"https://vercel.com/docs/ai-gateway\">AI Gateway</a>, view the <a href=\"https://vercel.com/ai-gateway/leaderboards\">AI Gateway model leaderboard</a> or try it in our <a href=\"https://vercel.com/ai-gateway/models/qwen3.6-plus\">model playground</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/qwen-3.6-plus-on-ai-gateway\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940032",
+    "scraped_at": "2026-09-19T12:25:54.940045",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Base fee for Observability Plus removed",
+    "link": "https://vercel.com/changelog/no-base-fee-for-observability-plus",
+    "description": "<p>We've eliminated the $10 base fee for Observability Plus for all customers. We now only charge you for the observability events collected.</p><p><a href=\"https://vercel.com/docs/observability/observability-plus\">Observability Plus</a> gives you full visibility into your Vercel data with enhanced logs and metrics, anomaly alerts, 30-day log retention, and the context to debug issues fast.</p><p><a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability\">Start using Observability Plus</a> today.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/no-base-fee-for-observability-plus\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940018",
+    "scraped_at": "2026-09-19T12:25:54.940029",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Build an MCP server with Nuxt",
+    "link": "https://vercel.com/changelog/build-mcp-server-with-nuxt",
+    "description": "<p>Developers building AI features with <a href=\"https://nuxt.com/\">Nuxt</a> can now create Model Context Protocol (MCP) servers directly within their applications using the <a href=\"https://mcp-toolkit.nuxt.dev/\">Nuxt MCP Toolkit</a>.</p><p><b>Install the module</b></p><div></div><p>The module lets you define tools with Zod validation, expose data as resources, and create reusable prompts. It also includes an integrated MCP Inspector for debugging, middleware support, dynamic definitions, session persistence across tool calls, and a <a href=\"https://mcp-toolkit.nuxt.dev/advanced/code-mode\">Code Mode</a> that lets models orchestrate multiple tool calls in a single execution.</p><p>Read the <a href=\"https://mcp-toolkit.nuxt.dev/getting-started/installation\">documentation</a> or the <a href=\"https://vercel.com/kb/guide/how-to-build-an-mcp-server-with-nuxt\">walkthrough guide</a> to start building.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/build-mcp-server-with-nuxt\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.940005",
+    "scraped_at": "2026-09-19T12:25:54.940017",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Custom Class Serialization in Workflow SDK",
+    "link": "https://vercel.com/changelog/workflow-custom-class-serialization",
+    "description": "<p>Workflow SDK now supports custom class serialization, letting you pass your own class instances between workflow and step functions.</p><p>Workflow SDK serializes standard JavaScript types like primitives, objects, arrays, <code>Date</code>, <code>Map</code>, <code>Set</code>, and more. Custom class instances were previously not supported because the serialization system didn't know how to reconstruct them. With the new <a href=\"https://www.npmjs.com/package/@workflow/serde\"><code>@workflow/serde</code></a> package, you can define how your classes are serialized and deserialized by implementing two static methods using <code>WORKFLOW_SERIALIZE</code> and <code>WORKFLOW_DESERIALIZE</code>.</p><p>Here's <a href=\"https://github.com/vercel/sandbox/blob/0786e185f0e358a05978f4f36930bbe217a23a5e/packages/vercel-sandbox/src/sandbox.ts#L297-L324\">an example</a> of how we used custom serialization in <code>@vercel/sandbox</code> to greatly improve DX:</p><div></div><p>Once implemented, instances of your class can be passed as arguments and return values between workflow and step functions, with the serialization system handling conversion automatically.</p><div></div><ul><li><p><a href=\"https://github.com/vercel/sandbox/blob/main/examples/workflow-code-runner/workflows/code-runner.ts\">See the full example application</a> utilizing <code>@vercel/sandbox</code> and Workflow SDK.</p></li><li><p>Read the <a href=\"https://useworkflow.dev/docs/foundations/serialization#custom-class-serialization\">serialization documentation</a> to learn more.</p></li></ul><p></p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/workflow-custom-class-serialization\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939990",
+    "scraped_at": "2026-09-19T12:25:54.940003",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Query and manage Marketplace databases from the dashboard",
+    "link": "https://vercel.com/changelog/query-and-manage-marketplace-databases-from-the-dashboard",
+    "description": "<p>You can now run SQL queries, view and edit data, and inspect your database schema directly from the Vercel dashboard. This capability is available for supported marketplace database integrations, including AWS Aurora Postgres, Neon, Prisma, and Supabase, with more services coming soon.</p><p>Instead of relying on <code>psql</code> or external database UI tools, teams can manage their data directly within Vercel.</p><p>The integration resource page for supported Postgres databases now includes three new tabs:</p><ul><li><p><b>Query</b>: Run any SQL query, view results, and copy them as CSV, JSON, or Markdown.</p></li><li><p><b>Data Editor</b>: View table data in a spreadsheet-like interface. You can sort, copy, edit, insert, and delete rows, then apply changes to the database atomically.</p></li><li><p><b>Schema</b>: View tables and relations in a visual graph layout.</p></li></ul><p>This  is currently available to users with Owner permissions. Manage your <a href=\"https://vercel.com/marketplace/category/database?search=postgres\">database</a> by navigating to the Browser section of your database page in the dashboard.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/query-and-manage-marketplace-databases-from-the-dashboard\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939975",
+    "scraped_at": "2026-09-19T12:25:54.939988",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Vercel CLI commands now scoped to local directory",
+    "link": "https://vercel.com/changelog/vercel-cli-commands-now-scope-to-the-local-directory",
+    "description": "<p>Commands like <code>vc project ls</code> and <code>vc domains ls</code> now automatically use the scope of your linked local directory instead of defaulting to your global team.</p><p>Previously, querying projects or domains inside a linked repository would return global results, creating an unexpected disconnect between your immediate working environment and the CLI output. This update aligns read-only commands with your local context, though you can still manually override the target team by passing the <code>--scope</code> flag.</p><p>Run <code>pnpm i -g vercel@latest</code> to update to the latest Vercel CLI (at least <code>v50.40.0</code>).</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/vercel-cli-commands-now-scope-to-the-local-directory\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939962",
+    "scraped_at": "2026-09-19T12:25:54.939974",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Team-wide Zero Data Retention and prompt training controls now on AI Gateway",
+    "link": "https://vercel.com/changelog/zero-data-retention-no-prompt-training-on-ai-gateway",
+    "description": "<p>AI Gateway now supports Zero Data Retention (ZDR) at the team level, removing the need to configure opt-outs or reach agreements with each provider individually. It routes requests only to providers where ZDR agreements are in place, with support for Anthropic, OpenAI, Google, and many more models.</p><h3><b>Team-wide ZDR</b></h3><p>Enable team-wide ZDR from the <a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fai-gateway%2Fsettings&amp;title=AI+Gateway+Settings\">AI Gateway Dashboard Settings</a> to enforce Zero Data Retention on every request your team makes, with no code changes required.</p><h3><b>Request-level ZDR &amp; No Prompt Training</b></h3><p>You can also configure ZDR and/or No Prompt Training on the request level by setting <code>zeroDataRetention: true</code> or <code>disallowPromptTraining: true</code> per request. Enabling Zero Data Retention automatically includes training opt-out, so there's no need to configure both separately.</p><div></div><p><b>Pricing</b></p><table><tr><td><p><b>Option</b></p></td><td><p><b>Cost</b></p></td><td><p><b>Availability</b></p></td></tr><tr><td><p>Team-wide ZDR</p></td><td><p>$0.10 per 1,000 requests</p></td><td><p>Pro and Enterprise</p></td></tr><tr><td><p>Per-request ZDR</p></td><td><p>Free</p></td><td><p>Pro and Enterprise</p></td></tr><tr><td><p>Disallow Prompt Training (per-request)</p></td><td><p>Free</p></td><td><p>All users</p></td></tr></table><p>Each response includes metadata showing which providers were considered and which were filtered out, giving you an audit trail of policy enforcement.</p><p>These controls work with the AI SDK, Chat Completions API, Responses API, Anthropic Messages API, and OpenResponses API.</p><p>Read the <a href=\"https://vercel.com/docs/ai-gateway/capabilities/zdr\">Zero Data Retention documentation</a> and <a href=\"https://vercel.com/docs/ai-gateway/capabilities/disallow-prompt-training\">No Prompt Training documentation</a> for more details.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/zero-data-retention-no-prompt-training-on-ai-gateway\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939945",
+    "scraped_at": "2026-09-19T12:25:54.939960",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Manage Vercel Microfrontends with AI Agents and the CLI",
+    "link": "https://vercel.com/changelog/manage-vercel-microfrontends-with-ai-agents-and-the-cli",
+    "description": "<p>Vercel Microfrontends now include two new setup and management tools: an AI skill for coding agents and new Vercel CLI commands.</p><p><b>New Vercel Microfrontends skill:</b> Install the Microfrontends skill to let your AI coding agent guide you through group creation with natural language prompts. It will automatically generate <code>microfrontends.json</code>, wire up framework integrations, and manage projects, all without leaving your editor.</p><div></div><p>Once added, ask your agent to create your first microfrontend group using this prompt.</p><div></div><p>Get started with the <a href=\"https://skills.sh/vercel/microfrontends/vercel-microfrontends\">Microfrontends skill</a>.</p><p><b>New CLI commands:</b> The <a href=\"https://vercel.com/docs/cli/microfrontends\">Vercel CLI</a> now includes commands for managing microfrontend groups, so you can create, inspect, and manage groups from the terminal without opening the dashboard.</p><ul><li><p><code>vercel microfrontends create-group</code></p></li><li><p><code>vercel microfrontends inspect-group</code></p></li><li><p><code>vercel microfrontends add-to-group</code></p></li><li><p><code>vercel microfrontends remove-from-group</code></p></li><li><p><code>vercel microfrontends delete-group</code></p></li></ul><p>Learn more in the <a href=\"https://vercel.com/docs/cli/microfrontends\">CLI docs</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/manage-vercel-microfrontends-with-ai-agents-and-the-cli\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939931",
+    "scraped_at": "2026-09-19T12:25:54.939944",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Query and visualize workflow data in Vercel Observability",
+    "link": "https://vercel.com/changelog/query-and-visualize-workflow-data-in-vercel-observability",
+    "description": "<p>Observability Plus's <a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability%3Fbuilder%3Dtrue%26by%3DprojectId\">query builder</a> now lets you create custom queries on workflow runs and steps, visualizing traffic, performance, and other key metrics across Vercel Workflows.</p><p>Queries include breakdowns by run and step status, and can be filtered and grouped by environment, project, workflow, and step.</p><p>The query builder is available to Pro and Enterprise teams using Observability Plus.</p><p>Learn more about <a href=\"https://useworkflow.dev/\">Workflow SDK</a>, <a href=\"https://vercel.com/docs/observability\">Observability</a> and <a href=\"https://vercel.com/docs/observability/observability-plus\">Observability Plus</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/query-and-visualize-workflow-data-in-vercel-observability\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939917",
+    "scraped_at": "2026-09-19T12:25:54.939929",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "GLM 5.1 on AI Gateway",
+    "link": "https://vercel.com/changelog/glm-5.1-on-ai-gateway",
+    "description": "<p>GLM 5.1 from Z.ai is now available on <a href=\"https://vercel.com/ai-gateway\">Vercel AI Gateway</a>.</p><p>Designed for long-horizon autonomous tasks, GLM-5.1 can work continuously on a single task for extended periods, handling planning, execution, testing, and iterative refinement in a closed loop. Rather than one-shot code generation, it runs an autonomous cycle of benchmarking, identifying bottlenecks, and optimizing across many iterations, with particular strength in sustained multi-step engineering workflows.</p><p>Beyond agentic coding, GLM-5.1 improves on general conversation, creative writing, front-end prototyping, and office productivity tasks like generating PowerPoint, Word, and Excel documents.</p><p>To use GLM 5.1, set model to <code>zai/glm-5.1</code> in the <a href=\"https://ai-sdk.dev/\">AI SDK</a>.</p><div></div><p>AI Gateway provides a unified API for calling models, tracking usage and cost, and configuring retries, failover, and performance optimizations for higher-than-provider uptime. It includes built-in <a href=\"https://vercel.com/docs/ai-gateway/capabilities/custom-reporting\">custom reporting</a>, <a href=\"https://vercel.com/docs/observability/ai-sdk-observability\">observability</a>, <a href=\"https://vercel.com/docs/ai-gateway#bring-your-own-key\">Bring Your Own Key</a> support, and intelligent provider routing with automatic retries.</p><p>Learn more about <a href=\"https://vercel.com/docs/ai-gateway\">AI Gateway</a>, view the <a href=\"https://vercel.com/ai-gateway/leaderboards\">AI Gateway model leaderboard</a> or try it in our <a href=\"https://vercel.com/ai-gateway/models/glm-5.1\">model playground</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/glm-5.1-on-ai-gateway\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939903",
+    "scraped_at": "2026-09-19T12:25:54.939916",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Opus 4.6 Fast Mode available on AI Gateway",
+    "link": "https://vercel.com/changelog/opus-4-6-fast-mode-available-on-ai-gateway",
+    "description": "<p>Fast mode support for Claude Opus 4.6 is now available on AI Gateway.</p><p>Fast mode is a premium high-speed option that delivers 2.5x faster output token speeds with the same model intelligence. This is an early, experimental feature.</p><p>Fast mode's increased output token speeds enable new use cases, especially for human-in-the-loop workflows. Run large coding tasks without needing to context switch and get planning results without extended waits.</p><p>To enable fast mode, pass <code>speed: 'fast'</code> in the <code>anthropic</code> provider options in AI SDK:</p><div></div><p>You can use fast mode with <a href=\"https://vercel.com/docs/ai-gateway/sdks-and-apis/anthropic-messages-api#configuring-claude-code\">Claude Code via AI Gateway</a> by setting the <code>CLAUDE_CODE_SKIP_FAST_MODE_ORG_CHECK</code> variable in your shell configuration file or in <code>~/.claude/settings.json</code>.</p><div></div><div></div><p>Try fast mode directly in the <a href=\"https://vercel.com/ai-gateway/models/claude-opus-4.6\">AI Gateway playground for Opus 4.6</a>.</p><div></div><p>Fast mode is priced at 6x standard Opus rates.</p><table><tr><th><p>Standard</p></th><th><p>Fast Mode</p></th></tr><tr><td><p>Input: $5 / 1M tokens\nOutput: $25 / 1M tokens</p></td><td><p>Input: $30 / 1M tokens\nOutput: $150 / 1M tokens</p></td></tr></table><p>All standard pricing multipliers (e.g., prompt caching) apply on top of these rates.</p><div></div><p></p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/opus-4-6-fast-mode-available-on-ai-gateway\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939887",
+    "scraped_at": "2026-09-19T12:25:54.939901",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Chat SDK adds Liveblocks support",
+    "link": "https://vercel.com/changelog/chat-sdk-adds-liveblocks-support",
+    "description": "<p>Chat SDK now supports <a href=\"https://liveblocks.io/\">Liveblocks</a>, enabling bots to read and respond in Liveblocks Comments threads with the new <a href=\"https://chat-sdk.dev/adapters/vendor-official/liveblocks\">Liveblocks adapter</a>. This is an official vendor adapter built and maintained by the Liveblocks team.</p><p>Teams can build bots that post, edit, and delete comments, react with emojis, and resolve @mentions within Liveblocks rooms.</p><p><b>Try the Liveblocks adapter today:</b></p><div></div><p>Read the <a href=\"https://liveblocks.io/docs/api-reference/liveblocks-chat-sdk-adapter\">documentation</a> to get started, browse the <a href=\"https://chat-sdk.dev/adapters\">directory</a>, or build your own <a href=\"https://chat-sdk.dev/docs/contributing/building\">adapter</a>.</p><div></div><p></p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/chat-sdk-adds-liveblocks-support\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939873",
+    "scraped_at": "2026-09-19T12:25:54.939886",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Vercel Sandbox now supports up to 32 vCPU + 64 GB RAM configurations",
+    "link": "https://vercel.com/changelog/vercel-sandbox-now-supports-up-to-32-vcpu-64-gb-ram-configurations",
+    "description": "<p>Vercel Sandbox now supports creating sandboxes with up to 32 vCPUs and 64 GB of RAM for Enterprise customers. This enables running large, resource-intensive applications that are CPU-bound or require a large amount of memory.</p><p>Get started by setting the <code>resources.vcpus</code> option in the <a href=\"/docs/vercel-sandbox/sdk-reference#sandbox.create\">SDK</a>:</p><div></div><p>Or using the <code>--vcpus</code> option in the <a href=\"/docs/vercel-sandbox/cli-reference#sandbox-create\">CLI</a>:</p><div></div><p>Learn more about Sandbox in the <a href=\"/docs/vercel-sandbox\">docs</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/vercel-sandbox-now-supports-up-to-32-vcpu-64-gb-ram-configurations\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939859",
+    "scraped_at": "2026-09-19T12:25:54.939871",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Summary of CVE-2026-23869",
+    "link": "https://vercel.com/changelog/summary-of-cve-2026-23869",
+    "description": "<h1>Summary</h1><p>A high-severity vulnerability (CVSS 7.5) in React Server Components can lead to Denial of Service.</p><p>We created new rules to address these vulnerabilities and deployed them to the Vercel WAF to automatically protect all projects hosted on Vercel at no cost. However, do not rely on the WAF for full protection. Immediate upgrades to a patched version are required.</p><h1>Impact</h1><p>A specially crafted HTTP request can be sent to any App Router Server Function endpoint that, when deserialized, may trigger excessive CPU usage. This can result in denial of service in unpatched environments.</p><p>These vulnerabilities are present in Next.js 13.x, 14.x, 15.x, 16.x and affected packages using the App Router. The issue is tracked upstream as CVE-2026-23869</p><h1>Resolution</h1><p>After creating mitigations to address this vulnerability, we deployed them across our globally-distributed platform to protect our customers. We still recommend upgrading to the latest patched version.</p><p>Updated releases of React and affected downstream frameworks include fixes to prevent this issue. All users should upgrade to a patched version as soon as possible.</p><h1>Fixed In</h1><ul><li><p>= 15.0.0 to be fixed in 15.5.15</p></li><li><p>= 16.0.0 to be fixed in 16.2.3</p></li></ul><p></p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/summary-of-cve-2026-23869\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939844",
+    "scraped_at": "2026-09-19T12:25:54.939856",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Use and manage Vercel Sandbox directly from the Vercel CLI",
+    "link": "https://vercel.com/changelog/use-vercel-sandbox-directly-within-vercel-cli",
+    "description": "<p>You can now manage <a href=\"https://vercel.com/sandbox\">Vercel Sandbox</a> directly from the Vercel CLI using the <code>vercel sandbox</code> command.</p><p>Create, manage and run sandboxes without leaving your terminal:</p><div></div><p>Update the Vercel CLI to <code>v54.15.1</code> or later and run <code>vercel sandbox</code> to get started. Learn more in the <a href=\"https://vercel.com/docs/sandbox/cli-reference\">Vercel Sandbox CLI documentation</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/use-vercel-sandbox-directly-within-vercel-cli\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939829",
+    "scraped_at": "2026-09-19T12:25:54.939842",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Zero Data Retention on AI Gateway",
+    "link": "https://vercel.com/blog/zdr-on-ai-gateway",
+    "description": "<p>Building with multiple AI models means wrestling with fragmented data policies. With many different model providers, it's not just fragmented, it's just too much time spent on the wrong things.</p><p>You have to read through different terms of service, track which providers comply with your security requirements, and hope developers remember to configure opt-outs correctly on every request. What should be a straightforward policy becomes a manual, error-prone process because many providers do not offer Zero Data Retention (ZDR) by default.</p><p><a href=\"https://vercel.com/docs/ai-gateway\">AI Gateway</a> changes this by handling the negotiation and enforcement for you. Instead of managing policies provider by provider, you get the freedom to just build. AI Gateway ensures your data requirements are met automatically by only routing to providers where we have negotiated Zero Data Retention agreements. Models from OpenAI, Anthropic, Google, and more have ZDR providers available.</p><p>Today, we are expanding AI Gateway's compliance capabilities with team-wide Zero Data Retention (ZDR), letting you enforce strict data policies across your entire team without touching any code. Gateway compliance features now include team-wide ZDR from the dashboard, per-request ZDR for specific sensitive workflows, and explicit controls to disallow prompt training.</p><p>Toggle on in the <a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fai-gateway%2Fsettings\\&amp;title=AI+Gateway+Settings\">AI Gateway Dashboard Settings</a>, and all subsequent requests via AI Gateway will only route through ZDR-compliant providers.</p><div></div><h3>Team-wide Zero Data Retention</h3><p>Team-wide ZDR is available for Pro and Enterprise teams. It applies to every request your team makes, requiring no code changes. This is ideal for teams that want controls with complete assurance that no one can modify or misapply restrictions.</p><h3>Request-level controls</h3><p>Per-request ZDR lets you enforce data deletion on specific requests when only certain workflows handle sensitive data. This is useful when your app has proprietary information in certain queries but other requests are not as protected. You can enable request-level ZDR in all API formats supported by AI Gateway in the <a href=\"https://vercel.com/docs/ai-gateway/models-and-providers/provider-options\">provider options</a>.</p><div></div><p>Team-wide and per-request settings work together. If either is enabled, ZDR is enforced.</p><h3>Disallow Prompt Training</h3><p>Disallow Prompt Training prevents providers from using your prompt data to train their models. This is a good default for any team sending proprietary code, internal documents, or business strategy through an LLM. This filter is available on the request-level.</p><p>ZDR is a superset of this control. If you enable ZDR, training opt-out is already covered.</p><div></div><p>Each response includes metadata showing which providers were considered and which were filtered out. This gives you an audit trail of how your data policies were enforced.</p><div></div><p>All of these filters work with the <a href=\"https://vercel.com/docs/ai-sdk\">AI SDK</a>, <a href=\"https://vercel.com/docs/ai-gateway/sdks-and-apis\">Chat Completions API</a>, <a href=\"https://vercel.com/docs/ai-gateway/sdks-and-apis/responses\">Responses API</a>, <a href=\"https://vercel.com/docs/ai-gateway/sdks-and-apis/anthropic-compat\">Anthropic Messages API</a>, and <a href=\"https://vercel.com/docs/ai-gateway/sdks-and-apis/openresponses\">OpenResponses API</a>.</p><p>Protecting data no longer requires custom logic in every route. By moving these rules to the gateway, compliance becomes infrastructure instead of application busywork. You get your control back, and your team gets to keep shipping.</p><p>For pricing details, see <a href=\"https://vercel.com/docs/ai-gateway/capabilities/zdr#pricing\">Zero Data Retention pricing</a>. View the models and providers that support Zero Data Retention and Disallow Prompt Training on the <a href=\"https://vercel.com/ai-gateway/models\">model subpages</a>. Enable Zero Data Retention in your <a href=\"https://vercel.com/d?title=AI+Gateway+Settings&amp;to=%2F%5Bteam%5D%2F%7E%2Fai-gateway%2Fsettings%5C\">dashboard settings</a> today, or read the <a href=\"https://vercel.com/docs/ai-gateway\">documentation</a> for full setup details.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/blog/zdr-on-ai-gateway\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939812",
+    "scraped_at": "2026-09-19T12:25:54.939828",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Agentic Infrastructure",
+    "link": "https://vercel.com/blog/agentic-infrastructure",
+    "description": "<p>Every generation of software eventually demands a new generation of infrastructure.</p><ul><li><p>First, we configured servers by hand.</p></li><li><p>Next, the cloud turned infrastructure into APIs.</p></li><li><p>Then, a more important shift: <a href=\"https://vercel.com/blog/framework-defined-infrastructure\">infrastructure derived from the application itself.</a></p></li></ul><p>LLMs and coding agents are driving the next transition, and it's happening fast.  </p><p>In the three months leading up to this post\u2019s publication, weekly deployments on Vercel doubled, with agents driving the growth. At the time, over 30% of deployments were initiated by coding agents, a 1000% increase from six months earlier. As of September 2026, that share has risen to more than 50%.</p><h3>Software is now agentic</h3><p>Agents are building, testing, and shipping AI-native software, and they're doing it at a velocity that breaks traditional operations. Vercel projects deployed by coding agents are 20 times more likely to call AI inference providers than those deployed by humans. Agents are writing software that uses AI, and agents are building agents.</p><p>As the final actor shifts from human to machine, infrastructure has to adapt again. It has to work for software that acts on behalf of users, writes itself, and increasingly needs to understand its own behavior in production. This new generation of agentic software demands <b>Agentic Infrastructure</b>. </p><p>It\u2019s not one evolution, but three:</p><ol><li><p>Infrastructure for coding agents to deploy to</p></li><li><p>Infrastructure for building and running agents</p></li><li><p>Infrastructure that itself is agentic </p></li></ol><div></div><h2>1. Infrastructure for coding agents to deploy to</h2><p>The bottleneck for agentic engineering is operational friction. </p><p>When a coding agent writes a feature, it requires a place to run, test, and verify the output, which ultimately means it needs a URL. If the path from code to running system involves manual Terraform state or clicks in a cloud console UI, the autonomous loop breaks. Agents need programmatic, deterministic deployment surfaces.</p><p>This is why <a href=\"https://vercel.com/docs/deployments\">immutable deployments</a>, <a href=\"https://vercel.com/docs/deployments/generated-urls\">preview URLs</a> on every commit, and <a href=\"https://vercel.com/docs/instant-rollback\">instant rollbacks</a> aren't just developer experience upgrades anymore. They are absolute prerequisites for machine-driven software development. </p><p>Vercel's <a href=\"https://vercel.com/docs/cli\">CLI</a>, <a href=\"https://vercel.com/docs/rest-api\">API</a>, <a href=\"https://vercel.com/docs/agent-resources/vercel-mcp\">MCP servers</a>, and <a href=\"https://vercel.com/docs/git\">git integration</a> give agents native access to a deployment surface where they can generate code, open a PR, get a preview URL, verify the output, and ship to production, all without human intervention.</p><h2>2. Infrastructure for building and running agents</h2><p>Serverless workloads need functions, caching, and short-lived requests at the edge, but managing that stack yourself means config drift and hours debugging across systems. Vercel solved that by unifying every layer into the frontend cloud. </p><p>Agent workloads are a fundamentally different shape. They require long-lived execution, multi-step orchestration, model routing, cost controls, sandboxed code execution, and abuse resistance. It's a more complex stack, and the penalty for running it yourself compounds: every wasted request burns inference dollars, provider outages take your agent offline, and untrusted code opens the door to prompt injection. </p><p>Vercel's agentic infrastructure unifies every AI primitive we've built into a single, secure platform, the same way we did for serverless. </p><ul><li><p><a href=\"https://vercel.com/docs/ai-sdk\"><b>AI SDK</b></a> gives developers a unified way to build AI-powered applications across frameworks and providers, and <a href=\"https://vercel.com/blog/ai-sdk-6\">AI SDK 6</a> adds an agent abstraction so developers can define an agent once and reuse it across interfaces and workflows.</p></li><li><p><a href=\"https://chat-sdk.dev/docs\"><b>Chat SDK</b></a> makes agents available across dozens of chat apps and platforms from a single codebase. </p></li><li><p><a href=\"https://vercel.com/docs/ai-gateway\"><b>AI Gateway</b></a> gives teams a single endpoint for hundreds of models, with budgets, monitoring, routing, retries, and fallbacks.</p></li><li><p><a href=\"https://vercel.com/docs/functions/fluid-compute\"><b>Fluid compute</b></a> is designed for the unusual shape of AI workloads, where latency, concurrency, and idle waiting all matter at once.</p></li><li><p><a href=\"https://vercel.com/docs/workflow\"><b>Workflows</b></a><b> </b>and<b> </b><a href=\"https://vercel.com/docs/queues\"><b>Queues</b></a> give agents a way to pause, resume, retry, maintain state, and offload background work.</p></li><li><p><a href=\"https://vercel.com/docs/sandbox\"><b>Sandbox</b></a> gives them isolated execution environments for untrusted code.</p></li><li><p><a href=\"https://vercel.com/docs/observability\"><b>Observability</b></a> lets teams trace what agents are doing and where they are going wrong.</p></li></ul><p>Together, these building blocks give developers everything they need to build and run agents in one place. But Vercel also puts each of them into a single system with shared context: code, model calls, and runtime behavior. That context is what turns the infrastructure itself into an agent. </p><h2>3. Infrastructure that is itself agentic</h2><p>Traditional infrastructure is a one-way street: code goes in, logs come out, and a human reads the logs to fix the code. A unified platform provides complete visibility across every layer in real time, giving agents the ability to not just monitor production, but autonomously respond to it.</p><p>When a latency spike hits a critical route or a model provider drops requests, Vercel doesn't wait for a human to notice. It investigates the anomaly, queries observability data, reads logs, inspects source code, performs root-cause analysis, and reviews proposed fixes in isolated sandboxes. The platform interprets what the developer intended, observes what the system actually did, and acts on the delta.</p><p>Today, that still happens with human approval in the loop. Over time, the platform will take on more of that operational burden, not because it's replacing developers, but because it has enough context to act on their behalf.</p><h2>Where we're going</h2><p>The history of cloud computing is the history of removing the human from the machine. Agentic infrastructure is the next evolution, moving us from passive tools that wait for commands to proactive systems that act on our behalf. </p><p>The companies that win the next decade will build on infrastructure that expects software to write, ship, and heal itself.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/blog/agentic-infrastructure\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939782",
+    "scraped_at": "2026-09-19T12:25:54.939805",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Zero-configuration Django support",
+    "link": "https://vercel.com/changelog/zero-configuration-django-support",
+    "description": "<p><a href=\"https://www.djangoproject.com/\">Django</a>, one of the most popular high-level <a href=\"https://vercel.com/docs/functions/runtimes/python\">Python</a> web frameworks, for rapid development, is now supported with zero-configuration. You can now instantly deploy Django full-stack apps or APIs on Vercel.</p><p>Vercel now recognizes and deeply understands the specifications of Django applications, removing the need for redirects in <code>vercel.json</code> or using the <code>/api</code> folder. </p><p>All applications on Vercel use <a href=\"https://vercel.com/fluid\">Fluid compute</a> with <a href=\"https://vercel.com/blog/introducing-active-cpu-pricing-for-fluid-compute\">Active CPU pricing</a> by default. Static files will be served by the <a href=\"https://vercel.com/cdn\">Vercel CDN</a>. </p><p>Deploy <a href=\"https://vercel.com/templates/python/django-notes\">Django on Vercel</a> or visit the Django on Vercel <a href=\"https://vercel.com/docs/frameworks/backend/django\">documentation</a></p><p></p><h3>Example Django app</h3><p>CLI entry point</p><div></div><p>Project settings</p><div></div><p>URL routing table</p><div></div><p>Request handlers</p><div></div><p>WSGI entry point</p><div></div><p></p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/zero-configuration-django-support\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939767",
+    "scraped_at": "2026-09-19T12:25:54.939781",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Anomaly alert configuration now available",
+    "link": "https://vercel.com/changelog/anomaly-alert-configuration-now-available",
+    "description": "<p>You can now granularly configure\u00a0<a href=\"https://vercel.com/docs/alerts\">anomaly alerts</a>\u00a0to define exactly which unexpected spikes and errors matter to your application. Alert rules give you detection-level control, allowing you to customize which projects, alert types, metrics, HTTP status codes, and specific routes you monitor for anomalies.</p><p>For the anomalies you choose to track, Vercel automatically investigates your logs and metrics to identify the root cause, routing those findings to distinct destinations like dedicated Slack channels or individual emails.</p><p>When you configure a rule to silence a specific pattern, anomaly detection skips that traffic entirely, preventing anomalies from appearing in your dashboard and stopping notifications before they trigger.</p><p>This feature is available for teams using Observability Plus at no additional cost.</p><p><a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fsettings%2Falerts\">Try it out</a>\u00a0or learn more about\u00a0<a href=\"https://vercel.com/docs/observability\">alert rules</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/anomaly-alert-configuration-now-available\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939753",
+    "scraped_at": "2026-09-19T12:25:54.939765",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Anomaly alerts are now generally available",
+    "link": "https://vercel.com/changelog/anomaly-alerts-ga",
+    "description": "<p>Anomaly alerts are now generally available.</p><p>Teams using <a href=\"https://vercel.com/docs/observability/observability-plus\">Observability Plus</a> receive alerts when anomalies are detected in their applications to help quickly identify, investigate, and resolve unexpected behavior.</p><p>Alerts help monitor your app in real-time by surfacing unexpected changes in usage or error patterns:</p><ul><li><p><b>Usage anomalies: </b>unusual patterns in your application metrics, such as edge requests or function duration.</p></li><li><p><b>Error anomalies: </b>abnormal error patterns, such as sudden spikes in 5XX responses on a specific route.</p></li></ul><p>Once an anomaly is detected, <a href=\"https://vercel.com/docs/agent/investigation\">Vercel Agent</a> can automatically investigate the issue, identify the likely root cause, analyze the impact, and suggest next steps for remediation.</p><p>View alerts directly in your dashboard, or subscribe via email, Slack, or webhooks to get notified wherever your team works. You can also customize what alerts you receive using alert rules.</p><p>This feature is available for all teams with Observability Plus at no additional cost. </p><p><a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability%2Falerts\">Try it out</a> or learn more about <a href=\"https://vercel.com/docs/alerts\">Alerts</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/anomaly-alerts-ga\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939738",
+    "scraped_at": "2026-09-19T12:25:54.939751",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Copy-to-Prompt instructions now available for Flags",
+    "link": "https://vercel.com/changelog/copy-to-prompt-instructions-now-available-for-flags",
+    "description": "<p>The feature flags details page now includes copy-to-prompt instructions in the instructions pane. </p><p>\ufeffYou or your agent can install the Flags SDK, link the project using the <a href=\"https://vercel.com/docs/cli\">Vercel CLI</a>, and add the required flag definitions to the code base.</p><p>Teams that prefer manual configuration can still copy the exact flag definitions directly from the instructions pane.</p><p>Learn more about <a href=\"https://vercel.com/docs\">Vercel Flags</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/copy-to-prompt-instructions-now-available-for-flags\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939725",
+    "scraped_at": "2026-09-19T12:25:54.939736",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Elastic Build Machines is now GA",
+    "link": "https://vercel.com/changelog/elastic-build-machines-is-now-ga",
+    "description": "<p>Elastic build machines, <a href=\"https://vercel.com/changelog/elastic-build-machines-are-available-in-beta\">released in beta</a> on March 24, are now generally available for all Pro and Enterprise customers, and are now the default for all new Pro teams.</p><p>Rather than a one-size-fits-all approach, Vercel evaluates each project individually and assigns the right machine for its actual needs balancing speed and cost. Over 400 teams and 6,000 projects have enabled Elastic as their default build machine. </p><p>During the beta, approximately 80% of projects have reduced their costs by switching to smaller build machine while maintaining their build speeds. The remaining 20% of projects have been auto upgraded to machines with more CPUs and memory improving their build speed.</p><p>Enable elastic builds in your <a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F~%2Fsettings%2Fbuild-and-deployment%23build-machines\">team settings</a> or <a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fsettings%2Fbuild-and-deployment%23build-machine\">project settings</a>, or read the <a href=\"https://vercel.com/docs/builds\">builds documentation</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/elastic-build-machines-is-now-ga\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939711",
+    "scraped_at": "2026-09-19T12:25:54.939723",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Logs filtering for Vercel Workflows now available",
+    "link": "https://vercel.com/changelog/logs-filtering-for-vercel-workflows-now-available",
+    "description": "<p>Workflow run log filtering is now supported on Vercel, making it easy to view all logs associated with a workflow run in one place instead of piecing them together across individual requests.</p><p>You can use the <b>\u201cView Logs\u201d</b> button from the workflow run details page to jump directly into the Logs tab. From there, filter logs using the <b>Workflow Run ID</b> and <b>Workflow Step ID</b> to quickly find logs for specific runs or steps.</p><p>Workflow runs on Vercel already provide run-level observability, including step progression, payloads, outputs, and performance metrics. With this addition, you can now also access all related logs directly from the familiar Vercel Logs dashboard. Learn more about the <a href=\"https://useworkflow.dev/\">Workflow SDK</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/logs-filtering-for-vercel-workflows-now-available\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939698",
+    "scraped_at": "2026-09-19T12:25:54.939710",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Reduced pricing for Turbo build machines",
+    "link": "https://vercel.com/changelog/reduced-pricing-for-turbo-build-machines",
+    "description": "<p>Vercel is reducing the price of Turbo build machines by 16%. All builds are now priced at $0.0035 per CPU per minute. With this new model:</p><ul><li><p>Turbo machines, with 30 CPUs, are now $0.105 per minute (previously $0.126)</p></li><li><p>Enhanced machines, with 8 CPUs, continue to be priced at $0.028 per minute</p></li><li><p>Standard machines, with 4 CPUs, continue to be priced at $0.014 per minute</p></li></ul><p>This change will begin rolling out on April 27, and will appear on invoices for the current billing cycle as \"Build CPU Minutes\".</p><p>Learn more about <a href=\"https://vercel.com/docs/builds/managing-builds#usage-and-limits\">build machine pricing</a> or monitor your Builds usage from <a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fusage%23builds\">Project Usage</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/reduced-pricing-for-turbo-build-machines\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939683",
+    "scraped_at": "2026-09-19T12:25:54.939696",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Seedance 2.0 Video Generation on AI Gateway",
+    "link": "https://vercel.com/changelog/seedance-2.0-video-now-available-on-ai-gateway",
+    "description": "<p>You can now access Bytedance's latest state-of-the-art video generation model, Seedance 2.0, via <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a> with no other provider accounts required.</p><p>Seedance 2.0 is available on AI Gateway in two variants: Standard and Fast. Both share the same capabilities. Standard produces the highest quality output, while Fast prioritizes generation speed and lower cost.</p><p>Seedance 2.0 is strong at maintaining motion stability and fine detail across frames, producing consistent output even in complex scenes with facial expressions and physical interactions. The model also generates synchronized audio natively, with support for speech in multiple languages and dialects.</p><p>Beyond text-to-video and image-to-video, Seedance 2.0 adds multimodal reference-to-video, letting you combine image, video, and audio inputs as reference material in a single generation. It also supports video editing and video extension, along with professional camera movements, multi-shot composition, and in-video text rendering.</p><p>To use this model, set model to <code>bytedance/seedance-2.0</code> or <code>bytedance/seedance-2.0-fast</code> in the <a href=\"https://ai-sdk.dev\">AI SDK</a> or try it out in the <a href=\"https://vercel.com/ai-gateway/models/seedance-2.0\">AI Gateway Playground</a>.</p><p><b>Text to Video</b></p><p>Generate video from a text prompt. Describe the scene, camera movement, and audio for the model to produce.</p><div></div><p><b>Image to Video</b></p><p>Generate video from a starting image. The model animates the image based on the text prompt while preserving the visual content of the source frame.</p><div></div><p><b>Reference to Video</b></p><p>Generate video using image, video, or audio references as source material. You can combine multiple reference types in a single generation to control visual style, motion, and sound.</p><div></div><p>AI Gateway does not charge any markup on video generation: Seedance 2.0 and 2.0 Fast are at the same price as going direct to the Bytedance provider.</p><p>Learn more about <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a>, view the <a href=\"https://vercel.com/ai-gateway/leaderboards\">AI Gateway model leaderboard</a> or try it in our <a href=\"https://vercel.com/ai-gateway/models/seedance-2.0\">model playground</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/seedance-2.0-video-now-available-on-ai-gateway\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939667",
+    "scraped_at": "2026-09-19T12:25:54.939681",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "A new programming model for durable execution",
+    "link": "https://vercel.com/blog/a-new-programming-model-for-durable-execution",
+    "description": "<p>The gap between prototypes and production-ready systems is huge. Code that's trivial to run locally falls apart the moment it needs to handle failures, restarts, and real traffic.</p><p>Framework defined infrastructure solved this for web applications. When you deploy, Vercel infers the right configuration from the app itself. Workflows extends that model to long-running systems. Instead of managing a separate codebase for orchestration, durable workflows are an extension of your application code.</p><p>Since launching in beta in October 2025, Workflows has processed over 100 million runs and over 500 million steps across more than 1,500 customers, with more than 200K npm downloads every week. </p><p>Today, <a href=\"https://vercel.com/workflows\">Vercel Workflows</a> is generally available. </p><div></div><h3><b>Built for agents, backends, and long-running workloads</b></h3><p>Workflows is built for any workload that doesn\u2019t fit in a single request. </p><p><b>Agents</b>: Deep integration with the AI SDK enables <a href=\"https://useworkflow.dev/docs/ai\">infinitely long running durable agents</a> that can maintain state, tools, and handle external events or interruptions. AI SDK v7 is taking this further with <a href=\"https://ai-sdk.dev/v7/docs/agents/workflow-agent#workflowagent\">WorkflowAgent.</a></p><p><b>Backends</b>: <a href=\"https://workflow-sdk.dev/docs/getting-started\">Workflow SDK</a> proved this programming model in TypeScript codebases, and we're bringing it to a new language. The <a href=\"https://workflow-sdk.dev/docs/getting-started/python\">Workflow Python SDK</a> is now in beta. </p><p><b>Long-running workloads</b>: Workflows can be used for any function that needs to execute reliably, including multi-step onboarding flows, payment processing, ETL pipelines, or any backend work that would otherwise require you to wire up your own queues and retry logic. </p><h2><b>How it works</b></h2><p>Shipping a reliable long-running process to production typically means splitting your code across queues, workers, status tables, retry logic, and monitoring. Dedicated orchestration services add yet another layer with long-lived background processes you run in Kubernetes, scale horizontally, and dedicate engineering time to keep healthy. They are distributed systems you pay for on top of your core application compute. </p><p>Workflows eliminates the orchestrator entirely. All coordination runs in your application code, not a separate service. The infrastructure is built on three components: </p><ul><li><p><b></b><a href=\"https://useworkflow.dev/docs/how-it-works/event-sourcing\"><b>Event log</b>:</a> records every step input, output, stream chunk, sleep, hook, and error in a run. It is the single source of truth for execution state and history.</p></li><li><p><b>Your functions on </b><a href=\"https://vercel.com/docs/fluid-compute\"><b>Fluid compute</b></a>: each step runs as its own function invocation on Fluid compute. The workflow library inside each function handles dequeueing, state loading, encryption, execution, and handoff to the next step.</p></li><li><p><a href=\"https://vercel.com/docs/queues\"><b>Vercel Queues</b></a>: each function enqueues the next step automatically. Queues run automatically on Vercel, in your own Postgres, or in-memory locally.</p></li></ul><p>Because there is no separate orchestration service, you only pay for the compute your steps actually use when functions are running. </p><h3><b>The programming model: your code is the orchestrator</b></h3><p>Workflows lets you write long-running functions in TypeScript or Python using normal control flow and a small API surface.</p><p>In TypeScript you <a href=\"https://useworkflow.dev/docs/foundations/workflows-and-steps\">create a workflow</a> with <code>\"use workflow\"</code>, and isolate units of work with <code>\"use step\"</code>. Workflows handles everything underneath: queues, retries, step isolation, observability, durable state, and streaming.</p><div></div><p>At first glance, this looks like one function calling another, and that is exactly the point. Each step gets isolation, retries, persistence, observability, and durable continuation automatically. The orchestration lives in the application code, not in a separate system.</p><p>A Next.js app with the Workflow SDK installed runs the same way locally as it does in production at scale, with the same code, real guarantees, and no separate orchestration tooling to configure. </p><h3><b>Vercel Workflows in action: Guillermo's infinite chess game</b></h3><p>One of the best examples from beta testing is <a href=\"https://v0-chess-match.vercel.app/\">Guillermo's infinite chess game</a>. It continuously pits models against each other, feeding them the current board state, validating moves, rendering the game, and running matches indefinitely, turn after turn.</p><div></div><p>Each chess match is a workflow run, and when a game ends, the <a href=\"https://useworkflow.dev/docs/foundations/common-patterns#background-execution-via-step\">last step starts a new run</a>. Infinity is modeled as recursion across runs.</p><p>Because every workflow run is pegged to a specific deployment, one game can safely finish on the version it started with while the next game begins on the latest deployment. That creates a clean upgrade boundary where each game remains stable within its version, and every new game picks up the latest improvements.</p><p>If the backend code powering the chess match crashes or encounters transient errors, the workflow run automatically retries it without causing the application to fail. </p><h2><b>Why Workflows matters for agents</b></h2><p>Workflows is purpose-built for the agentic era. It is the only security-first, durable SDK made for building agents and made for agents to build with.</p><h3><b>Secure by default</b></h3><p>By default, Vercel Workflows <a href=\"https://useworkflow.dev/docs/how-it-works/encryption\">encrypts all data</a>, including step inputs, outputs, and stream chunks, before they leave your deployment. Nothing is readable in transit or at rest outside your environment, and decryption only happens inside the deployment running the workflow. </p><p>Encryption is built in and free, not a security add-on you configure after the fact. This is possible because Workflows owns both orchestration and execution in the same environment, so encryption can happen automatically without a separate service or any extra infrastructure on your end.</p><p>When you need to inspect encrypted data through the dashboard or <code>workflow</code> CLI, explicit decryption is supported with a full <a href=\"https://vercel.com/docs/audit-log\">audit trail</a>. </p><h3><b>For building agents</b></h3><p>Agents need more than longer timeouts, they need durable execution, reliable orchestration, resumable streams, and enough headroom to move large payloads through long-running systems.</p><p><b>Durable agents</b></p><p>Workflow SDK and AI SDK share a <a href=\"https://workflow-sdk.dev/docs/ai\">deep integration</a> that gives agents durable execution, tool calling, state management, and the ability to handle external events or interruptions gracefully. Tools can be implemented as workflow steps for automatic retries or as regular workflow-level logic that uses primitives like <code>sleep</code> and hooks to suspend and resume cleanly. Agents process tool calls iteratively until completion, surviving restarts and failures along the way. </p><p>AI SDK v7 takes this further with <a href=\"https://ai-sdk.dev/v7/docs/agents/workflow-agent#workflowagent\"><code>WorkflowAgent</code></a>, a fully native implementation.</p><p><b>Durable streams</b></p><p><a href=\"https://useworkflow.dev/docs/foundations/streaming\">Durable streams</a> persist agent output. <code>getWritable()</code> gives you a persistent stream that multiple clients can connect to, disconnect from, reconnect to later, and resume from any point. The workflow keeps running even if the user closes the browser. When they come back, the client reconnects and continues exactly where the stream left off, no Redis or custom pub/sub required.</p><p>In this example, a flight booking agent streams itinerary updates as it plans a trip and searches for flights:</p><div></div><p>The API route starts the workflow and returns the durable stream to the client. The run ID in the response header is what enables reconnection:</p><div></div><p>If the user closes the browser mid-search, the workflow keeps running. When they re-connect, or share the link with a different user who opens the session, <code>WorkflowChatTransport</code> resumes the stream from the last event the client received. </p><div></div><p><b>Hooks and sleep</b></p><p>Workflows can suspend without incurring any compute.  </p><p><a href=\"https://workflow-sdk.dev/docs/foundations/hooks\">Hooks</a><b> </b>let a workflow wait for an external trigger to resume. Hooks are useful for building <a href=\"https://useworkflow.dev/docs/ai/human-in-the-loop\">human-in-the-loop approval flows</a> and integrating with third-party services. </p><p><a href=\"https://workflow-sdk.dev/docs/ai/sleep-and-delays#adding-a-sleep-tool\">Sleep</a> lets a workflow suspend for any specified amount of time, from minutes to days or months. Sleep is useful for email drip campaigns and date-sensitive use cases. </p><p><b>Limits built for multimodal agents</b></p><p>Workflows <a href=\"https://vercel.com/docs/workflow/pricing#workflow-run-limits\">supports</a> 50 MB per step payload and up to 2 GB across an entire run, with generous event limits. That's plenty of headroom for agents passing images, video, and large context across long execution chains. </p><h2><b>For agents to build with</b></h2><p>Workflows is not just great for building agents. It is also designed for coding agents to use directly.</p><p><b>The programming model is agent-friendly</b></p><p>Workflows code is ordinary TypeScript. A workflow is a function, a step is a function, and because orchestration lives in the application code itself, a coding agent only has to reason about one system. There is no separate orchestration layer to configure and no worker fleet to manage. </p><p><b>Full observability from the CLI</b></p><p>Workflow SDK ships with a <a href=\"https://useworkflow.dev/docs/observability\">CLI</a> that any agent can use for inspecting and debugging your workflow runs. If a human can inspect runs in the dashboard, an agent can inspect the same workflow state from the terminal.</p><div></div><p>This works locally with no config. For production deployments on Vercel, the CLI reuses your <code>vercel</code> CLI authentication with <code>--backend vercel</code> to make authenticated requests against the Vercel API. Agents can investigate state, inspect runs, and debug behavior without leaving the terminal. </p><div></div><p><b>Workflows ships with a skill</b></p><p>Agents can install the <a href=\"https://skills.sh/vercel/workflow/workflow\">Workflows skill</a> directly and use it to scaffold, debug, and manage workflows without hand-written product knowledge.</p><div></div><h2><b>Run Workflows anywhere</b></h2><p>Workflow SDK <a href=\"https://github.com/vercel/workflow\">is open source</a> and part of the same family as AI SDK and Chat SDK. The <code>workflow</code> npm package goes stable at GA with 200K+ weekly downloads and 75+ releases shipped during beta.</p><p><a href=\"https://useworkflow.dev/worlds\">Worlds</a> are the adapter system that makes Workflows portable. Each World provides the three components a workflow needs (an event log, compute, and a queue), backed by different infrastructure.</p><p><b>Managed</b>: Vercel handles everything automatically. Deploy your app and Vercel Workflows runs on Fluid compute with Vercel Queues, zero-config E2E encryption, and built-in observability.</p><p><b>Self-hosted</b>: Run Workflows on your own infrastructure. We maintain a Postgres reference implementation that real customers run in production, and the Local World ships built in for development.</p><p><b>Embedded</b>: The SDK is not locked to one runtime, and the community is already building more Worlds, including adapters for MongoDB, Redis, Turso, Jazz Cloud, and Cloudflare. We'll continue to support anyone who wants to build Worlds.</p><h2><b>How Vercel customers use Workflows</b></h2><h3><b>Mux powers durable video and AI pipelines</b></h3><p>Mux built their media intelligence layer <a href=\"https://vercel.com/blog/how-mux-shipped-durable-video-workflows-with-their-mux-ai-sdk\">on Workflows</a>, handling execution, retries, and orchestration for AI inference across complex video pipelines. They also shipped <code>\"use workflow\"</code> and <code>\"use step\"</code> directives inside their own <code>@mux/ai</code> SDK, so any developer can <code>npm install @mux/ai</code> and get a durable, multi-step pipeline as a normal imported function.</p><div></div><h3><b>Durable runs hundreds of AI agents for 3 million small businesses</b></h3><p>Durable's most critical path is website creation: dozens of parallel AI steps orchestrated by Vercel Workflows to deliver a complete site in under 30 seconds. Their small dev team ripped out their self-hosted infrastructure entirely and <a href=\"https://vercel.com/blog/360-billion-tokens-3-million-customers-6-engineers\">rewrote on Workflows</a> with 160+ directives across 75 files. </p><div></div><h3><b>Flora orchestrates creative AI agents across 50+ image models</b></h3><p>Flora runs their entire media generation pipeline <a href=\"https://vercel.com/blog/how-flora-shipped-a-creative-agent-on-vercels-ai-stack\">on Vercel Workflows</a>, orchestrating 50+ image models with no queues, no state machines, and no separate service. They use rollbacks for credit refunds, recursive workflows for user-defined multi-step pipelines, and <code>getWritable</code> for progress streaming. Their customers kick off jobs, close their laptop, and come back to completed results.</p><div></div><h2><b>What's next: Workflows 5 and Python support</b></h2><h3>Workflows 5</h3><p>Workflows 4 focused on getting the developer experience and SDK model right. Workflows 5 keeps the same programming model while pushing harder on performance and runtime efficiency. Here\u2019s what we\u2019re cooking: </p><ul><li><p>Native concurrency controls, including a lock primitive for coordinating work across multiple runs</p></li><li><p>Globally deployed Workflows infrastructure</p></li><li><p>A snapshot-based runtime to reduce replay overhead as event histories grow</p></li><li><p>Better bundling and stronger Next.js integration</p></li></ul><p>Our goal is to make the overhead of opting into Workflows smaller and smaller until it is the obvious default for any project. Install <code>workflow@beta</code> to try Workflows 5 early (and <a href=\"https://github.com/vercel/workflow/discussions/1650\">share feedback</a> on GitHub).</p><h3>Python support</h3><p>The <a href=\"https://workflow-sdk.dev/docs/getting-started/python\">Python SDK</a> is now in beta, making Workflows available across the broader AI and backend ecosystem. Here's a quick taste of how the opening example in this post looks in Python:</p><div></div><h2><b>Get started</b></h2><p>Durability, reliability, observability, security, and streaming should be part of your product from the beginning, not chores you take on months later.</p><p>When you use Workflows, we take on the complexity so you can focus on what makes your app unique. Learn more about <a href=\"https://vercel.com/workflows\">Vercel Workflows</a> or <a href=\"https://workflow-sdk.dev/docs/getting-started\">visit the Workflow SDK docs</a> to get started. </p><p><b>Vercel Workflows is generally available on April 16.</b></p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/blog/a-new-programming-model-for-durable-execution\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939624",
+    "scraped_at": "2026-09-19T12:25:54.939664",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Claude Opus 4.7 on AI Gateway",
+    "link": "https://vercel.com/changelog/opus-4.7-on-ai-gateway",
+    "description": "<p>Claude Opus 4.7 from Anthropic is now available on <a href=\"https://vercel.com/ai-gateway\">Vercel AI Gateway</a>.</p><p>Opus 4.7 is optimized for long-running, asynchronous agents and handles complex, multi-step tasks with reliable agentic execution. The model shows gains on knowledge-worker tasks, particularly where it needs to visually verify its own outputs.</p><p>Opus 4.7 is also stronger at programmatic tool-calling with image-processing libraries to analyze charts and figures, including pixel-level data transcription. It has high-resolution image support, which is useful for computer use, screenshot understanding, and document analysis workflows. Opus 4.7 now has improved memory, with agents that maintain structured memory store across turns seeing more reliable recall and fewer dropped facts without additional prompting.</p><p>To use Claude Opus 4.7 set model to <code>anthropic/claude-opus-4.7</code> in the <a href=\"https://ai-sdk.dev/\">AI SDK</a>. You can also try a new effort level: <code>'xhigh'.</code></p><div></div><p>Opus 4.7 also introduces the task budgets feature. Task budgets let you set a total token budget for an agentic turn via <code>taskBudget</code>. The model sees a countdown of remaining tokens, which it uses to prioritize work, plan ahead, and wind down gracefully as the budget is consumed. Thinking content is also now omitted by default for Opus 4.7. To receive thinking content, set <code>display</code> to <code>'summarized'</code>:</p><div></div><p>AI Gateway provides a unified API for calling models, tracking usage and cost, and configuring retries, failover, and performance optimizations for higher-than-provider uptime. It includes built-in <a href=\"https://vercel.com/docs/ai-gateway/capabilities/custom-reporting\">custom reporting</a>, <a href=\"https://vercel.com/docs/observability/ai-sdk-observability\">observability</a>, <a href=\"https://vercel.com/docs/ai-gateway#bring-your-own-key\">Bring Your Own Key</a> support, and intelligent provider routing with automatic retries.</p><p>Learn more about <a href=\"https://vercel.com/docs/ai-gateway\">AI Gateway</a>, view the <a href=\"https://vercel.com/ai-gateway/leaderboards\">AI Gateway model leaderboard</a> or try the model in our <a href=\"https://vercel.com/ai-gateway/models/claude-opus-4.7\">model playground</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/opus-4.7-on-ai-gateway\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939607",
+    "scraped_at": "2026-09-19T12:25:54.939622",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "Vercel Flags is now generally available",
+    "link": "https://vercel.com/changelog/vercel-flags-ga",
+    "description": "<p><a href=\"https://vercel.com/docs/flags/vercel-flags\">Vercel Flags</a> is now generally available. </p><p>Vercel Flags is a feature flag provider built into the Vercel platform. Create and manage feature flags with targeting rules, user segments, and environment controls directly in the Vercel Dashboard.</p><p>The <a href=\"https://vercel.com/docs/flags/flags-sdk-reference\">Flags SDK</a> provides a framework-native way to define and use these flags within Next.js and SvelteKit applications, integrating directly with your existing codebase:</p><div></div><p>Once you define a flag, you can use them within your application in a few lines of code:</p><div></div><p>For teams using other frameworks or custom backends, the Vercel Flags adapter supports the <a href=\"https://vercel.com/docs/flags/vercel-flags/sdks/openfeature\">OpenFeature</a> standard, allowing you to plug Vercel Flags into their provider agnostic SDK.</p><p><a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fflags%2Factive\">Try it out</a> or learn more about <a href=\"https://vercel.com/docs/flags/vercel-flags\">Vercel Flags</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/changelog/vercel-flags-ga\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939576",
+    "scraped_at": "2026-09-19T12:25:54.939604",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
+    "title": "How Zo Computer improved AI reliability 20x on Vercel",
+    "link": "https://vercel.com/blog/how-zo-computer-improved-ai-reliability-20x-on-vercel",
+    "description": "<h3>Zo Computer on Vercel</h3><ul><li><p>20x reduction in retry rate (7.5% \u2192 0.34%)</p></li><li><p>99.93% chat success rate (up from 98%)</p></li><li><p>P99 latency cut 38% (131s \u2192 81s)</p></li><li><p>New models added in less than 1 minute</p></li></ul><hr /><p>Every company has servers that store data, run services, and do work around the clock. Consumers just have apps. Rob Cheung, co-founder of Zo Computer, is closing that gap. Zo is a personal AI cloud: your own servers and data that power an always-on agent.</p><p>\"Cloud is one of the best computing models of all time, and consumers have zero direct access because it's so complicated,\" explained Rob Cheung, co-founder and CEO of Zo. \"Now, with AI, it's finally possible for all of us to have cloud computers.\" </p><div></div><p>Zo is a full computing environment, not just a chatbot. Rob laughs about his mom running servers and databases without knowing it. People use Zo to manage small businesses, do research, organize finances, and track health data.</p><p>The 8-person company is two and a half years old and they have an ambitious goal: to onboard one million new users to personal cloud computing in 2026. That means millions of AI model calls every day, and when Zo users text their agent like a friend, they expect the same responsiveness.</p><div></div><h3>Death by a thousand adapters</h3><p>Zo gives users access to any model they want, and supports bring-your-own-key. That means their backend has to talk to every major provider: OpenAI, Anthropic, MiniMax, GLM, Fireworks, and more.</p><p>Before they moved to Vercel, that meant custom adapter code for each model. Every provider required different handling for images, different key management, and different edge cases. On top of the code complexity, Zo's team was managing retries, provider routing, and fallback logic themselves.</p><p>Every time a provider shipped a new model, an engineer had to write a new adapter, test the edge cases, and run the deployment pipeline. With new models released weekly, it was a constant drag on a small team building a consumer product, and their users felt it.</p><p>Zo's baseline for AI model calls was a 98% success rate with a 7.5% retry rate. That means 1 in 50 messages failed or retried, adding up to tens of thousands of model fallbacks every day.</p><div></div><h3>AI SDK + AI Gateway: two layers, one integration</h3><p>Zo moved to Vercel's AI SDK and AI Gateway, which solved two distinct problems.</p><p>AI SDK replaced the custom adapter code. Instead of per-provider implementations with bespoke edge case handling, Zo's engineers got a unified interface for every model, from image support to response format normalization.</p><p>AI Gateway replaced the infrastructure-level complexity. Retries, fallback routing, provider health monitoring, and uptime were all handled at the routing layer in Vercel instead of in Zo's codebase. </p><div></div><p>Rob's co-founder built APIs at Stripe, where developer experience was the product. He describes the combined effect of AI SDK and AI Gateway the same way: everything just works, and the pieces you don't see matter most. </p><div></div><p>New model support went from an hour-long, multi-file code change to adding a config string in 30 seconds. The day MiniMax shipped M2.7, Zo had it live for users immediately. No adapter code, no edge case testing, no deploy cycle.</p><p>For an 8-person team focusing on onboarding their first million users to personal cloud computing, cutting out interruptions for model support has been a huge relief.</p><h3>20x improvement in reliability</h3><p>During the rollout, Zo ran Vercel and non-Vercel routes simultaneously, creating a live A/B comparison under identical production conditions.</p><p>The results:</p><table><tr><th><p><b>Period</b></p></th><th><p><b>Route</b></p></th><th><p><b>POST error</b></p></th><th><p><b>Chat success</b></p></th><th><p><b>Retry rate</b></p></th><th><p><b>Avg attempts</b></p></th></tr><tr><td><p>Before switch</p></td><td><p>Non-Vercel</p></td><td><p>4.59%</p></td><td><p>99.73%</p></td><td><p>7.52%</p></td><td><p>1.12</p></td></tr><tr><td><p>After switch</p></td><td><p>Non-Vercel</p></td><td><p>10.38%</p></td><td><p>97.86%</p></td><td><p>17.07%</p></td><td><p>1.29</p></td></tr><tr><td><p>After switch</p></td><td><p>Vercel</p></td><td><p>0.45%</p></td><td><p>99.93%</p></td><td><p>0.34%</p></td><td><p>1.00</p></td></tr></table><p>The non-Vercel route actually degraded during the same period that Vercel held steady. Retry rate dropped from 7.5% to 0.34%, a 20x improvement. Average attempts per chat hit 1.00, meaning virtually every request succeeded on the first try.</p><p>On MiniMax M2.5, Zo's most-used model, the latency improvement was significant. In an apples-to-apples comparison over the same window, Vercel handled 18,139 chats versus 21,105 on non-Vercel and still performed better across the board:</p><ul><li><p>Average latency improved 25.7%</p></li><li><p>P95: 46s \u2192 34s (25% improvement)</p></li><li><p>P99: 131s \u2192 81s (38% improvement)</p></li></ul><p>For Zo's users, the P99 number matters most because they text their agents constantly throughout the day. A 131-second worst-case wait breaks that experience completely, but now 99% of requests complete in under 81 seconds.</p><div></div><p>By the end of the test, 91.88% of Zo's traffic routed through Vercel, handling 3.3x larger context windows (42,500 average input tokens vs. 12,700) at a lower error rate than the non-Vercel path.</p><h3>Scaling to a million personal cloud owners</h3><p>Vercel handles Zo's AI layer through AI SDK and AI Gateway and hosts their public-facing marketing site. With reliable AI infrastructure and no adapter code to maintain, the team can focus on the product instead of the plumbing.</p><p>With the pace of model developments in AI, Rob used to worry about the work required to keep up. \u201cNow I don\u2019t worry about it,\u201d he said, \u201cbecause with Vercel, the infrastructure just works.\u201d</p><div></div><hr /><p>Zo Computer is a personal AI cloud platform that gives every user their own cloud computer, housing data, services, and a personal agent. Users interact through a conversational interfaces like iMessage, or log in and use the environment directly. Founded two and a half years ago, Zo is an 8-person team based in New York City. Learn more at <a href=\"http://zo.computer\">zo.computer</a>.</p>\n          <p class=\"more\">\n            <a href=\"https://vercel.com/blog/how-zo-computer-improved-ai-reliability-20x-on-vercel\">Read more</a>\n          </p>",
+    "image": "",
+    "datetimestamp": "2026-09-19T12:25:54.939403",
+    "scraped_at": "2026-09-19T12:25:54.939572",
+    "source": "Vercel Blog",
+    "category": "Dev Tools"
+  },
+  {
     "title": "\u200b\u200bOpen sessions: jam with anyone, anywhere",
     "link": "https://www.figma.com/blog/introducing-open-sessions/",
     "description": "Introducing Open sessions, a way for collaborators to join meetings and workshops without having to create an account.",
