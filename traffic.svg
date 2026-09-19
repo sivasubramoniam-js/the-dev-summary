@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="100%" height="100%">
+    <defs>
+        <linearGradient id="viewGradient" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.35" />
+            <stop offset="100%" stop-color="#58a6ff" stop-opacity="0.0" />
+        </linearGradient>
+        <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+            <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.6" />
+        </filter>
+    </defs>
+    <style>
+        .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 8; }
+        .header-title { fill: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 700; }
+        .header-sub { fill: #8b949e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; }
+        .grid-line { stroke: #21262d; stroke-dasharray: 4,4; stroke-width: 1; }
+        .axis-text { fill: #8b949e; font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; font-size: 11px; }
+        
+        .line-views { fill: none; stroke: #58a6ff; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+        .area-views { fill: url(#viewGradient); }
+        
+        .bar-clones { fill: #238636; transition: fill 0.2s; opacity: 0.85; }
+        .dot-views { fill: #58a6ff; stroke: #0d1117; stroke-width: 2; transition: r 0.2s, fill 0.2s; }
+        
+        .data-group { cursor: pointer; }
+        .data-group .hitbox { fill: transparent; }
+        .data-group .guideline { stroke: #58a6ff; stroke-width: 1; stroke-dasharray: 3,3; opacity: 0; transition: opacity 0.2s; }
+        
+        .tooltip { opacity: 0; pointer-events: none; transition: opacity 0.15s ease-in-out; filter: url(#shadow); }
+        .tt-bg { fill: #161b22; stroke: #30363d; stroke-width: 1; }
+        .tt-title { fill: #f0f6fc; font-family: ui-monospace, SFMono-Regular, monospace; font-size: 11px; font-weight: 700; }
+        .tt-views { fill: #58a6ff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; }
+        .tt-clones { fill: #3fb950; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; }
+        .tt-val { font-weight: 700; fill: #ffffff; }
+        
+        .data-group:hover .guideline { opacity: 0.7; }
+        .data-group:hover .dot-views { r: 6.5; fill: #79c0ff; }
+        .data-group:hover .bar-clones { fill: #3fb950; opacity: 1; }
+        .data-group:hover .tooltip { opacity: 1; }
+        
+        .legend-text { fill: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; }
+    </style>
+
+    <!-- Background Card -->
+    <rect class="bg" width="900" height="400" />
+
+    <!-- Header & Live Totals -->
+    <text class="header-title" x="65" y="36">📊 Repository Traffic Insights (Last 10 Days)</text>
+    <text class="header-sub" x="65" y="56">Hover over any day for details • Total Views: 692 • Total Clones: 116</text>
+
+    <!-- Legends -->
+    <circle cx="675" cy="34" r="5" fill="#58a6ff" />
+    <text class="legend-text" x="687" y="38">Views</text>
+    
+    <rect x="765" y="29" width="10" height="10" rx="2" fill="#238636" />
+    <text class="legend-text" x="781" y="38">Clones</text>
+
+    <!-- Grid lines -->
+    <line class="grid-line" x1="65" y1="345.0" x2="855" y2="345.0" /><line class="grid-line" x1="65" y1="279.9" x2="855" y2="279.9" /><line class="grid-line" x1="65" y1="213.3" x2="855" y2="213.3" /><line class="grid-line" x1="65" y1="146.6" x2="855" y2="146.6" /><line class="grid-line" x1="65" y1="80.0" x2="855" y2="80.0" />
+
+    <!-- Axis Labels -->
+    <text class="axis-text" x="53" y="349.0" text-anchor="end">0</text><text class="axis-text" x="53" y="283.9" text-anchor="end">43</text><text class="axis-text" x="53" y="217.3" text-anchor="end">87</text><text class="axis-text" x="53" y="150.6" text-anchor="end">131</text><text class="axis-text" x="53" y="84.0" text-anchor="end">175</text>
+    <text class="axis-text" x="65.0" y="367" text-anchor="middle">09-10</text><text class="axis-text" x="152.8" y="367" text-anchor="middle">09-11</text><text class="axis-text" x="240.6" y="367" text-anchor="middle">09-12</text><text class="axis-text" x="328.3" y="367" text-anchor="middle">09-13</text><text class="axis-text" x="416.1" y="367" text-anchor="middle">09-14</text><text class="axis-text" x="503.9" y="367" text-anchor="middle">09-15</text><text class="axis-text" x="591.7" y="367" text-anchor="middle">09-16</text><text class="axis-text" x="679.4" y="367" text-anchor="middle">09-17</text><text class="axis-text" x="767.2" y="367" text-anchor="middle">09-18</text><text class="axis-text" x="855.0" y="367" text-anchor="middle">09-19</text>
+
+    <!-- Views Area & Line -->
+    <path class="area-views" d="M 65.0 317.7 L 152.8 305.6 L 240.6 323.8 L 328.3 281.4 L 416.1 246.6 L 503.9 211.7 L 591.7 263.2 L 679.4 175.4 L 767.2 125.4 L 855.0 151.2 L 855.0 345 L 65.0 345 Z" />
+    <path class="line-views" d="M 65.0 317.7 L 152.8 305.6 L 240.6 323.8 L 328.3 281.4 L 416.1 246.6 L 503.9 211.7 L 591.7 263.2 L 679.4 175.4 L 767.2 125.4 L 855.0 151.2" />
+
+    <!-- Interactive Data Points & Tooltips -->
+    
+        <g class="data-group">
+            <rect class="hitbox" x="21.1" y="80" width="87.8" height="265" />
+            <line class="guideline" x1="65.0" y1="80" x2="65.0" y2="345" />
+            <rect class="bar-clones" x="59.0" y="340.5" width="12" height="4.5" rx="3" />
+            <circle class="dot-views" cx="65.0" cy="317.7" r="4.5" />
+            <g class="tooltip" transform="translate(15.0, 237.7)">
+                <rect class="tt-bg" width="150" height="68" rx="6" />
+                <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-10</text>
+                <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">18</tspan> (11 uniq)</text>
+                <text class="tt-clones" x="14" y="55">■ Clones: <tspan class="tt-val">3</tspan> (2 uniq)</text>
+            </g>
+        </g>
+        
+        <g class="data-group">
+            <rect class="hitbox" x="108.9" y="80" width="87.8" height="265" />
+            <line class="guideline" x1="152.8" y1="80" x2="152.8" y2="345" />
+            <rect class="bar-clones" x="146.8" y="337.4" width="12" height="7.6" rx="3" />
+            <circle class="dot-views" cx="152.8" cy="305.6" r="4.5" />
+            <g class="tooltip" transform="translate(77.8, 225.6)">
+                <rect class="tt-bg" width="150" height="68" rx="6" />
+                <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-11</text>
+                <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">26</tspan> (15 uniq)</text>
+                <text class="tt-clones" x="14" y="55">■ Clones: <tspan class="tt-val">5</tspan> (3 uniq)</text>
+            </g>
+        </g>
+        
+        <g class="data-group">
+            <rect class="hitbox" x="196.7" y="80" width="87.8" height="265" />
+            <line class="guideline" x1="240.6" y1="80" x2="240.6" y2="345" />
+            <rect class="bar-clones" x="234.6" y="342.0" width="12" height="3.0" rx="3" />
+            <circle class="dot-views" cx="240.6" cy="323.8" r="4.5" />
+            <g class="tooltip" transform="translate(165.6, 243.8)">
+                <rect class="tt-bg" width="150" height="68" rx="6" />
+                <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-12</text>
+                <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">14</tspan> (8 uniq)</text>
+                <text class="tt-clones" x="14" y="55">■ Clones: <tspan class="tt-val">2</tspan> (1 uniq)</text>
+            </g>
+        </g>
+        
+        <g class="data-group">
+            <rect class="hitbox" x="284.4" y="80" width="87.8" height="265" />
+            <line class="guideline" x1="328.3" y1="80" x2="328.3" y2="345" />
+            <rect class="bar-clones" x="322.3" y="332.9" width="12" height="12.1" rx="3" />
+            <circle class="dot-views" cx="328.3" cy="281.4" r="4.5" />
+            <g class="tooltip" transform="translate(253.3, 201.4)">
+                <rect class="tt-bg" width="150" height="68" rx="6" />
+                <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-13</text>
+                <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">42</tspan> (24 uniq)</text>
+                <text class="tt-clones" x="14" y="55">■ Clones: <tspan class="tt-val">8</tspan> (5 uniq)</text>
+            </g>
+        </g>
+        
+        <g class="data-group">
+            <rect class="hitbox" x="372.2" y="80" width="87.8" height="265" />
+            <line class="guideline" x1="416.1" y1="80" x2="416.1" y2="345" />
+            <rect class="bar-clones" x="410.1" y="326.8" width="12" height="18.2" rx="3" />
+            <circle class="dot-views" cx="416.1" cy="246.6" r="4.5" />
+            <g class="tooltip" transform="translate(341.1, 166.6)">
+                <rect class="tt-bg" width="150" height="68" rx="6" />
+                <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-14</text>
+                <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">65</tspan> (38 uniq)</text>
+                <text class="tt-clones" x="14" y="55">■ Clones: <tspan class="tt-val">12</tspan> (7 uniq)</text>
+            </g>
+        </g>
+        
+        <g class="data-group">
+            <rect class="hitbox" x="460.0" y="80" width="87.8" height="265" />
+            <line class="guideline" x1="503.9" y1="80" x2="503.9" y2="345" />
+            <rect class="bar-clones" x="497.9" y="322.3" width="12" height="22.7" rx="3" />
+            <circle class="dot-views" cx="503.9" cy="211.7" r="4.5" />
+            <g class="tooltip" transform="translate(428.9, 131.7)">
+                <rect class="tt-bg" width="150" height="68" rx="6" />
+                <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-15</text>
+                <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">88</tspan> (49 uniq)</text>
+                <text class="tt-clones" x="14" y="55">■ Clones: <tspan class="tt-val">15</tspan> (9 uniq)</text>
+            </g>
+        </g>
+        
+        <g class="data-group">
+            <rect class="hitbox" x="547.8" y="80" width="87.8" height="265" />
+            <line class="guideline" x1="591.7" y1="80" x2="591.7" y2="345" />
+            <rect class="bar-clones" x="585.7" y="331.4" width="12" height="13.6" rx="3" />
+            <circle class="dot-views" cx="591.7" cy="263.2" r="4.5" />
+            <g class="tooltip" transform="translate(516.7, 183.2)">
+                <rect class="tt-bg" width="150" height="68" rx="6" />
+                <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-16</text>
+                <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">54</tspan> (31 uniq)</text>
+                <text class="tt-clones" x="14" y="55">■ Clones: <tspan class="tt-val">9</tspan> (4 uniq)</text>
+            </g>
+        </g>
+        
+        <g class="data-group">
+            <rect class="hitbox" x="635.6" y="80" width="87.8" height="265" />
+            <line class="guideline" x1="679.4" y1="80" x2="679.4" y2="345" />
+            <rect class="bar-clones" x="673.4" y="317.7" width="12" height="27.3" rx="3" />
+            <circle class="dot-views" cx="679.4" cy="175.4" r="4.5" />
+            <g class="tooltip" transform="translate(604.4, 95.4)">
+                <rect class="tt-bg" width="150" height="68" rx="6" />
+                <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-17</text>
+                <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">112</tspan> (62 uniq)</text>
+                <text class="tt-clones" x="14" y="55">■ Clones: <tspan class="tt-val">18</tspan> (11 uniq)</text>
+            </g>
+        </g>
+        
+        <g class="data-group">
+            <rect class="hitbox" x="723.3" y="80" width="87.8" height="265" />
+            <line class="guideline" x1="767.2" y1="80" x2="767.2" y2="345" />
+            <rect class="bar-clones" x="761.2" y="308.7" width="12" height="36.3" rx="3" />
+            <circle class="dot-views" cx="767.2" cy="125.4" r="4.5" />
+            <g class="tooltip" transform="translate(692.2, 143.4)">
+                <rect class="tt-bg" width="150" height="68" rx="6" />
+                <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-18</text>
+                <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">145</tspan> (80 uniq)</text>
+                <text class="tt-clones" x="14" y="55">■ Clones: <tspan class="tt-val">24</tspan> (14 uniq)</text>
+            </g>
+        </g>
+        
+        <g class="data-group">
+            <rect class="hitbox" x="811.1" y="80" width="87.8" height="265" />
+            <line class="guideline" x1="855.0" y1="80" x2="855.0" y2="345" />
+            <rect class="bar-clones" x="849.0" y="314.7" width="12" height="30.3" rx="3" />
+            <circle class="dot-views" cx="855.0" cy="151.2" r="4.5" />
+            <g class="tooltip" transform="translate(735.0, 71.2)">
+                <rect class="tt-bg" width="150" height="68" rx="6" />
+                <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-19</text>
+                <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">128</tspan> (74 uniq)</text>
+                <text class="tt-clones" x="14" y="55">■ Clones: <tspan class="tt-val">20</tspan> (12 uniq)</text>
+            </g>
+        </g>
+        
+</svg>

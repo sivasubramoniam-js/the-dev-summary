@@ -54,4 +54,12 @@ Simply visit [The Dev Summary](https://sivasubramoniam-js.github.io/the-dev-summ
 Bookmark the site or install the PWA to make **The Dev Summary** part of your morning routine.
 
 ---
+
+## 📊 Live Traffic & Repository Insights
+
+[![Repository Traffic Trends](traffic.svg)](https://sivasubramoniam-js.github.io/the-dev-summary/traffic.html)
+
+> 💡 *Hover over the data points above to view daily views and clone counts. Click the chart to open the [Live Interactive Analytics Dashboard](https://sivasubramoniam-js.github.io/the-dev-summary/traffic.html).*
+
+---
 *Built for the community with ❤️ by [Sivasubramoniam J S](https://github.com/sivasubramoniam-js).*
