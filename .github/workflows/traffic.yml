@@ -11,8 +11,15 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout repository
+      - name: Fast Checkout (sparse shallow clone)
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          sparse-checkout: |
+            track_traffic.py
+            traffic.csv
+            traffic.svg
+          sparse-checkout-cone-mode: false
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,7 +33,7 @@ jobs:
 
       - name: Fetch and Record Traffic Insights
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TRAFFIC_TOKEN || secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: python track_traffic.py
 
