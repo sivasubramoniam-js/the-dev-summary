@@ -55,6 +55,28 @@ Bookmark the site or install the PWA to make **The Dev Summary** part of your mo
 
 ---
 
+## ☕ Buy me a Filter Coffee
+
+**The Dev Summary** runs entirely on free automation and a dangerous amount of caffeine. If this tool saves you time, consider fueling the dev! 
+
+### ⚡ Scan or Click to Pay via UPI
+
+| 🖥️ Desktop: Scan QR | 📱 Mobile: Tap to Pay |
+| :---: | :---: |
+| <img width="322" height="362" alt="image" src="https://github.com/user-attachments/assets/c2342b54-a84e-4444-8796-818e08260a08" /> | [codewithjss-1@okaxis](codewithjss-1@okaxis) |
+
+#### 💸 Quick Tiers (Auto-fills amount on mobile):
+* [☕ **₹25 (Intern Tier)**](upi://pay?pa=YOUR_UPI_ID@bank&pn=YOUR+LEGAL+NAME&tn=DevSummary%20Fuel&am=25&cu=INR) — Buys a local tapri coffee. Clears your karmic debt for cloning the repo.
+* [☕ **₹50 (Senior Dev Tier)**](upi://pay?pa=YOUR_UPI_ID@bank&pn=YOUR+LEGAL+NAME&tn=DevSummary%20Fuel&am=50&cu=INR) — Upgrades me to a proper Bangalore special. Prevents production bugs.
+* [🚀 **₹Any (10x Architect Tier)**](upi://pay?pa=YOUR_UPI_ID@bank&pn=YOUR+LEGAL+NAME&tn=DevSummary%20Fuel&cu=INR) — Custom payload injection. Optimizes your life.
+
+---
+
+### 🏆 Wall of Fame
+Supported the project? Open a **GitHub Issue** titled `Sponsor: [Your Username]` and I will add your profile avatar right here!
+
+---
+
 ## 📊 Live Traffic & Repository Insights
 
 [![Repository Traffic Trends](traffic.svg)](https://sivasubramoniam-js.github.io/the-dev-summary/traffic.html)
