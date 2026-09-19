@@ -61,9 +61,9 @@ Bookmark the site or install the PWA to make **The Dev Summary** part of your mo
 
 ### ⚡ Scan or Click to Pay via UPI
 
-| 🖥️ Desktop: Scan QR | 📱 Mobile: Tap to Pay |
+| 🖥️ Desktop: Scan QR | 📱 Mobile: Copy the UPI id and pay |
 | :---: | :---: |
-| <img width="322" height="362" alt="image" src="https://github.com/user-attachments/assets/c2342b54-a84e-4444-8796-818e08260a08" /> | [codewithjss-1@okaxis](codewithjss-1@okaxis) |
+| <img width="322" height="362" alt="image" src="https://github.com/user-attachments/assets/c2342b54-a84e-4444-8796-818e08260a08" /> | codewithjss-1@okaxis |
 
 #### 💸 Quick Tiers (Auto-fills amount on mobile):
 * [☕ **₹25 (Intern Tier)**](upi://pay?pa=YOUR_UPI_ID@bank&pn=YOUR+LEGAL+NAME&tn=DevSummary%20Fuel&am=25&cu=INR) — Buys a local tapri coffee. Clears your karmic debt for cloning the repo.
