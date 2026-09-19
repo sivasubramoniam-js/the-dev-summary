@@ -2,6 +2,184 @@
 <html lang="en">
 
 <head>
+    <script>
+        // Language name lookup
+        const LANGUAGE_NAMES = {
+            'af': 'Afrikaans', 'sq': 'Albanian', 'am': 'Amharic', 'ar': 'Arabic', 'hy': 'Armenian', 'az': 'Azerbaijani',
+            'eu': 'Basque', 'be': 'Belarusian', 'bn': 'Bengali', 'bs': 'Bosnian', 'bg': 'Bulgarian', 'ca': 'Catalan',
+            'ceb': 'Cebuano', 'zh-CN': 'Chinese (Simplified)', 'zh-TW': 'Chinese (Traditional)', 'zh': 'Chinese',
+            'co': 'Corsican', 'hr': 'Croatian', 'cs': 'Czech', 'da': 'Danish', 'nl': 'Dutch', 'en': 'English',
+            'eo': 'Esperanto', 'et': 'Estonian', 'fi': 'Finnish', 'fr': 'French', 'fy': 'Frisian', 'gl': 'Galician',
+            'ka': 'Georgian', 'de': 'German', 'el': 'Greek', 'gu': 'Gujarati', 'ht': 'Haitian Creole', 'ha': 'Hausa',
+            'haw': 'Hawaiian', 'he': 'Hebrew', 'hi': 'Hindi', 'hmn': 'Hmong', 'hu': 'Hungarian', 'is': 'Icelandic',
+            'ig': 'Igbo', 'id': 'Indonesian', 'ga': 'Irish', 'it': 'Italian', 'ja': 'Japanese', 'jv': 'Javanese',
+            'kn': 'Kannada', 'kk': 'Kazakh', 'km': 'Khmer', 'rw': 'Kinyarwanda', 'ko': 'Korean', 'ku': 'Kurdish',
+            'ky': 'Kyrgyz', 'lo': 'Lao', 'la': 'Latin', 'lv': 'Latvian', 'lt': 'Lithuanian', 'lb': 'Luxembourgish',
+            'mk': 'Macedonian', 'mg': 'Malagasy', 'ms': 'Malay', 'ml': 'Malayalam', 'mt': 'Maltese', 'mi': 'Maori',
+            'mr': 'Marathi', 'mn': 'Mongolian', 'my': 'Myanmar', 'ne': 'Nepali', 'no': 'Norwegian', 'ny': 'Nyanja',
+            'or': 'Odia', 'ps': 'Pashto', 'fa': 'Persian', 'pl': 'Polish', 'pt': 'Portuguese', 'pa': 'Punjabi',
+            'ro': 'Romanian', 'ru': 'Russian', 'sm': 'Samoan', 'gd': 'Scots Gaelic', 'sr': 'Serbian', 'st': 'Sesotho',
+            'sn': 'Shona', 'sd': 'Sindhi', 'si': 'Sinhala', 'sk': 'Slovak', 'sl': 'Slovenian', 'so': 'Somali',
+            'es': 'Spanish', 'su': 'Sundanese', 'sw': 'Swahili', 'sv': 'Swedish', 'tl': 'Tagalog', 'tg': 'Tajik',
+            'ta': 'Tamil', 'tt': 'Tatar', 'te': 'Telugu', 'th': 'Thai', 'tr': 'Turkish', 'tk': 'Turkmen',
+            'uk': 'Ukrainian', 'ur': 'Urdu', 'ug': 'Uyghur', 'uz': 'Uzbek', 'vi': 'Vietnamese', 'cy': 'Welsh',
+            'xh': 'Xhosa', 'yi': 'Yiddish', 'yo': 'Yoruba', 'zu': 'Zulu'
+        };
+
+        function getLanguageName(code) {
+            if (!code) return 'your language';
+            if (LANGUAGE_NAMES[code]) return LANGUAGE_NAMES[code];
+            try {
+                if (typeof Intl !== 'undefined' && Intl.DisplayNames) {
+                    const dn = new Intl.DisplayNames(['en'], { type: 'language' });
+                    const name = dn.of(code);
+                    if (name) return name;
+                }
+            } catch (e) { }
+            return code.toUpperCase();
+        }
+
+        function getActiveLanguage() {
+            let savedLang = null;
+            try { savedLang = localStorage.getItem('custom_lang'); } catch (e) { }
+            if (!savedLang) {
+                const match = document.cookie.match(/(^|;) ?custom_lang=([^;]*)(;|$)/);
+                if (match) savedLang = match[2];
+            }
+            if (!savedLang) {
+                const googMatch = document.cookie.match(/(^|;) ?googtrans=\/en\/([^;]*)(;|$)/);
+                if (googMatch) savedLang = googMatch[2];
+            }
+            if (!savedLang || savedLang === 'null' || savedLang === 'undefined') savedLang = 'en';
+            return savedLang;
+        }
+
+        function getCachedLanguages() {
+            try {
+                const cached = localStorage.getItem('cached_language_list');
+                if (cached) {
+                    const parsed = JSON.parse(cached);
+                    if (Array.isArray(parsed) && parsed.length > 0) {
+                        return parsed;
+                    }
+                }
+            } catch (e) { }
+
+            // Default fallback using built-in list
+            const list = Object.keys(LANGUAGE_NAMES).map(code => ({
+                code: code,
+                name: LANGUAGE_NAMES[code]
+            })).sort((a, b) => a.name.localeCompare(b.name));
+
+            // Ensure English is at top
+            const enIdx = list.findIndex(l => l.code === 'en');
+            if (enIdx > -1) {
+                const enItem = list.splice(enIdx, 1)[0];
+                list.unshift(enItem);
+            }
+
+            try {
+                localStorage.setItem('cached_language_list', JSON.stringify(list));
+            } catch (e) { }
+
+            return list;
+        }
+
+        function initLanguageDropdown() {
+            const select = document.getElementById('customLanguageSelect');
+            if (!select) return;
+
+            const languages = getCachedLanguages();
+            const activeLang = getActiveLanguage();
+
+            let html = '';
+            let hasActive = false;
+
+            for (const item of languages) {
+                const isSelected = item.code === activeLang ? ' selected' : '';
+                if (item.code === activeLang) hasActive = true;
+                html += `<option value="${item.code}"${isSelected}>${item.name}</option>`;
+            }
+
+            if (!hasActive && activeLang && activeLang !== 'en') {
+                html = `<option value="${activeLang}" selected>${getLanguageName(activeLang)}</option>` + html;
+            }
+
+            select.innerHTML = html;
+            select.value = activeLang;
+
+            if (!select.dataset.bound) {
+                select.dataset.bound = "true";
+                select.addEventListener('change', function (e) {
+                    onCustomLanguageChange(e.target.value);
+                });
+            }
+        }
+
+        function onCustomLanguageChange(newLang) {
+            if (!newLang) return;
+            try { localStorage.setItem('custom_lang', newLang); } catch (e) { }
+            document.cookie = `custom_lang=${newLang}; path=/; max-age=31536000`;
+
+            if (newLang === 'en') {
+                document.cookie = 'googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;';
+                if (location.hostname && location.hostname !== 'localhost') {
+                    document.cookie = `googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; domain=${location.hostname}; path=/;`;
+                }
+                location.reload();
+                return;
+            }
+
+            document.cookie = `googtrans=/en/${newLang}; path=/; max-age=31536000`;
+            if (location.hostname && location.hostname !== 'localhost') {
+                document.cookie = `googtrans=/en/${newLang}; domain=${location.hostname}; path=/; max-age=31536000`;
+            }
+
+            if (typeof window.startTranslationLoading === 'function') {
+                window.startTranslationLoading(newLang);
+            } else {
+                const langName = getLanguageName(newLang);
+                const statusEl = document.getElementById('translationStatusText');
+                if (statusEl) {
+                    statusEl.textContent = 'Preparing today\'s edition in ' + langName + '...';
+                }
+                const overlay = document.getElementById('translationOverlay');
+                if (overlay) {
+                    overlay.style.display = 'flex';
+                    overlay.style.opacity = '1';
+                    overlay.style.pointerEvents = 'auto';
+                }
+                document.documentElement.classList.add('translating-on-load');
+                window.translationRevealed = false;
+                setTimeout(() => {
+                    if (typeof revealTranslatedPage === 'function') revealTranslatedPage();
+                }, 2500);
+            }
+
+            const googSelect = document.querySelector('.goog-te-combo');
+            if (googSelect) {
+                googSelect.value = newLang;
+                googSelect.dispatchEvent(new Event('change'));
+            } else {
+                location.reload();
+            }
+        }
+
+        // Early language check: if a non-English language is chosen, prepare translation overlay
+        (function () {
+            try {
+                let savedLang = getActiveLanguage();
+                if (savedLang && savedLang !== 'en') {
+                    document.documentElement.classList.add('translating-on-load');
+                    window.__targetLangName = getLanguageName(savedLang);
+                    document.cookie = `googtrans=/en/${savedLang}; path=/; max-age=31536000`;
+                    if (location.hostname && location.hostname !== 'localhost') {
+                        document.cookie = `googtrans=/en/${savedLang}; domain=${location.hostname}; path=/; max-age=31536000`;
+                    }
+                }
+            } catch (e) { }
+        })();
+    </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google-site-verification" content="j958zz_-DGpx_t_hM-QWYHELDqZN1ybUzpIWXhNhZ4M" />
@@ -1783,6 +1961,31 @@
             text-transform: uppercase;
         }
 
+        /* Custom Language Select */
+        .custom-lang-select {
+            background-color: transparent;
+            border: none;
+            font-family: inherit;
+            font-size: inherit;
+            font-weight: inherit;
+            color: inherit;
+            cursor: pointer;
+            outline: none;
+            padding: 0;
+            margin: 0;
+            text-transform: uppercase;
+            max-width: 140px;
+        }
+
+        .custom-lang-select option {
+            background-color: var(--bg-page);
+            color: var(--text-main);
+            font-family: var(--font-mono);
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+
         .goog-logo-link {
             display: none !important;
         }
@@ -2199,10 +2402,103 @@
             color: var(--text-muted);
             border: 1px solid #ccc;
         }
+
+        /* Translation Loading Overlay */
+        #translationOverlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background-color: var(--bg-page);
+            z-index: 999999;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 24px;
+            opacity: 1;
+            transition: opacity 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+            pointer-events: all;
+        }
+
+        html.translating-on-load #translationOverlay {
+            display: flex;
+        }
+
+        .translation-loader-box {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            max-width: 440px;
+            padding: 32px 28px;
+            background: var(--bg-page);
+            border: 2px solid var(--border-color);
+            box-shadow: 6px 6px 0px rgba(0, 0, 0, 0.85);
+        }
+
+        .translation-brand {
+            font-family: var(--font-display);
+            font-size: 1.8rem;
+            font-weight: 800;
+            color: var(--border-color);
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: -0.5px;
+            border-bottom: 2px solid var(--border-color);
+            padding-bottom: 6px;
+            width: 100%;
+        }
+
+        .translation-spinner {
+            width: 36px;
+            height: 36px;
+            border: 3px solid rgba(17, 17, 17, 0.15);
+            border-radius: 50%;
+            border-top-color: var(--accent);
+            animation: translationSpin 0.75s linear infinite;
+            margin-bottom: 18px;
+        }
+
+        @keyframes translationSpin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        .translation-status-text {
+            font-family: var(--font-mono);
+            font-size: 0.82rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            color: var(--text-muted);
+            margin-bottom: 16px;
+            font-weight: 600;
+            margin-bottom: 0;
+        }
     </style>
 </head>
 
 <body>
+
+    <!-- Translation Loading Overlay for non-English initial loads (protected from Google Translate via notranslate & translate="no") -->
+    <div id="translationOverlay" class="notranslate" translate="no">
+        <div class="translation-loader-box notranslate" translate="no">
+            <div class="translation-brand notranslate" translate="no">The Dev Summary</div>
+            <div class="translation-spinner notranslate" translate="no"></div>
+            <div class="translation-status-text notranslate" id="translationStatusText" translate="no">Preparing today's
+                edition in your language...</div>
+        </div>
+    </div>
+    <script>
+        (function () {
+            if (window.__targetLangName) {
+                const el = document.getElementById('translationStatusText');
+                if (el) el.textContent = 'Preparing today\'s edition in ' + window.__targetLangName + '...';
+            }
+        })();
+    </script>
 
     <header class="masthead">
         <div class="masthead-meta">
@@ -2219,7 +2515,17 @@
                     title="Take a quick tour">
                     <i class="fas fa-route" style="margin-right: 5px;"></i>QUICK TOUR
                 </span>
-                <span id="google_translate_element"></span>
+                <div id="languageSelectorContainer" class="notranslate" translate="no"
+                    style="display: flex; align-items: center; gap: 6px; font-family: var(--font-mono); font-size: 0.75rem; border: 1px solid var(--border-color); padding: 4px 8px; font-weight: 700;"
+                    title="Select Language">
+                    <i class="fas fa-language" style="color: inherit;" aria-hidden="true"></i>
+                    <select id="customLanguageSelect" class="notranslate custom-lang-select" translate="no"
+                        aria-label="Select Language">
+                        <option value="en">English</option>
+                    </select>
+                </div>
+                <span id="google_translate_element" style="display: none !important;"></span>
+                <script>initLanguageDropdown();</script>
             </div>
         </div>
         <h1>The Dev Summary</h1>
@@ -2267,7 +2573,7 @@
                 position: 'bottom'
             },
             {
-                element: '#google_translate_element',
+                element: '#languageSelectorContainer',
                 title: 'Global Reach',
                 content: 'Read news in your native language. Our system automatically adapts to your preference.',
                 position: 'bottom'
@@ -2562,7 +2868,6 @@
         let currentCategory = '';
         let allNewsData = []; // Store the full list for local filtering
         let currentDisplayedData = []; // Store currently visible news for dialog lookup
-        let isInitialLoad = true; // Flag to prevent scroll on first load
 
         async function initCategoryNav() {
             // Dynamically extract unique categories from the news data
@@ -2584,7 +2889,7 @@
             savedLi.className = `category-item saved-trigger ${currentCategory === 'Saved Items' ? 'active' : ''}`;
             savedLi.textContent = 'Saved Items';
             savedLi.dataset.category = 'Saved Items';
-            savedLi.onclick = () => filterByCategory('Saved Items');
+            savedLi.onclick = () => filterByCategory('Saved Items', true);
             list.appendChild(savedLi);
 
             categories.forEach(cat => {
@@ -2592,12 +2897,12 @@
                 li.className = `category-item ${cat.toLowerCase() === currentCategory.toLowerCase() ? 'active' : ''}`;
                 li.textContent = cat;
                 li.dataset.category = cat;
-                li.onclick = () => filterByCategory(cat);
+                li.onclick = () => filterByCategory(cat, true);
                 list.appendChild(li);
             });
         }
 
-        async function filterByCategory(category) {
+        async function filterByCategory(category, shouldScroll = false) {
             currentCategory = category;
 
             // Update UI
@@ -2606,19 +2911,18 @@
                 el.classList.toggle('active', itemCat.toLowerCase() === category.toLowerCase());
             });
 
-            const container = document.getElementById('news-feed');
-            container.innerHTML = '<div class="loading-text">Filtering...</div>';
-
             let dataToRender = [];
 
             if (category === 'Saved Items') {
                 dataToRender = await db.getAllArticles();
                 if (dataToRender.length === 0) {
+                    const container = document.getElementById('news-feed');
                     container.innerHTML = '<div class="loading-text">No saved articles yet. Bookmark some interesting dispatches!</div>';
+                    container.style.filter = 'none';
+                    container.style.opacity = '1';
                     document.getElementById('marqueeText').textContent = 'Your library is empty.';
                     return;
                 }
-
             } else {
                 dataToRender = allNewsData.filter(item => {
                     let itemCat = item.category || 'Tech';
@@ -2626,16 +2930,8 @@
                     return itemCat.toLowerCase() === category.toLowerCase();
                 });
             }
-            // blur the news feed
-            if (dataToRender && dataToRender.length > 0) {
-                container.style.filter = 'blur(5px)';
-            } else {
-                container.style.filter = '';
-            }
-            // Small timeout to give visual feedback
-            setTimeout(() => {
-                renderNews(dataToRender)
-            }, 100);
+
+            renderNews(dataToRender, shouldScroll);
         }
 
         // --- IndexedDB Utility ---
@@ -2707,7 +3003,7 @@
                 icon.style.color = 'var(--text-muted)';
                 icon.classList.replace('fas', 'far');
                 if (currentCategory === 'Saved Items') {
-                    filterByCategory('Saved Items');
+                    filterByCategory('Saved Items', false);
                 }
             } else {
                 await db.saveArticle(newsItem);
@@ -2717,7 +3013,6 @@
         }
 
         // Fetch and render news
-        // Fetch and render news
         const BASE_RAW_URL = 'https://raw.githubusercontent.com/sivasubramoniam-js/the-dev-summary/main/';
         let currentFeedUrl = 'news.json';
 
@@ -2726,7 +3021,10 @@
 
         async function initArchive() {
             const picker = document.getElementById('archiveDatePicker');
-            if (!picker) return;
+            if (!picker) {
+                fetchNews();
+                return;
+            }
             try {
                 const response = await fetch(BASE_RAW_URL + 'feeds/index.json');
                 if (!response.ok) throw new Error('Index not found');
@@ -2738,6 +3036,7 @@
                     Jul: '07', Aug: '08', Sep: '09', Oct: '10', Nov: '11', Dec: '12'
                 };
 
+                let initialLoaded = false;
                 archive.forEach((item, index) => {
                     let isoDate = '';
                     if (/^\d{4}-\d{2}-\d{2}$/.test(item.date)) {
@@ -2759,17 +3058,32 @@
                     if (index === 0 && isoDate) {
                         picker.value = isoDate;
                         picker.max = isoDate;
+                        initialLoaded = true;
                         fetchNews(BASE_RAW_URL + 'feeds/' + item.file);
                     }
                 });
 
+                if (!initialLoaded) {
+                    fetchNews(BASE_RAW_URL + 'news.json');
+                }
+
                 picker.addEventListener('change', (e) => {
                     const feedUrl = archiveDateMap[e.target.value];
+                    const container = document.getElementById('news-feed');
                     if (feedUrl) {
-                        fetchNews(feedUrl);
+                        if (container && container.children.length > 0 && !container.querySelector('.loading-text')) {
+                            container.style.transition = 'filter 0.35s ease, opacity 0.35s ease';
+                            container.style.filter = 'blur(15px)';
+                            container.style.opacity = '0.9';
+                        }
+                        fetchNews(feedUrl, true);
                     } else {
-                        document.getElementById('news-feed').innerHTML =
-                            '<div class="loading-text" style="color:var(--accent);">No archive available for this date. Try another day.</div>';
+                        if (container) {
+                            container.style.filter = 'none';
+                            container.style.opacity = '1';
+                            container.innerHTML =
+                                '<div class="loading-text" style="color:var(--accent);">No archive available for this date. Try another day.</div>';
+                        }
                     }
                 });
             } catch (error) {
@@ -2778,9 +3092,17 @@
             }
         }
 
-        async function fetchNews(url = BASE_RAW_URL + 'news.json') {
+        async function fetchNews(url = BASE_RAW_URL + 'news.json', isDateChange = false) {
             const container = document.getElementById('news-feed');
-            container.innerHTML = '<div class="loading-text" style="color:var(--accent);">Opening the archives...</div>';
+
+            // If it's a date change and we already have cards, keep them blurred instead of clearing to loading-text
+            if (isDateChange && container && container.children.length > 0 && !container.querySelector('.loading-text')) {
+                container.style.transition = 'filter 0.35s ease, opacity 0.35s ease';
+                container.style.filter = 'blur(15px)';
+                container.style.opacity = '0.9';
+            } else if (!container.children.length || container.querySelector('.loading-text')) {
+                container.innerHTML = '<div class="loading-text" style="color:var(--accent);">Opening the archives...</div>';
+            }
 
             try {
                 // Accept full URLs (from initArchive) or bare paths (prefix with BASE_RAW_URL)
@@ -2790,11 +3112,11 @@
                 const data = await response.json();
 
                 allNewsData = data;
-                if (url.includes('news.json')) {
-                    initCategoryNav();
-                }
-                filterByCategory(currentCategory || (categories[0] || 'Tech'));
+                initCategoryNav();
+                filterByCategory(currentCategory || (categories[0] || 'Tech'), false);
             } catch (error) {
+                container.style.filter = 'none';
+                container.style.opacity = '1';
                 document.getElementById('news-feed').innerHTML = '<div class="loading-text" style="color:var(--accent);">Error connecting to the printing press. Please try again.</div>';
             }
         }
@@ -2821,16 +3143,31 @@
             </div>`;
         }
 
-        function renderNews(data) {
+        let categoryCardObserver = null;
+        let categoryBlurTimer = null;
+
+        function renderNews(data, shouldScroll = false) {
             currentDisplayedData = data; // Update lookup reference
             const container = document.getElementById('news-feed');
             const marqueeText = document.getElementById('marqueeText');
+            const activeLang = typeof getActiveLanguage === 'function' ? getActiveLanguage() : 'en';
+
+            if (categoryCardObserver) {
+                categoryCardObserver.disconnect();
+                categoryCardObserver = null;
+            }
+            if (categoryBlurTimer) {
+                clearTimeout(categoryBlurTimer);
+                categoryBlurTimer = null;
+            }
 
             container.innerHTML = '';
             marqueeText.innerHTML = '';
 
             if (data.length === 0) {
                 container.innerHTML = '<div class="loading-text">No articles found in this category.</div>';
+                container.style.filter = 'none';
+                container.style.opacity = '1';
                 return;
             }
 
@@ -2916,13 +3253,13 @@
             });
 
             // Post-render actions
-            if (!isInitialLoad) {
+            if (shouldScroll) {
                 const categoryNav = document.querySelector('.category-nav');
-                const targetTop = categoryNav.getBoundingClientRect().top + window.scrollY - 10;
-                window.scrollTo({ top: targetTop, behavior: 'smooth' });
+                if (categoryNav) {
+                    const targetTop = categoryNav.getBoundingClientRect().top + window.scrollY - 10;
+                    window.scrollTo({ top: targetTop, behavior: 'smooth' });
+                }
             }
-            container.style.filter = '';
-            isInitialLoad = false;
 
             // marquee scrolling time calculation
             const marqueeContent = document.querySelector('.marquee-content');
@@ -2932,26 +3269,229 @@
                 const marqueeTime = totalScrollWidth / pixelsPerSecond;
                 marqueeContent.style.animationDuration = marqueeTime + 's';
             }
+
+            // Keep articles visible in English with a subtle blur while translation is in progress
+            if (activeLang !== 'en') {
+                container.style.transition = 'filter 0.35s ease, opacity 0.35s ease';
+                container.style.filter = 'blur(15px)';
+                container.style.opacity = '0.9';
+
+                const isCardsTranslated = () => {
+                    return container.querySelector('font') !== null ||
+                        container.querySelector('.goog-text-highlight') !== null;
+                };
+
+                const unblurCards = () => {
+                    container.style.filter = 'none';
+                    container.style.opacity = '1';
+                };
+
+                if (isCardsTranslated()) {
+                    unblurCards();
+                } else {
+                    categoryCardObserver = new MutationObserver(() => {
+                        if (isCardsTranslated()) {
+                            if (categoryCardObserver) {
+                                categoryCardObserver.disconnect();
+                                categoryCardObserver = null;
+                            }
+                            unblurCards();
+                        }
+                    });
+                    categoryCardObserver.observe(container, { childList: true, subtree: true });
+
+                    // Safety fallback: unblur after 1.5s
+                    categoryBlurTimer = setTimeout(() => {
+                        if (categoryCardObserver) {
+                            categoryCardObserver.disconnect();
+                            categoryCardObserver = null;
+                        }
+                        unblurCards();
+                    }, 1500);
+                }
+            } else {
+                container.style.transition = 'filter 0.35s ease, opacity 0.35s ease';
+                container.style.filter = 'none';
+                container.style.opacity = '1';
+            }
+
+            // Check if translation overlay can be released
+            if (typeof checkTranslationComplete === 'function') {
+                checkTranslationComplete();
+            }
         }
 
         // Initialize
         initArchive();
-        fetchNews();
     </script>
 
     <!-- Google Translate API Scripts -->
     <script type="text/javascript">
+        let translationRevealed = false;
+        let translationDebounceTimer = null;
+        let translationSafetyTimer = null;
+        let translationRetryCount = 0;
+        const MAX_TRANSLATION_RETRIES = 3;
+        let translationRetryTimer = null;
+
+        function isPageTranslated() {
+            return document.querySelector('#news-feed font') !== null ||
+                document.querySelector('#news-feed .goog-text-highlight') !== null ||
+                document.querySelector('.masthead font') !== null ||
+                document.querySelector('h1 font') !== null ||
+                document.querySelector('.category-nav font') !== null;
+        }
+
+        function loadGoogleTranslateScript() {
+            const existing = document.getElementById('googleTranslateScript');
+            if (existing) existing.remove();
+
+            const script = document.createElement('script');
+            script.id = 'googleTranslateScript';
+            script.type = 'text/javascript';
+            script.src = 'https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit&_r=' + Date.now();
+            script.onerror = () => {
+                scheduleTranslationRetry('Script load error');
+            };
+            document.body.appendChild(script);
+        }
+
+        function scheduleTranslationRetry(reason) {
+            if (translationRevealed) return;
+            const targetLang = getActiveLanguage();
+            if (!targetLang || targetLang === 'en') return;
+
+            if (translationRetryCount < MAX_TRANSLATION_RETRIES) {
+                translationRetryCount++;
+                console.warn(`[Translation] Attempt ${translationRetryCount}/${MAX_TRANSLATION_RETRIES} retrying (${reason})...`);
+
+                const statusEl = document.getElementById('translationStatusText');
+                if (statusEl) {
+                    const langName = getLanguageName(targetLang);
+                    statusEl.textContent = `Preparing today's edition in ${langName} (retry ${translationRetryCount}/${MAX_TRANSLATION_RETRIES})...`;
+                }
+
+                const select = document.querySelector('.goog-te-combo');
+                if (select) {
+                    select.value = targetLang;
+                    select.dispatchEvent(new Event('change'));
+                } else {
+                    loadGoogleTranslateScript();
+                }
+
+                if (translationRetryTimer) clearTimeout(translationRetryTimer);
+                translationRetryTimer = setTimeout(() => {
+                    if (!isPageTranslated() && !translationRevealed) {
+                        scheduleTranslationRetry('Timeout on retry ' + translationRetryCount);
+                    }
+                }, 2500);
+            } else {
+                console.warn('[Translation] Exceeded max retries on page load. Gracefully revealing page.');
+                revealTranslatedPage();
+            }
+        }
+
+        window.startTranslationLoading = function (newLang) {
+            translationRevealed = false;
+            translationRetryCount = 0;
+            if (translationRetryTimer) clearTimeout(translationRetryTimer);
+            document.documentElement.classList.add('translating-on-load');
+            const overlay = document.getElementById('translationOverlay');
+            if (overlay) {
+                overlay.style.display = 'flex';
+                overlay.style.opacity = '1';
+                overlay.style.pointerEvents = 'auto';
+            }
+            const langName = getLanguageName(newLang);
+            const statusEl = document.getElementById('translationStatusText');
+            if (statusEl) {
+                statusEl.textContent = 'Preparing today\'s edition in ' + langName + '...';
+            }
+
+            if (translationDebounceTimer) clearTimeout(translationDebounceTimer);
+            if (translationSafetyTimer) clearTimeout(translationSafetyTimer);
+
+            // Re-check translation or auto reveal after reasonable delay
+            translationDebounceTimer = setTimeout(() => {
+                revealTranslatedPage();
+            }, 1000);
+
+            translationSafetyTimer = setTimeout(() => {
+                revealTranslatedPage();
+            }, 2500);
+        };
+
+        function revealTranslatedPage() {
+            if (translationRevealed) return;
+            translationRevealed = true;
+            if (translationDebounceTimer) clearTimeout(translationDebounceTimer);
+            if (translationSafetyTimer) clearTimeout(translationSafetyTimer);
+            if (translationRetryTimer) clearTimeout(translationRetryTimer);
+            const overlay = document.getElementById('translationOverlay');
+            if (overlay) {
+                overlay.style.opacity = '0';
+                overlay.style.pointerEvents = 'none';
+                setTimeout(() => {
+                    document.documentElement.classList.remove('translating-on-load');
+                    overlay.style.display = 'none';
+                }, 400);
+            } else {
+                document.documentElement.classList.remove('translating-on-load');
+            }
+        }
+
+        function checkTranslationComplete() {
+            if (translationRevealed) return;
+            if (!document.documentElement.classList.contains('translating-on-load')) return;
+
+            const newsCards = document.querySelectorAll('#news-feed .news-card');
+            const hasNewsCards = newsCards.length > 0;
+
+            // Check if news cards have translated fonts/highlights inside them
+            const hasTranslatedCards = document.querySelector('#news-feed font') !== null ||
+                document.querySelector('#news-feed .goog-text-highlight') !== null;
+
+            // Check if masthead or category nav elements have been translated
+            const hasTranslatedMasthead = document.querySelector('.masthead font') !== null ||
+                document.querySelector('h1 font') !== null ||
+                document.querySelector('.category-nav font') !== null;
+
+            if (hasNewsCards && hasTranslatedCards) {
+                // News cards are rendered AND translated
+                clearTimeout(translationDebounceTimer);
+                translationDebounceTimer = setTimeout(() => {
+                    revealTranslatedPage();
+                }, 350);
+            } else if (hasNewsCards && hasTranslatedMasthead) {
+                // Header is translated and cards are rendered; give a short buffer for the card batch to settle
+                clearTimeout(translationDebounceTimer);
+                translationDebounceTimer = setTimeout(() => {
+                    revealTranslatedPage();
+                }, 600);
+            }
+        }
+
+        // Safety retry watcher on initial page load
+        if (document.documentElement.classList.contains('translating-on-load')) {
+            translationRetryTimer = setTimeout(() => {
+                if (!isPageTranslated() && !translationRevealed) {
+                    scheduleTranslationRetry('Initial page load check');
+                }
+            }, 2500);
+        }
+
         function googleTranslateElementInit() {
-            // Force Google API to load the preferred language natively by injecting its expected cookie
             let savedLang = null;
             try { savedLang = localStorage.getItem('custom_lang'); } catch (e) { }
             if (!savedLang) {
                 const match = document.cookie.match(/(^|;) ?custom_lang=([^;]*)(;|$)/);
                 if (match) savedLang = match[2];
             }
-            if (savedLang) {
-                document.cookie = `googtrans=/en/${savedLang}; path=/`;
-                document.cookie = `googtrans=/en/${savedLang}; domain=${location.hostname}; path=/`;
+            if (savedLang && savedLang !== 'en') {
+                document.cookie = `googtrans=/en/${savedLang}; path=/; max-age=31536000`;
+                if (location.hostname && location.hostname !== 'localhost') {
+                    document.cookie = `googtrans=/en/${savedLang}; domain=${location.hostname}; path=/; max-age=31536000`;
+                }
             }
 
             new google.translate.TranslateElement({
@@ -2959,43 +3499,77 @@
             }, 'google_translate_element');
         }
 
-        // Add a watcher purely to store new language selections going forward
+        // Add watcher for language selection and translation readiness
         const observer = new MutationObserver(() => {
             const select = document.querySelector('.goog-te-combo');
             if (select && !select.dataset.listenerAdded) {
                 select.dataset.listenerAdded = "true";
 
+                // Cache Google Translate's official language list if options are populated
+                if (select.options && select.options.length > 5) {
+                    const extractedLangs = [];
+                    for (let i = 0; i < select.options.length; i++) {
+                        const opt = select.options[i];
+                        if (opt.value && opt.value !== '') {
+                            extractedLangs.push({
+                                code: opt.value,
+                                name: opt.text || LANGUAGE_NAMES[opt.value] || opt.value
+                            });
+                        }
+                    }
+                    if (extractedLangs.length > 0) {
+                        try {
+                            localStorage.setItem('cached_language_list', JSON.stringify(extractedLangs));
+                            initLanguageDropdown();
+                        } catch (e) { }
+                    }
+                }
+
                 // Because local file:/// paths silently reject cookies, explicitly command the UI to translate
-                let savedLang = null;
-                try { savedLang = localStorage.getItem('custom_lang'); } catch (e) { }
+                let savedLang = getActiveLanguage();
 
-                if (savedLang) {
+                if (savedLang && savedLang !== 'en') {
                     select.value = savedLang;
-                    select.dispatchEvent(new Event('change')); // Force API to translate
+                    select.dispatchEvent(new Event('change'));
 
-                    // Backup execution in case Google script has latency generating the <option> elements
                     setTimeout(() => {
                         if (select.value !== savedLang) {
                             select.value = savedLang;
                             select.dispatchEvent(new Event('change'));
                         }
-                    }, 500);
+                    }, 400);
                 }
 
                 select.addEventListener('change', (e) => {
-                    if (e.target.value) {
-                        try { localStorage.setItem('custom_lang', e.target.value); } catch (err) { }
-                        document.cookie = `custom_lang=${e.target.value}; path=/; max-age=31536000`; // 1 year
-                        document.cookie = `googtrans=/en/${e.target.value}; path=/`; // Explicitly assist Google API
+                    const lang = e.target.value;
+                    if (lang) {
+                        try { localStorage.setItem('custom_lang', lang); } catch (err) { }
+                        document.cookie = `custom_lang=${lang}; path=/; max-age=31536000`;
+                        document.cookie = `googtrans=/en/${lang}; path=/; max-age=31536000`;
+                        if (location.hostname && location.hostname !== 'localhost') {
+                            document.cookie = `googtrans=/en/${lang}; domain=${location.hostname}; path=/; max-age=31536000`;
+                        }
+                        const langName = getLanguageName(lang);
+                        const statusEl = document.getElementById('translationStatusText');
+                        if (statusEl) {
+                            statusEl.textContent = 'Preparing today\'s edition in ' + langName + '...';
+                        }
+                        const customSel = document.getElementById('customLanguageSelect');
+                        if (customSel && customSel.value !== lang) {
+                            customSel.value = lang;
+                        }
                     }
                 });
             }
-        });
-        observer.observe(document.body, { childList: true, subtree: true });
 
+            checkTranslationComplete();
+        });
+        observer.observe(document.documentElement, { attributes: true, attributeFilter: ['class'] });
+        observer.observe(document.body, { childList: true, subtree: true, attributes: true });
     </script>
-    <script type="text/javascript"
-        src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <script id="googleTranslateScript" type="text/javascript"
+        src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
+        onerror="scheduleTranslationRetry('Initial script load error')"></script>
 </body>
 
 </html>
