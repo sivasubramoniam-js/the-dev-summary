@@ -45,7 +45,7 @@
 
     <!-- Header & Live Totals -->
     <text class="header-title" x="65" y="36">📊 Repository Traffic Insights (Last 30 Days)</text>
-    <text class="header-sub" x="65" y="56">Hover over any day for details • Total Views: 340 • Total Clones: 438</text>
+    <text class="header-sub" x="65" y="56">Hover over any day for details • Total Views: 360 • Total Clones: 456</text>
 
     <!-- Legends -->
     <circle cx="675" cy="34" r="5" fill="#58a6ff" />
@@ -59,33 +59,20 @@
 
     <!-- Axis Labels -->
     <text class="axis-text" x="53" y="349.0" text-anchor="end">0</text><text class="axis-text" x="53" y="283.4" text-anchor="end">47</text><text class="axis-text" x="53" y="216.5" text-anchor="end">95</text><text class="axis-text" x="53" y="150.9" text-anchor="end">142</text><text class="axis-text" x="53" y="84.0" text-anchor="end">190</text>
-    <text class="axis-text" x="65.0" y="367" text-anchor="middle">08-24</text><text class="axis-text" x="146.7" y="367" text-anchor="middle">08-27</text><text class="axis-text" x="228.4" y="367" text-anchor="middle">08-30</text><text class="axis-text" x="310.2" y="367" text-anchor="middle">09-02</text><text class="axis-text" x="391.9" y="367" text-anchor="middle">09-05</text><text class="axis-text" x="473.6" y="367" text-anchor="middle">09-08</text><text class="axis-text" x="555.3" y="367" text-anchor="middle">09-11</text><text class="axis-text" x="637.1" y="367" text-anchor="middle">09-14</text><text class="axis-text" x="718.8" y="367" text-anchor="middle">09-17</text><text class="axis-text" x="800.5" y="367" text-anchor="middle">09-20</text><text class="axis-text" x="855.0" y="367" text-anchor="middle">09-22</text>
+    <text class="axis-text" x="65.0" y="367" text-anchor="middle">08-25</text><text class="axis-text" x="146.7" y="367" text-anchor="middle">08-28</text><text class="axis-text" x="228.4" y="367" text-anchor="middle">08-31</text><text class="axis-text" x="310.2" y="367" text-anchor="middle">09-03</text><text class="axis-text" x="391.9" y="367" text-anchor="middle">09-06</text><text class="axis-text" x="473.6" y="367" text-anchor="middle">09-09</text><text class="axis-text" x="555.3" y="367" text-anchor="middle">09-12</text><text class="axis-text" x="637.1" y="367" text-anchor="middle">09-15</text><text class="axis-text" x="718.8" y="367" text-anchor="middle">09-18</text><text class="axis-text" x="800.5" y="367" text-anchor="middle">09-21</text><text class="axis-text" x="855.0" y="367" text-anchor="middle">09-23</text>
 
     <!-- Views Area & Line -->
-    <path class="area-views" d="M 65.0 338.0 L 92.2 343.6 L 119.5 345.0 L 146.7 342.2 L 174.0 333.8 L 201.2 345.0 L 228.4 340.8 L 255.7 315.7 L 282.9 343.6 L 310.2 345.0 L 337.4 339.4 L 364.7 333.8 L 391.9 343.6 L 419.1 345.0 L 446.4 342.2 L 473.6 345.0 L 500.9 294.8 L 528.1 343.6 L 555.3 336.6 L 582.6 345.0 L 609.8 342.2 L 637.1 345.0 L 664.3 345.0 L 691.6 336.6 L 718.8 336.6 L 746.0 329.7 L 773.3 128.8 L 800.5 296.2 L 827.8 318.5 L 855.0 335.2 L 855.0 345 L 65.0 345 Z" />
-    <path class="line-views" d="M 65.0 338.0 L 92.2 343.6 L 119.5 345.0 L 146.7 342.2 L 174.0 333.8 L 201.2 345.0 L 228.4 340.8 L 255.7 315.7 L 282.9 343.6 L 310.2 345.0 L 337.4 339.4 L 364.7 333.8 L 391.9 343.6 L 419.1 345.0 L 446.4 342.2 L 473.6 345.0 L 500.9 294.8 L 528.1 343.6 L 555.3 336.6 L 582.6 345.0 L 609.8 342.2 L 637.1 345.0 L 664.3 345.0 L 691.6 336.6 L 718.8 336.6 L 746.0 329.7 L 773.3 128.8 L 800.5 296.2 L 827.8 318.5 L 855.0 335.2" />
+    <path class="area-views" d="M 65.0 343.6 L 92.2 345.0 L 119.5 342.2 L 146.7 333.8 L 174.0 345.0 L 201.2 340.8 L 228.4 315.7 L 255.7 343.6 L 282.9 345.0 L 310.2 339.4 L 337.4 333.8 L 364.7 343.6 L 391.9 345.0 L 419.1 342.2 L 446.4 345.0 L 473.6 294.8 L 500.9 343.6 L 528.1 336.6 L 555.3 345.0 L 582.6 342.2 L 609.8 345.0 L 637.1 345.0 L 664.3 336.6 L 691.6 336.6 L 718.8 329.7 L 746.0 128.8 L 773.3 296.2 L 800.5 318.5 L 827.8 335.2 L 855.0 310.1 L 855.0 345 L 65.0 345 Z" />
+    <path class="line-views" d="M 65.0 343.6 L 92.2 345.0 L 119.5 342.2 L 146.7 333.8 L 174.0 345.0 L 201.2 340.8 L 228.4 315.7 L 255.7 343.6 L 282.9 345.0 L 310.2 339.4 L 337.4 333.8 L 364.7 343.6 L 391.9 345.0 L 419.1 342.2 L 446.4 345.0 L 473.6 294.8 L 500.9 343.6 L 528.1 336.6 L 555.3 345.0 L 582.6 342.2 L 609.8 345.0 L 637.1 345.0 L 664.3 336.6 L 691.6 336.6 L 718.8 329.7 L 746.0 128.8 L 773.3 296.2 L 800.5 318.5 L 827.8 335.2 L 855.0 310.1" />
 
     <!-- Interactive Data Points & Tooltips -->
     
         <g class="data-group">
             <rect class="hitbox" x="51.4" y="80" width="27.2" height="265" />
             <line class="guideline" x1="65.0" y1="80" x2="65.0" y2="345" />
-            <rect class="bar-clones" x="59.0" y="325.5" width="12" height="19.5" rx="3" />
-            <circle class="dot-views" cx="65.0" cy="338.0" r="4.5" />
-            <g class="tooltip" transform="translate(15.0, 245.5)">
-                <rect class="tt-bg" width="150" height="68" rx="6" />
-                <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-08-24</text>
-                <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">5</tspan> (2 uniq)</text>
-                <text class="tt-clones" x="14" y="55">■ Clones: <tspan class="tt-val">14</tspan> (6 uniq)</text>
-            </g>
-        </g>
-        
-        <g class="data-group">
-            <rect class="hitbox" x="78.6" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="92.2" y1="80" x2="92.2" y2="345" />
-            <rect class="bar-clones" x="86.2" y="318.5" width="12" height="26.5" rx="3" />
-            <circle class="dot-views" cx="92.2" cy="343.6" r="4.5" />
-            <g class="tooltip" transform="translate(17.2, 238.5)">
+            <rect class="bar-clones" x="59.0" y="318.5" width="12" height="26.5" rx="3" />
+            <circle class="dot-views" cx="65.0" cy="343.6" r="4.5" />
+            <g class="tooltip" transform="translate(15.0, 238.5)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-08-25</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">1</tspan> (1 uniq)</text>
@@ -94,11 +81,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="105.9" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="119.5" y1="80" x2="119.5" y2="345" />
-            <rect class="bar-clones" x="113.5" y="335.2" width="12" height="9.8" rx="3" />
-            <circle class="dot-views" cx="119.5" cy="345.0" r="4.5" />
-            <g class="tooltip" transform="translate(44.5, 255.2)">
+            <rect class="hitbox" x="78.6" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="92.2" y1="80" x2="92.2" y2="345" />
+            <rect class="bar-clones" x="86.2" y="335.2" width="12" height="9.8" rx="3" />
+            <circle class="dot-views" cx="92.2" cy="345.0" r="4.5" />
+            <g class="tooltip" transform="translate(17.2, 255.2)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-08-26</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">0</tspan> (0 uniq)</text>
@@ -107,11 +94,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="133.1" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="146.7" y1="80" x2="146.7" y2="345" />
-            <rect class="bar-clones" x="140.7" y="338.0" width="12" height="7.0" rx="3" />
-            <circle class="dot-views" cx="146.7" cy="342.2" r="4.5" />
-            <g class="tooltip" transform="translate(71.7, 258.0)">
+            <rect class="hitbox" x="105.9" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="119.5" y1="80" x2="119.5" y2="345" />
+            <rect class="bar-clones" x="113.5" y="338.0" width="12" height="7.0" rx="3" />
+            <circle class="dot-views" cx="119.5" cy="342.2" r="4.5" />
+            <g class="tooltip" transform="translate(44.5, 258.0)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-08-27</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">2</tspan> (1 uniq)</text>
@@ -120,11 +107,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="160.3" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="174.0" y1="80" x2="174.0" y2="345" />
-            <rect class="bar-clones" x="168.0" y="328.3" width="12" height="16.7" rx="3" />
-            <circle class="dot-views" cx="174.0" cy="333.8" r="4.5" />
-            <g class="tooltip" transform="translate(99.0, 248.3)">
+            <rect class="hitbox" x="133.1" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="146.7" y1="80" x2="146.7" y2="345" />
+            <rect class="bar-clones" x="140.7" y="328.3" width="12" height="16.7" rx="3" />
+            <circle class="dot-views" cx="146.7" cy="333.8" r="4.5" />
+            <g class="tooltip" transform="translate(71.7, 248.3)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-08-28</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">8</tspan> (2 uniq)</text>
@@ -133,11 +120,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="187.6" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="201.2" y1="80" x2="201.2" y2="345" />
-            <rect class="bar-clones" x="195.2" y="326.9" width="12" height="18.1" rx="3" />
-            <circle class="dot-views" cx="201.2" cy="345.0" r="4.5" />
-            <g class="tooltip" transform="translate(126.2, 246.9)">
+            <rect class="hitbox" x="160.3" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="174.0" y1="80" x2="174.0" y2="345" />
+            <rect class="bar-clones" x="168.0" y="326.9" width="12" height="18.1" rx="3" />
+            <circle class="dot-views" cx="174.0" cy="345.0" r="4.5" />
+            <g class="tooltip" transform="translate(99.0, 246.9)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-08-29</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">0</tspan> (0 uniq)</text>
@@ -146,11 +133,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="214.8" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="228.4" y1="80" x2="228.4" y2="345" />
-            <rect class="bar-clones" x="222.4" y="332.4" width="12" height="12.6" rx="3" />
-            <circle class="dot-views" cx="228.4" cy="340.8" r="4.5" />
-            <g class="tooltip" transform="translate(153.4, 252.4)">
+            <rect class="hitbox" x="187.6" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="201.2" y1="80" x2="201.2" y2="345" />
+            <rect class="bar-clones" x="195.2" y="332.4" width="12" height="12.6" rx="3" />
+            <circle class="dot-views" cx="201.2" cy="340.8" r="4.5" />
+            <g class="tooltip" transform="translate(126.2, 252.4)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-08-30</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">3</tspan> (1 uniq)</text>
@@ -159,11 +146,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="242.1" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="255.7" y1="80" x2="255.7" y2="345" />
-            <rect class="bar-clones" x="249.7" y="322.7" width="12" height="22.3" rx="3" />
-            <circle class="dot-views" cx="255.7" cy="315.7" r="4.5" />
-            <g class="tooltip" transform="translate(180.7, 235.7)">
+            <rect class="hitbox" x="214.8" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="228.4" y1="80" x2="228.4" y2="345" />
+            <rect class="bar-clones" x="222.4" y="322.7" width="12" height="22.3" rx="3" />
+            <circle class="dot-views" cx="228.4" cy="315.7" r="4.5" />
+            <g class="tooltip" transform="translate(153.4, 235.7)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-08-31</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">21</tspan> (4 uniq)</text>
@@ -172,11 +159,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="269.3" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="282.9" y1="80" x2="282.9" y2="345" />
-            <rect class="bar-clones" x="276.9" y="333.8" width="12" height="11.2" rx="3" />
-            <circle class="dot-views" cx="282.9" cy="343.6" r="4.5" />
-            <g class="tooltip" transform="translate(207.9, 253.8)">
+            <rect class="hitbox" x="242.1" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="255.7" y1="80" x2="255.7" y2="345" />
+            <rect class="bar-clones" x="249.7" y="333.8" width="12" height="11.2" rx="3" />
+            <circle class="dot-views" cx="255.7" cy="343.6" r="4.5" />
+            <g class="tooltip" transform="translate(180.7, 253.8)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-01</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">1</tspan> (1 uniq)</text>
@@ -185,11 +172,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="296.6" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="310.2" y1="80" x2="310.2" y2="345" />
-            <rect class="bar-clones" x="304.2" y="329.7" width="12" height="15.3" rx="3" />
-            <circle class="dot-views" cx="310.2" cy="345.0" r="4.5" />
-            <g class="tooltip" transform="translate(235.2, 249.7)">
+            <rect class="hitbox" x="269.3" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="282.9" y1="80" x2="282.9" y2="345" />
+            <rect class="bar-clones" x="276.9" y="329.7" width="12" height="15.3" rx="3" />
+            <circle class="dot-views" cx="282.9" cy="345.0" r="4.5" />
+            <g class="tooltip" transform="translate(207.9, 249.7)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-02</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">0</tspan> (0 uniq)</text>
@@ -198,11 +185,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="323.8" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="337.4" y1="80" x2="337.4" y2="345" />
-            <rect class="bar-clones" x="331.4" y="325.5" width="12" height="19.5" rx="3" />
-            <circle class="dot-views" cx="337.4" cy="339.4" r="4.5" />
-            <g class="tooltip" transform="translate(262.4, 245.5)">
+            <rect class="hitbox" x="296.6" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="310.2" y1="80" x2="310.2" y2="345" />
+            <rect class="bar-clones" x="304.2" y="325.5" width="12" height="19.5" rx="3" />
+            <circle class="dot-views" cx="310.2" cy="339.4" r="4.5" />
+            <g class="tooltip" transform="translate(235.2, 245.5)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-03</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">4</tspan> (2 uniq)</text>
@@ -211,11 +198,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="351.0" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="364.7" y1="80" x2="364.7" y2="345" />
-            <rect class="bar-clones" x="358.7" y="336.6" width="12" height="8.4" rx="3" />
-            <circle class="dot-views" cx="364.7" cy="333.8" r="4.5" />
-            <g class="tooltip" transform="translate(289.7, 253.8)">
+            <rect class="hitbox" x="323.8" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="337.4" y1="80" x2="337.4" y2="345" />
+            <rect class="bar-clones" x="331.4" y="336.6" width="12" height="8.4" rx="3" />
+            <circle class="dot-views" cx="337.4" cy="333.8" r="4.5" />
+            <g class="tooltip" transform="translate(262.4, 253.8)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-04</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">8</tspan> (1 uniq)</text>
@@ -224,11 +211,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="378.3" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="391.9" y1="80" x2="391.9" y2="345" />
-            <rect class="bar-clones" x="385.9" y="326.9" width="12" height="18.1" rx="3" />
-            <circle class="dot-views" cx="391.9" cy="343.6" r="4.5" />
-            <g class="tooltip" transform="translate(316.9, 246.9)">
+            <rect class="hitbox" x="351.0" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="364.7" y1="80" x2="364.7" y2="345" />
+            <rect class="bar-clones" x="358.7" y="326.9" width="12" height="18.1" rx="3" />
+            <circle class="dot-views" cx="364.7" cy="343.6" r="4.5" />
+            <g class="tooltip" transform="translate(289.7, 246.9)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-05</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">1</tspan> (1 uniq)</text>
@@ -237,11 +224,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="405.5" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="419.1" y1="80" x2="419.1" y2="345" />
-            <rect class="bar-clones" x="413.1" y="333.8" width="12" height="11.2" rx="3" />
-            <circle class="dot-views" cx="419.1" cy="345.0" r="4.5" />
-            <g class="tooltip" transform="translate(344.1, 253.8)">
+            <rect class="hitbox" x="378.3" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="391.9" y1="80" x2="391.9" y2="345" />
+            <rect class="bar-clones" x="385.9" y="333.8" width="12" height="11.2" rx="3" />
+            <circle class="dot-views" cx="391.9" cy="345.0" r="4.5" />
+            <g class="tooltip" transform="translate(316.9, 253.8)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-06</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">0</tspan> (0 uniq)</text>
@@ -250,11 +237,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="432.8" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="446.4" y1="80" x2="446.4" y2="345" />
-            <rect class="bar-clones" x="440.4" y="329.7" width="12" height="15.3" rx="3" />
-            <circle class="dot-views" cx="446.4" cy="342.2" r="4.5" />
-            <g class="tooltip" transform="translate(371.4, 249.7)">
+            <rect class="hitbox" x="405.5" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="419.1" y1="80" x2="419.1" y2="345" />
+            <rect class="bar-clones" x="413.1" y="329.7" width="12" height="15.3" rx="3" />
+            <circle class="dot-views" cx="419.1" cy="342.2" r="4.5" />
+            <g class="tooltip" transform="translate(344.1, 249.7)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-07</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">2</tspan> (2 uniq)</text>
@@ -263,11 +250,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="460.0" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="473.6" y1="80" x2="473.6" y2="345" />
-            <rect class="bar-clones" x="467.6" y="332.4" width="12" height="12.6" rx="3" />
-            <circle class="dot-views" cx="473.6" cy="345.0" r="4.5" />
-            <g class="tooltip" transform="translate(398.6, 252.4)">
+            <rect class="hitbox" x="432.8" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="446.4" y1="80" x2="446.4" y2="345" />
+            <rect class="bar-clones" x="440.4" y="332.4" width="12" height="12.6" rx="3" />
+            <circle class="dot-views" cx="446.4" cy="345.0" r="4.5" />
+            <g class="tooltip" transform="translate(371.4, 252.4)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-08</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">0</tspan> (0 uniq)</text>
@@ -276,11 +263,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="487.2" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="500.9" y1="80" x2="500.9" y2="345" />
-            <rect class="bar-clones" x="494.9" y="338.0" width="12" height="7.0" rx="3" />
-            <circle class="dot-views" cx="500.9" cy="294.8" r="4.5" />
-            <g class="tooltip" transform="translate(425.9, 214.8)">
+            <rect class="hitbox" x="460.0" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="473.6" y1="80" x2="473.6" y2="345" />
+            <rect class="bar-clones" x="467.6" y="338.0" width="12" height="7.0" rx="3" />
+            <circle class="dot-views" cx="473.6" cy="294.8" r="4.5" />
+            <g class="tooltip" transform="translate(398.6, 214.8)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-09</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">36</tspan> (5 uniq)</text>
@@ -289,11 +276,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="514.5" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="528.1" y1="80" x2="528.1" y2="345" />
-            <rect class="bar-clones" x="522.1" y="338.0" width="12" height="7.0" rx="3" />
-            <circle class="dot-views" cx="528.1" cy="343.6" r="4.5" />
-            <g class="tooltip" transform="translate(453.1, 258.0)">
+            <rect class="hitbox" x="487.2" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="500.9" y1="80" x2="500.9" y2="345" />
+            <rect class="bar-clones" x="494.9" y="338.0" width="12" height="7.0" rx="3" />
+            <circle class="dot-views" cx="500.9" cy="343.6" r="4.5" />
+            <g class="tooltip" transform="translate(425.9, 258.0)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-10</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">1</tspan> (1 uniq)</text>
@@ -302,11 +289,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="541.7" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="555.3" y1="80" x2="555.3" y2="345" />
-            <rect class="bar-clones" x="549.3" y="335.2" width="12" height="9.8" rx="3" />
-            <circle class="dot-views" cx="555.3" cy="336.6" r="4.5" />
-            <g class="tooltip" transform="translate(480.3, 255.2)">
+            <rect class="hitbox" x="514.5" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="528.1" y1="80" x2="528.1" y2="345" />
+            <rect class="bar-clones" x="522.1" y="335.2" width="12" height="9.8" rx="3" />
+            <circle class="dot-views" cx="528.1" cy="336.6" r="4.5" />
+            <g class="tooltip" transform="translate(453.1, 255.2)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-11</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">6</tspan> (2 uniq)</text>
@@ -315,11 +302,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="569.0" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="582.6" y1="80" x2="582.6" y2="345" />
-            <rect class="bar-clones" x="576.6" y="336.6" width="12" height="8.4" rx="3" />
-            <circle class="dot-views" cx="582.6" cy="345.0" r="4.5" />
-            <g class="tooltip" transform="translate(507.6, 256.6)">
+            <rect class="hitbox" x="541.7" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="555.3" y1="80" x2="555.3" y2="345" />
+            <rect class="bar-clones" x="549.3" y="336.6" width="12" height="8.4" rx="3" />
+            <circle class="dot-views" cx="555.3" cy="345.0" r="4.5" />
+            <g class="tooltip" transform="translate(480.3, 256.6)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-12</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">0</tspan> (0 uniq)</text>
@@ -328,11 +315,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="596.2" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="609.8" y1="80" x2="609.8" y2="345" />
-            <rect class="bar-clones" x="603.8" y="324.1" width="12" height="20.9" rx="3" />
-            <circle class="dot-views" cx="609.8" cy="342.2" r="4.5" />
-            <g class="tooltip" transform="translate(534.8, 244.1)">
+            <rect class="hitbox" x="569.0" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="582.6" y1="80" x2="582.6" y2="345" />
+            <rect class="bar-clones" x="576.6" y="324.1" width="12" height="20.9" rx="3" />
+            <circle class="dot-views" cx="582.6" cy="342.2" r="4.5" />
+            <g class="tooltip" transform="translate(507.6, 244.1)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-13</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">2</tspan> (1 uniq)</text>
@@ -341,11 +328,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="623.4" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="637.1" y1="80" x2="637.1" y2="345" />
-            <rect class="bar-clones" x="631.1" y="332.4" width="12" height="12.6" rx="3" />
-            <circle class="dot-views" cx="637.1" cy="345.0" r="4.5" />
-            <g class="tooltip" transform="translate(562.1, 252.4)">
+            <rect class="hitbox" x="596.2" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="609.8" y1="80" x2="609.8" y2="345" />
+            <rect class="bar-clones" x="603.8" y="332.4" width="12" height="12.6" rx="3" />
+            <circle class="dot-views" cx="609.8" cy="345.0" r="4.5" />
+            <g class="tooltip" transform="translate(534.8, 252.4)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-14</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">0</tspan> (0 uniq)</text>
@@ -354,11 +341,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="650.7" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="664.3" y1="80" x2="664.3" y2="345" />
-            <rect class="bar-clones" x="658.3" y="335.2" width="12" height="9.8" rx="3" />
-            <circle class="dot-views" cx="664.3" cy="345.0" r="4.5" />
-            <g class="tooltip" transform="translate(589.3, 255.2)">
+            <rect class="hitbox" x="623.4" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="637.1" y1="80" x2="637.1" y2="345" />
+            <rect class="bar-clones" x="631.1" y="335.2" width="12" height="9.8" rx="3" />
+            <circle class="dot-views" cx="637.1" cy="345.0" r="4.5" />
+            <g class="tooltip" transform="translate(562.1, 255.2)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-15</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">0</tspan> (0 uniq)</text>
@@ -367,11 +354,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="677.9" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="691.6" y1="80" x2="691.6" y2="345" />
-            <rect class="bar-clones" x="685.6" y="317.1" width="12" height="27.9" rx="3" />
-            <circle class="dot-views" cx="691.6" cy="336.6" r="4.5" />
-            <g class="tooltip" transform="translate(616.6, 237.1)">
+            <rect class="hitbox" x="650.7" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="664.3" y1="80" x2="664.3" y2="345" />
+            <rect class="bar-clones" x="658.3" y="317.1" width="12" height="27.9" rx="3" />
+            <circle class="dot-views" cx="664.3" cy="336.6" r="4.5" />
+            <g class="tooltip" transform="translate(589.3, 237.1)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-16</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">6</tspan> (1 uniq)</text>
@@ -380,11 +367,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="705.2" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="718.8" y1="80" x2="718.8" y2="345" />
-            <rect class="bar-clones" x="712.8" y="325.5" width="12" height="19.5" rx="3" />
-            <circle class="dot-views" cx="718.8" cy="336.6" r="4.5" />
-            <g class="tooltip" transform="translate(643.8, 245.5)">
+            <rect class="hitbox" x="677.9" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="691.6" y1="80" x2="691.6" y2="345" />
+            <rect class="bar-clones" x="685.6" y="325.5" width="12" height="19.5" rx="3" />
+            <circle class="dot-views" cx="691.6" cy="336.6" r="4.5" />
+            <g class="tooltip" transform="translate(616.6, 245.5)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-17</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">6</tspan> (1 uniq)</text>
@@ -393,11 +380,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="732.4" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="746.0" y1="80" x2="746.0" y2="345" />
-            <rect class="bar-clones" x="740.0" y="304.6" width="12" height="40.4" rx="3" />
-            <circle class="dot-views" cx="746.0" cy="329.7" r="4.5" />
-            <g class="tooltip" transform="translate(671.0, 224.6)">
+            <rect class="hitbox" x="705.2" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="718.8" y1="80" x2="718.8" y2="345" />
+            <rect class="bar-clones" x="712.8" y="304.6" width="12" height="40.4" rx="3" />
+            <circle class="dot-views" cx="718.8" cy="329.7" r="4.5" />
+            <g class="tooltip" transform="translate(643.8, 224.6)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-18</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">11</tspan> (2 uniq)</text>
@@ -406,11 +393,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="759.7" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="773.3" y1="80" x2="773.3" y2="345" />
-            <rect class="bar-clones" x="767.3" y="202.7" width="12" height="142.3" rx="3" />
-            <circle class="dot-views" cx="773.3" cy="128.8" r="4.5" />
-            <g class="tooltip" transform="translate(698.3, 146.8)">
+            <rect class="hitbox" x="732.4" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="746.0" y1="80" x2="746.0" y2="345" />
+            <rect class="bar-clones" x="740.0" y="202.7" width="12" height="142.3" rx="3" />
+            <circle class="dot-views" cx="746.0" cy="128.8" r="4.5" />
+            <g class="tooltip" transform="translate(671.0, 146.8)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-19</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">155</tspan> (1 uniq)</text>
@@ -419,11 +406,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="786.9" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="800.5" y1="80" x2="800.5" y2="345" />
-            <rect class="bar-clones" x="794.5" y="311.5" width="12" height="33.5" rx="3" />
-            <circle class="dot-views" cx="800.5" cy="296.2" r="4.5" />
-            <g class="tooltip" transform="translate(725.5, 216.2)">
+            <rect class="hitbox" x="759.7" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="773.3" y1="80" x2="773.3" y2="345" />
+            <rect class="bar-clones" x="767.3" y="311.5" width="12" height="33.5" rx="3" />
+            <circle class="dot-views" cx="773.3" cy="296.2" r="4.5" />
+            <g class="tooltip" transform="translate(698.3, 216.2)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-20</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">35</tspan> (2 uniq)</text>
@@ -432,11 +419,11 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="814.1" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="827.8" y1="80" x2="827.8" y2="345" />
-            <rect class="bar-clones" x="821.8" y="329.7" width="12" height="15.3" rx="3" />
-            <circle class="dot-views" cx="827.8" cy="318.5" r="4.5" />
-            <g class="tooltip" transform="translate(735.0, 238.5)">
+            <rect class="hitbox" x="786.9" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="800.5" y1="80" x2="800.5" y2="345" />
+            <rect class="bar-clones" x="794.5" y="329.7" width="12" height="15.3" rx="3" />
+            <circle class="dot-views" cx="800.5" cy="318.5" r="4.5" />
+            <g class="tooltip" transform="translate(725.5, 238.5)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-21</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">19</tspan> (3 uniq)</text>
@@ -445,15 +432,28 @@
         </g>
         
         <g class="data-group">
-            <rect class="hitbox" x="841.4" y="80" width="27.2" height="265" />
-            <line class="guideline" x1="855.0" y1="80" x2="855.0" y2="345" />
-            <rect class="bar-clones" x="849.0" y="332.4" width="12" height="12.6" rx="3" />
-            <circle class="dot-views" cx="855.0" cy="335.2" r="4.5" />
+            <rect class="hitbox" x="814.1" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="827.8" y1="80" x2="827.8" y2="345" />
+            <rect class="bar-clones" x="821.8" y="332.4" width="12" height="12.6" rx="3" />
+            <circle class="dot-views" cx="827.8" cy="335.2" r="4.5" />
             <g class="tooltip" transform="translate(735.0, 252.4)">
                 <rect class="tt-bg" width="150" height="68" rx="6" />
                 <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-22</text>
                 <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">7</tspan> (1 uniq)</text>
                 <text class="tt-clones" x="14" y="55">■ Clones: <tspan class="tt-val">9</tspan> (3 uniq)</text>
+            </g>
+        </g>
+        
+        <g class="data-group">
+            <rect class="hitbox" x="841.4" y="80" width="27.2" height="265" />
+            <line class="guideline" x1="855.0" y1="80" x2="855.0" y2="345" />
+            <rect class="bar-clones" x="849.0" y="300.4" width="12" height="44.6" rx="3" />
+            <circle class="dot-views" cx="855.0" cy="310.1" r="4.5" />
+            <g class="tooltip" transform="translate(735.0, 220.4)">
+                <rect class="tt-bg" width="150" height="68" rx="6" />
+                <text class="tt-title" x="75.0" y="17" text-anchor="middle">2026-09-23</text>
+                <text class="tt-views" x="14" y="37">● Views: <tspan class="tt-val">25</tspan> (4 uniq)</text>
+                <text class="tt-clones" x="14" y="55">■ Clones: <tspan class="tt-val">32</tspan> (16 uniq)</text>
             </g>
         </g>
         
