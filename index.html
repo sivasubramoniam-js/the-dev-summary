@@ -3538,7 +3538,20 @@
 
         // Fetch and render news
         const BASE_RAW_URL = 'https://raw.githubusercontent.com/sivasubramoniam-js/the-dev-summary/main/';
+        const ARCHIVE_RAW_URL = 'https://raw.githubusercontent.com/sivasubramoniam-js/the-dev-summary-archive/main/';
         let currentFeedUrl = 'news.json';
+
+        // Check if an ISO date string (YYYY-MM-DD) is older than 7 days from today
+        function isOlderThan7Days(isoDate) {
+            if (!isoDate) return false;
+            const parts = isoDate.split('-').map(Number);
+            if (parts.length !== 3) return false;
+            const itemDate = new Date(parts[0], parts[1] - 1, parts[2]);
+            const now = new Date();
+            const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+            const diffDays = Math.floor((today.getTime() - itemDate.getTime()) / (1000 * 60 * 60 * 24));
+            return diffDays > 7;
+        }
 
         // Map: 'YYYY-MM-DD' -> full feed URL
         let archiveDateMap = {};
@@ -3550,9 +3563,34 @@
                 return;
             }
             try {
-                const response = await fetch(BASE_RAW_URL + 'feeds/index.json');
-                if (!response.ok) throw new Error('Index not found');
-                const archive = await response.json();
+                // Fetch feed index from main repo and archive repo to ensure all available dates are discovered
+                let archive = [];
+                try {
+                    const response = await fetch(BASE_RAW_URL + 'feeds/index.json');
+                    if (response.ok) {
+                        archive = await response.json();
+                    }
+                } catch (e) {
+                    console.warn('Main index fetch failed:', e);
+                }
+
+                try {
+                    const archiveResponse = await fetch(ARCHIVE_RAW_URL + 'feeds/index.json');
+                    if (archiveResponse.ok) {
+                        const archiveData = await archiveResponse.json();
+                        const existingDates = new Set(archive.map(item => item.date));
+                        archiveData.forEach(item => {
+                            if (!existingDates.has(item.date)) {
+                                archive.push(item);
+                                existingDates.add(item.date);
+                            }
+                        });
+                    }
+                } catch (e) {
+                    console.warn('Archive index fetch failed:', e);
+                }
+
+                if (!archive.length) throw new Error('Index not found');
 
                 // Month abbreviation → zero-padded number
                 const MONTHS = {
@@ -3560,32 +3598,46 @@
                     Jul: '07', Aug: '08', Sep: '09', Oct: '10', Nov: '11', Dec: '12'
                 };
 
-                let initialLoaded = false;
-                archive.forEach((item, index) => {
-                    let isoDate = '';
-                    if (/^\d{4}-\d{2}-\d{2}$/.test(item.date)) {
-                        isoDate = item.date;
-                    } else {
-                        // 'DD-Mon-YYYY' e.g. '20-Aug-2026'
-                        const m = item.date.match(/^(\d{1,2})-([A-Za-z]{3})-(\d{4})$/);
-                        if (m) {
-                            const mm = MONTHS[m[2].charAt(0).toUpperCase() + m[2].slice(1).toLowerCase()];
-                            if (mm) isoDate = `${m[3]}-${mm}-${m[1].padStart(2, '0')}`;
-                        } else {
-                            const parsed = new Date(item.date);
-                            if (!isNaN(parsed)) isoDate = parsed.toISOString().slice(0, 10);
-                        }
+                const parseIsoDate = (dateStr) => {
+                    if (/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) return dateStr;
+                    const m = dateStr.match(/^(\d{1,2})-([A-Za-z]{3})-(\d{4})$/);
+                    if (m) {
+                        const mm = MONTHS[m[2].charAt(0).toUpperCase() + m[2].slice(1).toLowerCase()];
+                        if (mm) return `${m[3]}-${mm}-${m[1].padStart(2, '0')}`;
                     }
+                    const parsed = new Date(dateStr);
+                    if (!isNaN(parsed)) return parsed.toISOString().slice(0, 10);
+                    return '';
+                };
+
+                // Sort descending by date
+                archive.sort((a, b) => {
+                    const dateA = parseIsoDate(a.date);
+                    const dateB = parseIsoDate(b.date);
+                    return dateB.localeCompare(dateA);
+                });
+
+                let initialLoaded = false;
+                let oldestIsoDate = '';
+                archive.forEach((item, index) => {
+                    const isoDate = parseIsoDate(item.date);
                     if (isoDate) {
-                        archiveDateMap[isoDate] = BASE_RAW_URL + 'feeds/' + item.file;
+                        // For news older than 7 days, read the file from the archive repository
+                        const sourceBase = isOlderThan7Days(isoDate) ? ARCHIVE_RAW_URL : BASE_RAW_URL;
+                        archiveDateMap[isoDate] = sourceBase + 'feeds/' + item.file;
+                        oldestIsoDate = isoDate;
                     }
                     if (index === 0 && isoDate) {
                         picker.value = isoDate;
                         picker.max = isoDate;
                         initialLoaded = true;
-                        fetchNews(BASE_RAW_URL + 'feeds/' + item.file);
+                        fetchNews(archiveDateMap[isoDate]);
                     }
                 });
+
+                if (oldestIsoDate) {
+                    picker.min = oldestIsoDate;
+                }
 
                 if (!initialLoaded) {
                     fetchNews(BASE_RAW_URL + 'news.json');
@@ -3631,8 +3683,29 @@
             try {
                 // Accept full URLs (from initArchive) or bare paths (prefix with BASE_RAW_URL)
                 const fullUrl = url.startsWith('http') ? url : BASE_RAW_URL + url;
-                const response = await fetch(fullUrl);
-                if (!response.ok) throw new Error('Network response was not ok');
+                let response = await fetch(fullUrl);
+                if (!response.ok) {
+                    // Fallback across repos if file was recently moved or retained
+                    if (fullUrl.includes(BASE_RAW_URL)) {
+                        const fallbackUrl = fullUrl.replace(BASE_RAW_URL, ARCHIVE_RAW_URL);
+                        const fallbackRes = await fetch(fallbackUrl);
+                        if (fallbackRes.ok) {
+                            response = fallbackRes;
+                        } else {
+                            throw new Error('Network response was not ok');
+                        }
+                    } else if (fullUrl.includes(ARCHIVE_RAW_URL)) {
+                        const fallbackUrl = fullUrl.replace(ARCHIVE_RAW_URL, BASE_RAW_URL);
+                        const fallbackRes = await fetch(fallbackUrl);
+                        if (fallbackRes.ok) {
+                            response = fallbackRes;
+                        } else {
+                            throw new Error('Network response was not ok');
+                        }
+                    } else {
+                        throw new Error('Network response was not ok');
+                    }
+                }
                 const data = await response.json();
 
                 allNewsData = data;
@@ -4108,7 +4181,7 @@
                     alt="Scan QR Code to Make Payment" class="support-qr-img"
                     onerror="this.onerror=null; this.src='https://api.qrserver.com/v1/create-qr-code/?size=280x280&data=https://buymeacoffee.com/sivajs';">
                 <div class="support-qr-caption">Scan QR to make payment 📲</div>
-                
+
                 <div class="upi-id-box">
                     <span class="upi-id-label">UPI ID</span>
                     <code id="upiIdText" class="upi-id-text">codewithjss-1@okaxis</code>
