@@ -1,21 +1,21 @@
 [
   {
-    "title": "Getting started with the Supabase .NET SDK",
-    "link": "https://supabase.com/blog/getting-started-with-the-supabase-dotnet-sdk",
-    "description": "How to set up and use the Supabase C# client in .NET, for ASP.NET Core, Console Apps, Desktop, Unity and Mobile.",
-    "image": "",
-    "datetimestamp": "2026-10-26T07:00:00",
-    "scraped_at": "2026-10-12T10:28:02.165729",
-    "source": "Supabase Blog",
-    "category": "Backend"
-  },
-  {
     "title": "Introducing the unified Supabase .NET SDK",
     "link": "https://supabase.com/blog/introducing-the-unified-supabase-net-sdk",
     "description": "The Supabase .NET libraries move to a single repo, with a unified version number.",
     "image": "",
     "datetimestamp": "2026-10-19T07:00:00",
     "scraped_at": "2026-10-12T10:28:02.165750",
+    "source": "Supabase Blog",
+    "category": "Backend"
+  },
+  {
+    "title": "Getting started with the Supabase .NET SDK",
+    "link": "https://supabase.com/blog/getting-started-with-the-supabase-dotnet-sdk",
+    "description": "How to set up and use the Supabase C# client in .NET, for ASP.NET Core, Console Apps, Desktop, Unity and Mobile.",
+    "image": "",
+    "datetimestamp": "2026-10-26T07:00:00",
+    "scraped_at": "2026-10-12T10:28:02.165729",
     "source": "Supabase Blog",
     "category": "Backend"
   }
