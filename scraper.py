@@ -129,13 +129,10 @@ async def get_link_preview(session, url):
 def slugify(text):
     return re.sub(r'[-\s]+', '-', re.sub(r'[^\w\s-]', '', text.lower())).strip('-')
 
-def get_existing_links_and_latest_timestamp():
-    """Look through the last few days of daily feeds to get existing links and the latest timestamp."""
+def get_existing_links(days=3):
+    """Look through recent daily feeds to get existing links for deduplication."""
     links = set()
-    latest_ts = (datetime.now() - timedelta(days=2)).isoformat()
-    
-    # Check last 3 days of files
-    for i in range(3):
+    for i in range(days):
         date_obj = datetime.now() - timedelta(days=i)
         date_str = date_obj.strftime(DATE_FORMAT)
         year_str = date_obj.strftime("%Y")
@@ -147,15 +144,13 @@ def get_existing_links_and_latest_timestamp():
                 with open(path, 'r', encoding='utf-8') as f:
                     data = json.load(f)
                     for item in data:
-                        if 'link' in item: links.add(item['link'])
-                        if 'datetimestamp' in item:
-                            if item['datetimestamp'] > latest_ts:
-                                latest_ts = item['datetimestamp']
+                        if 'link' in item and item['link']:
+                            links.add(item['link'])
             except:
                 pass
-    return links, latest_ts
+    return links
 
-async def fetch_feed(session, feed, existing_links, latest_timestamp):
+async def fetch_feed(session, feed, existing_links, cutoff_timestamp):
     feed_url = feed.get('feedurl')
     feed_name = feed.get('feedname', 'Unknown Source')
     if not feed_url: return
@@ -168,20 +163,31 @@ async def fetch_feed(session, feed, existing_links, latest_timestamp):
     try:
         parsed = feedparser.parse(content)
         new_items = []
-        for entry in parsed.entries:
-            dt = entry.get('published_parsed')
-            timestamp = datetime(*dt[:6]).isoformat() if dt else datetime.now().isoformat()
+        now_ts = datetime.now().isoformat()
 
-            if timestamp <= latest_timestamp or entry.get('link') in existing_links:
+        for entry in parsed.entries:
+            link = entry.get('link', '')
+            if not link or link in existing_links:
+                continue
+
+            dt = entry.get('published_parsed')
+            timestamp = datetime(*dt[:6]).isoformat() if dt else now_ts
+
+            # Clamp future timestamps to current time
+            if timestamp > now_ts:
+                timestamp = now_ts
+
+            # Skip items older than the freshness window
+            if timestamp < cutoff_timestamp:
                 continue
             
             item = {
                 "title": entry.get('title', ''),
-                "link": entry.get('link', ''),
+                "link": link,
                 "description": entry.get('summary', ''),
                 "image": extract_image_from_entry(entry),
                 "datetimestamp": timestamp,
-                "scraped_at": datetime.now().isoformat(),
+                "scraped_at": now_ts,
                 "source": feed_name,
                 "category": feed.get('category', 'General')
             }
@@ -231,7 +237,8 @@ async def main_async():
         try: os.remove(os.path.join(TEMP_DIR, filename))
         except: pass
 
-    existing_links, latest_timestamp = get_existing_links_and_latest_timestamp()
+    existing_links = get_existing_links(days=3)
+    cutoff_timestamp = (datetime.now() - timedelta(days=2)).isoformat()
     today_obj = datetime.now()
     today_str = today_obj.strftime(DATE_FORMAT)
     year_str = today_obj.strftime("%Y")
@@ -240,10 +247,11 @@ async def main_async():
     today_file = os.path.join(DATA_DIR, year_str, month_str, day_str, f"feed-{today_str}.json")
     os.makedirs(os.path.dirname(today_file), exist_ok=True)
 
-    async with aiohttp.ClientSession() as session:
+    # Use higher max header sizes to accommodate feeds with large headers (e.g. Notion)
+    async with aiohttp.ClientSession(max_line_size=65536, max_field_size=65536) as session:
         # Phase 1: RSS Feeds
         print("--- Phase 1: RSS Feeds ---")
-        await asyncio.gather(*(fetch_feed(session, feed, existing_links, latest_timestamp) for feed in FEEDS))
+        await asyncio.gather(*(fetch_feed(session, feed, existing_links, cutoff_timestamp) for feed in FEEDS))
         
         # Phase 2: Link Previews
         print("--- Phase 2: Link Previews ---")
@@ -276,7 +284,7 @@ async def main_async():
     
     with open(today_file, 'w', encoding='utf-8') as f:
         json.dump(today_data, f, indent=2)
-    print(f"Updated {today_file} with {added_count} new items.")
+    print(f"Updated {today_file} with {added_count} new items (total: {len(today_data)}).")
 
     # Phase 4: Update Index and news.json
     print("--- Phase 4: Updating Index and news.json ---")
@@ -305,20 +313,28 @@ async def main_async():
     with open(INDEX_FILE, 'w', encoding='utf-8') as f:
         json.dump(index_data, f, indent=2)
 
-    # Update news.json (shuffled version of today's feed for the main page)
-    # If today is empty, use the most recent available file
-    latest_feed_data = today_data
+    # Determine latest feed data for news.json
+    latest_feed_data = list(today_data)
     if not latest_feed_data and index_data:
-        try:
-            with open(os.path.join(DATA_DIR, index_data[0]['file']), 'r', encoding='utf-8') as f:
-                latest_feed_data = json.load(f)
-        except: pass
+        # Search backwards for the most recent NON-EMPTY feed file
+        for entry in index_data:
+            candidate_path = os.path.join(DATA_DIR, entry['file'])
+            try:
+                with open(candidate_path, 'r', encoding='utf-8') as f:
+                    candidate_data = json.load(f)
+                    if candidate_data:
+                        latest_feed_data = candidate_data
+                        break
+            except:
+                pass
 
-    # For news.json, we still shuffle or just keep it sorted? 
-    # Let's keep it sorted for reliability but shuffle as requested in previous logic
-    random.shuffle(latest_feed_data)
-    with open('news.json', 'w', encoding='utf-8') as f:
-        json.dump(latest_feed_data, f, indent=2)
+    if latest_feed_data:
+        shuffled_feed = list(latest_feed_data)
+        random.shuffle(shuffled_feed)
+        with open('news.json', 'w', encoding='utf-8') as f:
+            json.dump(shuffled_feed, f, indent=2)
+    else:
+        print("Warning: No non-empty feed data found; keeping existing news.json.")
 
     # Phase 5: SEO Updates
     print("--- Phase 5: SEO Updates ---")
@@ -326,7 +342,8 @@ async def main_async():
     iso_date = datetime.now().strftime("%Y-%m-%d")
     index_files = ['index.html', 'v1/index.html']
     
-    top_10 = [item for item in today_data if item.get('title')][:10]
+    feed_for_seo = today_data if today_data else latest_feed_data
+    top_10 = [item for item in feed_for_seo if item.get('title')][:10]
     schema_items = []
     for i, item in enumerate(top_10):
         img = item['image'] if item.get('image') and item['image'].startswith('http') else "https://sivasubramoniam-js.github.io/the-dev-summary/logo.png"
@@ -343,8 +360,6 @@ async def main_async():
                 "publisher": {"@id": "https://sivasubramoniam-js.github.io/the-dev-summary/#organization"}
             }
         })
-    
-    items_json = json.dumps(schema_items, indent=12)
 
     for index_path in index_files:
         if os.path.exists(index_path):
@@ -354,12 +369,22 @@ async def main_async():
             content = re.sub(r'<title>.*?</title>', lambda m: f'<title>The Dev Summary | Tech News - {current_date_str}</title>', content)
             content = re.sub(r'<meta property="og:title" content=".*?">', lambda m: f'<meta property="og:title" content="The Dev Summary | News for {current_date_str}">', content)
             content = re.sub(r'<meta property="twitter:title" content=".*?">', lambda m: f'<meta property="twitter:title" content="The Dev Summary | News for {current_date_str}">', content)
-            content = re.sub(
-                r'("name":\s*"Top Tech Stories Today",\s*"itemListElement":\s*\[).*?(\])',
-                lambda m: f'{m.group(1)}\n{items_json}\n{m.group(2)}',
-                content,
-                flags=re.DOTALL
-            )
+            
+            # Robust JSON-LD update using json parser to prevent malformed syntax
+            blocks = list(re.finditer(r'<script type="application/ld\+json">(.*?)</script>', content, re.DOTALL))
+            for b_match in blocks:
+                if '"@graph"' in b_match.group(1):
+                    try:
+                        data = json.loads(b_match.group(1))
+                        for node in data.get('@graph', []):
+                            if node.get('@type') == 'ItemList' and node.get('name') == 'Top Tech Stories Today':
+                                node['itemListElement'] = schema_items
+                        new_json_str = '\n' + json.dumps(data, indent=4) + '\n    '
+                        content = content[:b_match.start(1)] + new_json_str + content[b_match.end(1):]
+                        break
+                    except Exception as e:
+                        print(f"Error updating JSON-LD in {index_path}: {e}")
+
             with open(index_path, 'w', encoding='utf-8') as f:
                 f.write(content)
 
